@@ -22,8 +22,8 @@ declare global {
 declare namespace VinextRouteTypes {
   type PageRoute = never;
   type LayoutRoute = "/";
-  type RouteHandlerRoute = "/" | "/api/listens" | "/api/music-cover/[key]" | "/api/music/[key]" | "/blog" | "/blog/[slug]" | "/events" | "/mcp" | "/robots.txt" | "/sitemap.xml";
-  type AppRoute = "/" | "/api/listens" | "/api/music-cover/[key]" | "/api/music/[key]" | "/blog" | "/blog/[slug]" | "/events" | "/mcp" | "/robots.txt" | "/sitemap.xml";
+  type RouteHandlerRoute = "/" | "/api/listens" | "/api/music-cover/[key]" | "/api/music/[key]" | "/blog" | "/blog/[slug]" | "/events" | "/events/flyer/[filename]" | "/mcp" | "/robots.txt" | "/sitemap.xml";
+  type AppRoute = "/" | "/api/listens" | "/api/music-cover/[key]" | "/api/music/[key]" | "/blog" | "/blog/[slug]" | "/events" | "/events/flyer/[filename]" | "/mcp" | "/robots.txt" | "/sitemap.xml";
 
   interface ParamMap {
     "/": {};
@@ -33,6 +33,7 @@ declare namespace VinextRouteTypes {
     "/blog": {};
     "/blog/[slug]": { slug: string; };
     "/events": {};
+    "/events/flyer/[filename]": { filename: string; };
     "/mcp": {};
     "/robots.txt": {};
     "/sitemap.xml": {};

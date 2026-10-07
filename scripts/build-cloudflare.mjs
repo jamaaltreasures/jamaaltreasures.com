@@ -17,3 +17,8 @@ for (const args of [['prepare-public.mjs'], ['scripts/run-framework.mjs', 'build
   if (result.error) throw result.error;
   if (result.status) process.exit(result.status);
 }
+if (env.WORKERS_CI === '1') {
+  const result = spawnSync(process.execPath, ['scripts/sync-event-flyers.mjs'], { env, stdio: 'inherit' });
+  if (result.error) throw result.error;
+  if (result.status) process.exit(result.status);
+}
