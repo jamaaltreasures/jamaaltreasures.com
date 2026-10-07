@@ -1,0 +1,51 @@
+{
+  "service_prices": [
+    [
+      "Music Videos",
+      "$650."
+    ],
+    [
+      "AI UGC Ad",
+      "$300."
+    ],
+    [
+      "Brand Spot",
+      "$500."
+    ],
+    [
+      "Brand Film",
+      "$750."
+    ],
+    [
+      "Signature Film",
+      "$2,500."
+    ],
+    [
+      "Landing Page",
+      "$400."
+    ],
+    [
+      "Business Website",
+      "$900."
+    ],
+    [
+      "Brand Identity Pack",
+      "$600."
+    ],
+    [
+      "Shoot Session",
+      "$350."
+    ],
+    [
+      "Meta Ads Management",
+      "$1,500 per month."
+    ]
+  ],
+  "music_selection": "Music Videos ($650)",
+  "portfolio": 25,
+  "full_video_buttons": 25,
+  "photo": "User supplied Jamaal portrait, unchanged proportions",
+  "community_url": "https://whop.com/treasure-chest-bc09/the-treasure-chest-membership-76",
+  "community_verification": "Public HTTP 200; title The Treasure Chest Membership; $49 / month; Join now. Existing enrollment/readiness settings unchanged.",
+  "unrelated_prices_preserved": true
+}

@@ -1,0 +1,44 @@
+{
+  "source": "/Users/cjmitchell/Documents/THE REALM FINAL.mov",
+  "source_bytes": 1141051448,
+  "source_sha256": "50b9a62596b165da4101f91daff04d10b8ca0a5ffe3618eca777cdf57c9cdd2f",
+  "source_duration_seconds": 293.45,
+  "source_dimensions": [
+    1920,
+    1080
+  ],
+  "source_fps": 60,
+  "approved_by": "User explicitly selected THE REALM FINAL .MOV as headline video",
+  "audio": "Original AAC copied without re-encoding",
+  "video": "Full duration H.264 HLS, 1080p60 and 720p60; no edit or timeline changes",
+  "poster": "Frame at 120 seconds from selected final movie",
+  "library": {
+    "name": "hls.js",
+    "version": "1.7.3",
+    "license": "Apache-2.0",
+    "source": "https://github.com/video-dev/hls.js"
+  },
+  "native_player": "Safari native HLS; HLS.js for MSE browsers; stream loads only on play",
+  "variants": [
+    {
+      "resolution": "720",
+      "duration": 293.45,
+      "segments": 74,
+      "codec": "avc1.640020",
+      "bytes": 67516902,
+      "peak_bps": 3215740,
+      "average_bps": 1840637
+    },
+    {
+      "resolution": "1080",
+      "duration": 293.45,
+      "segments": 74,
+      "codec": "avc1.64002a",
+      "bytes": 190483252,
+      "peak_bps": 8229574,
+      "average_bps": 5192932
+    }
+  ],
+  "total_delivery_bytes": 258008629,
+  "hosting_size_adjustment": "720p CRF24 max2500kbps; unchanged 1080p rendition. Both complete cut and original AAC audio."
+}

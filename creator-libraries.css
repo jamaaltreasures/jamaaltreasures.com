@@ -1,0 +1,266 @@
+/* The Mind’s Eye: visible creator libraries, built on the existing media surfaces. */
+.creator-libraries-page{--creator-ink:#f5eef9;--creator-secondary:#e1d3e8;--creator-line:#e7ceff2c;color:var(--creator-ink)}
+.creator-libraries-page :is(.creator-library,.creator-panel,.creator-library-heading,.creator-music-surface,.podcast-library-surface,.creator-artists){min-width:0}
+.creator-libraries-page .creator-library{margin-top:72px;scroll-margin-top:125px}
+.creator-libraries-page .creator-library:first-of-type{margin-top:0}
+.creator-libraries-page :is(p,button,input,label,small,.creator-credit){font-size:18px}
+.creator-libraries-page p{line-height:1.75}
+.creator-libraries-page :is(a,button,input):focus-visible{outline:2px solid #f5d8ff;outline-offset:5px}
+.creator-libraries-page .creator-panel{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:44px;padding:28px;border:1px solid var(--creator-line);border-radius:32px;background:linear-gradient(130deg,#2b14232b,#16101b24 70%);box-shadow:inset 0 1px 0 #ffffff12,0 12px 35px #00000010;isolation:isolate;overflow:hidden;align-items:center}
+.creator-libraries-page :is(.creator-portrait-wrap,.creator-podcast-art){position:relative;min-width:0;align-self:stretch;min-height:360px}
+.creator-libraries-page .creator-portrait-wrap{border-radius:24px;overflow:hidden;background:#170d1b}
+.creator-libraries-page .creator-portrait{display:block;width:100%;height:100%;object-fit:cover;object-position:center 32%;border-radius:24px;aspect-ratio:1/1;min-height:0}
+.creator-libraries-page .creator-portrait-wrap>.creator-portrait{position:absolute;inset:0}
+.creator-libraries-page .creator-image-caption{position:absolute;bottom:0;left:0;right:0;padding:52px 20px 20px;font-size:18px;line-height:1.5;background:linear-gradient(transparent,#100815de);color:white;pointer-events:none}
+.creator-libraries-page .creator-introduction{padding:10px 8px 10px 0;min-width:0}
+.creator-libraries-page .creator-introduction>.eyebrow{letter-spacing:.055em;line-height:1.55;color:#ebcfef;margin-bottom:18px}
+.creator-libraries-page .creator-introduction h2{font-size:clamp(30px,3.5vw,48px);line-height:1.12;letter-spacing:-.04em;margin:0 0 24px;overflow-wrap:anywhere}
+.creator-libraries-page .creator-introduction h2 em{font-family:'Instrument Serif',serif;font-weight:400;color:#ecd0fb;font-size:1.12em}
+.creator-libraries-page .creator-introduction h2 a{color:inherit;text-decoration:none}
+.creator-libraries-page .creator-introduction h2 a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:7px}
+.creator-libraries-page .creator-introduction>p:not(.eyebrow){color:var(--creator-secondary);font-weight:450;max-width:54ch;margin-bottom:18px}
+.creator-libraries-page .creator-introduction .creator-invitation{color:#f1e4f5}
+.creator-libraries-page .creator-introduction>p a{color:inherit;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}
+.creator-libraries-page .button{min-height:54px;padding:12px 20px;gap:12px;white-space:normal;line-height:1.4;font-weight:550;max-width:100%}
+.creator-libraries-page .creator-introduction>.button{margin-top:8px}
+.creator-libraries-page .creator-library-heading{display:flex;justify-content:space-between;align-items:end;gap:32px;margin:32px 2px 22px;scroll-margin-top:125px}
+.creator-libraries-page .creator-library-heading h3{font-size:clamp(24px,2.6vw,31px);line-height:1.25;font-weight:550;letter-spacing:-.035em;margin:0 0 10px}
+.creator-libraries-page .creator-library-heading p{color:var(--creator-secondary);max-width:54ch;margin:0;font-weight:450}
+.creator-libraries-page .creator-search{display:flex;flex-direction:column;gap:9px;min-width:230px;width:min(100%,320px);font-size:18px;flex:none;line-height:1.5;font-weight:500}
+.creator-libraries-page .creator-search input{width:100%;min-width:0;min-height:52px;border:1px solid #e2c9f04a;border-radius:17px;padding:12px 16px;background:#140b2052;color:#fff;font-family:inherit;line-height:1.5}
+.creator-libraries-page .creator-search input::placeholder{color:#d5c2df;opacity:1}
+.creator-libraries-page .creator-film-carousel{gap:22px;margin-inline:-4px;padding:4px 4px 18px;scroll-padding-inline:4px;scrollbar-width:thin;scrollbar-color:#e5c5f769 #ffffff0a;touch-action:pan-x pan-y pinch-zoom;overscroll-behavior-x:contain}
+.creator-libraries-page .creator-film-card{flex:0 0 min(390px,76%);scroll-snap-align:start;background:#190e2633;border:1px solid var(--creator-line);border-radius:28px;overflow:hidden;display:flex;flex-direction:column;box-shadow:inset 0 1px 0 #ffffff0a}
+.creator-libraries-page .creator-film-poster{padding:0;border:0;background:#130b1b;width:100%;display:block;position:relative;cursor:pointer;color:white;border-radius:26px 26px 0 0;overflow:hidden;isolation:isolate}
+.creator-libraries-page .creator-film-poster>img{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;display:block;transition:transform .3s ease}
+.creator-libraries-page .creator-film-poster::after{content:'';position:absolute;inset:0;background:linear-gradient(transparent 40%,#08050c50);pointer-events:none}
+.creator-libraries-page .creator-play-mark{position:absolute;bottom:16px;left:16px;display:grid;place-items:center;width:52px;height:52px;border-radius:50%;background:#190e225c;border:1px solid #ffffff79;backdrop-filter:blur(2px);-webkit-backdrop-filter:blur(2px);z-index:1;box-shadow:inset 0 1px 0 #ffffff28}
+.creator-libraries-page .creator-play-mark .ph-icon{width:26px;height:26px}
+.creator-libraries-page .creator-film-poster:hover>img{transform:scale(1.025)}
+.creator-libraries-page .creator-film-copy{padding:23px 24px 24px;display:flex;flex-direction:column;flex:1;gap:14px;min-width:0}
+.creator-libraries-page .creator-film-copy .creator-credit{color:#ddc7ea;font-size:18px;line-height:1.5;margin:0;font-weight:500}
+.creator-libraries-page .creator-film-copy h3{font-size:25px;line-height:1.25;font-weight:600;letter-spacing:-.035em;min-height:0;margin:0;overflow-wrap:anywhere}
+.creator-libraries-page .creator-film-copy>p:not(.creator-credit){color:var(--creator-secondary);font-size:18px;line-height:1.7;margin:0;min-height:0}
+.creator-libraries-page .creator-film-copy>.button{margin-top:auto;align-self:start;justify-content:space-between;width:100%}
+.creator-libraries-page .creator-library-navigation{display:flex;justify-content:center;align-items:center;gap:22px;margin:18px 0 0;min-width:0}
+.creator-libraries-page .creator-library-navigation>span{font-size:18px;line-height:1.5;color:#e5d1ee;text-align:center;min-width:65px;font-variant-numeric:tabular-nums}
+.creator-libraries-page .creator-arrow{display:grid;place-items:center;width:58px;min-width:58px;height:58px;padding:0;border-radius:50%;border:1px solid #ebd5ff49;background:#ffffff0b;color:white;cursor:pointer}
+.creator-libraries-page .creator-arrow .ph-icon{width:28px;height:28px}
+.creator-libraries-page .creator-arrow:disabled{opacity:.35;cursor:default}
+.creator-libraries-page .breathwork-card{margin-top:68px;background:#1a102333;border:1px solid var(--creator-line);backdrop-filter:none;-webkit-backdrop-filter:none;box-shadow:inset 0 1px 0 #ffffff12}
+.creator-libraries-page .creator-podcast-art{padding-bottom:48px;min-height:380px;isolation:isolate}
+.creator-libraries-page .creator-podcast-art>.creator-portrait{object-position:center 30%;height:calc(100% - 45px);position:absolute;top:0;left:0;aspect-ratio:auto}
+.creator-libraries-page .creator-podcast-art>.creator-show-art{width:43%;max-width:180px;height:auto;aspect-ratio:1;position:absolute;right:-8px;bottom:0;z-index:2;border-radius:20px;border:2px solid #e8d2ed6b;box-shadow:0 15px 30px #0005;object-fit:cover}
+.creator-libraries-page .creator-podcast-art>.creator-image-caption{bottom:45px;border-radius:0 0 24px 24px;padding-right:45%}
+.creator-libraries-page .podcast-library-surface{padding:0 26px 26px;margin-top:25px;border:1px solid var(--creator-line);border-radius:28px;background:#160d2424}
+.creator-libraries-page .creator-autoplay-row{display:flex;justify-content:space-between;align-items:center;gap:24px;flex-wrap:wrap;padding:16px 0 22px;border-bottom:1px solid var(--creator-line)}
+.creator-libraries-page .creator-autoplay{display:flex;align-items:center;gap:13px;font-size:18px;line-height:1.5;font-weight:550;cursor:pointer}
+.creator-libraries-page .creator-autoplay input{appearance:auto;-webkit-appearance:checkbox;width:23px;min-width:23px;height:23px;accent-color:#e9c6fb;margin:0}
+.creator-libraries-page .creator-autoplay-row>p{font-size:18px;line-height:1.6;color:var(--creator-secondary);margin:0}
+.creator-libraries-page .creator-episode-list{list-style:none;padding:0;margin:0}
+.creator-libraries-page .creator-episode-list>li{border-bottom:1px solid #e3c5f220;min-width:0}
+.creator-libraries-page .creator-episode{width:100%;display:grid;grid-template-columns:64px minmax(0,1fr) 48px;align-items:center;gap:17px;padding:20px 6px;text-align:left;background:transparent;border:0;border-radius:16px;color:white;cursor:pointer}
+.creator-libraries-page .creator-episode:hover,.creator-libraries-page .creator-episode[aria-current=true]{background:#e6c0ff0b}
+.creator-libraries-page .creator-episode>img{width:64px;height:64px;object-fit:cover;border-radius:13px;display:block}
+.creator-libraries-page .creator-episode-copy{min-width:0;display:flex;flex-direction:column;gap:8px}
+.creator-libraries-page .creator-episode-copy strong{font-size:20px;line-height:1.4;font-weight:550;overflow-wrap:anywhere}
+.creator-libraries-page .creator-episode-copy>span{font-size:18px;line-height:1.45;color:var(--creator-secondary)}
+.creator-libraries-page .creator-episode-play{display:grid;place-items:center;border-radius:50%;width:46px;height:46px;border:1px solid #e9d1f350;background:#ead9fa0b}
+.creator-libraries-page .creator-episode-play svg{width:24px;height:24px}
+.creator-libraries-page .creator-music-heading{display:grid;grid-template-columns:1fr 1fr;gap:50px;align-items:end;margin-bottom:28px}
+.creator-libraries-page .creator-music-heading .ph-prominent{margin-bottom:18px}
+.creator-libraries-page .creator-music-heading .eyebrow{margin-bottom:18px;letter-spacing:.05em;line-height:1.5}
+.creator-libraries-page .creator-music-heading h2{font-size:clamp(32px,4vw,48px);letter-spacing:-.045em;line-height:1.14;margin:0}
+.creator-libraries-page .creator-music-heading>p{font-size:18px;line-height:1.8;color:var(--creator-secondary);margin:0;max-width:50ch}
+.creator-libraries-page .creator-music-surface{border:1px solid var(--creator-line);border-radius:32px;padding:30px 0 0;background:#170d222c;overflow:hidden}
+.creator-libraries-page .creator-coverflow{display:flex;gap:26px;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x proximity;scroll-padding-inline:30px;padding:20px 30px 30px;scrollbar-width:thin;scrollbar-color:#d9bfe266 transparent;overscroll-behavior-x:contain;touch-action:pan-x pan-y pinch-zoom;perspective:950px;min-width:0}
+.creator-libraries-page .creator-cover-tile{display:flex;flex-direction:column;gap:9px;min-width:0;flex:0 0 260px;scroll-snap-align:center;border:0;padding:0 0 12px;background:transparent;color:white;text-align:left;cursor:pointer;font-size:18px;transition:opacity .2s ease,transform .2s ease}
+.creator-libraries-page .creator-cover-tile>img{width:100%;height:auto;aspect-ratio:1;display:block;object-fit:cover;border-radius:19px;box-shadow:0 14px 26px #0005;margin-bottom:8px}
+.creator-libraries-page .creator-cover-tile strong{font-size:21px;font-weight:550;line-height:1.4;overflow-wrap:anywhere}
+.creator-libraries-page .creator-cover-tile>span{font-size:18px;line-height:1.4;color:var(--creator-secondary)}
+.creator-libraries-page .creator-cover-tile[aria-current=true]>img{outline:2px solid #efdbff;outline-offset:5px}
+.creator-libraries-page .creator-artist-detail{display:flex;justify-content:space-between;align-items:center;gap:32px;padding:30px;border-top:1px solid var(--creator-line);margin-top:26px;min-width:0;background:#170c1f24}
+.creator-libraries-page .creator-artist-detail>div{min-width:0}
+.creator-libraries-page .creator-artist-detail .eyebrow{font-size:18px;letter-spacing:.05em;margin:0 0 10px;color:#e3c8ed}
+.creator-libraries-page .creator-artist-detail h3{font-size:29px;line-height:1.3;letter-spacing:-.035em;margin:0 0 14px}
+.creator-libraries-page .creator-artist-detail p:not(.eyebrow){font-size:18px;line-height:1.75;max-width:58ch;margin:0;color:var(--creator-secondary)}
+.creator-libraries-page .creator-artist-detail>.button{flex:none;max-width:270px}
+.creator-libraries-page .creator-playlist-note{display:flex;justify-content:space-between;align-items:center;gap:28px;border:1px solid var(--creator-line);border-radius:26px;padding:25px;margin-top:25px;background:#140c2126}
+.creator-libraries-page .creator-playlist-note>div{display:flex;gap:22px;align-items:start;min-width:0}
+.creator-libraries-page .creator-playlist-note .eyebrow{margin:0 0 10px;font-size:18px;line-height:1.5;letter-spacing:.05em}
+.creator-libraries-page .creator-playlist-note h3{font-size:28px;line-height:1.3;margin:0 0 12px}
+.creator-libraries-page .creator-playlist-note p:not(.eyebrow){font-size:18px;line-height:1.75;max-width:60ch;margin:0;color:var(--creator-secondary)}
+.creator-libraries-page .creator-playlist-note>.button{flex:none;max-width:100%}
+.creator-libraries-page .creator-provider-note{font-size:18px;line-height:1.7;color:#e0cfea;margin:23px 0 0;max-width:80ch}
+.creator-libraries-page .feature-request{margin-top:52px}
+.creator-libraries-page .feature-request>summary>span{font-size:clamp(24px,3vw,32px);line-height:1.3;letter-spacing:-.035em}
+.creator-libraries-page .inner-world-work{margin-top:72px}
+@media(max-width:950px){.creator-libraries-page .creator-panel{gap:28px;padding:24px}.creator-libraries-page .creator-library-heading{gap:24px}.creator-libraries-page .creator-search{min-width:200px;width:280px}.creator-libraries-page .creator-film-card{flex-basis:350px}.creator-libraries-page .creator-artist-detail{align-items:start;flex-direction:column;gap:22px}.creator-libraries-page .creator-playlist-note{align-items:start;flex-direction:column}.creator-libraries-page .creator-music-heading{gap:30px}.creator-libraries-page .creator-introduction h2{font-size:35px}}
+@media(max-width:700px){
+ .creator-libraries-page .creator-library{margin-top:48px;scroll-margin-top:105px}
+ .creator-libraries-page .creator-panel{grid-template-columns:1fr;gap:25px;padding:19px;border-radius:28px}
+ .creator-libraries-page :is(.creator-portrait-wrap,.creator-podcast-art){min-height:0}
+ .creator-libraries-page .creator-portrait-wrap{aspect-ratio:5/4;border-radius:21px}
+ .creator-libraries-page .creator-portrait{border-radius:21px}
+ .creator-libraries-page .creator-image-caption{padding:46px 17px 18px;font-size:18px}
+ .creator-libraries-page .creator-introduction{padding:0 2px 4px}
+ .creator-libraries-page .creator-introduction h2{font-size:34px;line-height:1.17;margin-bottom:19px}
+ .creator-libraries-page .creator-introduction>.eyebrow{font-size:18px;letter-spacing:.035em;margin-bottom:15px}
+ .creator-libraries-page .creator-introduction>p:not(.eyebrow){font-size:18px;line-height:1.8;margin-bottom:18px}
+ .creator-libraries-page .creator-library-heading{display:flex;flex-direction:column;align-items:stretch;gap:20px;margin:26px 0 20px;scroll-margin-top:110px}
+ .creator-libraries-page .creator-library-heading h3{font-size:27px;line-height:1.25}
+ .creator-libraries-page .creator-search{min-width:0;max-width:none;width:100%;gap:8px}
+ .creator-libraries-page .creator-search input{min-height:54px;font-size:18px}
+ .creator-libraries-page .creator-film-carousel{gap:17px}
+ .creator-libraries-page .creator-film-card{flex:0 0 min(340px,calc(100vw - 64px));border-radius:24px}
+ .creator-libraries-page .creator-film-poster{border-radius:22px 22px 0 0}
+ .creator-libraries-page .creator-film-copy{padding:20px;gap:14px}
+ .creator-libraries-page .creator-film-copy h3{font-size:24px;line-height:1.3}
+ .creator-libraries-page .creator-film-copy .button{padding-inline:14px}
+ .creator-libraries-page .creator-library-navigation{gap:16px;margin-top:15px}
+ .creator-libraries-page .creator-library-navigation>span{min-width:0;max-width:140px}
+ .creator-libraries-page .creator-arrow{width:56px;min-width:56px;height:56px}
+ .creator-libraries-page .breathwork-card{margin-top:44px;padding:21px}
+ .creator-libraries-page .creator-podcast-art{aspect-ratio:1.1;min-height:260px;padding-bottom:45px}
+ .creator-libraries-page .creator-podcast-art>.creator-show-art{right:0;width:43%;max-width:155px;border-radius:16px}
+ .creator-libraries-page .creator-podcast-art>.creator-image-caption{padding-right:45%;border-radius:0 0 21px 21px}
+ .creator-libraries-page .podcast-library-surface{padding:0 16px 20px;border-radius:25px;margin-top:20px}
+ .creator-libraries-page .creator-autoplay-row{gap:12px;padding-top:0;padding-bottom:20px}
+ .creator-libraries-page .creator-autoplay-row>p{font-size:18px;line-height:1.65}
+ .creator-libraries-page .creator-episode{grid-template-columns:48px minmax(0,1fr) 44px;gap:11px;padding:18px 0}
+ .creator-libraries-page .creator-episode>img{width:48px;height:48px;border-radius:10px}
+ .creator-libraries-page .creator-episode-copy strong{font-size:19px;line-height:1.4}
+ .creator-libraries-page .creator-episode-copy>span{font-size:18px;line-height:1.45}
+ .creator-libraries-page .creator-episode-play{width:42px;height:44px;border-radius:15px}
+ .creator-libraries-page .creator-music-heading{grid-template-columns:1fr;gap:22px;margin-bottom:25px}
+ .creator-libraries-page .creator-music-heading h2{font-size:36px;line-height:1.15}
+ .creator-libraries-page .creator-music-surface{padding-top:17px;border-radius:28px}
+ .creator-libraries-page .creator-coverflow{gap:20px;padding:12px 23px 26px;scroll-padding-inline:23px}
+ .creator-libraries-page .creator-cover-tile{flex-basis:min(235px,calc(100vw - 106px))}
+ .creator-libraries-page .creator-cover-tile strong{font-size:21px}
+ .creator-libraries-page .creator-artist-detail{padding:23px;gap:22px;margin-top:23px}
+ .creator-libraries-page .creator-artist-detail h3{font-size:28px}
+ .creator-libraries-page .creator-artist-detail>.button{max-width:100%}
+ .creator-libraries-page .creator-playlist-note{padding:22px;gap:20px}
+ .creator-libraries-page .creator-playlist-note>div{flex-direction:column;gap:17px}
+ .creator-libraries-page .inner-world-work{margin-top:48px}
+}
+@media(max-width:360px){.creator-libraries-page .creator-panel{padding:16px}.creator-libraries-page .creator-introduction h2{font-size:31px}.creator-libraries-page .creator-episode{grid-template-columns:minmax(0,1fr) 44px;gap:10px}.creator-libraries-page .creator-episode>img{display:none}.creator-libraries-page .creator-film-copy{padding:18px}.creator-libraries-page .creator-film-copy>.button{gap:8px;padding-inline:11px}.creator-libraries-page .creator-music-heading h2{font-size:33px}}
+@media(prefers-reduced-motion:reduce){.creator-libraries-page :is(.creator-film-poster>img,.creator-cover-tile){transition:none;transform:none}.creator-libraries-page :is(.creator-film-carousel,.creator-coverflow){scroll-behavior:auto}}
+
+.creator-artist-filters{display:flex;gap:24px;padding:0 30px 18px;flex-wrap:wrap}.creator-search select{font:inherit;color:white;background:#160b22;border:1px solid #e2c9f04a;border-radius:17px;padding:12px 16px;min-height:54px;max-width:100%}.creator-artist-portrait{width:130px;height:130px;object-fit:cover;border-radius:22px}.creator-playlist-note>.playlist-cover{width:170px;height:170px;object-fit:cover;border-radius:20px;flex:none}.creator-libraries-page .creator-artist-detail{flex-wrap:wrap}.creator-artist-detail>div{flex:1;min-width:180px}.creator-libraries-page .creator-episode-list strong{overflow-wrap:anywhere}.creator-library-empty{padding:24px}.creator-libraries-page select{font-size:18px}
+.music-controls-dialog.is-embedded-player .expanded-layout{display:none!important}.music-player.is-embedded-player .music-timeline,.music-player.is-embedded-player .compact-progress,.music-player.is-embedded-player .player-options{display:none!important}.embedded-artist-player{width:100%;max-width:800px;margin:0 auto;padding:4px 8px 20px}.embedded-artist-player h3{font-size:28px;line-height:1.3;margin:0 0 12px;overflow-wrap:anywhere}.embedded-artist-player p{font-size:18px;line-height:1.65;color:#eee1f4}.embedded-artist-player iframe{display:block;border:0;width:100%;height:520px;min-height:300px;border-radius:16px;background:transparent}.embedded-artist-player iframe[data-provider=bandcamp]{height:580px}.provider-listening-note{margin:10px 0 22px}
+@media(max-width:700px){.creator-artist-filters{padding:0 22px 14px;gap:17px}.creator-artist-filters>label{width:100%}.creator-playlist-note>.playlist-cover{width:150px;height:150px}.embedded-artist-player{padding:0 0 20px}.embedded-artist-player h3{font-size:25px}.embedded-artist-player iframe{height:500px}.creator-artist-portrait{width:110px;height:110px}}
+.creator-selected-release{margin-top:18px!important;font-weight:600}.creator-release-access{margin-top:8px!important}.creator-empty,.creator-library-status{padding:20px;font-size:18px;line-height:1.65}.creator-player-status{font-size:18px;line-height:1.5;color:white;padding:16px}.creator-library-status[hidden]{display:none}.creator-cover-tile>img{transform:perspective(700px) rotateY(-12deg) scale(.94);transform-origin:center;transition:transform .3s ease}.creator-cover-tile[aria-current=true]>img{transform:perspective(700px) rotateY(0) scale(1)}
+@media(prefers-reduced-motion:reduce){.creator-cover-tile>img{transform:none;transition:none}}
+
+.site-listen-count{display:block;font-size:18px;line-height:1.5;color:#e2d1ec;font-variant-numeric:tabular-nums}.site-listen-explanation{font-size:18px;line-height:1.6;color:#e2d1ec;max-width:65ch;margin:18px 0}.track-label .site-listen-count{margin-top:5px}.creator-libraries-page .creator-episode-copy>.site-listen-count{font-size:18px}#expanded-site-listens{margin:10px 0 18px}/* Rea Earth follows the existing Music Videos media layout without joining its autoplay controller. */
+.creator-libraries-page #rea-carousel{
+  width:100vw;max-width:none;margin-inline:calc((100% - 100vw)/2);
+  padding:0 0 12px;gap:20px;align-items:flex-start;
+  overflow-x:auto;overflow-y:hidden;scroll-snap-type:x proximity;
+  scroll-padding-inline:0;scroll-behavior:smooth;touch-action:pan-x pan-y pinch-zoom;
+  scrollbar-width:thin;scrollbar-color:#d7b8f080 #ffffff08;
+}
+.creator-libraries-page #rea-carousel::-webkit-scrollbar{height:7px}
+.creator-libraries-page #rea-carousel::-webkit-scrollbar-thumb{background:#d7b8f080;border-radius:8px}
+.creator-libraries-page #rea-carousel::-webkit-scrollbar-track{background:#ffffff08;border-radius:8px}
+.creator-libraries-page #rea-carousel .creator-film-card{
+  flex:0 0 470px;min-width:0;padding:8px 8px 0;border-radius:28px;
+  border:1px solid #ffffff26;background:linear-gradient(145deg,#ffffff0b,#130d1d3d);
+  box-shadow:inset 0 1px 2px #ffffff25;overflow:hidden;contain:paint;
+  scroll-snap-align:start;transform:none;backdrop-filter:none;-webkit-backdrop-filter:none;
+}
+.creator-libraries-page #rea-carousel .creator-film-poster{
+  display:block;width:100%;min-width:0;position:relative;aspect-ratio:16/9;min-height:200px;
+  border-radius:21px;overflow:hidden;background:#07060b;isolation:isolate;
+}
+.creator-libraries-page #rea-carousel .creator-film-poster>img{
+  position:absolute;inset:0;display:block;width:100%;height:100%;aspect-ratio:auto;
+  object-fit:cover;filter:brightness(.88);transform:none;transition:none;
+}
+.creator-libraries-page #rea-carousel .creator-film-poster::after{
+  background:linear-gradient(0deg,#05020b70,transparent 30%);
+}
+.creator-libraries-page #rea-carousel .creator-play-mark{
+  left:50%;top:50%;bottom:auto;transform:translate(-50%,-50%);
+  width:55px;height:55px;padding-left:3px;border:0;
+  background:#ffffff14;box-shadow:inset 0 1px 2px #ffffff55;
+  backdrop-filter:blur(2px);-webkit-backdrop-filter:blur(2px);
+}
+.creator-libraries-page #rea-carousel .creator-film-poster:focus-visible{outline-offset:-5px}
+.creator-libraries-page #rea-carousel .creator-film-copy{padding:19px 14px 5px;gap:0;display:flex;flex-direction:column}
+.creator-libraries-page #rea-carousel .creator-credit{font-size:18px;line-height:1.65;font-weight:450;color:#d2bfdf;margin:0 0 5px}
+.creator-libraries-page #rea-carousel .creator-film-copy h3{font-size:27px;line-height:1.4;font-weight:600;letter-spacing:-.025em;margin:0}
+.creator-libraries-page #rea-carousel .creator-film-copy>p:not(.creator-credit){font-size:18px;line-height:1.65;margin:5px 0 0;color:#d2bfdf;min-height:0}
+.creator-libraries-page #rea-carousel .creator-film-copy>.button{
+  display:flex;align-items:center;justify-content:space-between;
+  align-self:auto;width:calc(100% + 12px);max-width:none;min-height:52px;
+  margin:14px -6px 8px;padding:14px 18px;border-radius:18px;
+  font-size:18px;font-weight:650;line-height:1.4;color:#f0e4fa;
+  background:#ffffff0b;box-shadow:inset 0 1px 2px #ffffff25;
+}
+.creator-libraries-page #rea-carousel .creator-film-copy>.button:hover{background:#ffffff17}
+.creator-libraries-page #rea-library>.creator-library-navigation{gap:18px;margin:26px auto 0}
+.creator-libraries-page #rea-library .creator-arrow{width:60px;height:60px;min-width:60px;min-height:60px;font-size:30px;padding:0}
+.creator-libraries-page #rea-library .creator-arrow:disabled{opacity:.38;cursor:default;transform:none}
+.creator-libraries-page #rea-library .creator-arrow:focus-visible{outline:3px solid #f4dfff;outline-offset:5px}
+@media(max-width:1000px){.creator-libraries-page #rea-carousel .creator-film-card{flex-basis:440px}}
+@media(max-width:700px){
+  .creator-libraries-page #rea-carousel{gap:14px}
+  .creator-libraries-page #rea-carousel .creator-film-card{flex-basis:calc(100vw - 58px);border-radius:25px;padding:7px 7px 0}
+  .creator-libraries-page #rea-carousel .creator-film-poster{border-radius:18px;aspect-ratio:1.64;min-height:200px}
+  .creator-libraries-page #rea-carousel .creator-film-copy{padding:15px 10px 3px}
+  .creator-libraries-page #rea-carousel .creator-film-copy h3{font-size:27px;line-height:1.4}
+  .creator-libraries-page #rea-carousel .creator-film-copy>.button{width:calc(100% + 4px);margin-inline:-2px;padding:14px;min-height:52px}
+  .creator-libraries-page #rea-library>.creator-library-navigation{gap:14px;margin-top:22px}
+}
+@media(prefers-reduced-motion:reduce){.creator-libraries-page #rea-carousel{scroll-behavior:auto}}
+
+.tool-resource-heyclicky .tool-availability{margin-top:1rem}
+.tool-resource-heyclicky .tool-affiliate-disclosure{margin:1rem 0 0;font-size:max(18px,1rem);line-height:1.55;color:var(--muted,#e0d5e9)}
+
+.tool-resource-affiliate .tool-availability{margin-top:1rem}
+.tool-resource-affiliate .tool-affiliate-disclosure{margin:1rem 0 0;font-size:max(18px,1rem);line-height:1.55;color:var(--muted,#e0d5e9)}
+.tool-resource-travel .tool-brand{background:#fff;border-radius:14px}
+.tool-resource-travel .tool-brand img{object-fit:contain;padding:10px}
+.tool-brand img[src$="/manychat.jpg"]{box-sizing:border-box;object-fit:contain;padding:8px;background:white;border-radius:12px}
+.creator-libraries-page #rea-carousel .creator-film-copy h3{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;min-height:2.8em}.creator-libraries-page #rea-carousel .creator-video-meta{min-height:1.85em}
+
+/* Full artist songs use the same compact, persistent player as Jamaal’s music. */
+.creator-libraries-page .creator-native-controls{display:flex;align-items:center;flex-wrap:wrap;gap:20px;padding:0 30px 22px}
+.creator-libraries-page .creator-source-picker{display:flex;flex-wrap:wrap;gap:10px;width:100%}
+.creator-libraries-page .creator-source-button{font:inherit;font-size:18px;font-weight:550;line-height:1.35;padding:12px 18px;min-height:50px;border:1px solid #d8c7e440;border-radius:25px;color:#f6effa;background:#140b201c;cursor:pointer}
+.creator-libraries-page .creator-source-button[aria-pressed=true]{background:#d6b7ed22;border-color:#eedfff;color:#fff}
+.creator-libraries-page .creator-source-button:disabled{opacity:.55;cursor:default}
+.creator-libraries-page .creator-native-summary{flex:1 1 300px;margin:0;font-size:18px;line-height:1.6;color:var(--creator-secondary)}
+.creator-libraries-page .creator-native-controls>.button{min-height:54px}
+.creator-libraries-page .creator-selected-profile{display:flex;gap:26px;align-items:center;min-width:0;flex-basis:100%}
+.creator-libraries-page .creator-selected-profile>.creator-artist-portrait{flex:none}
+.creator-libraries-page .creator-selected-profile>.creator-artist-copy{min-width:0}
+.creator-libraries-page .creator-artist-detail.has-native-tracks{display:block}
+.creator-libraries-page .creator-native-release{margin-top:32px;border-top:1px solid var(--creator-line);padding-top:30px}
+.creator-libraries-page .creator-native-release-heading{display:flex;align-items:center;justify-content:space-between;gap:24px;margin-bottom:20px}
+.creator-libraries-page .creator-native-release-heading>div{min-width:0;overflow-wrap:anywhere}
+.creator-libraries-page .creator-native-release-heading>.button{flex:none;min-height:54px}
+.creator-libraries-page .creator-native-tracks{list-style:none;padding:0;margin:0;min-width:0}
+.creator-libraries-page .creator-native-tracks>li{margin:0;border-top:1px solid #e6d1ef20}
+.creator-libraries-page .creator-native-track{display:grid;grid-template-columns:56px minmax(0,1fr) auto;align-items:center;gap:18px;width:100%;min-height:92px;border:0;border-radius:12px;padding:15px 12px;text-align:left;background:transparent;color:white;font:inherit;cursor:pointer}
+.creator-libraries-page .creator-native-track:hover{background:#e1cefa0d}
+.creator-libraries-page .creator-native-track[aria-current=true]{background:#cfb0e919;box-shadow:inset 3px 0 #e8cdff}
+.creator-libraries-page .creator-native-track>img{width:56px;height:56px;object-fit:cover;border-radius:9px}
+.creator-libraries-page .creator-native-track-copy{min-width:0;display:flex;flex-direction:column;gap:4px;line-height:1.45;overflow-wrap:anywhere}
+.creator-libraries-page .creator-native-track-copy strong{font-size:20px;font-weight:550}
+.creator-libraries-page .creator-native-track-copy>span,.creator-libraries-page .creator-native-track-duration{font-size:18px;line-height:1.45;color:var(--creator-secondary)}
+.creator-libraries-page .creator-native-track-duration{font-variant-numeric:tabular-nums;white-space:nowrap}
+.creator-libraries-page :is(.creator-native-track,.creator-source-button):focus-visible{outline:2px solid white;outline-offset:3px}
+@media(max-width:700px){
+ .creator-libraries-page .creator-native-controls{padding:0 22px 20px;gap:18px}
+ .creator-libraries-page .creator-selected-profile{align-items:flex-start;flex-direction:column;gap:20px}
+ .creator-libraries-page .creator-native-release-heading{align-items:flex-start;flex-direction:column;gap:20px}
+ .creator-libraries-page .creator-native-track{grid-template-columns:44px minmax(0,1fr);gap:8px 13px;padding:16px 0}
+ .creator-libraries-page .creator-native-track>img{width:44px;height:44px;align-self:start;margin-top:2px}
+ .creator-libraries-page .creator-native-track-duration{grid-column:2}
+ .creator-libraries-page .creator-native-track-copy strong{font-size:20px}
+ .creator-libraries-page .creator-native-track[aria-current=true]{box-shadow:none;outline:1px solid #e8cdff55;outline-offset:5px}
+}

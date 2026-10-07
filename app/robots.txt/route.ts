@@ -1,0 +1,1 @@
+export function GET(){return new Response('User-agent: *\nAllow: /\nDisallow: /api/\nDisallow: /mcp\nSitemap: https://jamaaltreasures.com/sitemap.xml\n',{headers:{'Content-Type':'text/plain; charset=utf-8'}});}

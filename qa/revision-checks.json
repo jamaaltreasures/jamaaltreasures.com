@@ -1,0 +1,697 @@
+{
+  "date": "2026-10-06T02:26:43.865Z",
+  "url": "http://127.0.0.1:8909/",
+  "physical_trackpad": false,
+  "physical_iphone": false,
+  "errors": [],
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "bio": {
+        "overflow": false,
+        "photo": true,
+        "paragraphs": [
+          "I’m Jamaal, also known as CJ—an AI filmmaker and music video director, but my work goes beyond the camera.",
+          "I’ve toured the country shooting music videos, making music, studying metaphysics, and working with artists and brands. Those experiences have shaped how I approach creative work: getting to know the person behind the idea and finding the right way to bring it to life.",
+          "My work includes videography, photography, graphic design, video editing, website development, and running Meta ads. Whether you need a music video, a website, or help putting your business out into the world, I bring those skills together to help you move forward.",
+          "I also run a private Discord community where I share what I’ve learned and help people put it into practice. You don’t need to know how to design, edit, build a website, or run ads before joining. Bring your questions or the project you’re working on, and get hands-on guidance on what to do next."
+        ],
+        "link": "https://whop.com/treasure-chest-bc09/the-treasure-chest-membership-76",
+        "photoBox": {
+          "x": 169,
+          "y": 108.609375,
+          "width": 401.296875,
+          "height": 602.78125,
+          "top": 108.609375,
+          "right": 570.296875,
+          "bottom": 711.390625,
+          "left": 169
+        },
+        "copyBox": {
+          "x": 626.296875,
+          "y": 100.609375,
+          "width": 652.703125,
+          "height": 732.15625,
+          "top": 100.609375,
+          "right": 1279,
+          "bottom": 832.765625,
+          "left": 626.296875
+        }
+      },
+      "services": {
+        "heading": "What can I help you create?",
+        "first": "Music Videos,\n\n$650.\n\nFull AI assisted music video, directed and edited.\n\nStart a project\n↗",
+        "prices": [
+          {
+            "name": "Music Videos,",
+            "price": "$650."
+          },
+          {
+            "name": "AI UGC Ad,",
+            "price": "$300."
+          },
+          {
+            "name": "Brand Spot,",
+            "price": "$500."
+          },
+          {
+            "name": "Brand Film,",
+            "price": "$750."
+          },
+          {
+            "name": "Signature Film,",
+            "price": "$2,500."
+          },
+          {
+            "name": "Landing Page,",
+            "price": "$400."
+          },
+          {
+            "name": "Business Website,",
+            "price": "$900."
+          },
+          {
+            "name": "Brand Identity Pack,",
+            "price": "$600."
+          },
+          {
+            "name": "Shoot Session,",
+            "price": "$350."
+          },
+          {
+            "name": "Meta Ads Management",
+            "price": "$1,500 per month."
+          }
+        ],
+        "overflow": false
+      },
+      "inquiry": "Music Videos ($650)",
+      "start": {
+        "left": 0,
+        "prev": true,
+        "next": false,
+        "root": {
+          "x": 0,
+          "y": 278.875,
+          "width": 1440,
+          "height": 516.3125,
+          "top": 278.875,
+          "right": 1440,
+          "bottom": 795.1875,
+          "left": 0
+        },
+        "arrows": {
+          "x": 120,
+          "y": 821.1875,
+          "width": 1200,
+          "height": 60,
+          "top": 821.1875,
+          "right": 1320,
+          "bottom": 881.1875,
+          "left": 120
+        },
+        "button": {
+          "x": 655.859375,
+          "y": 821.1875,
+          "width": 60,
+          "height": 60,
+          "top": 821.1875,
+          "right": 715.859375,
+          "bottom": 881.1875,
+          "left": 655.859375
+        },
+        "fullButton": {
+          "x": 17,
+          "y": 722.1875,
+          "width": 436,
+          "height": 52,
+          "top": 722.1875,
+          "right": 453,
+          "bottom": 774.1875,
+          "left": 17
+        },
+        "portfolio": 25,
+        "overflow": false
+      },
+      "horizontalWheel": {
+        "left": 490,
+        "pageY": 951,
+        "pageBefore": 951
+      },
+      "verticalWheel": {
+        "left": 490,
+        "pageY": 1171
+      },
+      "next": 490,
+      "previous": 0,
+      "keyboard": {
+        "left": 490,
+        "focus": true
+      },
+      "end": {
+        "left": 10790,
+        "max": 10790,
+        "disabled": true
+      },
+      "shifted": [
+        {
+          "id": "REx9OC8aBxI",
+          "state": 2,
+          "time": 1.544017,
+          "visible": false,
+          "muted": true
+        },
+        {
+          "id": "N3ehx2X1GHw",
+          "state": 2,
+          "time": 1.734254,
+          "visible": false,
+          "muted": true
+        },
+        {
+          "id": "P6HbDk4AFLM",
+          "state": 1,
+          "time": 5.202099080108643,
+          "visible": true,
+          "muted": true
+        },
+        {
+          "id": "3QyachiU0Jc",
+          "state": 1,
+          "time": 5.1976320076293945,
+          "visible": true,
+          "muted": true
+        },
+        {
+          "id": "MvitXK0a4K8",
+          "state": 1,
+          "time": 4.5079619351501465,
+          "visible": true,
+          "muted": true
+        }
+      ],
+      "shiftedLater": [
+        {
+          "id": "REx9OC8aBxI",
+          "state": 2,
+          "time": 1.544017,
+          "visible": false,
+          "muted": true
+        },
+        {
+          "id": "N3ehx2X1GHw",
+          "state": 2,
+          "time": 1.734254,
+          "visible": false,
+          "muted": true
+        },
+        {
+          "id": "P6HbDk4AFLM",
+          "state": 1,
+          "time": 6.404591986648559,
+          "visible": true,
+          "muted": true
+        },
+        {
+          "id": "3QyachiU0Jc",
+          "state": 1,
+          "time": 6.4006468416900635,
+          "visible": true,
+          "muted": true
+        },
+        {
+          "id": "MvitXK0a4K8",
+          "state": 1,
+          "time": 5.70967691607666,
+          "visible": true,
+          "muted": true
+        }
+      ],
+      "previousPlayers": [
+        {
+          "id": "NFM-W1yee3M",
+          "state": 1,
+          "time": 15.126106883651733,
+          "visible": true,
+          "muted": true
+        },
+        {
+          "id": "JsJMuyaxoLE",
+          "state": 2,
+          "time": 0.221863,
+          "visible": false,
+          "muted": true
+        },
+        {
+          "id": "VAxa0nOtasU",
+          "state": 2,
+          "time": 0.436655,
+          "visible": false,
+          "muted": true
+        },
+        {
+          "id": "REx9OC8aBxI",
+          "state": 1,
+          "time": 1.486532906539917,
+          "visible": true,
+          "muted": true
+        },
+        {
+          "id": "N3ehx2X1GHw",
+          "state": 1,
+          "time": 1.674596990463257,
+          "visible": true,
+          "muted": true
+        }
+      ],
+      "popup": {
+        "open": true,
+        "id": "https://www.youtube-nocookie.com/embed/REx9OC8aBxI?autoplay=1&mute=0&controls=1&playsinline=1&rel=0&enablejsapi=1&origin=http%3A%2F%2F127.0.0.1%3A8909",
+        "full": {
+          "state": 1,
+          "muted": false,
+          "time": 6.546130053405761
+        }
+      },
+      "closed": {
+        "open": false,
+        "focus": true
+      }
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "bio": {
+        "overflow": false,
+        "photo": true,
+        "paragraphs": [
+          "I’m Jamaal, also known as CJ—an AI filmmaker and music video director, but my work goes beyond the camera.",
+          "I’ve toured the country shooting music videos, making music, studying metaphysics, and working with artists and brands. Those experiences have shaped how I approach creative work: getting to know the person behind the idea and finding the right way to bring it to life.",
+          "My work includes videography, photography, graphic design, video editing, website development, and running Meta ads. Whether you need a music video, a website, or help putting your business out into the world, I bring those skills together to help you move forward.",
+          "I also run a private Discord community where I share what I’ve learned and help people put it into practice. You don’t need to know how to design, edit, build a website, or run ads before joining. Bring your questions or the project you’re working on, and get hands-on guidance on what to do next."
+        ],
+        "link": "https://whop.com/treasure-chest-bc09/the-treasure-chest-membership-76",
+        "photoBox": {
+          "x": 52,
+          "y": 80.640625,
+          "width": 286,
+          "height": 429.59375,
+          "top": 80.640625,
+          "right": 338,
+          "bottom": 510.234375,
+          "left": 52
+        },
+        "copyBox": {
+          "x": 45,
+          "y": 547.234375,
+          "width": 300,
+          "height": 872.75,
+          "top": 547.234375,
+          "right": 345,
+          "bottom": 1419.984375,
+          "left": 45
+        }
+      },
+      "services": {
+        "heading": "What can I help you create?",
+        "first": "Music Videos,\n\n$650.\n\nFull AI assisted music video, directed and edited.\n\nStart a project\n↗",
+        "prices": [
+          {
+            "name": "Music Videos,",
+            "price": "$650."
+          },
+          {
+            "name": "AI UGC Ad,",
+            "price": "$300."
+          },
+          {
+            "name": "Brand Spot,",
+            "price": "$500."
+          },
+          {
+            "name": "Brand Film,",
+            "price": "$750."
+          },
+          {
+            "name": "Signature Film,",
+            "price": "$2,500."
+          },
+          {
+            "name": "Landing Page,",
+            "price": "$400."
+          },
+          {
+            "name": "Business Website,",
+            "price": "$900."
+          },
+          {
+            "name": "Brand Identity Pack,",
+            "price": "$600."
+          },
+          {
+            "name": "Shoot Session,",
+            "price": "$350."
+          },
+          {
+            "name": "Meta Ads Management",
+            "price": "$1,500 per month."
+          }
+        ],
+        "overflow": false
+      },
+      "inquiry": "Music Videos ($650)",
+      "start": {
+        "left": 0,
+        "prev": true,
+        "next": false,
+        "root": {
+          "x": 0,
+          "y": 201.390625,
+          "width": 390,
+          "height": 468.765625,
+          "top": 201.390625,
+          "right": 390,
+          "bottom": 670.15625,
+          "left": 0
+        },
+        "arrows": {
+          "x": 20,
+          "y": 692.15625,
+          "width": 350,
+          "height": 60,
+          "top": 692.15625,
+          "right": 370,
+          "bottom": 752.15625,
+          "left": 20
+        },
+        "button": {
+          "x": 139.453125,
+          "y": 692.15625,
+          "width": 60,
+          "height": 60,
+          "top": 692.15625,
+          "right": 199.453125,
+          "bottom": 752.15625,
+          "left": 139.453125
+        },
+        "fullButton": {
+          "x": 16,
+          "y": 579.015625,
+          "width": 300,
+          "height": 52,
+          "top": 579.015625,
+          "right": 316,
+          "bottom": 631.015625,
+          "left": 16
+        },
+        "portfolio": 25,
+        "overflow": false
+      },
+      "horizontalWheel": {
+        "left": 480,
+        "pageY": 811,
+        "pageBefore": 811
+      },
+      "verticalWheel": {
+        "left": 480,
+        "pageY": 1031
+      },
+      "next": 346,
+      "previous": 0,
+      "keyboard": {
+        "left": 346,
+        "focus": true
+      },
+      "end": {
+        "left": 8246,
+        "max": 8246,
+        "disabled": true
+      },
+      "touchTarget": {
+        "top": 801,
+        "action": "auto",
+        "target": "<button class=\"preview-open\" data-film=\"REx9OC8aBxI\" type=\"button\" aria-label=\"Watch Rayy Dubb · The Rain with sound\"><span class=\"preview-play-icon\" aria-hidden=\"true\">▶</span><span class=\"preview-open-label\">Watch with sound <span aria-hidden=\"true\">↗</span></span></button>",
+        "before": 0
+      },
+      "touch": {
+        "left": 346,
+        "popup": false
+      },
+      "shifted": [
+        {
+          "id": "NFM-W1yee3M",
+          "state": 2,
+          "time": 2.115337,
+          "visible": false,
+          "muted": true
+        },
+        {
+          "id": "JsJMuyaxoLE",
+          "state": 2,
+          "time": 0.868229,
+          "visible": false,
+          "muted": true
+        },
+        {
+          "id": "VAxa0nOtasU",
+          "state": 2,
+          "time": 0.807356,
+          "visible": false,
+          "muted": true
+        },
+        {
+          "id": "AyHKdh1fqVI",
+          "state": 1,
+          "time": 5.159661143051148,
+          "visible": true,
+          "muted": true
+        },
+        {
+          "id": "sFYzSIKU_Ac",
+          "state": 1,
+          "time": 5.223944061035156,
+          "visible": true,
+          "muted": true
+        }
+      ],
+      "shiftedLater": [
+        {
+          "id": "NFM-W1yee3M",
+          "state": 2,
+          "time": 2.115337,
+          "visible": false,
+          "muted": true
+        },
+        {
+          "id": "JsJMuyaxoLE",
+          "state": 2,
+          "time": 0.868229,
+          "visible": false,
+          "muted": true
+        },
+        {
+          "id": "VAxa0nOtasU",
+          "state": 2,
+          "time": 0.807356,
+          "visible": false,
+          "muted": true
+        },
+        {
+          "id": "AyHKdh1fqVI",
+          "state": 1,
+          "time": 6.3633430705719,
+          "visible": true,
+          "muted": true
+        },
+        {
+          "id": "sFYzSIKU_Ac",
+          "state": 1,
+          "time": 6.429300082015991,
+          "visible": true,
+          "muted": true
+        }
+      ],
+      "previousPlayers": [
+        {
+          "id": "REx9OC8aBxI",
+          "state": 1,
+          "time": 14.012916959945679,
+          "visible": true,
+          "muted": true
+        },
+        {
+          "id": "N3ehx2X1GHw",
+          "state": 1,
+          "time": 16.532699959945678,
+          "visible": true,
+          "muted": true
+        },
+        {
+          "id": "NFM-W1yee3M",
+          "state": 2,
+          "time": 2.115337,
+          "visible": false,
+          "muted": true
+        },
+        {
+          "id": "JsJMuyaxoLE",
+          "state": 2,
+          "time": 0.868229,
+          "visible": false,
+          "muted": true
+        },
+        {
+          "id": "VAxa0nOtasU",
+          "state": 2,
+          "time": 0.807356,
+          "visible": false,
+          "muted": true
+        }
+      ],
+      "popup": {
+        "open": true,
+        "id": "https://www.youtube-nocookie.com/embed/REx9OC8aBxI?autoplay=1&mute=0&controls=1&playsinline=1&rel=0&enablejsapi=1&origin=http%3A%2F%2F127.0.0.1%3A8909",
+        "full": {
+          "state": 1,
+          "muted": false,
+          "time": 6.208575988555908
+        }
+      },
+      "closed": {
+        "open": false,
+        "focus": true
+      }
+    },
+    {
+      "name": "small",
+      "width": 320,
+      "bio": {
+        "overflow": false,
+        "photo": true,
+        "paragraphs": [
+          "I’m Jamaal, also known as CJ—an AI filmmaker and music video director, but my work goes beyond the camera.",
+          "I’ve toured the country shooting music videos, making music, studying metaphysics, and working with artists and brands. Those experiences have shaped how I approach creative work: getting to know the person behind the idea and finding the right way to bring it to life.",
+          "My work includes videography, photography, graphic design, video editing, website development, and running Meta ads. Whether you need a music video, a website, or help putting your business out into the world, I bring those skills together to help you move forward.",
+          "I also run a private Discord community where I share what I’ve learned and help people put it into practice. You don’t need to know how to design, edit, build a website, or run ads before joining. Bring your questions or the project you’re working on, and get hands-on guidance on what to do next."
+        ],
+        "link": "https://whop.com/treasure-chest-bc09/the-treasure-chest-membership-76",
+        "photoBox": {
+          "x": 52,
+          "y": 81.109375,
+          "width": 216,
+          "height": 324.4375,
+          "top": 81.109375,
+          "right": 268,
+          "bottom": 405.546875,
+          "left": 52
+        },
+        "copyBox": {
+          "x": 45,
+          "y": 442.546875,
+          "width": 230,
+          "height": 1068.40625,
+          "top": 442.546875,
+          "right": 275,
+          "bottom": 1510.953125,
+          "left": 45
+        }
+      },
+      "services": {
+        "heading": "What can I help you create?",
+        "first": "Music Videos,\n\n$650.\n\nFull AI assisted music video, directed and edited.\n\nStart a project\n↗",
+        "prices": [
+          {
+            "name": "Music Videos,",
+            "price": "$650."
+          },
+          {
+            "name": "AI UGC Ad,",
+            "price": "$300."
+          },
+          {
+            "name": "Brand Spot,",
+            "price": "$500."
+          },
+          {
+            "name": "Brand Film,",
+            "price": "$750."
+          },
+          {
+            "name": "Signature Film,",
+            "price": "$2,500."
+          },
+          {
+            "name": "Landing Page,",
+            "price": "$400."
+          },
+          {
+            "name": "Business Website,",
+            "price": "$900."
+          },
+          {
+            "name": "Brand Identity Pack,",
+            "price": "$600."
+          },
+          {
+            "name": "Shoot Session,",
+            "price": "$350."
+          },
+          {
+            "name": "Meta Ads Management",
+            "price": "$1,500 per month."
+          }
+        ],
+        "overflow": false
+      },
+      "inquiry": "Music Videos ($650)",
+      "start": {
+        "left": 0,
+        "prev": true,
+        "next": false,
+        "root": {
+          "x": 0,
+          "y": 198.390625,
+          "width": 320,
+          "height": 513.3125,
+          "top": 198.390625,
+          "right": 320,
+          "bottom": 711.703125,
+          "left": 0
+        },
+        "arrows": {
+          "x": 20,
+          "y": 733.703125,
+          "width": 280,
+          "height": 60,
+          "top": 733.703125,
+          "right": 300,
+          "bottom": 793.703125,
+          "left": 20
+        },
+        "button": {
+          "x": 104.453125,
+          "y": 733.703125,
+          "width": 60,
+          "height": 60,
+          "top": 733.703125,
+          "right": 164.453125,
+          "bottom": 793.703125,
+          "left": 104.453125
+        },
+        "fullButton": {
+          "x": 16,
+          "y": 620.5625,
+          "width": 230,
+          "height": 52,
+          "top": 620.5625,
+          "right": 246,
+          "bottom": 672.5625,
+          "left": 16
+        },
+        "portfolio": 25,
+        "overflow": false
+      }
+    }
+  ]
+}

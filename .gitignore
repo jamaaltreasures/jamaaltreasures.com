@@ -1,0 +1,9 @@
+node_modules/
+dist/
+public/
+.vinext/
+.wrangler/
+.sites-runtime/
+.env*
+.dev.vars*
+*.log

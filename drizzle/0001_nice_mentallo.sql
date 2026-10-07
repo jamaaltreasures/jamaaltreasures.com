@@ -1,0 +1,1 @@
+CREATE INDEX `site_listen_events_expiry` ON `site_listen_events` (`expires_at`);

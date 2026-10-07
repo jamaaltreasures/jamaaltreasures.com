@@ -1,0 +1,371 @@
+{
+  "date": "2026-10-06T01:22:49.590Z",
+  "url": "http://127.0.0.1:8909/",
+  "errors": [],
+  "views": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "sections": [
+        {
+          "id": "home",
+          "overflow": false,
+          "images": true,
+          "glass": 2
+        },
+        {
+          "id": "work",
+          "overflow": false,
+          "images": true,
+          "glass": 10
+        },
+        {
+          "id": "stats",
+          "overflow": false,
+          "images": true,
+          "glass": 4
+        },
+        {
+          "id": "about",
+          "overflow": false,
+          "images": true,
+          "glass": 0
+        },
+        {
+          "id": "testimonials",
+          "overflow": false,
+          "images": true,
+          "glass": 4
+        },
+        {
+          "id": "services",
+          "overflow": false,
+          "images": true,
+          "glass": 8
+        },
+        {
+          "id": "process",
+          "overflow": false,
+          "images": true,
+          "glass": 4
+        },
+        {
+          "id": "contact",
+          "overflow": false,
+          "images": true,
+          "glass": 1
+        },
+        {
+          "id": "treasure-chest",
+          "overflow": false,
+          "images": true,
+          "glass": 0
+        }
+      ],
+      "gaps": [
+        20,
+        20,
+        20
+      ],
+      "scrollFrames": [
+        {
+          "name": "scroll-desktop-00",
+          "y": 0
+        },
+        {
+          "name": "scroll-desktop-01",
+          "y": 890
+        },
+        {
+          "name": "scroll-desktop-02",
+          "y": 1780
+        },
+        {
+          "name": "scroll-desktop-03",
+          "y": 2670
+        },
+        {
+          "name": "scroll-desktop-04",
+          "y": 3560
+        },
+        {
+          "name": "scroll-desktop-05",
+          "y": 4450
+        },
+        {
+          "name": "scroll-desktop-06",
+          "y": 5340
+        },
+        {
+          "name": "scroll-desktop-07",
+          "y": 6230
+        },
+        {
+          "name": "scroll-desktop-08",
+          "y": 7120
+        },
+        {
+          "name": "scroll-desktop-09",
+          "y": 7546
+        }
+      ],
+      "totalHeight": 8546
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "sections": [
+        {
+          "id": "home",
+          "overflow": false,
+          "images": true,
+          "glass": 2
+        },
+        {
+          "id": "work",
+          "overflow": false,
+          "images": true,
+          "glass": 6
+        },
+        {
+          "id": "stats",
+          "overflow": false,
+          "images": true,
+          "glass": 4
+        },
+        {
+          "id": "about",
+          "overflow": false,
+          "images": true,
+          "glass": 0
+        },
+        {
+          "id": "testimonials",
+          "overflow": false,
+          "images": true,
+          "glass": 2
+        },
+        {
+          "id": "services",
+          "overflow": false,
+          "images": true,
+          "glass": 4
+        },
+        {
+          "id": "process",
+          "overflow": false,
+          "images": true,
+          "glass": 4
+        },
+        {
+          "id": "contact",
+          "overflow": false,
+          "images": true,
+          "glass": 1
+        },
+        {
+          "id": "treasure-chest",
+          "overflow": false,
+          "images": true,
+          "glass": 0
+        }
+      ],
+      "gaps": [
+        14
+      ],
+      "scrollFrames": [
+        {
+          "name": "scroll-mobile-00",
+          "y": 0
+        },
+        {
+          "name": "scroll-mobile-01",
+          "y": 734
+        },
+        {
+          "name": "scroll-mobile-02",
+          "y": 1468
+        },
+        {
+          "name": "scroll-mobile-03",
+          "y": 2202
+        },
+        {
+          "name": "scroll-mobile-04",
+          "y": 2936
+        },
+        {
+          "name": "scroll-mobile-05",
+          "y": 3670
+        },
+        {
+          "name": "scroll-mobile-06",
+          "y": 4404
+        },
+        {
+          "name": "scroll-mobile-07",
+          "y": 5138
+        },
+        {
+          "name": "scroll-mobile-08",
+          "y": 5872
+        },
+        {
+          "name": "scroll-mobile-09",
+          "y": 6606
+        },
+        {
+          "name": "scroll-mobile-10",
+          "y": 7340
+        },
+        {
+          "name": "scroll-mobile-11",
+          "y": 8074
+        },
+        {
+          "name": "scroll-mobile-12",
+          "y": 8808
+        },
+        {
+          "name": "scroll-mobile-13",
+          "y": 8976
+        }
+      ],
+      "totalHeight": 9820
+    },
+    {
+      "name": "small",
+      "width": 320,
+      "height": 844,
+      "sections": [
+        {
+          "id": "home",
+          "overflow": false,
+          "images": true,
+          "glass": 2
+        },
+        {
+          "id": "work",
+          "overflow": false,
+          "images": true,
+          "glass": 6
+        },
+        {
+          "id": "stats",
+          "overflow": false,
+          "images": true,
+          "glass": 3
+        },
+        {
+          "id": "about",
+          "overflow": false,
+          "images": true,
+          "glass": 0
+        },
+        {
+          "id": "testimonials",
+          "overflow": false,
+          "images": true,
+          "glass": 2
+        },
+        {
+          "id": "services",
+          "overflow": false,
+          "images": true,
+          "glass": 4
+        },
+        {
+          "id": "process",
+          "overflow": false,
+          "images": true,
+          "glass": 4
+        },
+        {
+          "id": "contact",
+          "overflow": false,
+          "images": true,
+          "glass": 1
+        },
+        {
+          "id": "treasure-chest",
+          "overflow": false,
+          "images": true,
+          "glass": 0
+        }
+      ],
+      "gaps": [
+        14
+      ]
+    },
+    {
+      "name": "large-mobile",
+      "width": 430,
+      "height": 932,
+      "sections": [
+        {
+          "id": "home",
+          "overflow": false,
+          "images": true,
+          "glass": 2
+        },
+        {
+          "id": "work",
+          "overflow": false,
+          "images": true,
+          "glass": 6
+        },
+        {
+          "id": "stats",
+          "overflow": false,
+          "images": true,
+          "glass": 4
+        },
+        {
+          "id": "about",
+          "overflow": false,
+          "images": true,
+          "glass": 0
+        },
+        {
+          "id": "testimonials",
+          "overflow": false,
+          "images": true,
+          "glass": 2
+        },
+        {
+          "id": "services",
+          "overflow": false,
+          "images": true,
+          "glass": 5
+        },
+        {
+          "id": "process",
+          "overflow": false,
+          "images": true,
+          "glass": 4
+        },
+        {
+          "id": "contact",
+          "overflow": false,
+          "images": true,
+          "glass": 1
+        },
+        {
+          "id": "treasure-chest",
+          "overflow": false,
+          "images": true,
+          "glass": 0
+        }
+      ],
+      "gaps": [
+        14
+      ]
+    }
+  ],
+  "reduced": {
+    "glassHidden": true,
+    "moving": false
+  }
+}

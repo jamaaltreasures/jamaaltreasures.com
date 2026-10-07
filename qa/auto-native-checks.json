@@ -1,0 +1,895 @@
+{
+  "url": "http://127.0.0.1:8909/",
+  "time": "2026-10-06T03:09:36.453Z",
+  "errors": [],
+  "physicalTrackpad": false,
+  "physicalIPhone": false,
+  "views": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "start": {
+        "left": 343,
+        "x": 147,
+        "order": [
+          "VAxa0nOtasU",
+          "REx9OC8aBxI",
+          "N3ehx2X1GHw",
+          "NFM-W1yee3M",
+          "ZLDmSH4TAnQ",
+          "uootSJ-AQAk",
+          "NJ07cI6v59k",
+          "-KwD5SKwaCY",
+          "GP71a5onXXg",
+          "cuyxQ1y-XOo",
+          "kGi3CUhsWAc",
+          "P6HbDk4AFLM",
+          "3QyachiU0Jc",
+          "MvitXK0a4K8",
+          "d3UH7qi4VU0",
+          "AyHKdh1fqVI",
+          "sFYzSIKU_Ac",
+          "VGaQrC9-ERA",
+          "lvGq9eaw3DA",
+          "_MVRprJk7-M",
+          "vNiM67zZ3J4",
+          "Z3cm-Qv2x5A",
+          "hDqarr1KwTg",
+          "71oO2bYVGzo",
+          "JsJMuyaxoLE"
+        ],
+        "auto": true,
+        "players": [
+          {
+            "id": "REx9OC8aBxI",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 4.403872973297119
+          },
+          {
+            "id": "N3ehx2X1GHw",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 5.052069007629394
+          },
+          {
+            "id": "NFM-W1yee3M",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 1.850464937057495
+          },
+          {
+            "id": "VAxa0nOtasU",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 2.8276929198913576
+          }
+        ]
+      },
+      "moving": {
+        "left": 293,
+        "x": 197,
+        "order": [
+          "VAxa0nOtasU",
+          "REx9OC8aBxI",
+          "N3ehx2X1GHw",
+          "NFM-W1yee3M",
+          "ZLDmSH4TAnQ",
+          "uootSJ-AQAk",
+          "NJ07cI6v59k",
+          "-KwD5SKwaCY",
+          "GP71a5onXXg",
+          "cuyxQ1y-XOo",
+          "kGi3CUhsWAc",
+          "P6HbDk4AFLM",
+          "3QyachiU0Jc",
+          "MvitXK0a4K8",
+          "d3UH7qi4VU0",
+          "AyHKdh1fqVI",
+          "sFYzSIKU_Ac",
+          "VGaQrC9-ERA",
+          "lvGq9eaw3DA",
+          "_MVRprJk7-M",
+          "vNiM67zZ3J4",
+          "Z3cm-Qv2x5A",
+          "hDqarr1KwTg",
+          "71oO2bYVGzo",
+          "JsJMuyaxoLE"
+        ],
+        "auto": true,
+        "players": [
+          {
+            "id": "REx9OC8aBxI",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 7.301074013351441
+          },
+          {
+            "id": "N3ehx2X1GHw",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 7.946374891281128
+          },
+          {
+            "id": "NFM-W1yee3M",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 4.746782080108643
+          },
+          {
+            "id": "VAxa0nOtasU",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 5.742868085830689
+          }
+        ]
+      },
+      "wheel": {
+        "left": 707,
+        "y": 948,
+        "beforeY": 948
+      },
+      "vertical": {
+        "left": 707,
+        "y": 1108
+      },
+      "edge": {
+        "prev": true,
+        "next": false,
+        "arrow": 60
+      },
+      "next": 490,
+      "prev": 0,
+      "shifted": {
+        "left": 4000,
+        "x": -3510,
+        "order": [
+          "VAxa0nOtasU",
+          "REx9OC8aBxI",
+          "N3ehx2X1GHw",
+          "NFM-W1yee3M",
+          "ZLDmSH4TAnQ",
+          "uootSJ-AQAk",
+          "NJ07cI6v59k",
+          "-KwD5SKwaCY",
+          "GP71a5onXXg",
+          "cuyxQ1y-XOo",
+          "kGi3CUhsWAc",
+          "P6HbDk4AFLM",
+          "3QyachiU0Jc",
+          "MvitXK0a4K8",
+          "d3UH7qi4VU0",
+          "AyHKdh1fqVI",
+          "sFYzSIKU_Ac",
+          "VGaQrC9-ERA",
+          "lvGq9eaw3DA",
+          "_MVRprJk7-M",
+          "vNiM67zZ3J4",
+          "Z3cm-Qv2x5A",
+          "hDqarr1KwTg",
+          "71oO2bYVGzo",
+          "JsJMuyaxoLE"
+        ],
+        "auto": false,
+        "players": [
+          {
+            "id": "ZLDmSH4TAnQ",
+            "visible": false,
+            "state": 2,
+            "muted": true,
+            "time": 0.155811
+          },
+          {
+            "id": "GP71a5onXXg",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 2.29336787411499
+          },
+          {
+            "id": "cuyxQ1y-XOo",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 0.029195897003173828
+          },
+          {
+            "id": "kGi3CUhsWAc",
+            "visible": true,
+            "state": 3,
+            "muted": true,
+            "time": 0
+          },
+          {
+            "id": "P6HbDk4AFLM",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 2.6602428340606687
+          }
+        ]
+      },
+      "shiftedLater": {
+        "left": 4000,
+        "x": -3510,
+        "order": [
+          "VAxa0nOtasU",
+          "REx9OC8aBxI",
+          "N3ehx2X1GHw",
+          "NFM-W1yee3M",
+          "ZLDmSH4TAnQ",
+          "uootSJ-AQAk",
+          "NJ07cI6v59k",
+          "-KwD5SKwaCY",
+          "GP71a5onXXg",
+          "cuyxQ1y-XOo",
+          "kGi3CUhsWAc",
+          "P6HbDk4AFLM",
+          "3QyachiU0Jc",
+          "MvitXK0a4K8",
+          "d3UH7qi4VU0",
+          "AyHKdh1fqVI",
+          "sFYzSIKU_Ac",
+          "VGaQrC9-ERA",
+          "lvGq9eaw3DA",
+          "_MVRprJk7-M",
+          "vNiM67zZ3J4",
+          "Z3cm-Qv2x5A",
+          "hDqarr1KwTg",
+          "71oO2bYVGzo",
+          "JsJMuyaxoLE"
+        ],
+        "auto": false,
+        "players": [
+          {
+            "id": "ZLDmSH4TAnQ",
+            "visible": false,
+            "state": 2,
+            "muted": true,
+            "time": 0.155811
+          },
+          {
+            "id": "GP71a5onXXg",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 3.1954130381469725
+          },
+          {
+            "id": "cuyxQ1y-XOo",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 0.9271520705718994
+          },
+          {
+            "id": "kGi3CUhsWAc",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 0.48318401335144046
+          },
+          {
+            "id": "P6HbDk4AFLM",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 3.561709998092651
+          }
+        ]
+      },
+      "fullHeight": 52,
+      "popup": {
+        "open": true,
+        "id": "https://www.youtube-nocookie.com/embed/VAxa0nOtasU?autoplay=1&mute=0&controls=1&playsinline=1&rel=0&enablejsapi=1&origin=http%3A%2F%2F127.0.0.1%3A8909",
+        "state": 1,
+        "muted": false,
+        "auto": false,
+        "background": [
+          2,
+          2,
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "seek": 40,
+      "close": {
+        "open": false,
+        "focus": true
+      },
+      "copy": {
+        "heading": "Your next release deserves this level of care.",
+        "overflow": false,
+        "bioDash": false,
+        "count": 25
+      },
+      "reduced": {
+        "before": {
+          "left": 0,
+          "x": 490,
+          "order": [
+            "VAxa0nOtasU",
+            "REx9OC8aBxI",
+            "N3ehx2X1GHw",
+            "NFM-W1yee3M",
+            "ZLDmSH4TAnQ",
+            "uootSJ-AQAk",
+            "NJ07cI6v59k",
+            "-KwD5SKwaCY",
+            "GP71a5onXXg",
+            "cuyxQ1y-XOo",
+            "kGi3CUhsWAc",
+            "P6HbDk4AFLM",
+            "3QyachiU0Jc",
+            "MvitXK0a4K8",
+            "d3UH7qi4VU0",
+            "AyHKdh1fqVI",
+            "sFYzSIKU_Ac",
+            "VGaQrC9-ERA",
+            "lvGq9eaw3DA",
+            "_MVRprJk7-M",
+            "vNiM67zZ3J4",
+            "Z3cm-Qv2x5A",
+            "hDqarr1KwTg",
+            "71oO2bYVGzo",
+            "JsJMuyaxoLE"
+          ],
+          "auto": false,
+          "players": [
+            {
+              "id": "kGi3CUhsWAc",
+              "visible": false,
+              "state": 2,
+              "muted": true,
+              "time": 0.539817
+            },
+            {
+              "id": "P6HbDk4AFLM",
+              "visible": false,
+              "state": 2,
+              "muted": true,
+              "time": 3.620459
+            },
+            {
+              "id": "REx9OC8aBxI",
+              "visible": true,
+              "state": 2,
+              "muted": true,
+              "time": 0.082103
+            },
+            {
+              "id": "N3ehx2X1GHw",
+              "visible": true,
+              "state": 2,
+              "muted": true,
+              "time": 0.082878
+            },
+            {
+              "id": "VAxa0nOtasU",
+              "visible": true,
+              "state": 2,
+              "muted": true,
+              "time": 0.073551
+            }
+          ]
+        },
+        "after": {
+          "left": 0,
+          "x": 490,
+          "order": [
+            "VAxa0nOtasU",
+            "REx9OC8aBxI",
+            "N3ehx2X1GHw",
+            "NFM-W1yee3M",
+            "ZLDmSH4TAnQ",
+            "uootSJ-AQAk",
+            "NJ07cI6v59k",
+            "-KwD5SKwaCY",
+            "GP71a5onXXg",
+            "cuyxQ1y-XOo",
+            "kGi3CUhsWAc",
+            "P6HbDk4AFLM",
+            "3QyachiU0Jc",
+            "MvitXK0a4K8",
+            "d3UH7qi4VU0",
+            "AyHKdh1fqVI",
+            "sFYzSIKU_Ac",
+            "VGaQrC9-ERA",
+            "lvGq9eaw3DA",
+            "_MVRprJk7-M",
+            "vNiM67zZ3J4",
+            "Z3cm-Qv2x5A",
+            "hDqarr1KwTg",
+            "71oO2bYVGzo",
+            "JsJMuyaxoLE"
+          ],
+          "auto": false,
+          "players": [
+            {
+              "id": "kGi3CUhsWAc",
+              "visible": false,
+              "state": 2,
+              "muted": true,
+              "time": 0.539817
+            },
+            {
+              "id": "P6HbDk4AFLM",
+              "visible": false,
+              "state": 2,
+              "muted": true,
+              "time": 3.620459
+            },
+            {
+              "id": "REx9OC8aBxI",
+              "visible": true,
+              "state": 2,
+              "muted": true,
+              "time": 0.082103
+            },
+            {
+              "id": "N3ehx2X1GHw",
+              "visible": true,
+              "state": 2,
+              "muted": true,
+              "time": 0.082878
+            },
+            {
+              "id": "VAxa0nOtasU",
+              "visible": true,
+              "state": 2,
+              "muted": true,
+              "time": 0.073551
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "start": {
+        "left": 196,
+        "x": 150,
+        "order": [
+          "VAxa0nOtasU",
+          "REx9OC8aBxI",
+          "N3ehx2X1GHw",
+          "NFM-W1yee3M",
+          "ZLDmSH4TAnQ",
+          "uootSJ-AQAk",
+          "NJ07cI6v59k",
+          "-KwD5SKwaCY",
+          "GP71a5onXXg",
+          "cuyxQ1y-XOo",
+          "kGi3CUhsWAc",
+          "P6HbDk4AFLM",
+          "3QyachiU0Jc",
+          "MvitXK0a4K8",
+          "d3UH7qi4VU0",
+          "AyHKdh1fqVI",
+          "sFYzSIKU_Ac",
+          "VGaQrC9-ERA",
+          "lvGq9eaw3DA",
+          "_MVRprJk7-M",
+          "vNiM67zZ3J4",
+          "Z3cm-Qv2x5A",
+          "hDqarr1KwTg",
+          "71oO2bYVGzo",
+          "JsJMuyaxoLE"
+        ],
+        "auto": true,
+        "players": [
+          {
+            "id": "REx9OC8aBxI",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 7.494805102996827
+          },
+          {
+            "id": "N3ehx2X1GHw",
+            "visible": false,
+            "state": 2,
+            "muted": true,
+            "time": 0.166821
+          },
+          {
+            "id": "VAxa0nOtasU",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 5.80240912588501
+          }
+        ]
+      },
+      "moving": {
+        "left": 148,
+        "x": 198,
+        "order": [
+          "VAxa0nOtasU",
+          "REx9OC8aBxI",
+          "N3ehx2X1GHw",
+          "NFM-W1yee3M",
+          "ZLDmSH4TAnQ",
+          "uootSJ-AQAk",
+          "NJ07cI6v59k",
+          "-KwD5SKwaCY",
+          "GP71a5onXXg",
+          "cuyxQ1y-XOo",
+          "kGi3CUhsWAc",
+          "P6HbDk4AFLM",
+          "3QyachiU0Jc",
+          "MvitXK0a4K8",
+          "d3UH7qi4VU0",
+          "AyHKdh1fqVI",
+          "sFYzSIKU_Ac",
+          "VGaQrC9-ERA",
+          "lvGq9eaw3DA",
+          "_MVRprJk7-M",
+          "vNiM67zZ3J4",
+          "Z3cm-Qv2x5A",
+          "hDqarr1KwTg",
+          "71oO2bYVGzo",
+          "JsJMuyaxoLE"
+        ],
+        "auto": true,
+        "players": [
+          {
+            "id": "REx9OC8aBxI",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 10.173555866485597
+          },
+          {
+            "id": "N3ehx2X1GHw",
+            "visible": false,
+            "state": 2,
+            "muted": true,
+            "time": 0.166821
+          },
+          {
+            "id": "VAxa0nOtasU",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 8.481778837875366
+          }
+        ]
+      },
+      "wheel": {
+        "left": 564,
+        "y": 801,
+        "beforeY": 801
+      },
+      "vertical": {
+        "left": 564,
+        "y": 961
+      },
+      "edge": {
+        "prev": true,
+        "next": false,
+        "arrow": 60
+      },
+      "next": 346,
+      "prev": 0,
+      "touch": {
+        "left": 195,
+        "popup": false
+      },
+      "shifted": {
+        "left": 4000,
+        "x": -3654,
+        "order": [
+          "VAxa0nOtasU",
+          "REx9OC8aBxI",
+          "N3ehx2X1GHw",
+          "NFM-W1yee3M",
+          "ZLDmSH4TAnQ",
+          "uootSJ-AQAk",
+          "NJ07cI6v59k",
+          "-KwD5SKwaCY",
+          "GP71a5onXXg",
+          "cuyxQ1y-XOo",
+          "kGi3CUhsWAc",
+          "P6HbDk4AFLM",
+          "3QyachiU0Jc",
+          "MvitXK0a4K8",
+          "d3UH7qi4VU0",
+          "AyHKdh1fqVI",
+          "sFYzSIKU_Ac",
+          "VGaQrC9-ERA",
+          "lvGq9eaw3DA",
+          "_MVRprJk7-M",
+          "vNiM67zZ3J4",
+          "Z3cm-Qv2x5A",
+          "hDqarr1KwTg",
+          "71oO2bYVGzo",
+          "JsJMuyaxoLE"
+        ],
+        "auto": false,
+        "players": [
+          {
+            "id": "REx9OC8aBxI",
+            "visible": false,
+            "state": 2,
+            "muted": true,
+            "time": 14.375788
+          },
+          {
+            "id": "N3ehx2X1GHw",
+            "visible": false,
+            "state": 2,
+            "muted": true,
+            "time": 1.709024
+          },
+          {
+            "id": "VAxa0nOtasU",
+            "visible": false,
+            "state": 2,
+            "muted": true,
+            "time": 11.167094
+          },
+          {
+            "id": "P6HbDk4AFLM",
+            "visible": true,
+            "state": 3,
+            "muted": true,
+            "time": 0
+          },
+          {
+            "id": "3QyachiU0Jc",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 2.4166559275207518
+          }
+        ]
+      },
+      "shiftedLater": {
+        "left": 4000,
+        "x": -3654,
+        "order": [
+          "VAxa0nOtasU",
+          "REx9OC8aBxI",
+          "N3ehx2X1GHw",
+          "NFM-W1yee3M",
+          "ZLDmSH4TAnQ",
+          "uootSJ-AQAk",
+          "NJ07cI6v59k",
+          "-KwD5SKwaCY",
+          "GP71a5onXXg",
+          "cuyxQ1y-XOo",
+          "kGi3CUhsWAc",
+          "P6HbDk4AFLM",
+          "3QyachiU0Jc",
+          "MvitXK0a4K8",
+          "d3UH7qi4VU0",
+          "AyHKdh1fqVI",
+          "sFYzSIKU_Ac",
+          "VGaQrC9-ERA",
+          "lvGq9eaw3DA",
+          "_MVRprJk7-M",
+          "vNiM67zZ3J4",
+          "Z3cm-Qv2x5A",
+          "hDqarr1KwTg",
+          "71oO2bYVGzo",
+          "JsJMuyaxoLE"
+        ],
+        "auto": false,
+        "players": [
+          {
+            "id": "REx9OC8aBxI",
+            "visible": false,
+            "state": 2,
+            "muted": true,
+            "time": 14.375788
+          },
+          {
+            "id": "N3ehx2X1GHw",
+            "visible": false,
+            "state": 2,
+            "muted": true,
+            "time": 1.709024
+          },
+          {
+            "id": "VAxa0nOtasU",
+            "visible": false,
+            "state": 2,
+            "muted": true,
+            "time": 11.167094
+          },
+          {
+            "id": "P6HbDk4AFLM",
+            "visible": true,
+            "state": 3,
+            "muted": true,
+            "time": 0
+          },
+          {
+            "id": "3QyachiU0Jc",
+            "visible": true,
+            "state": 1,
+            "muted": true,
+            "time": 3.317445988555908
+          }
+        ]
+      },
+      "fullHeight": 52,
+      "popup": {
+        "open": true,
+        "id": "https://www.youtube-nocookie.com/embed/VAxa0nOtasU?autoplay=1&mute=0&controls=1&playsinline=1&rel=0&enablejsapi=1&origin=http%3A%2F%2F127.0.0.1%3A8909",
+        "state": 1,
+        "muted": false,
+        "auto": false,
+        "background": [
+          2,
+          2,
+          2,
+          -1,
+          2
+        ]
+      },
+      "seek": 40,
+      "close": {
+        "open": false,
+        "focus": true
+      },
+      "copy": {
+        "heading": "Your next release deserves this level of care.",
+        "overflow": false,
+        "bioDash": false,
+        "count": 25
+      },
+      "reduced": {
+        "before": {
+          "left": 0,
+          "x": 346,
+          "order": [
+            "VAxa0nOtasU",
+            "REx9OC8aBxI",
+            "N3ehx2X1GHw",
+            "NFM-W1yee3M",
+            "ZLDmSH4TAnQ",
+            "uootSJ-AQAk",
+            "NJ07cI6v59k",
+            "-KwD5SKwaCY",
+            "GP71a5onXXg",
+            "cuyxQ1y-XOo",
+            "kGi3CUhsWAc",
+            "P6HbDk4AFLM",
+            "3QyachiU0Jc",
+            "MvitXK0a4K8",
+            "d3UH7qi4VU0",
+            "AyHKdh1fqVI",
+            "sFYzSIKU_Ac",
+            "VGaQrC9-ERA",
+            "lvGq9eaw3DA",
+            "_MVRprJk7-M",
+            "vNiM67zZ3J4",
+            "Z3cm-Qv2x5A",
+            "hDqarr1KwTg",
+            "71oO2bYVGzo",
+            "JsJMuyaxoLE"
+          ],
+          "auto": false,
+          "players": [
+            {
+              "id": "REx9OC8aBxI",
+              "visible": true,
+              "state": 3,
+              "muted": true,
+              "time": 14.991419
+            },
+            {
+              "id": "N3ehx2X1GHw",
+              "visible": false,
+              "state": 2,
+              "muted": true,
+              "time": 1.709024
+            },
+            {
+              "id": "VAxa0nOtasU",
+              "visible": true,
+              "state": 3,
+              "muted": true,
+              "time": 11.791741
+            },
+            {
+              "id": "P6HbDk4AFLM",
+              "visible": false,
+              "state": -1,
+              "muted": true,
+              "time": 0
+            },
+            {
+              "id": "3QyachiU0Jc",
+              "visible": false,
+              "state": 2,
+              "muted": true,
+              "time": 3.344929
+            }
+          ]
+        },
+        "after": {
+          "left": 0,
+          "x": 346,
+          "order": [
+            "VAxa0nOtasU",
+            "REx9OC8aBxI",
+            "N3ehx2X1GHw",
+            "NFM-W1yee3M",
+            "ZLDmSH4TAnQ",
+            "uootSJ-AQAk",
+            "NJ07cI6v59k",
+            "-KwD5SKwaCY",
+            "GP71a5onXXg",
+            "cuyxQ1y-XOo",
+            "kGi3CUhsWAc",
+            "P6HbDk4AFLM",
+            "3QyachiU0Jc",
+            "MvitXK0a4K8",
+            "d3UH7qi4VU0",
+            "AyHKdh1fqVI",
+            "sFYzSIKU_Ac",
+            "VGaQrC9-ERA",
+            "lvGq9eaw3DA",
+            "_MVRprJk7-M",
+            "vNiM67zZ3J4",
+            "Z3cm-Qv2x5A",
+            "hDqarr1KwTg",
+            "71oO2bYVGzo",
+            "JsJMuyaxoLE"
+          ],
+          "auto": false,
+          "players": [
+            {
+              "id": "REx9OC8aBxI",
+              "visible": true,
+              "state": 2,
+              "muted": true,
+              "time": 14.991419
+            },
+            {
+              "id": "N3ehx2X1GHw",
+              "visible": false,
+              "state": 2,
+              "muted": true,
+              "time": 1.709024
+            },
+            {
+              "id": "VAxa0nOtasU",
+              "visible": true,
+              "state": 2,
+              "muted": true,
+              "time": 11.791741
+            },
+            {
+              "id": "P6HbDk4AFLM",
+              "visible": false,
+              "state": -1,
+              "muted": true,
+              "time": 0
+            },
+            {
+              "id": "3QyachiU0Jc",
+              "visible": false,
+              "state": 2,
+              "muted": true,
+              "time": 3.344929
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

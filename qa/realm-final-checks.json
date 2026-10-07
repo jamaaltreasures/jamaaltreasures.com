@@ -1,0 +1,137 @@
+{
+  "url": "http://127.0.0.1:8909/",
+  "time": "2026-10-06T03:39:43.161Z",
+  "errors": [],
+  "physicalTrackpad": false,
+  "physicalIPhone": false,
+  "views": [
+    {
+      "name": "desktop",
+      "before": {
+        "src": "",
+        "preload": "none",
+        "overflow": false
+      },
+      "playing": {
+        "duration": 293.45,
+        "time": 6.60978,
+        "paused": false,
+        "muted": false,
+        "width": 1920,
+        "height": 1080,
+        "controls": true,
+        "status": ""
+      },
+      "seek1080": {
+        "time": 123.935291,
+        "width": 1920,
+        "height": 1080,
+        "paused": false
+      },
+      "nativeTimeline": 211.47448,
+      "offscreen": {
+        "paused": true,
+        "time": 211.508691
+      },
+      "offscreenLater": {
+        "paused": true,
+        "time": 211.508691
+      },
+      "nearEnd": {
+        "duration": 293.460666,
+        "time": 213.276558,
+        "width": 1280,
+        "paused": false
+      }
+    },
+    {
+      "name": "mobile",
+      "before": {
+        "src": "",
+        "preload": "none",
+        "overflow": false
+      },
+      "playing": {
+        "duration": 293.45,
+        "time": 6.772308,
+        "paused": false,
+        "muted": false,
+        "width": 1920,
+        "height": 1080,
+        "controls": true,
+        "status": ""
+      },
+      "seek1080": {
+        "time": 123.927224,
+        "width": 1920,
+        "height": 1080,
+        "paused": false
+      },
+      "nativeTimeline": 216.576484,
+      "offscreen": {
+        "paused": true,
+        "time": 216.601594
+      },
+      "offscreenLater": {
+        "paused": true,
+        "time": 216.601594
+      },
+      "nearEnd": {
+        "duration": 293.460666,
+        "time": 218.340152,
+        "width": 1280,
+        "paused": false
+      }
+    },
+    {
+      "name": "mse",
+      "before": {
+        "src": "",
+        "preload": "none",
+        "overflow": false
+      },
+      "playing": {
+        "duration": 293.45,
+        "time": 6.767198,
+        "paused": false,
+        "muted": false,
+        "width": 1920,
+        "height": 1080,
+        "controls": true,
+        "status": "",
+        "levels": [
+          {
+            "height": 720,
+            "codec": "avc1.640020"
+          },
+          {
+            "height": 1080,
+            "codec": "avc1.64002a"
+          }
+        ],
+        "hlsVersion": "1.7.3"
+      },
+      "seek1080": {
+        "time": 123.83241,
+        "width": 1920,
+        "height": 1080,
+        "paused": false
+      },
+      "nativeTimeline": 211.474175,
+      "offscreen": {
+        "paused": true,
+        "time": 211.490698
+      },
+      "offscreenLater": {
+        "paused": true,
+        "time": 211.490698
+      },
+      "nearEnd": {
+        "duration": 293.493999,
+        "time": 290.8413,
+        "width": 1280,
+        "paused": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "checked": "2026-10-05",
+  "headline": "5M+",
+  "directed_upload_subtotal": 5649847,
+  "distinct_uploads": 24,
+  "scope": "Explicitly credited direction, including external artist and WORLDSTARHIPHOP uploads. Cumulative views, not unique viewers. Conservative headline accepted by user. Not whole-channel views.",
+  "provenance": "Parent connected YouTube API audit, thread 01a10e56-164a-7040-b9e5-808cc58cd95e",
+  "featured_videos": [
+    {
+      "id": "REx9OC8aBxI",
+      "title": "Rayy Dubb \u00b7 The Rain",
+      "views": 1859054,
+      "upload_channel": "Rayy Dubb",
+      "url": "https://www.youtube.com/watch?v=REx9OC8aBxI",
+      "credit": "Direction \u00b7 CimtexPro"
+    },
+    {
+      "id": "N3ehx2X1GHw",
+      "title": "Rayy Dubb & Jay Million \u00b7 Dumb Shit",
+      "views": 1556000,
+      "upload_channel": "WORLDSTARHIPHOP",
+      "url": "https://www.youtube.com/watch?v=N3ehx2X1GHw",
+      "credit": "Direction \u00b7 CimtexPro"
+    },
+    {
+      "id": "NFM-W1yee3M",
+      "title": "Rayy Dubb \u00b7 My God",
+      "views": 992906,
+      "upload_channel": "Rayy Dubb",
+      "url": "https://www.youtube.com/watch?v=NFM-W1yee3M",
+      "credit": "Direction \u00b7 CimtexPro"
+    },
+    {
+      "id": "ZLDmSH4TAnQ",
+      "title": "Rayy Dubb \u00b7 Bang It Out",
+      "views": 689226,
+      "upload_channel": "WORLDSTARHIPHOP",
+      "url": "https://www.youtube.com/watch?v=ZLDmSH4TAnQ",
+      "credit": "Direction \u00b7 CimtexPro"
+    },
+    {
+      "id": "uootSJ-AQAk",
+      "title": "Rayy Dubb \u00b7 I AINT DEAD",
+      "views": 402598,
+      "upload_channel": "Rayy Dubb",
+      "url": "https://www.youtube.com/watch?v=uootSJ-AQAk",
+      "credit": "Direction \u00b7 CimtexPro"
+    },
+    {
+      "id": "NJ07cI6v59k",
+      "title": "Rayy Dubb \u00b7 Leave Me Alone",
+      "views": 121252,
+      "upload_channel": "CimtexPro",
+      "url": "https://www.youtube.com/watch?v=NJ07cI6v59k",
+      "credit": "Direction \u00b7 CimtexPro"
+    }
+  ],
+  "instagram": {
+    "combined_followers": 7154,
+    "accounts": [
+      {
+        "handle": "2korrow",
+        "url": "https://www.instagram.com/2korrow/",
+        "followers": 2713,
+        "precision": "exact integer",
+        "observed_at": "2026-10-06T00:14:12.582Z",
+        "source": "Visible public Instagram profile in actual Chrome browser",
+        "verification": "public_profile_observed",
+        "identity": "User explicitly identified this exact handle as their account",
+        "notes": "Visible count used; meta description can be stale. Former CimtexPro is not counted separately."
+      },
+      {
+        "handle": "oracle_gemini",
+        "url": "https://www.instagram.com/oracle_gemini/",
+        "followers": 1447,
+        "precision": "exact integer",
+        "observed_at": "2026-10-06T00:14:17.730Z",
+        "source": "Visible public Instagram profile in actual Chrome browser",
+        "verification": "public_profile_observed",
+        "identity": "User explicitly identified this exact handle as their account",
+        "notes": "Visible profile count takes precedence over stale metadata."
+      },
+      {
+        "handle": "cjdonmiss111",
+        "url": "https://www.instagram.com/cjdonmiss111/",
+        "followers": 1345,
+        "precision": "exact integer",
+        "observed_at": "2026-10-06T00:14:22.556Z",
+        "source": "User supplied count in current conversation",
+        "verification": "user_reported",
+        "identity": "User explicitly identified this exact handle as their account",
+        "notes": "Public profile unavailable during check. Count supplied by user: 1345."
+      },
+      {
+        "handle": "jamaaltreasures",
+        "url": "https://www.instagram.com/jamaaltreasures/",
+        "followers": 709,
+        "precision": "exact integer",
+        "observed_at": "2026-10-06T00:14:27.178Z",
+        "source": "Visible public Instagram profile in actual Chrome browser",
+        "verification": "public_profile_observed",
+        "identity": "User explicitly identified this exact handle as their account",
+        "notes": "Visible profile count takes precedence over stale metadata."
+      },
+      {
+        "handle": "forbiddenforbes",
+        "url": "https://www.instagram.com/forbiddenforbes/",
+        "followers": 940,
+        "precision": "exact integer",
+        "observed_at": "2026-10-06T00:14:31.954Z",
+        "source": "Visible public Instagram profile in actual Chrome browser",
+        "verification": "public_profile_observed",
+        "identity": "User explicitly identified this exact handle as their account",
+        "notes": "Visible profile count takes precedence over stale metadata."
+      }
+    ],
+    "scope": "Sum across five accounts, not unique people. Four directly observed counts plus one user reported count."
+  },
+  "youtube": {
+    "channel_id": "UCUaxPKn8_BdqCE0QN_VdGXg",
+    "handle": "cimtexpro5593",
+    "subscribers": 572,
+    "url": "https://www.youtube.com/@cimtexpro5593"
+  },
+  "unknowns": [
+    "Apple Music 1.6M is an artist estimate pending an analytics report.",
+    "CJ count 1345 is user reported; public profile unavailable."
+  ],
+  "evidence_file": "verified-video-reach.json",
+  "apple_music": {
+    "estimate": 1600000,
+    "source": "User: I think over 1.6 million",
+    "verification": "unverified_artist_estimate",
+    "artist_url": "https://music.apple.com/us/artist/oracle-gemini/1592709950",
+    "identity_source": "Linked Apple Music URL in existing Safari Instagram outbound tab. Public profile for oracle_gemini links Apple Music."
+  }
+}

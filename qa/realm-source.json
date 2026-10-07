@@ -1,0 +1,14 @@
+{
+  "source": "/Users/cjmitchell/Documents/THE_REALM_FINISH/THE_REALM_YOUTUBE_FINAL_V3.mp4",
+  "source_bytes": 261074130,
+  "source_duration_seconds": 258.816667,
+  "source_version_evidence": "FINISH_NOTES.txt identifies V3 as latest; original is retained unchanged.",
+  "web_export": "assets/realm-web.mp4",
+  "poster": "assets/realm-poster.webp",
+  "poster_timestamp_seconds": 32,
+  "captions": "assets/realm-captions.vtt",
+  "caption_source": "rebuild_v3/dialogue_manifest.json, 56 timed dialogue cues",
+  "attribution": "Adrift Among Infinite Stars by Scott Buckley. CC BY 4.0. Music shortened, crossfaded, equalized, and mixed to picture.",
+  "track_url": "https://www.scottbuckley.com.au/library/adrift-among-infinite-stars/",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/"
+}

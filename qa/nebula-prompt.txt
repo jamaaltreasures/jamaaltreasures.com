@@ -1,0 +1,10 @@
+Mode: built-in imagegen
+New user-requested red/purple/white art direction; one call, no retries.
+
+Use case: stylized-concept
+Asset type: standalone full-bleed 16:9 cinematic galaxy/nebula background for a premium website.
+Primary request: deep almost-black aubergine cosmos with finely detailed red/crimson nebula mist blending into violet and purple, fine white stars, restrained pearl-white cosmic light and delicate refraction. Atmospheric astrophotographic detail broadly distributed across the image with darker left and center zones suitable for white typography overlay. Rich red, violet and purple depth must remain perceptible, not a solid-black void. The visual atmosphere is inspired only by the purple and crimson cosmic palette in the previously viewed color reference; do not reproduce that image's scene, objects, layout or people.
+Style: premium cinematic cosmic environment, subtle radiance, fine smoky tendrils, soft deep layers, restrained density and saturation. Beautiful and serene, not neon clutter or fantasy scenery.
+Composition: 16:9 landscape, pure outer space edge to edge. Visible detailed gas clouds near the edges and right, subtler nebula depth through the darker left and center. Fine pinpoint white stars distributed with restraint.
+Constraints: No green, no earthy palette. No people, no silhouettes, no mountains, no landscape, no ground, no water, no planets, no text, no letters, no UI, no frame, no logo, no watermark, no giant star or giant central luminous object. Output only the new standalone galaxy background.
+

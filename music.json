@@ -1,0 +1,1078 @@
+{
+  "artist": "Oracle Gemini",
+  "tracks": [
+    {
+      "id": "1bf1cabc7f1b80608b83",
+      "title": "THE FIRE",
+      "artist": "Oracle Gemini",
+      "album": "THE FIRE - Single",
+      "year": "2026",
+      "track": 1,
+      "duration": 194.24,
+      "cover": "assets/music-covers/8a7486748368ecdf.webp",
+      "audio": "1bf1cabc7f1b80608b83.m4a"
+    },
+    {
+      "id": "59f879afa7cc2f40753d",
+      "title": "Say You Love",
+      "artist": "Oracle Gemini",
+      "album": "Say You Love - Single",
+      "year": "2025",
+      "track": 1,
+      "duration": 151.47,
+      "cover": "assets/music-covers/35dcf53713602454.webp",
+      "audio": "59f879afa7cc2f40753d.m4a"
+    },
+    {
+      "id": "58a73011359407a15adc",
+      "title": "LIKE THE LEAVES DO",
+      "artist": "Oracle Gemini",
+      "album": "LIKE THE LEAVES DO - Single",
+      "year": "2025",
+      "track": 1,
+      "duration": 164.98,
+      "cover": "assets/music-covers/f6605ec5505b470b.webp",
+      "audio": "58a73011359407a15adc.m4a"
+    },
+    {
+      "id": "622c8a14f2080be6d6c2",
+      "title": "Czar",
+      "artist": "Oracle Gemini",
+      "album": "Czar - Single",
+      "year": "2025",
+      "track": 1,
+      "duration": 166.14,
+      "cover": "assets/music-covers/01d81e11904192c5.webp",
+      "audio": "622c8a14f2080be6d6c2.m4a"
+    },
+    {
+      "id": "a06c5b97db7081ba7c9b",
+      "title": "CANT HOLD THAT",
+      "artist": "Oracle Gemini",
+      "album": "CANT HOLD THAT - Single",
+      "year": "2025",
+      "track": 1,
+      "duration": 161.03,
+      "cover": "assets/music-covers/2a8cbbd287989c68.webp",
+      "audio": "a06c5b97db7081ba7c9b.m4a"
+    },
+    {
+      "id": "171afe770650c4166205",
+      "title": "9AM",
+      "artist": "Oracle Gemini",
+      "album": "9AM - Single",
+      "year": "2025",
+      "track": 1,
+      "duration": 135.58,
+      "cover": "assets/music-covers/1d6287022ddd57f8.webp",
+      "audio": "171afe770650c4166205.m4a"
+    },
+    {
+      "id": "05463cdff821f33dc0e6",
+      "title": "2025",
+      "artist": "Oracle Gemini",
+      "album": "2025 - Single",
+      "year": "2025",
+      "track": 1,
+      "duration": 154.6,
+      "cover": "assets/music-covers/d7b571c73f8ce902.webp",
+      "audio": "05463cdff821f33dc0e6.m4a"
+    },
+    {
+      "id": "662195fcf81ffe907d60",
+      "title": "TOOK A RISK",
+      "artist": "Oracle Gemini",
+      "album": "TOOK A RISK - Single",
+      "year": "2024",
+      "track": 1,
+      "duration": 169.02,
+      "cover": "assets/music-covers/5b22c6c1e5315831.webp",
+      "audio": "662195fcf81ffe907d60.m4a"
+    },
+    {
+      "id": "da74fcb6b054a1259d87",
+      "title": "Stop Calling",
+      "artist": "Oracle Gemini, 1Mod",
+      "album": "Stop Calling - Single",
+      "year": "2024",
+      "track": 1,
+      "duration": 218.25,
+      "cover": "assets/music-covers/713471e8d5973e3e.webp",
+      "audio": "da74fcb6b054a1259d87.m4a"
+    },
+    {
+      "id": "7c3455da1f6a36787afa",
+      "title": "LISTEN",
+      "artist": "Oracle Gemini",
+      "album": "LISTEN - Single",
+      "year": "2024",
+      "track": 1,
+      "duration": 241.7,
+      "cover": "assets/music-covers/9e8fa769426ca6c6.webp",
+      "audio": "7c3455da1f6a36787afa.m4a"
+    },
+    {
+      "id": "c9f11c9a3957074a02e4",
+      "title": "Scenes To Reality",
+      "artist": "Oracle Gemini",
+      "album": "Ghost Tune - Single",
+      "year": "2024",
+      "track": 2,
+      "duration": 186.09,
+      "cover": "assets/music-covers/64fa2bee6a6c3f1a.webp",
+      "audio": "c9f11c9a3957074a02e4.m4a"
+    },
+    {
+      "id": "ced7a05732267e372dca",
+      "title": "Ghost Tune",
+      "artist": "Oracle Gemini",
+      "album": "Ghost Tune - Single",
+      "year": "2024",
+      "track": 1,
+      "duration": 145.15,
+      "cover": "assets/music-covers/64fa2bee6a6c3f1a.webp",
+      "audio": "ced7a05732267e372dca.m4a"
+    },
+    {
+      "id": "b14e1164cb6ff047f419",
+      "title": "FEEL THE SAME",
+      "artist": "Oracle Gemini",
+      "album": "FEEL THE SAME - Single",
+      "year": "2024",
+      "track": 1,
+      "duration": 147.77,
+      "cover": "assets/music-covers/e9aa5442095d0573.webp",
+      "audio": "b14e1164cb6ff047f419.m4a"
+    },
+    {
+      "id": "d32d5a9702a3766e82fa",
+      "title": "Vibin Through My Changes (feat. Oracle Gemini)",
+      "artist": "Aries Almighty",
+      "album": "Blurry - EP",
+      "year": "2024",
+      "track": 4,
+      "duration": 185.81,
+      "cover": "assets/music-covers/b4b7febd9c6d6b2a.webp",
+      "audio": "d32d5a9702a3766e82fa.m4a"
+    },
+    {
+      "id": "3c46f78907206a1dc036",
+      "title": "Blackedout",
+      "artist": "Oracle Gemini",
+      "album": "Blackedout - Single",
+      "year": "2024",
+      "track": 1,
+      "duration": 173.13,
+      "cover": "assets/music-covers/5a5a76fafa2cccbf.webp",
+      "audio": "3c46f78907206a1dc036.m4a"
+    },
+    {
+      "id": "ef17da67662031f37646",
+      "title": "Away From Here",
+      "artist": "Oracle Gemini",
+      "album": "Away From Here - Single",
+      "year": "2024",
+      "track": 1,
+      "duration": 190.96,
+      "cover": "assets/music-covers/d24b3a3aca97bd27.webp",
+      "audio": "ef17da67662031f37646.m4a"
+    },
+    {
+      "id": "ba4d6c86b81592279221",
+      "title": "LU5T LE4SH (feat. Oracle Gemini)",
+      "artist": "v1d",
+      "album": "Tr1p4ever",
+      "year": "2023",
+      "track": 2,
+      "duration": 164.05,
+      "cover": "assets/music-covers/889a6822fbe2286c.webp",
+      "audio": "ba4d6c86b81592279221.m4a"
+    },
+    {
+      "id": "bda9ae6464c665613e79",
+      "title": "Talk on the net (feat. V1D)",
+      "artist": "Oracle Gemini",
+      "album": "Talk on the net (feat. V1D) - Single",
+      "year": "2023",
+      "track": 1,
+      "duration": 180.05,
+      "cover": "assets/music-covers/d0a9d4b789558df9.webp",
+      "audio": "bda9ae6464c665613e79.m4a"
+    },
+    {
+      "id": "a9c9175ef0443de0f20d",
+      "title": "So Cold",
+      "artist": "Oracle Gemini",
+      "album": "So Cold - Single",
+      "year": "2023",
+      "track": 1,
+      "duration": 192.17,
+      "cover": "assets/music-covers/fce71ee6a1d30093.webp",
+      "audio": "a9c9175ef0443de0f20d.m4a"
+    },
+    {
+      "id": "98268919b85dbeaded4a",
+      "title": "Red Pill",
+      "artist": "Oracle Gemini",
+      "album": "Red Pill - Single",
+      "year": "2023",
+      "track": 1,
+      "duration": 133.82,
+      "cover": "assets/music-covers/07d06c3663bb72b7.webp",
+      "audio": "98268919b85dbeaded4a.m4a"
+    },
+    {
+      "id": "bdb48552d5e48b49481c",
+      "title": "Quiet Eyes",
+      "artist": "Oracle Gemini",
+      "album": "Quiet Eyes - Single",
+      "year": "2023",
+      "track": 1,
+      "duration": 189.24,
+      "cover": "assets/music-covers/96ccb93a2f64c274.webp",
+      "audio": "bdb48552d5e48b49481c.m4a"
+    },
+    {
+      "id": "5387f5ad416b611bdd40",
+      "title": "Different",
+      "artist": "Aries Almighty, Oracle Gemini",
+      "album": "Legends of the Flame - EP",
+      "year": "2023",
+      "track": 6,
+      "duration": 184.85,
+      "cover": "assets/music-covers/6e37f6e5af42349a.webp",
+      "audio": "5387f5ad416b611bdd40.m4a"
+    },
+    {
+      "id": "c0150dcf2c216e140e37",
+      "title": "Face It",
+      "artist": "Aries Almighty, Oracle Gemini",
+      "album": "Legends of the Flame - EP",
+      "year": "2023",
+      "track": 5,
+      "duration": 120.37,
+      "cover": "assets/music-covers/6e37f6e5af42349a.webp",
+      "audio": "c0150dcf2c216e140e37.m4a"
+    },
+    {
+      "id": "d2e0348c39f9972d67b7",
+      "title": "Apeshit",
+      "artist": "Aries Almighty, Oracle Gemini",
+      "album": "Legends of the Flame - EP",
+      "year": "2023",
+      "track": 4,
+      "duration": 172.2,
+      "cover": "assets/music-covers/6e37f6e5af42349a.webp",
+      "audio": "d2e0348c39f9972d67b7.m4a"
+    },
+    {
+      "id": "1c1bdff02f01c23cbd2a",
+      "title": "Refreshed",
+      "artist": "Aries Almighty, Oracle Gemini",
+      "album": "Legends of the Flame - EP",
+      "year": "2023",
+      "track": 3,
+      "duration": 150.4,
+      "cover": "assets/music-covers/6e37f6e5af42349a.webp",
+      "audio": "1c1bdff02f01c23cbd2a.m4a"
+    },
+    {
+      "id": "90a840dae0b2a35090f8",
+      "title": "No Deal",
+      "artist": "Aries Almighty, Oracle Gemini",
+      "album": "Legends of the Flame - EP",
+      "year": "2023",
+      "track": 2,
+      "duration": 157.52,
+      "cover": "assets/music-covers/6e37f6e5af42349a.webp",
+      "audio": "90a840dae0b2a35090f8.m4a"
+    },
+    {
+      "id": "c7f8285ed78a9e7614f3",
+      "title": "The Abyss Wasn't So Bad",
+      "artist": "Aries Almighty, Oracle Gemini",
+      "album": "Legends of the Flame - EP",
+      "year": "2023",
+      "track": 1,
+      "duration": 198.9,
+      "cover": "assets/music-covers/6e37f6e5af42349a.webp",
+      "audio": "c7f8285ed78a9e7614f3.m4a"
+    },
+    {
+      "id": "913b8ff112aa1c65ac26",
+      "title": "It's Recess",
+      "artist": "Oracle Gemini",
+      "album": "It's Recess - Single",
+      "year": "2023",
+      "track": 1,
+      "duration": 160.36,
+      "cover": "assets/music-covers/110d9ff72a3bbe20.webp",
+      "audio": "913b8ff112aa1c65ac26.m4a"
+    },
+    {
+      "id": "39a4ccf32ebaf531f06d",
+      "title": "FRI3ND$ (feat. V1D)",
+      "artist": "Oracle Gemini",
+      "album": "FRI3ND$ (feat. V1D) - Single",
+      "year": "2023",
+      "track": 1,
+      "duration": 198.07,
+      "cover": "assets/music-covers/bd7fbb7656de6f5c.webp",
+      "audio": "39a4ccf32ebaf531f06d.m4a"
+    },
+    {
+      "id": "79267e8048887ad655f2",
+      "title": "F**k a Party",
+      "artist": "Oracle Gemini",
+      "album": "F**k a Party - Single",
+      "year": "2023",
+      "track": 1,
+      "duration": 190.54,
+      "cover": "assets/music-covers/44253230bc12f3af.webp",
+      "audio": "79267e8048887ad655f2.m4a"
+    },
+    {
+      "id": "0e25db4172d22d3da2b3",
+      "title": "Him",
+      "artist": "Oracle Gemini",
+      "album": "Echoes In the Ether",
+      "year": "2023",
+      "track": 16,
+      "duration": 142.57,
+      "cover": "assets/music-covers/c8e3ebda42406493.webp",
+      "audio": "0e25db4172d22d3da2b3.m4a"
+    },
+    {
+      "id": "e68e2aa0bbafab5a6daf",
+      "title": "WHY YOU DID THAT (feat. BREEZY)",
+      "artist": "Oracle Gemini",
+      "album": "Echoes In the Ether",
+      "year": "2023",
+      "track": 15,
+      "duration": 252.08,
+      "cover": "assets/music-covers/c8e3ebda42406493.webp",
+      "audio": "e68e2aa0bbafab5a6daf.m4a"
+    },
+    {
+      "id": "db08819eb31f1f694e93",
+      "title": "JUMP FORCE (feat. YRN FLEX)",
+      "artist": "Oracle Gemini",
+      "album": "Echoes In the Ether",
+      "year": "2023",
+      "track": 14,
+      "duration": 143.73,
+      "cover": "assets/music-covers/c8e3ebda42406493.webp",
+      "audio": "db08819eb31f1f694e93.m4a"
+    },
+    {
+      "id": "54f3d26df619f2242dc5",
+      "title": "GANG PLAN (feat. GRIMREEFERBABY & KK the INTROVERT)",
+      "artist": "Oracle Gemini",
+      "album": "Echoes In the Ether",
+      "year": "2023",
+      "track": 13,
+      "duration": 126.78,
+      "cover": "assets/music-covers/c8e3ebda42406493.webp",
+      "audio": "54f3d26df619f2242dc5.m4a"
+    },
+    {
+      "id": "6395e4ee34957d9cb226",
+      "title": "Its Infinite",
+      "artist": "Oracle Gemini",
+      "album": "Echoes In the Ether",
+      "year": "2023",
+      "track": 12,
+      "duration": 159.99,
+      "cover": "assets/music-covers/c8e3ebda42406493.webp",
+      "audio": "6395e4ee34957d9cb226.m4a"
+    },
+    {
+      "id": "2b22e67053cb779c9b35",
+      "title": "Out Da Mud",
+      "artist": "Oracle Gemini",
+      "album": "Echoes In the Ether",
+      "year": "2023",
+      "track": 11,
+      "duration": 159.57,
+      "cover": "assets/music-covers/c8e3ebda42406493.webp",
+      "audio": "2b22e67053cb779c9b35.m4a"
+    },
+    {
+      "id": "04024caafdb424a77658",
+      "title": "Paint It Up",
+      "artist": "Oracle Gemini",
+      "album": "Echoes In the Ether",
+      "year": "2023",
+      "track": 10,
+      "duration": 104.65,
+      "cover": "assets/music-covers/c8e3ebda42406493.webp",
+      "audio": "04024caafdb424a77658.m4a"
+    },
+    {
+      "id": "b3cf01b60b5c5e82b175",
+      "title": "Sailing",
+      "artist": "Oracle Gemini",
+      "album": "Echoes In the Ether",
+      "year": "2023",
+      "track": 9,
+      "duration": 107.16,
+      "cover": "assets/music-covers/c8e3ebda42406493.webp",
+      "audio": "b3cf01b60b5c5e82b175.m4a"
+    },
+    {
+      "id": "6864534cbe0b9ad44084",
+      "title": "Lane To Lane",
+      "artist": "Oracle Gemini",
+      "album": "Echoes In the Ether",
+      "year": "2023",
+      "track": 8,
+      "duration": 86.36,
+      "cover": "assets/music-covers/c8e3ebda42406493.webp",
+      "audio": "6864534cbe0b9ad44084.m4a"
+    },
+    {
+      "id": "362eb9e906aae773e593",
+      "title": "The RAIN (feat. KK the INTROVERT)",
+      "artist": "Oracle Gemini",
+      "album": "Echoes In the Ether",
+      "year": "2023",
+      "track": 7,
+      "duration": 178.65,
+      "cover": "assets/music-covers/c8e3ebda42406493.webp",
+      "audio": "362eb9e906aae773e593.m4a"
+    },
+    {
+      "id": "69df2c8ef3ad9b7edbec",
+      "title": "Dozed of Dreams",
+      "artist": "Oracle Gemini",
+      "album": "Echoes In the Ether",
+      "year": "2023",
+      "track": 6,
+      "duration": 102.21,
+      "cover": "assets/music-covers/c8e3ebda42406493.webp",
+      "audio": "69df2c8ef3ad9b7edbec.m4a"
+    },
+    {
+      "id": "364e614cecbff6094458",
+      "title": "Resonate",
+      "artist": "Oracle Gemini",
+      "album": "Echoes In the Ether",
+      "year": "2023",
+      "track": 5,
+      "duration": 110.9,
+      "cover": "assets/music-covers/c8e3ebda42406493.webp",
+      "audio": "364e614cecbff6094458.m4a"
+    },
+    {
+      "id": "f673f5a8379c7a938754",
+      "title": "Pick a Side",
+      "artist": "Oracle Gemini",
+      "album": "Echoes In the Ether",
+      "year": "2023",
+      "track": 4,
+      "duration": 155.9,
+      "cover": "assets/music-covers/c8e3ebda42406493.webp",
+      "audio": "f673f5a8379c7a938754.m4a"
+    },
+    {
+      "id": "046676abc340d1dd0d91",
+      "title": "Ghost In a Shell",
+      "artist": "Oracle Gemini",
+      "album": "Echoes In the Ether",
+      "year": "2023",
+      "track": 3,
+      "duration": 143.78,
+      "cover": "assets/music-covers/c8e3ebda42406493.webp",
+      "audio": "046676abc340d1dd0d91.m4a"
+    },
+    {
+      "id": "1e383fbb9b16880a01f8",
+      "title": "White Noise",
+      "artist": "Oracle Gemini",
+      "album": "Echoes In the Ether",
+      "year": "2023",
+      "track": 2,
+      "duration": 140.76,
+      "cover": "assets/music-covers/c8e3ebda42406493.webp",
+      "audio": "1e383fbb9b16880a01f8.m4a"
+    },
+    {
+      "id": "7a64baf7ba4c775d412d",
+      "title": "Disconnect",
+      "artist": "Oracle Gemini",
+      "album": "Echoes In the Ether",
+      "year": "2023",
+      "track": 1,
+      "duration": 90.19,
+      "cover": "assets/music-covers/c8e3ebda42406493.webp",
+      "audio": "7a64baf7ba4c775d412d.m4a"
+    },
+    {
+      "id": "67e92fac7f9c4f16bec2",
+      "title": "CREEP (feat. Oracle Gemini)",
+      "artist": "KK the Introvert, KK The Introvert",
+      "album": "DISCONNECTED - EP",
+      "year": "2023",
+      "track": 4,
+      "duration": 186.13,
+      "cover": "assets/music-covers/2aadb99e8a3a882a.webp",
+      "audio": "67e92fac7f9c4f16bec2.m4a"
+    },
+    {
+      "id": "7877128083a67f0ff649",
+      "title": "444",
+      "artist": "Oracle Gemini",
+      "album": "444 - Single",
+      "year": "2023",
+      "track": 1,
+      "duration": 186.85,
+      "cover": "assets/music-covers/04f8e7a9a0ff48df.webp",
+      "audio": "7877128083a67f0ff649.m4a"
+    },
+    {
+      "id": "46a30874ee2a89b84b1e",
+      "title": "Here to Stay",
+      "artist": "Oracle Gemini",
+      "album": "Sync - EP",
+      "year": "2022",
+      "track": 4,
+      "duration": 146.17,
+      "cover": "assets/music-covers/a1deae89be7d900f.webp",
+      "audio": "46a30874ee2a89b84b1e.m4a"
+    },
+    {
+      "id": "46ca83758a5e2b0c9c0f",
+      "title": "Use to Me",
+      "artist": "Oracle Gemini",
+      "album": "Sync - EP",
+      "year": "2022",
+      "track": 3,
+      "duration": 217.9,
+      "cover": "assets/music-covers/a1deae89be7d900f.webp",
+      "audio": "46ca83758a5e2b0c9c0f.m4a"
+    },
+    {
+      "id": "3e928d249104b541f4fb",
+      "title": "Sleep Deprived",
+      "artist": "Oracle Gemini",
+      "album": "Sync - EP",
+      "year": "2022",
+      "track": 2,
+      "duration": 242.28,
+      "cover": "assets/music-covers/a1deae89be7d900f.webp",
+      "audio": "3e928d249104b541f4fb.m4a"
+    },
+    {
+      "id": "0accbb7283d81fd59f04",
+      "title": "Never Know",
+      "artist": "Oracle Gemini",
+      "album": "Sync - EP",
+      "year": "2022",
+      "track": 1,
+      "duration": 194.07,
+      "cover": "assets/music-covers/a1deae89be7d900f.webp",
+      "audio": "0accbb7283d81fd59f04.m4a"
+    },
+    {
+      "id": "b6050167ced33aed9a5c",
+      "title": "NO TAK3 BAX (feat. Oracle Gemini)",
+      "artist": "KK the Introvert",
+      "album": "NO TAK3 BAX (feat. Oracle Gemini) - Single",
+      "year": "2022",
+      "track": 1,
+      "duration": 174.13,
+      "cover": "assets/music-covers/cad3ad38cc020c2c.webp",
+      "audio": "b6050167ced33aed9a5c.m4a"
+    },
+    {
+      "id": "22be80912a51f66f3654",
+      "title": "Inner Soul Key",
+      "artist": "Oracle Gemini",
+      "album": "Inner Soul Key - Single",
+      "year": "2022",
+      "track": 1,
+      "duration": 245.83,
+      "cover": "assets/music-covers/6dbd68a8b5df78bb.webp",
+      "audio": "22be80912a51f66f3654.m4a"
+    },
+    {
+      "id": "839697cbe84bce4518df",
+      "title": "5d Tv",
+      "artist": "Oracle Gemini",
+      "album": "Emotion - EP",
+      "year": "2022",
+      "track": 5,
+      "duration": 203.43,
+      "cover": "assets/music-covers/f5f333cce20a5e60.webp",
+      "audio": "839697cbe84bce4518df.m4a"
+    },
+    {
+      "id": "bb107fbf38bed0e4f2d0",
+      "title": "Strategy Heartbreak Tragedy",
+      "artist": "Oracle Gemini",
+      "album": "Emotion - EP",
+      "year": "2022",
+      "track": 4,
+      "duration": 193.12,
+      "cover": "assets/music-covers/f5f333cce20a5e60.webp",
+      "audio": "bb107fbf38bed0e4f2d0.m4a"
+    },
+    {
+      "id": "e13caedb511af9b5c765",
+      "title": "Humble",
+      "artist": "Oracle Gemini",
+      "album": "Emotion - EP",
+      "year": "2022",
+      "track": 3,
+      "duration": 155.36,
+      "cover": "assets/music-covers/f5f333cce20a5e60.webp",
+      "audio": "e13caedb511af9b5c765.m4a"
+    },
+    {
+      "id": "2e5a044089aa086b96f7",
+      "title": "Anonymous",
+      "artist": "Oracle Gemini",
+      "album": "Emotion - EP",
+      "year": "2022",
+      "track": 2,
+      "duration": 142.13,
+      "cover": "assets/music-covers/f5f333cce20a5e60.webp",
+      "audio": "2e5a044089aa086b96f7.m4a"
+    },
+    {
+      "id": "9c5a532e75a0e5fcaa47",
+      "title": "Outerlude",
+      "artist": "Oracle Gemini",
+      "album": "Emotion - EP",
+      "year": "2022",
+      "track": 1,
+      "duration": 68.89,
+      "cover": "assets/music-covers/f5f333cce20a5e60.webp",
+      "audio": "9c5a532e75a0e5fcaa47.m4a"
+    },
+    {
+      "id": "4a3f0a600c7055d555d8",
+      "title": "High Voltage (feat. Oracle Gemini)",
+      "artist": "Aries Almighty",
+      "album": "Darkest Dreams (Delux Edition)",
+      "year": "2022",
+      "track": 6,
+      "duration": 156.18,
+      "cover": "assets/music-covers/392ccb3eda9f45a0.webp",
+      "audio": "4a3f0a600c7055d555d8.m4a"
+    },
+    {
+      "id": "8fe9a6de12f887fa9fb2",
+      "title": "Changes (feat. Kk the introvert & Oracle Gemini)",
+      "artist": "Aries Almighty",
+      "album": "Darkest Dreams (Delux Edition)",
+      "year": "2022",
+      "track": 3,
+      "duration": 245.46,
+      "cover": "assets/music-covers/392ccb3eda9f45a0.webp",
+      "audio": "8fe9a6de12f887fa9fb2.m4a"
+    },
+    {
+      "id": "373159b90454266a9947",
+      "title": "¡YuGiOh! (feat. Oracle Gemini)",
+      "artist": "Aries Almighty",
+      "album": "Blurry - EP",
+      "year": "2022",
+      "track": 3,
+      "duration": 190.82,
+      "cover": "assets/music-covers/b4b7febd9c6d6b2a.webp",
+      "audio": "373159b90454266a9947.m4a"
+    },
+    {
+      "id": "4e14cc826578885701ba",
+      "title": "Same",
+      "artist": "Oracle Gemini",
+      "album": "Metavision",
+      "year": "2021",
+      "track": 16,
+      "duration": 164.75,
+      "cover": "assets/music-covers/ef2fb57293ae25d3.webp",
+      "audio": "4e14cc826578885701ba.m4a"
+    },
+    {
+      "id": "a48c5f4520f4addd4d14",
+      "title": "Well",
+      "artist": "Oracle Gemini",
+      "album": "Metavision",
+      "year": "2021",
+      "track": 15,
+      "duration": 136.77,
+      "cover": "assets/music-covers/ef2fb57293ae25d3.webp",
+      "audio": "a48c5f4520f4addd4d14.m4a"
+    },
+    {
+      "id": "8c981b7fab3e46bd9802",
+      "title": "Blue Moon",
+      "artist": "Oracle Gemini",
+      "album": "Metavision",
+      "year": "2021",
+      "track": 14,
+      "duration": 262.66,
+      "cover": "assets/music-covers/ef2fb57293ae25d3.webp",
+      "audio": "8c981b7fab3e46bd9802.m4a"
+    },
+    {
+      "id": "a4e029ae5e550acdab99",
+      "title": "Ovoid",
+      "artist": "Oracle Gemini",
+      "album": "Metavision",
+      "year": "2021",
+      "track": 13,
+      "duration": 239.96,
+      "cover": "assets/music-covers/ef2fb57293ae25d3.webp",
+      "audio": "a4e029ae5e550acdab99.m4a"
+    },
+    {
+      "id": "ba064937380d2c5c5ae4",
+      "title": "No Hope for Love",
+      "artist": "Oracle Gemini",
+      "album": "Metavision",
+      "year": "2021",
+      "track": 12,
+      "duration": 213.65,
+      "cover": "assets/music-covers/ef2fb57293ae25d3.webp",
+      "audio": "ba064937380d2c5c5ae4.m4a"
+    },
+    {
+      "id": "b5b0362f9de67bd8ee2c",
+      "title": "True Story",
+      "artist": "Oracle Gemini",
+      "album": "Metavision",
+      "year": "2021",
+      "track": 11,
+      "duration": 182.9,
+      "cover": "assets/music-covers/ef2fb57293ae25d3.webp",
+      "audio": "b5b0362f9de67bd8ee2c.m4a"
+    },
+    {
+      "id": "d8294a0baa65083108f5",
+      "title": "Over & Over",
+      "artist": "Oracle Gemini",
+      "album": "Metavision",
+      "year": "2021",
+      "track": 10,
+      "duration": 200.71,
+      "cover": "assets/music-covers/ef2fb57293ae25d3.webp",
+      "audio": "d8294a0baa65083108f5.m4a"
+    },
+    {
+      "id": "5e5fee8b06a997caf160",
+      "title": "Issues",
+      "artist": "Oracle Gemini",
+      "album": "Metavision",
+      "year": "2021",
+      "track": 9,
+      "duration": 201.02,
+      "cover": "assets/music-covers/ef2fb57293ae25d3.webp",
+      "audio": "5e5fee8b06a997caf160.m4a"
+    },
+    {
+      "id": "cae0043150eae0d0cb88",
+      "title": "Subconscious Shutdown (feat. Aries Almighty, Jay Cypher & XxMontaeXx)",
+      "artist": "Oracle Gemini",
+      "album": "Metavision",
+      "year": "2021",
+      "track": 8,
+      "duration": 226.86,
+      "cover": "assets/music-covers/ef2fb57293ae25d3.webp",
+      "audio": "cae0043150eae0d0cb88.m4a"
+    },
+    {
+      "id": "864afd9b31f013b328b3",
+      "title": "Double a Freestyle (feat. Aries Almighty)",
+      "artist": "Oracle Gemini",
+      "album": "Metavision",
+      "year": "2021",
+      "track": 7,
+      "duration": 173.71,
+      "cover": "assets/music-covers/ef2fb57293ae25d3.webp",
+      "audio": "864afd9b31f013b328b3.m4a"
+    },
+    {
+      "id": "8ccc31bce7a22dc55a84",
+      "title": "Rage Is Massive (feat. Aries Almighty)",
+      "artist": "Oracle Gemini",
+      "album": "Metavision",
+      "year": "2021",
+      "track": 6,
+      "duration": 150.44,
+      "cover": "assets/music-covers/ef2fb57293ae25d3.webp",
+      "audio": "8ccc31bce7a22dc55a84.m4a"
+    },
+    {
+      "id": "b757fbc9e741ce791ef5",
+      "title": "New Dimension",
+      "artist": "Oracle Gemini",
+      "album": "Metavision",
+      "year": "2021",
+      "track": 5,
+      "duration": 175.73,
+      "cover": "assets/music-covers/ef2fb57293ae25d3.webp",
+      "audio": "b757fbc9e741ce791ef5.m4a"
+    },
+    {
+      "id": "a3204d037e1d98d4fa0f",
+      "title": "Mind Playing Tricks on Me (feat. Aries Almighty)",
+      "artist": "Oracle Gemini",
+      "album": "Metavision",
+      "year": "2021",
+      "track": 4,
+      "duration": 220.31,
+      "cover": "assets/music-covers/ef2fb57293ae25d3.webp",
+      "audio": "a3204d037e1d98d4fa0f.m4a"
+    },
+    {
+      "id": "871e886ae6a9ee3bafbf",
+      "title": "On My Mind",
+      "artist": "Oracle Gemini",
+      "album": "Metavision",
+      "year": "2021",
+      "track": 3,
+      "duration": 197.35,
+      "cover": "assets/music-covers/ef2fb57293ae25d3.webp",
+      "audio": "871e886ae6a9ee3bafbf.m4a"
+    },
+    {
+      "id": "2373728d8d16ab7de81f",
+      "title": "Nations",
+      "artist": "Oracle Gemini",
+      "album": "Metavision",
+      "year": "2021",
+      "track": 2,
+      "duration": 236.31,
+      "cover": "assets/music-covers/ef2fb57293ae25d3.webp",
+      "audio": "2373728d8d16ab7de81f.m4a"
+    },
+    {
+      "id": "a5a780e611f5f92d1e34",
+      "title": "Highest View",
+      "artist": "Oracle Gemini",
+      "album": "Metavision",
+      "year": "2021",
+      "track": 1,
+      "duration": 190.17,
+      "cover": "assets/music-covers/ef2fb57293ae25d3.webp",
+      "audio": "a5a780e611f5f92d1e34.m4a"
+    },
+    {
+      "id": "cf6c51749a5dcbae7bd1",
+      "title": "Boxed Inn (feat. Aries Almighty)",
+      "artist": "Oracle Gemini",
+      "album": "Boxed Inn (feat. Aries Almighty) - Single",
+      "year": "2021",
+      "track": 1,
+      "duration": 151.67,
+      "cover": "assets/music-covers/84947b9076bee695.webp",
+      "audio": "cf6c51749a5dcbae7bd1.m4a"
+    },
+    {
+      "id": "1d3c3d49f6bb7851d0d0",
+      "title": "MIDAS (feat. AngelMayCry)",
+      "artist": "Oracle Gemini",
+      "album": "MIDAS (feat. AngelMayCry) - Single",
+      "year": "1998",
+      "track": 1,
+      "duration": 152.63,
+      "cover": "assets/music-covers/5bd9b6eebf796d9f.webp",
+      "audio": "1d3c3d49f6bb7851d0d0.m4a"
+    },
+    {
+      "id": "1d8665f2a82b90ad4bb2",
+      "title": "Belamy",
+      "artist": "Oracle Gemini",
+      "album": "Belamy - Single",
+      "year": "1998",
+      "track": 1,
+      "duration": 170.83,
+      "cover": "assets/music-covers/321c79dcc15dba51.webp",
+      "audio": "1d8665f2a82b90ad4bb2.m4a"
+    }
+  ],
+  "releases": {
+    "THE FIRE - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Say You Love - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "LIKE THE LEAVES DO - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Czar - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "CANT HOLD THAT - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "9AM - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "2025 - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "TOOK A RISK - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Stop Calling - Single|Oracle Gemini, 1Mod": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "LISTEN - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Ghost Tune - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "FEEL THE SAME - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Blurry - EP|Aries Almighty": {
+      "type": "ep",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Blackedout - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Away From Here - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Tr1p4ever|v1d": {
+      "type": "album",
+      "classificationSource": "https://www.shazam.com/artist/v1d/1668223849",
+      "checked": "2026-10-07"
+    },
+    "Talk on the net (feat. V1D) - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "So Cold - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Red Pill - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Quiet Eyes - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Legends of the Flame - EP|Aries Almighty, Oracle Gemini": {
+      "type": "ep",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "It's Recess - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "FRI3ND$ (feat. V1D) - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "F**k a Party - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Echoes In the Ether|Oracle Gemini": {
+      "type": "album",
+      "classificationSource": "https://music.apple.com/us/album/echoes-in-the-ether/1675093250",
+      "checked": "2026-10-07"
+    },
+    "DISCONNECTED - EP|KK the Introvert, KK The Introvert": {
+      "type": "ep",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "444 - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Sync - EP|Oracle Gemini": {
+      "type": "ep",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "NO TAK3 BAX (feat. Oracle Gemini) - Single|KK the Introvert": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Inner Soul Key - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Emotion - EP|Oracle Gemini": {
+      "type": "ep",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Darkest Dreams (Delux Edition)|Aries Almighty": {
+      "type": "album",
+      "classificationSource": "https://music.apple.com/us/album/darkest-dreams-delux-edition/1731642253",
+      "checked": "2026-10-07"
+    },
+    "Metavision|Oracle Gemini": {
+      "type": "album",
+      "classificationSource": "https://music.apple.com/us/album/metavision/1595698860",
+      "checked": "2026-10-07"
+    },
+    "Boxed Inn (feat. Aries Almighty) - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "MIDAS (feat. AngelMayCry) - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    },
+    "Belamy - Single|Oracle Gemini": {
+      "type": "single",
+      "classificationSource": "Release title embedded in the user-supplied audio metadata",
+      "checked": "2026-10-07"
+    }
+  }
+}

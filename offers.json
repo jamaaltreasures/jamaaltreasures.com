@@ -1,0 +1,354 @@
+{
+  "currency": "USD",
+  "services": [
+    {
+      "id": "music-video",
+      "category": "production",
+      "name": "Music Videos",
+      "price": 650,
+      "icon": "work",
+      "summary": "Give your song a visual world of its own. Filmed on location, directed and edited by me.",
+      "deliverables": [
+        "Creative direction and a shoot plan built around your song",
+        "One finished music video with editing and color grading",
+        "A ready to upload HD file and 2 revision rounds"
+      ],
+      "time": "Editing typically takes 1 to 2 days after the shoot and receipt of the final track and agreed assets. Allow up to 2 weeks during busy periods.",
+      "cta": "Book my music video",
+      "idealFor": "Independent artists and musicians ready to give a finished song a full filmed visual.",
+      "description": "Give your song a visual world of its own. Filmed on location, directed and edited by me.\n\nPerfect for: Independent artists and musicians ready to give a finished song a full filmed visual.\n\nWhat you get:\n• Creative direction and a shoot plan built around your song\n• One finished music video with editing and color grading\n• A ready to upload HD file and 2 revision rounds\n\nTurnaround: Editing typically takes 1 to 2 days after the shoot and receipt of the final track and agreed assets. Allow up to 2 weeks during busy periods.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "ELD5LG2UF2HZN4L2DU54OPHZ",
+      "checkoutUrl": "https://square.link/u/dvrncixa",
+      "checkoutType": "catalog-item"
+    },
+    {
+      "id": "artist-recap",
+      "category": "production",
+      "name": "Artist Recap Videos",
+      "price": 250,
+      "icon": "work",
+      "summary": "Let your online fans feel the show. Turn your live performance into a recap that brings them into the crowd.",
+      "deliverables": [
+        "A performance recap shaped around your show and creative brief",
+        "An edited video ready to share with your fans"
+      ],
+      "time": "Editing typically takes 1 to 2 days after the show and receipt of the agreed assets. Allow up to 2 weeks during busy periods.",
+      "note": "We confirm the filming plan, coverage window and final format before payment.",
+      "cta": "Plan my artist recap",
+      "idealFor": "Artists performing at shows who want to show their energy and talent, and let online fans experience being in the crowd.",
+      "description": "Let your online fans feel the show. Turn your live performance into a recap that brings them into the crowd.\n\nPerfect for: Artists performing at shows who want to show their energy and talent, and let online fans experience being in the crowd.\n\nWhat you get:\n• A performance recap shaped around your show and creative brief\n• An edited video ready to share with your fans\n\nTurnaround: Editing typically takes 1 to 2 days after the show and receipt of the agreed assets. Allow up to 2 weeks during busy periods.\n\nWe confirm the filming plan, coverage window and final format before payment.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "G2EF36OCOYDVNZE2EPDKPTNC",
+      "checkoutUrl": "https://square.link/u/U8zcNGiR",
+      "checkoutType": "catalog-item"
+    },
+    {
+      "id": "event-coverage",
+      "category": "production",
+      "name": "Event Coverage",
+      "price": 450,
+      "icon": "work",
+      "summary": "Keep the energy going after the event. Capture the people, details and moments worth sharing.",
+      "deliverables": [
+        "Up to 2 hours of event filming in Florida",
+        "One edited 60 to 90 second highlight video",
+        "3 vertical social clips and 2 revision rounds"
+      ],
+      "time": "Editing typically takes 1 to 2 days after the event and receipt of the agreed assets. Allow up to 2 weeks during busy periods.",
+      "note": "Longer coverage and travel outside the agreed area are quoted before booking.",
+      "cta": "Cover my event",
+      "idealFor": "Event hosts, local businesses and organizers who want an edited highlight and social clips to share after their event.",
+      "description": "Keep the energy going after the event. Capture the people, details and moments worth sharing.\n\nPerfect for: Event hosts, local businesses and organizers who want an edited highlight and social clips to share after their event.\n\nWhat you get:\n• Up to 2 hours of event filming in Florida\n• One edited 60 to 90 second highlight video\n• 3 vertical social clips and 2 revision rounds\n\nTurnaround: Editing typically takes 1 to 2 days after the event and receipt of the agreed assets. Allow up to 2 weeks during busy periods.\n\nLonger coverage and travel outside the agreed area are quoted before booking.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "EBPDGKYEDPNZNXWWFSAISBWO",
+      "checkoutUrl": "https://square.link/u/KxMuUqlH",
+      "checkoutType": "catalog-item"
+    },
+    {
+      "id": "ai-ugc-ad",
+      "category": "ai",
+      "name": "AI UGC Ad",
+      "price": 300,
+      "icon": "ai",
+      "summary": "Put your offer in the spotlight with a creator style AI ad made for the feed.",
+      "deliverables": [
+        "One ad concept and script for your offer",
+        "One finished vertical AI video with captions",
+        "A ready to post MP4 and 2 revision rounds"
+      ],
+      "time": "Final delivery within 14 days of receiving your approved brief and required assets. The editing stage typically takes 1 to 2 days once the footage is ready, with up to 2 weeks for the finished project during busy periods.",
+      "cta": "Create my ad",
+      "idealFor": "Brands and small businesses with a clear offer they want to introduce in a vertical social ad.",
+      "description": "Put your offer in the spotlight with a creator style AI ad made for the feed.\n\nPerfect for: Brands and small businesses with a clear offer they want to introduce in a vertical social ad.\n\nWhat you get:\n• One ad concept and script for your offer\n• One finished vertical AI video with captions\n• A ready to post MP4 and 2 revision rounds\n\nTurnaround: Final delivery within 14 days of receiving your approved brief and required assets. The editing stage typically takes 1 to 2 days once the footage is ready, with up to 2 weeks for the finished project during busy periods.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "S6O2FA37ANKB54WEB6WMNAPO",
+      "checkoutUrl": "https://square.link/u/wjF36AUD",
+      "checkoutType": "catalog-item"
+    },
+    {
+      "id": "brand-spot",
+      "category": "ai",
+      "name": "Brand Spot",
+      "price": 500,
+      "icon": "ai",
+      "summary": "Launch something worth noticing. A sharp 30 second AI brand video for your next offer or announcement.",
+      "deliverables": [
+        "A concept and script shaped around your message",
+        "One 30 second cinematic AI video",
+        "A final MP4 in your chosen format and 2 revision rounds"
+      ],
+      "time": "Final delivery within 14 days of receiving your approved brief and required assets. The editing stage typically takes 1 to 2 days once the footage is ready, with up to 2 weeks for the finished project during busy periods.",
+      "cta": "Make my brand spot",
+      "idealFor": "Businesses announcing a launch, promotion or new offer with one focused video.",
+      "description": "Launch something worth noticing. A sharp 30 second AI brand video for your next offer or announcement.\n\nPerfect for: Businesses announcing a launch, promotion or new offer with one focused video.\n\nWhat you get:\n• A concept and script shaped around your message\n• One 30 second cinematic AI video\n• A final MP4 in your chosen format and 2 revision rounds\n\nTurnaround: Final delivery within 14 days of receiving your approved brief and required assets. The editing stage typically takes 1 to 2 days once the footage is ready, with up to 2 weeks for the finished project during busy periods.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "NBKHZKP3APCNRSHM7LYK6Y4V",
+      "checkoutUrl": "https://square.link/u/2n2uiXOe",
+      "checkoutType": "catalog-item"
+    },
+    {
+      "id": "brand-film",
+      "category": "ai",
+      "name": "Brand Film",
+      "price": 750,
+      "icon": "ai",
+      "summary": "Give people a reason to connect with your brand. Tell your story in 60 to 90 cinematic seconds.",
+      "deliverables": [
+        "Story concept, script and visual direction",
+        "One 60 to 90 second AI brand film",
+        "Edited MP4 with sound and 2 revision rounds"
+      ],
+      "time": "Final delivery within 14 days of receiving your approved brief and required assets. The editing stage typically takes 1 to 2 days once the footage is ready, with up to 2 weeks for the finished project during busy periods.",
+      "cta": "Tell my brand story",
+      "idealFor": "Founders, brands and businesses with a story that needs more room than a quick ad.",
+      "description": "Give people a reason to connect with your brand. Tell your story in 60 to 90 cinematic seconds.\n\nPerfect for: Founders, brands and businesses with a story that needs more room than a quick ad.\n\nWhat you get:\n• Story concept, script and visual direction\n• One 60 to 90 second AI brand film\n• Edited MP4 with sound and 2 revision rounds\n\nTurnaround: Final delivery within 14 days of receiving your approved brief and required assets. The editing stage typically takes 1 to 2 days once the footage is ready, with up to 2 weeks for the finished project during busy periods.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "F6O7HTKBHUNHVV54VKI2NGOX",
+      "checkoutUrl": "https://square.link/u/EuEgh3fW",
+      "checkoutType": "catalog-item"
+    },
+    {
+      "id": "signature-film",
+      "category": "ai",
+      "name": "Signature Film",
+      "price": 2500,
+      "icon": "ai",
+      "summary": "Go beyond the usual promo. Build an immersive cinematic AI short around your world.",
+      "deliverables": [
+        "A story concept, script and scene plan",
+        "One 5 minute cinematic AI short film",
+        "A finished MP4 with editing, sound and 2 revision rounds"
+      ],
+      "time": "Final delivery within 14 days of receiving your approved brief and required assets. The editing stage typically takes 1 to 2 days once the footage is ready, with up to 2 weeks for the finished project during busy periods.",
+      "cta": "Build my film",
+      "idealFor": "Artists and brands building a cinematic world around an original short film concept.",
+      "description": "Go beyond the usual promo. Build an immersive cinematic AI short around your world.\n\nPerfect for: Artists and brands building a cinematic world around an original short film concept.\n\nWhat you get:\n• A story concept, script and scene plan\n• One 5 minute cinematic AI short film\n• A finished MP4 with editing, sound and 2 revision rounds\n\nTurnaround: Final delivery within 14 days of receiving your approved brief and required assets. The editing stage typically takes 1 to 2 days once the footage is ready, with up to 2 weeks for the finished project during busy periods.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "6WRLCMORN5BM6PDJI7EWMCEI",
+      "checkoutUrl": "https://square.link/u/RW0jhn08",
+      "checkoutType": "catalog-item"
+    },
+    {
+      "id": "ai-music-reels",
+      "category": "ai",
+      "name": "AI Music Video Reels",
+      "price": 80,
+      "icon": "ai",
+      "summary": "Turn a standout moment from your song into a bold AI visual made for Reels, TikTok and Shorts.",
+      "deliverables": [
+        "One 30-second AI music video reel, built around a visual concept for your song",
+        "One vertical AI music video reel, edited to your supplied track",
+        "A 1080 × 1920 MP4 and 2 revision rounds"
+      ],
+      "time": "Final delivery within 14 days of receiving your approved brief and required assets. The editing stage typically takes 1 to 2 days once the footage is ready, with up to 2 weeks for the finished project during busy periods.",
+      "note": "Built for short form promotion. Views, reach and virality are not guaranteed. This is an AI reel, not a filmed music video.",
+      "cta": "Create my AI reel",
+      "idealFor": "Musicians promoting a song with a short, imaginative AI visual for social media.",
+      "description": "Turn a standout moment from your song into a bold AI visual made for Reels, TikTok and Shorts.\n\nPerfect for: Musicians promoting a song with a short, imaginative AI visual for social media.\n\nWhat you get:\n• One 30-second AI music video reel, built around a visual concept for your song\n• One vertical AI music video reel, edited to your supplied track\n• A 1080 × 1920 MP4 and 2 revision rounds\n\nTurnaround: Final delivery within 14 days of receiving your approved brief and required assets. The editing stage typically takes 1 to 2 days once the footage is ready, with up to 2 weeks for the finished project during busy periods.\n\nBuilt for short form promotion. Views, reach and virality are not guaranteed. This is an AI reel, not a filmed music video.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "VCRHPLZHUN2I6LRZUFCDQSWC",
+      "checkoutUrl": "https://square.link/u/3FacHBp8",
+      "checkoutType": "catalog-item"
+    },
+    {
+      "id": "landing-page",
+      "category": "web",
+      "name": "Landing Page",
+      "price": 400,
+      "icon": "web",
+      "summary": "One clear offer. One clear next step. A focused page that makes it easy to get in touch or buy.",
+      "deliverables": [
+        "One responsive page for your offer",
+        "Your copy, images, contact form and key links",
+        "Mobile checks, launch setup and 2 revision rounds"
+      ],
+      "time": "Within 14 days of receiving your copy, assets and required access.",
+      "note": "Domain and hosting fees are separate.",
+      "cta": "Build my landing page",
+      "idealFor": "Businesses, creators and artists with one offer that needs a focused page and a clear next action.",
+      "description": "One clear offer. One clear next step. A focused page that makes it easy to get in touch or buy.\n\nPerfect for: Businesses, creators and artists with one offer that needs a focused page and a clear next action.\n\nWhat you get:\n• One responsive page for your offer\n• Your copy, images, contact form and key links\n• Mobile checks, launch setup and 2 revision rounds\n\nTurnaround: Within 14 days of receiving your copy, assets and required access.\n\nDomain and hosting fees are separate.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "DVG4XSNN3ZPI2AOAK6GYBEP5",
+      "checkoutUrl": "https://square.link/u/xDIXnfte",
+      "checkoutType": "catalog-item"
+    },
+    {
+      "id": "business-website",
+      "category": "web",
+      "name": "Business Website",
+      "price": 900,
+      "icon": "web",
+      "summary": "Give your business a home that looks like you and helps visitors find what they need.",
+      "deliverables": [
+        "Home, services, about and contact pages",
+        "Responsive design, contact form and basic search metadata",
+        "Mobile checks, launch setup and 2 revision rounds"
+      ],
+      "time": "Within 14 days of receiving your copy, assets and required access.",
+      "note": "Domain and hosting fees are separate.",
+      "cta": "Build my website",
+      "idealFor": "Small businesses and creative professionals who need a complete website that explains their work and makes contact easy.",
+      "description": "Give your business a home that looks like you and helps visitors find what they need.\n\nPerfect for: Small businesses and creative professionals who need a complete website that explains their work and makes contact easy.\n\nWhat you get:\n• Home, services, about and contact pages\n• Responsive design, contact form and basic search metadata\n• Mobile checks, launch setup and 2 revision rounds\n\nTurnaround: Within 14 days of receiving your copy, assets and required access.\n\nDomain and hosting fees are separate.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "Y4WEHY4HVTSUHPYPHYYZ6PFU",
+      "checkoutUrl": "https://square.link/u/H5lPHUKi",
+      "checkoutType": "catalog-item"
+    },
+    {
+      "id": "brand-identity",
+      "category": "design",
+      "name": "Brand Identity Pack",
+      "price": 600,
+      "icon": "design",
+      "summary": "Show up with a look people remember. A visual identity you can use across your business.",
+      "deliverables": [
+        "A logo, color palette and font selections",
+        "A social media kit with profile and cover graphics",
+        "Final digital files, a simple style guide and 2 revision rounds"
+      ],
+      "time": "Within 14 days of receiving your brand brief.",
+      "cta": "Shape my brand",
+      "idealFor": "New businesses and creators ready for a consistent logo, colors, fonts and social presence.",
+      "description": "Show up with a look people remember. A visual identity you can use across your business.\n\nPerfect for: New businesses and creators ready for a consistent logo, colors, fonts and social presence.\n\nWhat you get:\n• A logo, color palette and font selections\n• A social media kit with profile and cover graphics\n• Final digital files, a simple style guide and 2 revision rounds\n\nTurnaround: Within 14 days of receiving your brand brief.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "E4U76ZZOO37W3ZWE2BEWCSWF",
+      "checkoutUrl": "https://square.link/u/JMrc4mLq",
+      "checkoutType": "catalog-item"
+    },
+    {
+      "id": "cover-art",
+      "category": "design",
+      "name": "Cover Art",
+      "price": 50,
+      "icon": "design",
+      "summary": "Give your next single or album a cover that feels like your music.",
+      "deliverables": [
+        "One custom cover design built around your title, artist name and visual direction",
+        "A 3000 × 3000 pixel JPG and PNG, ready for your release",
+        "2 revision rounds to refine the selected design"
+      ],
+      "time": "Within 14 days of receiving your brief, final title and supplied images.",
+      "note": "Send your final artist name, release title and any photos you want included.",
+      "cta": "Create my cover",
+      "idealFor": "Independent artists releasing a single or album who want artwork that feels connected to their music.",
+      "description": "Give your next single or album a cover that feels like your music.\n\nPerfect for: Independent artists releasing a single or album who want artwork that feels connected to their music.\n\nWhat you get:\n• One custom cover design built around your title, artist name and visual direction\n• A 3000 × 3000 pixel JPG and PNG, ready for your release\n• 2 revision rounds to refine the selected design\n\nTurnaround: Within 14 days of receiving your brief, final title and supplied images.\n\nSend your final artist name, release title and any photos you want included.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "NVN7PHU4T5VP2F5IUSOSKFJX",
+      "checkoutUrl": "https://square.link/u/i3Yprm7k",
+      "checkoutType": "catalog-item"
+    },
+    {
+      "id": "photography",
+      "category": "photo",
+      "name": "Shoot Session",
+      "price": 350,
+      "icon": "photo",
+      "summary": "Photos that feel like you. Portrait, product or event photography, shot and edited with care.",
+      "deliverables": [
+        "A shoot plan matched to your subject and goal",
+        "A photography session and an edited digital gallery",
+        "Full resolution JPEG files and a web ready set"
+      ],
+      "time": "Within 14 days of the shoot.",
+      "note": "We agree the session length and image count before your deposit.",
+      "cta": "Book my shoot",
+      "idealFor": "People, product brands and event organizers who need an edited set of professional photos.",
+      "description": "Photos that feel like you. Portrait, product or event photography, shot and edited with care.\n\nPerfect for: People, product brands and event organizers who need an edited set of professional photos.\n\nWhat you get:\n• A shoot plan matched to your subject and goal\n• A photography session and an edited digital gallery\n• Full resolution JPEG files and a web ready set\n\nTurnaround: Within 14 days of the shoot.\n\nWe agree the session length and image count before your deposit.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "7VK6EWD4VJB4LTSX7ROWTYTS",
+      "checkoutUrl": "https://square.link/u/3kmjXORo",
+      "checkoutType": "catalog-item"
+    },
+    {
+      "id": "meta-ads",
+      "category": "ads",
+      "name": "Meta Ads Management",
+      "price": 1500,
+      "recurring": "per month",
+      "icon": "ads",
+      "summary": "Get your offer in front of the right people with creative and campaigns built together.",
+      "deliverables": [
+        "Custom video and image ad creative",
+        "Campaign setup, ongoing optimization and monthly reporting",
+        "An initial creative and campaign plan within 14 days"
+      ],
+      "time": "Initial setup within 14 days of receiving assets and account access. Management continues monthly.",
+      "note": "Ad spend is separate and paid directly to Meta. Results depend on your offer, audience and budget.",
+      "cta": "Plan my campaign",
+      "idealFor": "Businesses ready to support a defined offer with creative, paid campaigns and ongoing management.",
+      "description": "Get your offer in front of the right people with creative and campaigns built together.\n\nPerfect for: Businesses ready to support a defined offer with creative, paid campaigns and ongoing management.\n\nWhat you get:\n• Custom video and image ad creative\n• Campaign setup, ongoing optimization and monthly reporting\n• An initial creative and campaign plan within 14 days\n\nTurnaround: Initial setup within 14 days of receiving assets and account access. Management continues monthly.\n\nAd spend is separate and paid directly to Meta. Results depend on your offer, audience and budget.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "PYGBJSQVKLFQRPEYASQYJG3P",
+      "checkoutUrl": "https://square.link/u/9tP9XUdE",
+      "checkoutType": "monthly-payment-not-catalog-attached"
+    },
+    {
+      "id": "creative-direction-session",
+      "category": "direction",
+      "name": "Creative Direction Session",
+      "price": 150,
+      "icon": "direction",
+      "summary": "Get a clear outside perspective on your website, social media or creative project. Find what works, what needs attention and what to do next.",
+      "deliverables": [
+        "One personal creative direction session with Jamaal",
+        "A focused review of your website, page, social media or creative project",
+        "Clear priorities and practical action steps for your next move"
+      ],
+      "time": "We agree on a session date and what to review before booking.",
+      "cta": "Book a one-on-one session",
+      "idealFor": "Artists, creators and business owners who want clear feedback on their website, social media or next creative project.",
+      "description": "Get a clear outside perspective on your website, social media or creative project. Find what works, what needs attention and what to do next.\n\nPerfect for: Artists, creators and business owners who want clear feedback on their website, social media or next creative project.\n\nWhat you get:\n• One personal creative direction session with Jamaal\n• A focused review of your website, page, social media or creative project\n• Clear priorities and practical action steps for your next move\n\nTurnaround: We agree on a session date and what to review before booking.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "JKKLO67XQAXGIKCWS7R5YD5A",
+      "checkoutUrl": "https://square.link/u/UTIGcWGN",
+      "checkoutType": "catalog-item"
+    },
+    {
+      "id": "song-collaboration",
+      "category": "production",
+      "name": "Song Collaboration with Jamaal",
+      "price": 50,
+      "icon": "music",
+      "summary": "Have a song in progress or an idea you’re ready to explore? Let’s make music together. I can join your track with a feature or help start a new song with you.",
+      "idealFor": "Artists with a song in progress, a beat or an idea who want to create with Jamaal.",
+      "deliverables": [
+        "Jamaal’s contribution to one song, as a feature on your existing track or by starting a new song together",
+        "Custom cover art for the collaboration"
+      ],
+      "time": "One week after I receive your project details and the files needed to begin.",
+      "cta": "Create with Jamaal",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "description": "Have a song in progress or an idea you’re ready to explore? Let’s make music together. I can join your track with a feature or help start a new song with you.\n\nPerfect for: Artists with a song in progress, a beat or an idea who want to create with Jamaal.\n\nWhat you get:\n• Jamaal’s contribution to one song, as a feature on your existing track or by starting a new song together\n• Custom cover art for the collaboration\n\nTurnaround: One week after I receive your project details and the files needed to begin.\n\n$50 USD, one-time. After payment, send your song or beat link, concept, references, the contribution you want, and your cover-art title, artist name and preferences through jamaaltreasures.com/contact. Questions? Call 941-294-9274.",
+      "squareItemId": "JPHOYFW4WNB7RTO2ZFFXERII",
+      "checkoutUrl": "https://square.link/u/4TL9fuyC",
+      "checkoutType": "catalog-item"
+    }
+  ],
+  "event_pricing_sources": [
+    "https://www.lunnaagency.com/blog/corporate-event-photography-video-cost-south-florida",
+    "https://blueboxdigital.com/florida-event-videography-services/"
+  ],
+  "square_status": "16 fresh service items have service-specific customer checkouts. Meta Ads uses a separate fixed monthly payment link, not a catalog subscription plan.",
+  "checkout_status": "Only verified matching service checkouts are linked. Membership uses its existing Whop access gate."
+}

@@ -1,0 +1,4 @@
+{"stage":"poster","width":390,"scrollWidth":390,"source":"","paused":true,"time":0,"duration":null,"videoWidth":0,"videoHeight":0,"controls":true,"status":"","nativeHLS":true}
+{"stage":"playing","width":390,"scrollWidth":390,"source":"http://127.0.0.1:8909/assets/realm-final/master.m3u8","paused":false,"time":7.854822667003268,"duration":293.45,"videoWidth":1280,"videoHeight":720,"controls":true,"status":"","nativeHLS":true}
+{"stage":"seek","width":390,"scrollWidth":390,"source":"http://127.0.0.1:8909/assets/realm-final/master.m3u8","paused":false,"time":122.75041472967511,"duration":293.45,"videoWidth":1280,"videoHeight":720,"controls":true,"status":"","nativeHLS":true}
+{"stage":"offscreen","width":390,"scrollWidth":390,"source":"http://127.0.0.1:8909/assets/realm-final/master.m3u8","paused":true,"time":122.88632193832352,"duration":293.45,"videoWidth":1280,"videoHeight":720,"controls":true,"status":"","nativeHLS":true}

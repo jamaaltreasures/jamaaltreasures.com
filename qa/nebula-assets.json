@@ -1,0 +1,59 @@
+{
+  "status": "Original artwork generated; native 4K attempt blocked by connected Higgsfield workspace credit balance. No upscaled assets.",
+  "assets": [
+    {
+      "orientation": "desktop",
+      "source": "/Users/cjmitchell/Documents/Codex/2026-10-05/task/generated_images/exec-d0474a6e-66bd-43b1-a9ac-164b02836bda.png",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "native_4k": false,
+      "derivatives": [
+        {
+          "path": "assets/nebula-desktop-960.webp",
+          "dimensions": [
+            960,
+            640
+          ],
+          "bytes": 161020
+        },
+        {
+          "path": "assets/nebula-desktop-1536.webp",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 340976
+        }
+      ]
+    },
+    {
+      "orientation": "mobile",
+      "source": "/Users/cjmitchell/Documents/Codex/2026-10-05/task/generated_images/exec-6b5e7cf0-3fe5-494b-ae83-e45a490f34c9.png",
+      "source_dimensions": [
+        1024,
+        1536
+      ],
+      "native_4k": false,
+      "derivatives": [
+        {
+          "path": "assets/nebula-mobile-640.webp",
+          "dimensions": [
+            640,
+            960
+          ],
+          "bytes": 175778
+        },
+        {
+          "path": "assets/nebula-mobile-1024.webp",
+          "dimensions": [
+            1024,
+            1536
+          ],
+          "bytes": 345484
+        }
+      ]
+    }
+  ]
+}

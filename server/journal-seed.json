@@ -1,0 +1,755 @@
+[
+  {
+    "slug": "manychat-turn-comments-into-a-useful-dm",
+    "title": "Manychat: send the link people actually asked for",
+    "excerpt": "Use a focused comment reply to send a useful link, then check the full path before inviting people to try it.",
+    "tool": "Manychat",
+    "category": "brand-growth",
+    "kind": "guide",
+    "format": "quick-guide",
+    "readingMinutes": 1,
+    "serviceId": "creative-direction-session",
+    "relatedServiceIds": [
+      "landing-page"
+    ],
+    "checkedAt": "2026-10-07",
+    "sections": [
+      {
+        "heading": "Why it helps",
+        "paragraphs": [
+          "People should not have to hunt through your profile for the offer they just saw. Manychat can turn a specific Instagram comment into a private reply with a useful link. Start with one clear promise, such as a pricing page or release checklist, so the message feels like help."
+        ],
+        "sourceRefs": [
+          "manychat-quick"
+        ]
+      },
+      {
+        "heading": "Try this",
+        "paragraphs": [
+          "Keep the first flow small enough to check from beginning to end."
+        ],
+        "bullets": [
+          "Choose one post or Reel in Auto-DM links from comments. Set a relevant keyword, such as GUIDE, and make the caption explain exactly what the person will receive.",
+          "Write a short opening message and add the promised destination. If you enable the Opening DM, recipients tap its button before the next message. Avoid sending them through unrelated offers.",
+          "Preview the messages, then check the live flow with a consenting test account. Open the destination on a phone. Confirm that its headline, price and next action match the post."
+        ],
+        "sourceRefs": [
+          "manychat-quick",
+          "manychat-trigger"
+        ]
+      },
+      {
+        "heading": "Your next move",
+        "paragraphs": [
+          "Open Manychat’s official setup guide below. After launch, compare delivered messages with link clicks instead of treating every comment as a customer. Want help connecting the post, message and landing page? Book Jamaal’s $150 Creative Direction Session for a focused review and practical next steps."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "manychat-quick",
+        "title": "Manychat: Auto-DM links from comments",
+        "url": "https://help.manychat.com/hc/en-us/articles/16654065283100-Quick-Automation-Auto-DM-links-from-comments",
+        "sourceUpdatedAt": "2026-08-27",
+        "supports": "Selected post or Reel, keyword, opening message, link delivery, preview and live controls, link-click reporting.",
+        "status": "Read official help article.",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "id": "manychat-trigger",
+        "title": "Manychat: Instagram Post and Reel Comments trigger",
+        "url": "https://help.manychat.com/hc/en-us/articles/14281316989724-Instagram-Post-and-Reel-Comments-trigger",
+        "sourceUpdatedAt": "2026-02-16",
+        "supports": "Comment-trigger/private-reply mechanics and first-comment limitation.",
+        "status": "Read official help article.",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "nextClick": {
+      "label": "Open the Manychat setup guide",
+      "url": "https://help.manychat.com/hc/en-us/articles/16654065283100-Quick-Automation-Auto-DM-links-from-comments",
+      "external": true
+    },
+    "cta": {
+      "label": "Get creative direction · $150",
+      "serviceId": "creative-direction-session",
+      "price": 150,
+      "currency": "USD",
+      "scope": "Review your website, social presence or creative project and leave with practical next steps. No session duration is specified.",
+      "url": "/contact?project=Creative%20Direction%20Session%20%28%24150%29"
+    },
+    "editorial": {
+      "evergreen": true,
+      "firsthandTested": false,
+      "disclosure": "AI assisted editorial, checked against the linked official sources.",
+      "affiliation": "Independent guide. No partnership, sponsorship or affiliate relationship is claimed."
+    },
+    "brandTreatment": {
+      "type": "plain-text",
+      "label": "Manychat",
+      "assetPath": null,
+      "note": "Use a clearly typeset name, not an invented logo or partner badge."
+    },
+    "wordCount": 194,
+    "seoDescription": "Use a focused comment reply to send a useful link, then check the full path before inviting people to try it.",
+    "publishedAt": "2026-10-07T04:41:09.393485Z",
+    "updatedAt": "2026-10-07T04:41:09.393485Z"
+  },
+  {
+    "slug": "instagram-edits-cleaner-video-workflow",
+    "title": "Instagram Edits: a cleaner path from clip to post",
+    "excerpt": "Use Edits to simplify your workflow while checking the footage, export and final upload that determine what viewers actually see.",
+    "tool": "Instagram Edits",
+    "category": "brand-growth",
+    "kind": "guide",
+    "format": "quick-guide",
+    "readingMinutes": 1,
+    "serviceId": "creative-direction-session",
+    "relatedServiceIds": [
+      "brand-spot"
+    ],
+    "checkedAt": "2026-10-07",
+    "sections": [
+      {
+        "heading": "Why it helps",
+        "paragraphs": [
+          "Edits brings phone editing and direct Instagram or Facebook sharing into one workflow, with exports that have no added watermark. That convenience can save steps. It does not mean a video looks bad simply because you used another editor. Instagram also creates encoded playback versions after upload."
+        ],
+        "sourceRefs": [
+          "edits",
+          "instagram-encoding"
+        ]
+      },
+      {
+        "heading": "Try this",
+        "paragraphs": [
+          "Check the video at each handoff so you know where a problem first appears."
+        ],
+        "bullets": [
+          "Start with the original camera clip. Check focus, lighting and motion before adding effects. A larger export setting cannot recreate missing detail in a soft source.",
+          "Build a short vertical edit with readable captions and room around important text. Review the export resolution and frame rate, then save a clean master instead of repeatedly downloading and reuploading copies.",
+          "Watch that saved file before posting. After upload processing, compare it with playback on Instagram. If only the posted version looks different, investigate upload and playback settings before changing your whole editing setup."
+        ],
+        "sourceRefs": [
+          "edits",
+          "instagram-encoding"
+        ]
+      },
+      {
+        "heading": "Your next move",
+        "paragraphs": [
+          "Read Meta’s Edits overview below and try one short test clip. Want a second pair of eyes on your footage, message and posting workflow? Jamaal’s $150 Creative Direction Session helps you choose practical improvements for your social content."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "edits",
+        "title": "Meta: Introducing Edits",
+        "url": "https://about.fb.com/news/2025/04/introducing-edits-streamlined-video-creation-app/",
+        "sourcePublishedAt": "2025-04-22",
+        "sourceUpdatedAt": "2025-12-17",
+        "supports": "Phone editing, direct Instagram/Facebook sharing, watermark-free export, timeline and performance feedback.",
+        "status": "Read official announcement and dated update.",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "id": "instagram-encoding",
+        "title": "Meta Engineering: Instagram video processing",
+        "url": "https://engineering.fb.com/2022/11/04/web/instagram-video-processing-encoding-reduction/",
+        "sourcePublishedAt": "2022-11-04",
+        "supports": "Instagram produces multiple encoded playback versions of uploaded videos. It does not establish current upload caps or prove one editor is required.",
+        "status": "Read primary engineering explanation; architectural background, not fresh news.",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "nextClick": {
+      "label": "Explore Edits on Meta’s official site",
+      "url": "https://about.fb.com/news/2025/04/introducing-edits-streamlined-video-creation-app/",
+      "external": true
+    },
+    "cta": {
+      "label": "Get creative direction · $150",
+      "serviceId": "creative-direction-session",
+      "price": 150,
+      "currency": "USD",
+      "scope": "Review your website, social presence or creative project and leave with practical next steps. No session duration is specified.",
+      "url": "/contact?project=Creative%20Direction%20Session%20%28%24150%29"
+    },
+    "editorial": {
+      "evergreen": true,
+      "firsthandTested": false,
+      "disclosure": "AI assisted editorial, checked against the linked official sources.",
+      "affiliation": "Independent guide. No partnership, sponsorship or affiliate relationship is claimed."
+    },
+    "brandTreatment": {
+      "type": "plain-text",
+      "label": "Instagram Edits",
+      "assetPath": null,
+      "note": "Use a clearly typeset name, not an invented logo or partner badge."
+    },
+    "wordCount": 190,
+    "seoDescription": "Use Edits to simplify your workflow while checking the footage, export and final upload that determine what viewers actually see.",
+    "publishedAt": "2026-10-07T04:41:09.393485Z",
+    "updatedAt": "2026-10-07T04:41:09.393485Z"
+  },
+  {
+    "slug": "capcut-export-check-before-posting",
+    "title": "CapCut: check the export before you post",
+    "excerpt": "Choose export settings for your footage and destination, then inspect the saved file instead of trusting a resolution label alone.",
+    "tool": "CapCut",
+    "category": "music-videos",
+    "kind": "guide",
+    "format": "quick-guide",
+    "readingMinutes": 1,
+    "serviceId": "creative-direction-session",
+    "relatedServiceIds": [
+      "music-video",
+      "ai-music-reels"
+    ],
+    "checkedAt": "2026-10-07",
+    "sections": [
+      {
+        "heading": "Why it helps",
+        "paragraphs": [
+          "A sharp edit can still leave CapCut with the wrong crop, soft detail or awkward motion. The export panel gives you control over resolution, frame rate and bitrate. Those settings work together. Selecting 4K alone does not guarantee a better result on Instagram or any other platform."
+        ],
+        "sourceRefs": [
+          "capcut-export",
+          "capcut-bitrate"
+        ]
+      },
+      {
+        "heading": "Try this",
+        "paragraphs": [
+          "Make a short test export before rendering a long project."
+        ],
+        "bullets": [
+          "Set the canvas for the destination. For a full screen vertical social clip, a 9:16 layout is a useful starting point. Check faces, captions and logos inside that frame rather than stretching a horizontal image.",
+          "Open Export and check resolution, frame rate and bitrate together. Use settings your source and intended platform support. Higher bitrate can preserve more detail, but it also increases file size; maximum settings are not automatically the right delivery choice.",
+          "Play the actual exported file with sound. Inspect movement, small text and dark areas. Compare it with your source, then upload the clean master and review the posted result after processing."
+        ],
+        "sourceRefs": [
+          "capcut-export",
+          "capcut-bitrate"
+        ]
+      },
+      {
+        "heading": "Your next move",
+        "paragraphs": [
+          "Use CapCut’s export guide below; options vary by device and app version. Bring a troublesome clip or release plan to Jamaal’s $150 Creative Direction Session for clear feedback and next steps."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "capcut-export",
+        "title": "CapCut: Exporting 2K and 4K videos",
+        "url": "https://www.capcut.com/help/export-videos-in-capcut",
+        "sourcePublishedAt": null,
+        "sourceContextDate": "2026-01",
+        "supports": "Export resolution, frame rate and bitrate controls; available options depend on platform, source, device and software.",
+        "status": "Read official help. January 2026 is stated context, not a confirmed publication date.",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "id": "capcut-bitrate",
+        "title": "CapCut: Understanding video bitrate",
+        "url": "https://www.capcut.com/resource/what-is-a-bitrate-in-video",
+        "sourcePublishedAt": null,
+        "supports": "Bitrate affects compression, quality and file size; resolution alone is not the full export decision.",
+        "status": "Read official resource; visible publication date not established.",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "nextClick": {
+      "label": "Read CapCut’s official export guide",
+      "url": "https://www.capcut.com/help/export-videos-in-capcut",
+      "external": true
+    },
+    "cta": {
+      "label": "Get creative direction · $150",
+      "serviceId": "creative-direction-session",
+      "price": 150,
+      "currency": "USD",
+      "scope": "Review your website, social presence or creative project and leave with practical next steps. No session duration is specified.",
+      "url": "/contact?project=Creative%20Direction%20Session%20%28%24150%29"
+    },
+    "editorial": {
+      "evergreen": true,
+      "firsthandTested": false,
+      "disclosure": "AI assisted editorial, checked against the linked official sources.",
+      "affiliation": "Independent guide. No partnership, sponsorship or affiliate relationship is claimed."
+    },
+    "brandTreatment": {
+      "type": "plain-text",
+      "label": "CapCut",
+      "assetPath": null,
+      "note": "Use a clearly typeset name, not an invented logo or partner badge."
+    },
+    "wordCount": 193,
+    "seoDescription": "Choose export settings for your footage and destination, then inspect the saved file instead of trusting a resolution label alone.",
+    "publishedAt": "2026-10-07T04:41:09.393485Z",
+    "updatedAt": "2026-10-07T04:41:09.393485Z"
+  },
+  {
+    "slug": "heygen-make-your-script-sound-natural",
+    "title": "HeyGen: make the message work before generating the video",
+    "excerpt": "Plan a clear message, preview the voice and review the finished result before using an AI presenter in your business content.",
+    "tool": "HeyGen",
+    "category": "ai-filmmaking",
+    "kind": "guide",
+    "format": "quick-guide",
+    "readingMinutes": 1,
+    "serviceId": "creative-direction-session",
+    "relatedServiceIds": [
+      "brand-spot"
+    ],
+    "checkedAt": "2026-10-07",
+    "sections": [
+      {
+        "heading": "Why it helps",
+        "paragraphs": [
+          "The HeyGen AI video platform can turn a script into presenter content for an explanation, announcement or walkthrough. The useful starting point is a message people can follow. A polished avatar cannot rescue a confusing offer, so decide what the viewer should understand and do next before generating anything."
+        ],
+        "sourceRefs": [
+          "heygen-scripts"
+        ]
+      },
+      {
+        "heading": "Try this",
+        "paragraphs": [
+          "Build a small test scene first, especially when your script includes names or specialist words."
+        ],
+        "bullets": [
+          "Write three simple parts: the viewer’s problem, the useful explanation and one next action. Split longer material into scenes so each section makes one point.",
+          "Preview the script aloud in AI Studio. Adjust pauses and correct pronunciation for names, numbers and brand terms. Check repeated words in every scene; a correction to one instance may not update the rest.",
+          "Review the generated picture and sound together. Check timing, visible text and the closing link. If creating a video based Digital Twin of a real person, that person must provide HeyGen’s required consent recording."
+        ],
+        "sourceRefs": [
+          "heygen-scripts",
+          "heygen-consent"
+        ]
+      },
+      {
+        "heading": "Your next move",
+        "paragraphs": [
+          "Follow the official script guide below. Need help shaping the message or choosing between an AI presenter and another video format? Jamaal’s $150 Creative Direction Session gives you a focused creative review and practical next steps."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "heygen-scripts",
+        "title": "HeyGen: Scripts in AI Studio",
+        "url": "https://help.heygen.com/en/articles/11381771-how-to-write-scripts-in-the-ai-studio",
+        "sourceUpdatedAt": "2026-08-28",
+        "supports": "Scene scripts, voice preview, pauses and correction of pronunciation.",
+        "status": "Read official help article.",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "id": "heygen-consent",
+        "title": "HeyGen: Recording your consent video",
+        "url": "https://help.heygen.com/en/articles/12092609-recording-your-consent-video",
+        "sourceUpdatedAt": "2026-04-23",
+        "supports": "Video-based Digital Twin creation requires the depicted person’s own consent recording.",
+        "status": "Read official help article.",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "nextClick": {
+      "label": "Open HeyGen’s script guide",
+      "url": "https://help.heygen.com/en/articles/11381771-how-to-write-scripts-in-the-ai-studio",
+      "external": true
+    },
+    "cta": {
+      "label": "Get creative direction · $150",
+      "serviceId": "creative-direction-session",
+      "price": 150,
+      "currency": "USD",
+      "scope": "Review your website, social presence or creative project and leave with practical next steps. No session duration is specified.",
+      "url": "/contact?project=Creative%20Direction%20Session%20%28%24150%29"
+    },
+    "editorial": {
+      "evergreen": true,
+      "firsthandTested": false,
+      "disclosure": "AI assisted editorial, checked against the linked official sources.",
+      "affiliation": "Independent guide. No partnership, sponsorship or affiliate relationship is claimed."
+    },
+    "brandTreatment": {
+      "type": "plain-text",
+      "label": "HeyGen",
+      "assetPath": null,
+      "note": "Use a clearly typeset name, not an invented logo or partner badge."
+    },
+    "wordCount": 193,
+    "seoDescription": "Plan a clear message, preview the voice and review the finished result before using an AI presenter in your business content.",
+    "publishedAt": "2026-10-07T04:41:09.393485Z",
+    "updatedAt": "2026-10-07T04:41:09.393485Z"
+  },
+  {
+    "slug": "muse-for-small-business-review-a-content-plan",
+    "title": "Muse for Small Business: start with a plan you can review",
+    "excerpt": "Use Meta’s business agent for a focused draft and review workflow, with clear limits on publishing, messages and spending.",
+    "tool": "Muse for Small Business",
+    "category": "brand-growth",
+    "kind": "guide",
+    "format": "quick-guide",
+    "readingMinutes": 1,
+    "serviceId": "creative-direction-session",
+    "relatedServiceIds": [
+      "brand-spot",
+      "landing-page"
+    ],
+    "checkedAt": "2026-10-07",
+    "sections": [
+      {
+        "heading": "Why it helps",
+        "paragraphs": [
+          "Meta’s Muse for Small Business is an AI agent with business tools, including connections to Facebook, Instagram and Meta ads. It is broader than a Facebook feature. For a creator or small brand, a useful first task is turning scattered ideas into a content plan you can inspect."
+        ],
+        "sourceRefs": [
+          "muse-announcement",
+          "muse-product"
+        ]
+      },
+      {
+        "heading": "Try this",
+        "paragraphs": [
+          "Keep the first task focused on planning, with no account changes needed."
+        ],
+        "bullets": [
+          "Give it your actual offer, audience and goal. Ask for three post ideas that answer customer questions, each with a suggested visual and one clear next action. Share only the information needed for that task.",
+          "Request drafts for review. State that nothing should be published, sent or purchased without your approval. If you later connect accounts, check the available permissions and keep the scope tied to the job.",
+          "Read every draft for accuracy, tone and realistic promises. Replace vague claims with your actual deliverables. Check any suggested links and dates, then choose what deserves to move into production."
+        ],
+        "sourceRefs": [
+          "muse-product",
+          "muse-safety"
+        ]
+      },
+      {
+        "heading": "Your next move",
+        "paragraphs": [
+          "Explore the official Muse for Small Business page below. Want a human creative review before putting the plan into action? Book Jamaal’s $150 Creative Direction Session to review your website, social presence or creative project and choose clear next steps."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "muse-announcement",
+        "title": "Meta: Muse for Small Business",
+        "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/",
+        "sourcePublishedAt": "2026-09-29",
+        "supports": "Exact product name and Meta identity, Facebook/Instagram business connections, and the official muse.ai/business destination.",
+        "status": "Read official announcement and followed its product link.",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "id": "muse-product",
+        "title": "Muse for Small Business official product page",
+        "url": "https://muse.ai/business",
+        "sourcePublishedAt": null,
+        "supports": "Business planning use cases, connected tools, action review and available regions.",
+        "status": "Read product destination linked by Meta; not a similarly named unrelated product.",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "id": "muse-safety",
+        "title": "Meta AI Research: How We Built Safety Into Muse",
+        "url": "https://research.meta.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse",
+        "sourcePublishedAt": "2026-09-08",
+        "supports": "Scoped connector permissions, human review controls and explicit acknowledgement that agents can make mistakes.",
+        "status": "Read official technical explanation reached through Meta’s security.muse.ai link.",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "nextClick": {
+      "label": "Explore Muse for Small Business",
+      "url": "https://muse.ai/business",
+      "external": true
+    },
+    "cta": {
+      "label": "Get creative direction · $150",
+      "serviceId": "creative-direction-session",
+      "price": 150,
+      "currency": "USD",
+      "scope": "Review your website, social presence or creative project and leave with practical next steps. No session duration is specified.",
+      "url": "/contact?project=Creative%20Direction%20Session%20%28%24150%29"
+    },
+    "editorial": {
+      "evergreen": true,
+      "firsthandTested": false,
+      "disclosure": "AI assisted editorial, checked against the linked official sources.",
+      "affiliation": "Independent guide. No partnership, sponsorship or affiliate relationship is claimed."
+    },
+    "brandTreatment": {
+      "type": "plain-text",
+      "label": "Muse for Small Business",
+      "assetPath": null,
+      "note": "Use a clearly typeset name, not an invented logo or partner badge."
+    },
+    "wordCount": 198,
+    "seoDescription": "Use Meta’s business agent for a focused draft and review workflow, with clear limits on publishing, messages and spending.",
+    "publishedAt": "2026-10-07T04:41:09.393485Z",
+    "updatedAt": "2026-10-07T04:41:09.393485Z"
+  },
+  {
+    "slug": "beatviz-ai-director-full-song-workflows",
+    "title": "BeatViz announces AI Director. Here is the question artists should ask next.",
+    "excerpt": "The October 3 announcement puts full song planning in the spotlight. For artists, the useful question is how much visual direction a release actually needs.",
+    "category": "ai-filmmaking",
+    "serviceId": "ai-music-reels",
+    "readingMinutes": 1,
+    "kind": "news",
+    "sourcePublishedAt": "2026-10-03T15:22:00Z",
+    "evidence": {
+      "checkedDate": "2026-10-06",
+      "publisher": "BeatViz via EIN Presswire",
+      "claimType": "Company announcement corroborated by vendor product page",
+      "independentHandsOnTest": false,
+      "freshness": "Recent announcement dated October 3, 2026. Do not describe as launched today or yesterday. Recheck source and publication date before scheduled reuse."
+    },
+    "sections": [
+      {
+        "heading": "What BeatViz announced",
+        "paragraphs": [
+          "BeatViz announced AI Director on October 3, 2026. Its company release describes a conversational workflow that plans scenes, generates visuals and edits a full song into a music video. Creators can develop a concept and revise details through chat.",
+          "These are vendor descriptions, supported by the company’s product page. This article is not an independent product test or a claim that the tool will suit every track."
+        ]
+      },
+      {
+        "heading": "Choose the job before the tool",
+        "paragraphs": [
+          "A complete music video needs an idea that develops across the song. A short reel can focus on one hook and one visual world. Filming gives your real performance and location their own place in the story.",
+          "Before commissioning anything, decide what people should feel, which details must stay consistent and where the finished visual will appear. A strong brief gives you something useful to judge beyond impressive individual shots."
+        ]
+      },
+      {
+        "heading": "Make the next move",
+        "paragraphs": [
+          "Jamaal’s Viral AI Music Video Reels are $80. The separate filmed music video service is $650. Viral is the reel’s service name, not a promise of views.",
+          "Explore the matching offer and send your track, chosen section and release date. Confirm duration, format and deliverables before production."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "BeatViz company announcement, October 3, 2026",
+        "url": "https://www.einpresswire.com/article/947088269/beatviz-launches-ai-director-for-full-length-music-video-creation"
+      },
+      {
+        "title": "BeatViz official product page",
+        "url": "https://beatviz.ai/"
+      }
+    ],
+    "seoDescription": "BeatViz announced AI Director on October 3, 2026. Understand the practical difference between full song AI workflows, short music reels and filmed videos.",
+    "publishedAt": "2026-10-07T03:13:00.000Z",
+    "updatedAt": "2026-10-07T04:38:00.458Z"
+  },
+  {
+    "slug": "plan-your-music-video-shoot",
+    "title": "Your song is ready. Here is how to plan the video.",
+    "excerpt": "A clear idea, the right location and a little preparation make shoot day easier. Start with this practical music video checklist.",
+    "category": "music-videos",
+    "serviceId": "music-video",
+    "readingMinutes": 1,
+    "sections": [
+      {
+        "heading": "Give the song a clear direction",
+        "paragraphs": [
+          "Start with the feeling you want the video to create. Send the final track, lyrics and two or three references, explaining what you like about their color, movement or energy. Say early if the mix or arrangement is still changing.",
+          "Choose a concept that fits the artist and the production. You do not need a complicated story or a finished treatment to begin."
+        ]
+      },
+      {
+        "heading": "Make shoot day easier",
+        "paragraphs": [
+          "Confirm location access, filming rules, parking and any costs before booking. Share recent photos and a venue contact. For outdoor filming, discuss weather and a backup.",
+          "Rehearse the track, prepare the agreed outfits and name the moments you cannot miss. Choose one person to gather feedback so the edit receives a clear set of notes."
+        ]
+      },
+      {
+        "heading": "Know the package and send your brief",
+        "paragraphs": [
+          "Jamaal’s filmed Music Videos package is a flat $650. It includes creative direction, a shoot plan, one edited and color graded music video, an HD delivery file and two revision rounds.",
+          "Editing typically takes 1 to 2 days after the shoot and receipt of the final track and agreed assets. Allow up to 2 weeks when busy. Share your deadline and extra production needs, then explore the portfolio and send your idea. Filmed videos are separate from AI reels."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "YouTube recommended upload encoding settings",
+        "url": "https://support.google.com/youtube/answer/1722171?hl=en"
+      }
+    ],
+    "seoDescription": "Plan your music video with a clear concept, final track, location checklist and release timeline. Explore Jamaal Treasures filmed music videos for $650.",
+    "publishedAt": "2026-10-07T03:13:00.000Z",
+    "updatedAt": "2026-10-07T05:08:55.037082Z"
+  },
+  {
+    "slug": "ai-music-reel-or-filmed-video",
+    "title": "AI music reel or filmed video? Pick the visual your release needs.",
+    "excerpt": "A short AI reel and a filmed music video do different jobs. Choose the format around your song, your presence and where people will watch.",
+    "category": "ai-filmmaking",
+    "serviceId": "ai-music-reels",
+    "readingMinutes": 1,
+    "sections": [
+      {
+        "heading": "Choose what your release needs",
+        "paragraphs": [
+          "A full music video can introduce your performance and tell the song’s story. A short AI reel can give one hook an imagined visual world. Choose the format around the job, not the newest tool.",
+          "Use genuine footage when you need to document a real event or performance. Generated scenes should not be presented as proof of something that happened."
+        ]
+      },
+      {
+        "heading": "Understand the two offers",
+        "paragraphs": [
+          "The $650 Music Videos package includes a location shoot, creative direction, a shoot plan, one edited and color graded video, an HD file and two revision rounds. Editing typically takes 1 to 2 days after the shoot and receipt of the final track and agreed assets. Allow up to 2 weeks when busy.",
+          "Viral AI Music Video Reels are $80. Viral is the service name, not a promise of reach. Confirm the song section, duration, aspect ratio and included revisions in the brief."
+        ]
+      },
+      {
+        "heading": "Send a clear brief",
+        "paragraphs": [
+          "Share the track, mood, release date, destination and approved artwork. Flag any appearance, wording or detail that must stay accurate.",
+          "YouTube requires disclosure for meaningful realistic AI alterations or generated scenes, with different treatment for minor edits and clearly unrealistic content. Check its current upload guidance. Then explore the AI reel offer or filmed portfolio and choose the approach that serves your song."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "YouTube: Disclosing use of GenAI content",
+        "url": "https://support.google.com/youtube/answer/14328491?hl=en"
+      }
+    ],
+    "seoDescription": "Compare AI music video reels with filmed music videos. Understand the creative differences, what to brief and how to choose visuals for your release.",
+    "publishedAt": "2026-10-07T03:13:00.000Z",
+    "updatedAt": "2026-10-07T05:08:55.037391Z"
+  },
+  {
+    "slug": "cover-art-checklist-for-your-next-single",
+    "title": "Make your next cover art work before anyone presses play.",
+    "excerpt": "Your artwork needs to look good as a tiny thumbnail and arrive in the right format. Here is a clear checklist for your next single.",
+    "category": "artist-releases",
+    "serviceId": "cover-art",
+    "readingMinutes": 1,
+    "sections": [
+      {
+        "heading": "Give the song one visual idea",
+        "paragraphs": [
+          "Choose a mood and a clear focal point before adding fonts or effects. Send the exact artist name, release title, references and distributor submission deadline. Supply original images you have permission to use, rather than screenshots.",
+          "Check the design both full size and as a small thumbnail. Look for readable text, sharp source images and important details too close to the edges."
+        ]
+      },
+      {
+        "heading": "Check the delivery file",
+        "paragraphs": [
+          "DistroKid calls for JPG artwork in RGB color space. It recommends a square 3000 by 3000 pixel image, with a minimum of 1000 by 1000. Enlarging a small image cannot restore detail that was never there.",
+          "Its guidance excludes URLs, QR codes, prices, streaming service logos and social platform logos. It also warns against poor quality imagery and duplicate artwork across releases. Recheck your actual distributor’s requirements before submission; a design is not a guarantee of acceptance."
+        ]
+      },
+      {
+        "heading": "Build the release around it",
+        "paragraphs": [
+          "Use the approved cover’s colors and visual idea to connect your social posts, reels and video direction. Each format still needs its own composition.",
+          "Jamaal’s Cover Art service is $50. Send your track, exact release text, references and deadline. Agree the scope and final files before work begins, then check every name and letter before approval."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "DistroKid: Requirements for album artwork",
+        "url": "https://support.distrokid.com/hc/en-us/articles/360013534334-What-Are-the-Requirements-for-Album-Artwork"
+      }
+    ],
+    "seoDescription": "Prepare your next single's cover art with a clear brief, readable design and current DistroKid file requirements. Cover art from Jamaal Treasures is $50.",
+    "publishedAt": "2026-10-07T03:13:00.000Z",
+    "updatedAt": "2026-10-07T04:38:00.458Z"
+  },
+  {
+    "slug": "plan-event-video-coverage-florida",
+    "title": "Make your event useful after the room clears.",
+    "excerpt": "The best event recap starts with a plan for what matters. Share the schedule, key moments and audience before the cameras arrive.",
+    "category": "events",
+    "serviceId": "event-coverage",
+    "readingMinutes": 1,
+    "sections": [
+      {
+        "heading": "Decide what the recap should do",
+        "paragraphs": [
+          "Tell the videographer whether your event video is for guests, future customers or the next gathering. Choose the main purpose, then mark the moments that will explain the experience to someone who was not there.",
+          "A two hour booking needs a deliberate coverage window. Build it around the important performance, announcement or activity rather than assuming the first two hours are best."
+        ]
+      },
+      {
+        "heading": "Share the details before filming",
+        "paragraphs": [
+          "Send the schedule, venue address and one contact who can handle changes. Confirm access, filming rules, lighting restrictions and any travel needs.",
+          "If speeches or performances need clear sound, discuss audio access in advance. A highlight recap is different from a complete recording of every speech. Agree extra coverage before the schedule runs over."
+        ]
+      },
+      {
+        "heading": "Know the package and book the right window",
+        "paragraphs": [
+          "Jamaal’s $450 Event Coverage includes up to two hours of Florida filming, one edited 60 to 90 second highlight video, three vertical social clips and two revision rounds. Editing typically takes 1 to 2 days after the event and receipt of agreed assets. Allow up to 2 weeks when busy.",
+          "Longer coverage and travel outside the agreed area are quoted before booking. This is Jamaal’s package, not a statewide standard rate. Send your date, venue, schedule and intended use so the coverage matches what matters."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Jamaal Treasures current service packages",
+        "url": "https://jamaaltreasures.com/prices"
+      }
+    ],
+    "seoDescription": "Plan Florida event video coverage with a clear schedule, audio access and essential moments. See what Jamaal Treasures' $450 event package includes.",
+    "publishedAt": "2026-10-07T03:13:00.000Z",
+    "updatedAt": "2026-10-07T05:08:55.037394Z"
+  },
+  {
+    "slug": "connect-brand-video-to-a-clear-next-step",
+    "title": "Give your brand video somewhere worth sending people.",
+    "excerpt": "A strong video opens the conversation. A clear offer and useful landing page help visitors decide what to do next.",
+    "category": "brand-growth",
+    "serviceId": "brand-spot",
+    "readingMinutes": 1,
+    "sections": [
+      {
+        "heading": "Make one offer easy to understand",
+        "paragraphs": [
+          "Choose one audience and one next action. Your video, landing page and checkout should describe the same offer, price and scope. Support the message with relevant work or real feedback, without inventing customer results."
+        ]
+      },
+      {
+        "heading": "Choose the work you need",
+        "paragraphs": [
+          "Jamaal’s $500 Brand Spot includes a 30 second cinematic AI video, concept, script, chosen delivery format and two revision rounds. Delivery is within 14 days of the approved brief and required assets; editing typically takes 1 to 2 days once footage is ready.",
+          "The separate $400 Landing Page includes one responsive page using supplied copy and images, a contact form and key links, mobile checks, launch setup and two revision rounds. Delivery is within 14 days of receiving content and required access. Domain and hosting fees are separate.",
+          "Keep deliverables and practical answers near the action. Test the form or exact checkout destination on a phone and with a keyboard."
+        ]
+      },
+      {
+        "heading": "Measure what happens next",
+        "paragraphs": [
+          "Search Console shows search queries, impressions, clicks and click through rate for a verified site. Those figures do not prove an inquiry or purchase; check actual form or checkout records for those steps.",
+          "Explore the brand video and website packages, then share the offer you want people to understand. Choose either deliverable or discuss how they should work together."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Google Search Console: Performance report",
+        "url": "https://support.google.com/webmasters/answer/7576553?hl=en"
+      },
+      {
+        "title": "Jamaal Treasures current service packages",
+        "url": "https://jamaaltreasures.com/prices"
+      }
+    ],
+    "seoDescription": "Connect your brand video to a focused landing page with clear pricing, relevant proof and one useful next step. Plan your creative with Jamaal Treasures.",
+    "publishedAt": "2026-10-07T03:13:00.000Z",
+    "updatedAt": "2026-10-07T05:08:55.037396Z"
+  }
+]
