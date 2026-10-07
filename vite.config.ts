@@ -9,13 +9,15 @@ const SITE_CREATOR_PLACEHOLDER_DATABASE_ID =
   "00000000-0000-4000-8000-000000000000";
 
 const { d1, r2 } = hostingConfig;
+const directCloudflare = process.env.SITE_DEPLOY_TARGET === 'cloudflare';
 
 // macOS Seatbelt blocks FSEvents, so Codex previews need polling for HMR.
 const isCodexSeatbeltSandbox = process.env.CODEX_SANDBOX === "seatbelt";
 const managedLinux = readExecutionProfile() === "managed-linux";
 
 const localBindingConfig = {
-  main: "./build/sites-worker.ts",
+  main: directCloudflare ? './build/cloudflare-worker.ts' : './build/sites-worker.ts',
+  ...(directCloudflare ? {name: process.env.CLOUDFLARE_WORKER_NAME || 'jamaaltreasures', compatibility_date: '2026-05-15'} : {}),
   compatibility_flags: ["nodejs_compat"],
   assets: {
     binding: "ASSETS",
@@ -25,8 +27,8 @@ const localBindingConfig = {
     ? [
         {
           binding: d1,
-          database_name: "site-creator-d1",
-          database_id: SITE_CREATOR_PLACEHOLDER_DATABASE_ID,
+          database_name: directCloudflare ? 'jamaaltreasures' : 'site-creator-d1',
+          database_id: directCloudflare ? (process.env.CLOUDFLARE_D1_DATABASE_ID || SITE_CREATOR_PLACEHOLDER_DATABASE_ID) : SITE_CREATOR_PLACEHOLDER_DATABASE_ID,
         },
       ]
     : [],
@@ -34,7 +36,7 @@ const localBindingConfig = {
     ? [
         {
           binding: r2,
-          bucket_name: "site-creator-r2",
+          bucket_name: directCloudflare ? (process.env.CLOUDFLARE_R2_BUCKET || 'jamaaltreasures-preview') : 'site-creator-r2',
         },
       ]
     : [],
@@ -56,6 +58,7 @@ export default defineConfig(async ({ command }) => {
   const { cloudflare } = await import("@cloudflare/vite-plugin");
 
   return {
+    define: { __SITE_REVISION__: JSON.stringify(process.env.SITE_GIT_COMMIT || 'local-preview') },
     build: { minify: true },
     environments: { rsc: { build: { minify: true } }, ssr: { build: { minify: true } } },
     server: {
