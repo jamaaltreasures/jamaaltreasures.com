@@ -1,3 +1,4 @@
+// Cloudflare Workers Builds deploys pushes to main.
 import events from './oracle-events.json' with {type:'json'};
 
 const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
