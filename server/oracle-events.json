@@ -1255,5 +1255,110 @@
   "alt": "Victoria Monét flyer, Yuengling Center Tampa",
   "imageKey": "event-flyers/108-victoria-monet.jpg",
   "endDate": "2026-11-08"
+ },
+ {
+  "section": "THIS WEEK",
+  "title": "Miami Carnival Official J'ouvert",
+  "date": "OCTOBER 10, 7 AM TO 3 PM",
+  "headliners": "Lady Lava, Anika Berry, Reo, Shaks, Trilla G, Shelly and more",
+  "venue": "Central Broward Park, Lauderhill",
+  "categories": [
+   "Culture",
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.caribtix.com/collection/miamicarnival",
+  "flyerUrl": "https://www.instagram.com/p/DeK70TGJX17/",
+  "image": "/events/flyer/109-miami-carnival-official-jouvert.jpg",
+  "alt": "Miami Carnival Official J'ouvert flyer, Central Broward Park Lauderhill",
+  "imageKey": "event-flyers/109-miami-carnival-official-jouvert.jpg",
+  "endDate": "2026-10-10"
+ },
+ {
+  "section": "THIS WEEK",
+  "title": "Once Upon A Night Market: October Forever Halloween Nostalgia Edition",
+  "date": "OCTOBER 10, 12 PM TO 5 PM",
+  "headliners": "",
+  "venue": "DoubleTree by Hilton at the Entrance to Universal Orlando, Orlando",
+  "categories": [
+   "Community",
+   "Arts"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://www.instagram.com/p/Da6mEwkuOZB/",
+  "flyerUrl": "https://www.instagram.com/p/Da6mEwkuOZB/",
+  "image": "/events/flyer/110-october-forever-night-market.jpg",
+  "alt": "October Forever Halloween Nostalgia Night Market flyer, Orlando",
+  "imageKey": "event-flyers/110-october-forever-night-market.jpg",
+  "endDate": "2026-10-10"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Future Wealth Summit 2026",
+  "date": "DECEMBER 4 TO 6",
+  "headliners": "Armando Pantoja, Cedric Nash, Dr. Boyce Watkins, Jake Claver, Natasha Burton, Nicole Purvy, Ross Mac, Scott Clary, Caleb Silver, Robert Croak",
+  "venue": "Hyatt Regency Miami, Miami",
+  "categories": [
+   "Business"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/future-wealth-summit-2026-miami-tickets-1990829223800",
+  "flyerUrl": "https://www.eventbrite.com/e/future-wealth-summit-2026-miami-tickets-1990829223800",
+  "image": "/events/flyer/111-future-wealth-summit.jpg",
+  "alt": "Future Wealth Summit 2026 flyer, Hyatt Regency Miami",
+  "imageKey": "event-flyers/111-future-wealth-summit.jpg",
+  "endDate": "2026-12-06"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "RuPaul DJ Set at Tempo Daylife Pool Party",
+  "date": "NOVEMBER 1, 11 AM",
+  "headliners": "RuPaul, Romi Lux, Tweak",
+  "venue": "Tempo Daylife, Seminole Hard Rock Hotel and Casino Tampa",
+  "categories": [
+   "Nightlife",
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://casino.hardrock.com/tampa/events/rupaul",
+  "flyerUrl": "https://casino.hardrock.com/tampa/events/rupaul",
+  "image": "/events/flyer/112-rupaul-tempo-daylife.jpg",
+  "alt": "RuPaul DJ set flyer, Tempo Daylife Tampa",
+  "imageKey": "event-flyers/112-rupaul-tempo-daylife.jpg",
+  "endDate": "2026-11-01"
+ },
+ {
+  "section": "HALLOWEEN",
+  "title": "Fright Night at Wharf FTL",
+  "date": "OCTOBER 30, 4 PM TO 3 AM",
+  "headliners": "",
+  "venue": "The Wharf Fort Lauderdale, Fort Lauderdale",
+  "categories": [
+   "Nightlife"
+  ],
+  "detailsLabel": "RSVP Free",
+  "detailsUrl": "https://www.eventbrite.com/e/fright-night-at-wharf-ftl-tickets-2001238112065",
+  "flyerUrl": "https://www.eventbrite.com/e/fright-night-at-wharf-ftl-tickets-2001238112065",
+  "image": "/events/flyer/113-wharf-ftl-fright-night.jpg",
+  "alt": "Fright Night flyer, The Wharf Fort Lauderdale",
+  "imageKey": "event-flyers/113-wharf-ftl-fright-night.jpg",
+  "endDate": "2026-10-31"
+ },
+ {
+  "section": "HALLOWEEN",
+  "title": "Til Death Do Us Party at Wharf FTL",
+  "date": "OCTOBER 31, 12 PM TO 3 AM",
+  "headliners": "",
+  "venue": "The Wharf Fort Lauderdale, Fort Lauderdale",
+  "categories": [
+   "Nightlife"
+  ],
+  "detailsLabel": "RSVP Free",
+  "detailsUrl": "https://www.eventbrite.com/e/til-death-do-us-party-at-wharf-ftl-tickets-2001237925507",
+  "flyerUrl": "https://www.eventbrite.com/e/til-death-do-us-party-at-wharf-ftl-tickets-2001237925507",
+  "image": "/events/flyer/114-wharf-ftl-til-death-do-us-party.jpg",
+  "alt": "Til Death Do Us Party flyer, The Wharf Fort Lauderdale",
+  "imageKey": "event-flyers/114-wharf-ftl-til-death-do-us-party.jpg",
+  "endDate": "2026-11-01"
  }
 ]
