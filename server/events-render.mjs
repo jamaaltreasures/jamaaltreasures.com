@@ -1,3 +1,4 @@
+import {eventSchema,schemaTag} from './search-schema.mjs';
 // Cloudflare Workers Builds deploys pushes to main.
 import events from './oracle-events.json' with {type:'json'};
 
@@ -36,5 +37,5 @@ export async function eventsPage(){
 @media(max-width:360px){.chips{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(prefers-reduced-motion:reduce){.chip{transition:none}}
 </style>`;
- return new Response(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#050508"><title>Events | Jamaal Treasures</title><meta name="description" content="Find your next night out. Concerts, festivals, mixers and cultural events across Florida, curated by Jamaal Treasures."><link rel="canonical" href="https://jamaaltreasures.com/events"><meta property="og:title" content="Events | Jamaal Treasures"><meta property="og:description" content="Find your next night out. Florida concerts, festivals, nightlife and cultural events."><link rel="icon" href="/assets/star.svg"></head><body>${body}</body></html>`,{headers:{'Content-Type':'text/html; charset=utf-8','Cache-Control':'public, max-age=60'}});
+ return new Response(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#050508"><title>Events | Jamaal Treasures</title><meta name="description" content="Find your next night out. Concerts, festivals, mixers and cultural events across Florida, curated by Jamaal Treasures."><link rel="canonical" href="https://jamaaltreasures.com/events"><meta property="og:title" content="Events | Jamaal Treasures"><meta property="og:description" content="Find your next night out. Florida concerts, festivals, nightlife and cultural events."><link rel="icon" href="/assets/star.svg">${schemaTag(activeEvents.map(eventSchema).filter(Boolean))}</head><body>${body}</body></html>`,{headers:{'Content-Type':'text/html; charset=utf-8','Cache-Control':'public, max-age=60'}});
 }
