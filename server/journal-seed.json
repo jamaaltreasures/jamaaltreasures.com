@@ -1,5 +1,81 @@
 [
  {
+  "slug": "seedance-2-ai-motion-graphics-text",
+  "title": "Seedance 2.0: AI motion graphics that finally spell correctly",
+  "excerpt": "Every AI video model mangled on-screen text until now. Seedance 2.0 renders clean typography in motion graphics, and the workflow is sketch to finished asset in one afternoon.",
+  "seoDescription": "Seedance 2.0 is an AI video model that renders on-screen text cleanly in motion graphics. Workflow, claims, and what it means for creators.",
+  "category": "ai-filmmaking",
+  "kind": "guide",
+  "format": "quick-guide",
+  "tool": "Seedance 2.0",
+  "serviceId": "ai-film-ad",
+  "relatedServiceIds": [
+   "brand-film"
+  ],
+  "sections": [
+   {
+    "heading": "The problem it claims to solve",
+    "paragraphs": [
+     "Every AI video model could generate beautiful footage and then ruin it with garbled text. Lower thirds, title cards, data labels, all mangled. That single flaw kept motion graphics as outsourced studio work at $1,000 to $15,000 per finished minute. Seedance 2.0 is positioned as the first model that holds text clean through the entire clip."
+    ]
+   },
+   {
+    "heading": "The three step workflow",
+    "paragraphs": [
+     "The workflow from the demo is simple enough for a non-designer:"
+    ],
+    "bullets": [
+     "Sketch the concept on paper",
+     "Convert the sketch to an image with a prompt",
+     "Animate it in Seedance 2.0"
+    ]
+   },
+   {
+    "heading": "What it unlocks",
+    "paragraphs": [
+     "Chart animations, logo reveals, icon transitions, and lower thirds go from sketch to finished asset in one afternoon, with a reported 70% faster turnaround than studio pipelines. For creators selling brand work, that turns motion graphics from a line item you outsource into a service you deliver."
+    ]
+   },
+   {
+    "heading": "Your next step",
+    "paragraphs": [
+     "Test it on the hardest case first: a lower third with your brand name over moving footage. If the text holds, you have a new capability. If it breaks, you saved yourself a client embarrassment. Either way you learn in ten minutes what used to take a studio quote."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "ohneis-reel",
+    "title": "Original reel by @ohneis652",
+    "url": "https://www.instagram.com/reel/DayNHtiC39f/"
+   }
+  ],
+  "nextClick": {
+   "label": "Watch the Seedance 2.0 demo",
+   "url": "https://www.instagram.com/reel/DayNHtiC39f/"
+  },
+  "cta": {
+   "label": "Get an AI video ad",
+   "serviceId": "ai-film-ad",
+   "price": 300,
+   "currency": "USD"
+  },
+  "brandTreatment": {
+   "type": "plain-text",
+   "label": "Seedance 2.0"
+  },
+  "editorial": {
+   "evergreen": false,
+   "firsthandTested": false,
+   "disclosure": "AI assisted editorial, checked against the linked official sources. Inspired by @ohneis652 with credit."
+  },
+  "checkedAt": "2026-10-07",
+  "publishedAt": "2026-10-07T23:25:00.000Z",
+  "updatedAt": "2026-10-07T23:25:00.000Z",
+  "readingMinutes": 3,
+  "wordCount": 198
+ },
+ {
   "slug": "meta-muse-charm-ai-tamagotchi-device",
   "title": "Meta Muse Charm: the AI Tamagotchi shipping this December",
   "excerpt": "Meta unveiled a palm-sized AI companion at Connect 2026. Two inch screen, 5G, cameras for eyes, and a customizable avatar. Everything known plus the signup link.",
