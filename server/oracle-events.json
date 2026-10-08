@@ -127,7 +127,7 @@
     "title": "The Gala Night",
     "date": "OCTOBER 16",
     "headliners": "",
-    "venue": "Orlando, Women’s Professional Network gala",
+    "venue": "Orlando, Women\u2019s Professional Network gala",
     "categories": [
       "Business",
       "Nightlife"
@@ -145,7 +145,7 @@
     "title": "The Work Between Conference and Gala",
     "date": "OCTOBER 16",
     "headliners": "",
-    "venue": "Orlando, Women’s Professional Network conference and gala",
+    "venue": "Orlando, Women\u2019s Professional Network conference and gala",
     "categories": [
       "Business"
     ],
@@ -740,5 +740,75 @@
     "alt": "Cafecito5K Miami Beach 5K official logo",
     "imageKey": "event-flyers/83-cafecito5k.jpg",
     "endDate": "2026-11-08"
+  },
+  {
+    "section": "LATER IN OCTOBER",
+    "title": "RAPTOBERFEST 2026",
+    "date": "OCTOBER 24, 7 PM TO 11:30 PM",
+    "headliners": "Alfred Banks, Hallowed Hive, Phxntom33 and more",
+    "venue": "Dunedin Brewery, Dunedin",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/raptoberfest-2026-tickets-1999218740069",
+    "flyerUrl": "https://www.eventbrite.com/e/raptoberfest-2026-tickets-1999218740069",
+    "image": "/events/flyer/84-raptoberfest-2026.jpg",
+    "alt": "RAPTOBERFEST 2026 hip hop show flyer, Dunedin Brewery",
+    "imageKey": "event-flyers/84-raptoberfest-2026.jpg",
+    "endDate": "2026-10-24"
+  },
+  {
+    "section": "THIS WEEK",
+    "title": "Miami Carnival High Energy Pool Party",
+    "date": "OCTOBER 10, 12 PM TO 8 PM",
+    "headliners": "TINA (HoodCelebrityy), live",
+    "venue": "The Pool at The Goodtime Hotel, Miami Beach",
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "detailsLabel": "RSVP",
+    "detailsUrl": "https://www.eventbrite.com/e/miami-carnival-high-energy-pool-party-at-the-goodtime-hotel-tickets-2002765591798",
+    "flyerUrl": "https://www.eventbrite.com/e/miami-carnival-high-energy-pool-party-at-the-goodtime-hotel-tickets-2002765591798",
+    "image": "/events/flyer/85-miami-carnival-high-energy-pool-party.jpg",
+    "alt": "Miami Carnival High Energy Pool Party flyer, Goodtime Hotel",
+    "imageKey": "event-flyers/85-miami-carnival-high-energy-pool-party.jpg",
+    "endDate": "2026-10-10"
+  },
+  {
+    "section": "NEXT WEEK",
+    "title": "Area 305 Halloween Alien Pool Party",
+    "date": "OCTOBER 17, 12 PM TO 6 PM",
+    "headliners": "",
+    "venue": "Novotel Miami Brickell, Miami",
+    "categories": [
+      "Nightlife"
+    ],
+    "detailsLabel": "Get tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/area-305-halloween-alien-pool-party-miami-brickell-tickets-2002479719747",
+    "flyerUrl": "https://www.eventbrite.com/e/area-305-halloween-alien-pool-party-miami-brickell-tickets-2002479719747",
+    "image": "/events/flyer/86-area-305-halloween-alien-pool-party.jpg",
+    "alt": "Area 305 Halloween Alien Pool Party flyer, Novotel Miami Brickell",
+    "imageKey": "event-flyers/86-area-305-halloween-alien-pool-party.jpg",
+    "endDate": "2026-10-17"
+  },
+  {
+    "section": "THIS WEEK",
+    "title": "Arc\u00e1ngel",
+    "date": "OCTOBER 11, 8 PM",
+    "headliners": "Arc\u00e1ngel",
+    "venue": "Kaseya Center, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get tickets",
+    "detailsUrl": "https://nightout.com/events/v/arcangel-kaseya-center-miami-2026-10-11/tickets",
+    "flyerUrl": "https://www.kaseyacenter.com/news/detail/arcangel-announces-his-la-8va-maravilla-world-tour-20-aniversario-coming-to-kaseya-center",
+    "image": "/events/flyer/87-arcangel.jpg",
+    "alt": "Arc\u00e1ngel live flyer, Kaseya Center Miami",
+    "imageKey": "event-flyers/87-arcangel.jpg",
+    "endDate": "2026-10-11"
   }
 ]
