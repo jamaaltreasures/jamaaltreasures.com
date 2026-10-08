@@ -1,5 +1,77 @@
 [
  {
+  "slug": "instagram-7-settings-viral-reels",
+  "title": "7 Instagram settings that push reels further",
+  "excerpt": "Trial reels, trending audio, sharing toggles. Seven native settings that control how far your reels travel, and how to set each one.",
+  "seoDescription": "7 Instagram settings to help reels go viral: trial reels, trending audio, sharing and reuse, recommendations, and more. How to configure each.",
+  "category": "brand-growth",
+  "kind": "guide",
+  "format": "quick-guide",
+  "tool": "Instagram",
+  "serviceId": "ai-film-ad",
+  "relatedServiceIds": [
+   "brand-film"
+  ],
+  "sections": [
+   {
+    "heading": "The seven settings",
+    "paragraphs": [
+     "Creator @therealbrianmark breaks down seven native Instagram settings that control reel distribution: Monthly Recap, Inspiration, Trending Audio, Sharing and Reuse, Trial Reels, Recommendations, and Content Preferences. None require third party tools. All live inside the app you already post from."
+    ],
+    "bullets": [
+     "Monthly Recap and Inspiration for trend research",
+     "Trending Audio to ride current sounds",
+     "Sharing and Reuse turned on for maximum distribution",
+     "Trial Reels to test with a cold audience first",
+     "Recommendations and Content Preferences tuned to your niche"
+    ]
+   },
+   {
+    "heading": "The two that matter most",
+    "paragraphs": [
+     "Sharing and Reuse is the distribution toggle. When it is on, Instagram can surface your reel in more places. Trial Reels is the testing ground: toggle it on before posting and Instagram shows the reel to a trial audience first, so you learn what lands before your followers ever see it."
+    ]
+   },
+   {
+    "heading": "Your next step",
+    "paragraphs": [
+     "Open Instagram settings right now and check all seven. Turn on Sharing and Reuse, then post your next reel as a Trial first. Compare the trial performance against your last three normal posts before deciding what goes wide."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "brianmark-reel",
+    "title": "Original reel by @therealbrianmark",
+    "url": "https://www.instagram.com/reel/Dcg4eaaPPQs/"
+   }
+  ],
+  "nextClick": {
+   "label": "Watch the 7 settings walkthrough",
+   "url": "https://www.instagram.com/reel/Dcg4eaaPPQs/"
+  },
+  "cta": {
+   "label": "Get an AI video ad",
+   "serviceId": "ai-film-ad",
+   "price": 300,
+   "currency": "USD"
+  },
+  "brandTreatment": {
+   "type": "plain-text",
+   "label": "Instagram"
+  },
+  "editorial": {
+   "evergreen": false,
+   "firsthandTested": false,
+   "disclosure": "AI assisted editorial, checked against the linked official sources. Inspired by @therealbrianmark with credit."
+  },
+  "checkedAt": "2026-10-07",
+  "publishedAt": "2026-10-07T23:30:00.000Z",
+  "updatedAt": "2026-10-07T23:30:00.000Z",
+  "readingMinutes": 2,
+  "wordCount": 178
+ },
+ {
   "slug": "seedance-2-ai-motion-graphics-text",
   "title": "Seedance 2.0: AI motion graphics that finally spell correctly",
   "excerpt": "Every AI video model mangled on-screen text until now. Seedance 2.0 renders clean typography in motion graphics, and the workflow is sketch to finished asset in one afternoon.",
