@@ -28,7 +28,9 @@ for(const match of (readFileSync('styles.css','utf8')+readFileSync('app-pages.cs
   if(!local.startsWith('#')&&!local.includes(':')&&!existsSync(path.join(out,local))) throw new Error(`Missing CSS asset: ${local}`);
 }
 const bundleBytes=readdirSync(out,{recursive:true}).reduce((total,file)=>{const item=path.join(out,file);return total+(statSync(item).isFile()?statSync(item).size:0)},0);
-if(bundleBytes>255*1024*1024)throw new Error('Static output is too close to the 256 MiB release package limit.');
+// The aggregate release-package limit applies to Sites. Direct Cloudflare
+// deployments upload static assets individually; retain the per-file check above.
+if(process.env.SITE_DEPLOY_TARGET!=='cloudflare'&&bundleBytes>255*1024*1024)throw new Error('Static output is too close to the 256 MiB release package limit.');
 console.log('Static bundle bytes:',bundleBytes);
 console.log('Static production bundle ready. YouTube previews load on visibility; THE REALM FINAL streams on demand. Fonts and carousel are local.');
 
