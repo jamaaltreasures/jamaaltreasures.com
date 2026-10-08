@@ -30,7 +30,7 @@ export async function eventsPage(){
  
 /* Generous touch targets with the site's liquid glass finish. */
 .chips{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;overflow:visible;padding:8px 0 20px}
-.chip{appearance:none;-webkit-appearance:none;min-height:58px;padding:14px 10px;justify-content:center;font-size:16px;font-weight:700;line-height:1.2;color:#f8f2ff;border:1px solid rgba(255,255,255,.3);background:linear-gradient(145deg,rgba(255,255,255,.18),rgba(168,85,247,.12) 55%,rgba(255,255,255,.05));backdrop-filter:blur(20px) saturate(160%);-webkit-backdrop-filter:blur(20px) saturate(160%);box-shadow:inset 0 1px 0 rgba(255,255,255,.45),inset 0 -1px 0 rgba(255,255,255,.08),0 6px 18px rgba(0,0,0,.24);cursor:pointer;touch-action:manipulation;transition:background .18s,transform .18s}
+.chip{appearance:none;-webkit-appearance:none;min-height:58px;padding:14px 10px;justify-content:center;font-size:16px;font-weight:700;line-height:1.2;color:#f8f2ff;border:1px solid rgba(255,255,255,.3);background:linear-gradient(145deg,rgba(255,255,255,.18),rgba(168,85,247,.12) 55%,rgba(255,255,255,.05));backdrop-filter:none;-webkit-backdrop-filter:none;text-shadow:0 2px 3px #000;box-shadow:inset 0 1px 0 rgba(255,255,255,.45),inset 0 -1px 0 rgba(255,255,255,.08),0 6px 18px rgba(0,0,0,.24);cursor:pointer;touch-action:manipulation;transition:background .18s,transform .18s}
 .chip.on{border-color:rgba(232,121,249,.85);background:linear-gradient(135deg,rgba(168,85,247,.65),rgba(239,43,75,.35));box-shadow:inset 0 1px 0 rgba(255,255,255,.55),0 0 20px rgba(168,85,247,.25)}
 .chip:active{transform:scale(.97)}.chip:focus-visible{outline:3px solid #f3c4ff;outline-offset:4px}
 @media(max-width:360px){.chips{grid-template-columns:repeat(2,minmax(0,1fr))}}
