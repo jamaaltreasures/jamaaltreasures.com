@@ -106,7 +106,12 @@
      "Fingerprint sensor for instant voice activation",
      "Wrist strap, lanyard, and keychain carry options",
      "Two Charms placed near each other can recognize and interact"
-    ]
+    ],
+    "image": {
+     "src": "/assets/editorial/muse-charm-alt.jpg",
+     "alt": "Meta Muse Charm device close-up",
+     "caption": "The Charm packs 5G, cameras, and a fingerprint sensor into a keychain-sized body."
+    }
    },
    {
     "heading": "What it actually does",
@@ -118,7 +123,12 @@
     "heading": "Why this one might work",
     "paragraphs": [
      "Dedicated AI gadgets have a graveyard: Humane's AI Pin and the Rabbit R1 both flamed out. Meta's angle is different. The Charm is not a standalone computer trying to replace the phone, it is an endpoint for an assistant that already lives in an ecosystem spanning the app, WhatsApp, the web, and Meta's AI glasses. The design comes from Meta's new design lab led by Alan Dye, Apple's former interface design chief, which explains why the thing looks like jewelry instead of a prototype. The Tamagotchi comparison is doing real work too: a cute companion you want to carry beats a black slab you have to remember."
-    ]
+    ],
+    "image": {
+     "src": "/assets/editorial/muse-charm-device.jpg",
+     "alt": "Hand holding the Meta Muse Charm with lanyard",
+     "caption": "Designed to be worn, carried, or clipped to a bag."
+    }
    },
    {
     "heading": "What is still unknown",
