@@ -89,24 +89,6 @@
  },
  {
   "section": "THIS WEEK",
-  "title": "Blacktoberfest",
-  "date": "OCTOBER 10, 1 PM TO 8 PM",
-  "headliners": "Fire DJs, line dancing, mechanical bull",
-  "venue": "S and S Friendly Ranch, Black rodeo culture",
-  "categories": [
-   "Music",
-   "Culture"
-  ],
-  "detailsLabel": "Details",
-  "detailsUrl": "https://www.instagram.com/p/DcMUXrRDtE1/",
-  "flyerUrl": "https://www.instagram.com/p/DcMUXrRDtE1/",
-  "image": "/events/flyer/09-DcMUXrRDtE1.jpg",
-  "alt": "Blacktoberfest event flyer",
-  "imageKey": "event-flyers/09-DcMUXrRDtE1.jpg",
-  "endDate": "2026-10-10"
- },
- {
-  "section": "THIS WEEK",
   "title": "Miami Carnival Parade of Bands",
   "date": "OCTOBER 11",
   "headliners": "",
@@ -145,7 +127,7 @@
   "title": "The Gala Night",
   "date": "OCTOBER 16",
   "headliners": "",
-  "venue": "Orlando, Women’s Professional Network gala",
+  "venue": "Orlando, Women\u2019s Professional Network gala",
   "categories": [
    "Business",
    "Nightlife"
@@ -163,7 +145,7 @@
   "title": "The Work Between Conference and Gala",
   "date": "OCTOBER 16",
   "headliners": "",
-  "venue": "Orlando, Women’s Professional Network conference and gala",
+  "venue": "Orlando, Women\u2019s Professional Network conference and gala",
   "categories": [
    "Business"
   ],
