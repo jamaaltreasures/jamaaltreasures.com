@@ -11,6 +11,8 @@ export const editorialImages={
  'ai-music-reel-or-filmed-video':{src:'/assets/realm-final-poster.webp',alt:'An imaginative landscape from THE REALM',subject:'AI films and filmed music videos',kind:'photo',sourceUrl:'https://jamaaltreasures.com/',credit:'THE REALM · a cinematic AI film by Jamaal Treasures'},
  'cover-art-checklist-for-your-next-single':{src:'/assets/music-covers/8a7486748368ecdf.webp',alt:'THE FIRE by Oracle Gemini, release artwork',subject:'Cover art',kind:'cover',sourceUrl:'https://jamaaltreasures.com/music',credit:'THE FIRE · Oracle Gemini'},
  'connect-brand-video-to-a-clear-next-step':{src:'/assets/jamaal-treasures-star-wordmark.webp',alt:'Jamaal Treasures star wordmark',subject:'Your brand and its next step',kind:'logo',sourceUrl:'https://jamaaltreasures.com/',credit:'Jamaal Treasures brand artwork'}
+ 'meta-muse-charm-ai-tamagotchi-device':{src:'/assets/editorial/muse-charm-device.jpg',alt:'Hand holding the Meta Muse Charm device showing the Muse avatar on its screen',subject:'Meta Muse Charm',kind:'photo',sourceUrl:'https://www.meta.com/muse-charm/',credit:'Meta · official product imagery',showCredit:true},
+ 'hyperframes-ai-video-editing-claude-code':{src:'/assets/tool-brands/heygen.svg',alt:'HeyGen logo',subject:'Hyperframes',kind:'logo',sourceUrl:'https://github.com/heygen-com/hyperframes',credit:'HeyGen · official brand artwork'},
 };
 export function articleImage(article){
  const candidate=article.image||editorialImages[article.slug];
