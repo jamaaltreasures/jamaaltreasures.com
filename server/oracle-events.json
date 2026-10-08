@@ -1464,5 +1464,39 @@
   "alt": "Tampa Bay Coffee and Art Festival flyer, Florida State Fairgrounds Tampa",
   "imageKey": "event-flyers/118-tampa-bay-coffee-art-festival.jpg",
   "endDate": "2026-10-24"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Rod Wave: Don't Look Down Tour with Fridayy, Sunrise",
+  "date": "NOVEMBER 14 AND 15, 8:30 PM",
+  "headliners": "Rod Wave, Fridayy",
+  "venue": "Amerant Bank Arena, Sunrise",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.amerantbankarena.com/events/detail/rod-wave-2026",
+  "flyerUrl": "https://www.ticketnews.com/2026/06/rod-wave-sets-25-date-dont-look-down-arena-tour/",
+  "image": "/events/flyer/75-rod-wave-don-t-look-down-tour-with-frida.jpg",
+  "alt": "Rod Wave Dont Look Down Tour concert promo graphic",
+  "imageKey": "event-flyers/75-rod-wave-don-t-look-down-tour-with-frida.jpg",
+  "endDate": "2026-11-15"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Rod Wave: Don't Look Down Tour with Fridayy, Orlando",
+  "date": "NOVEMBER 10, 8 PM",
+  "headliners": "Rod Wave, Fridayy",
+  "venue": "Kia Center, Orlando",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/rod-wave-tickets/artist/2663489",
+  "flyerUrl": "https://www.ticketnews.com/2026/06/rod-wave-sets-25-date-dont-look-down-arena-tour/",
+  "image": "/events/flyer/75-rod-wave-don-t-look-down-tour-with-frida.jpg",
+  "alt": "Rod Wave Dont Look Down Tour concert promo graphic",
+  "imageKey": "event-flyers/75-rod-wave-don-t-look-down-tour-with-frida.jpg",
+  "endDate": "2026-11-10"
  }
 ]
