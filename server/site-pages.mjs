@@ -5,9 +5,11 @@ import {businessSchema,schemaTag} from './search-schema.mjs';
 import {llmsText} from './llms.mjs';
 import {signupForm,signupAssets} from './email-signup.mjs';
 import {servicePage} from './service-pages.mjs';
+import {eventDetailPage} from './event-details.mjs';
 const pages=JSON.parse(gunzipSync(Buffer.from(packed,'base64')).toString('utf8'));
 // Keep HTML out of the asset-first CDN so every document passes host canonicalization.
 export function sitePage(request) {
+ const event=eventDetailPage(request);if(event)return event;
  const service=servicePage(request);if(service)return service;
  const path=new URL(request.url).pathname.replace(/\/+$/,'')||'/';
  if(path==='/llms.txt'){
