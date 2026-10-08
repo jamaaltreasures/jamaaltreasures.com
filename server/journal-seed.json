@@ -1,5 +1,81 @@
 [
  {
+  "slug": "higgsfield-cinema-studio-ai-filmmaking-art",
+  "title": "AI slop or cinema: the artist decides",
+  "excerpt": "Higgsfield creator Adrian Per answers the critics with history. Photography was once called soulless too. What Cinema Studio actually enables for solo filmmakers.",
+  "seoDescription": "Higgsfield AI Cinema Studio: creator Adrian Per argues AI video is only as good as the artist. The photography parallel and what solo filmmakers can do.",
+  "category": "ai-filmmaking",
+  "kind": "guide",
+  "format": "quick-guide",
+  "tool": "Higgsfield",
+  "serviceId": "ai-film-ad",
+  "relatedServiceIds": [
+   "brand-film"
+  ],
+  "sections": [
+   {
+    "heading": "The argument",
+    "paragraphs": [
+     "Creator Adrian Per, a verified Higgsfield partner, takes on the loudest criticism of AI video head on: that it is slop, not real art, made by people who never learned to light a scene. His answer is that AI in unskilled hands yields slop, but paired with a storyteller the ideas start to feel limitless. The tool does not replace the artist. It amplifies whoever is holding it."
+    ]
+   },
+   {
+    "heading": "The history lesson",
+    "paragraphs": [
+     "The reel draws a direct parallel to photography. When cameras arrived, respected critics called the medium soulless. Every new creative technology has been dismissed before it was embraced, and each one eventually made the craft better. AI video is walking the same road photography walked."
+    ]
+   },
+   {
+    "heading": "What it means for solo creators",
+    "paragraphs": [
+     "Per films alone. Cinema Studio lets a one person crew generate cinematic shots, historical montages, detailed close-ups, that once required a full production. Ideas that were out of reach for solo creators are now realizable. His advice to skeptics: try it before you write it off."
+    ]
+   },
+   {
+    "heading": "Your next step",
+    "paragraphs": [
+     "Pick one shot from your next project that you assumed needed a crew. A sweeping establishing shot, a period detail, a complex camera move. Generate it with an AI video tool and cut it against your real footage. Judge the result on screen, not on principle."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "omgadrian-reel",
+    "title": "Original reel by @omgadrian",
+    "url": "https://www.instagram.com/reel/DWl-PgApCkp/"
+   },
+   {
+    "id": "higgsfield-site",
+    "title": "Higgsfield AI",
+    "url": "https://higgsfield.ai"
+   }
+  ],
+  "nextClick": {
+   "label": "Try Higgsfield",
+   "url": "https://higgsfield.ai"
+  },
+  "cta": {
+   "label": "Get an AI video ad",
+   "serviceId": "ai-film-ad",
+   "price": 300,
+   "currency": "USD"
+  },
+  "brandTreatment": {
+   "type": "plain-text",
+   "label": "Higgsfield"
+  },
+  "editorial": {
+   "evergreen": false,
+   "firsthandTested": false,
+   "disclosure": "AI assisted editorial, checked against the linked official sources. Inspired by @omgadrian with credit."
+  },
+  "checkedAt": "2026-10-07",
+  "publishedAt": "2026-10-07T23:40:00.000Z",
+  "updatedAt": "2026-10-07T23:40:00.000Z",
+  "readingMinutes": 3,
+  "wordCount": 219
+ },
+ {
   "slug": "instagram-7-settings-viral-reels",
   "title": "7 Instagram settings that push reels further",
   "excerpt": "Trial reels, trending audio, sharing toggles. Seven native settings that control how far your reels travel, and how to set each one.",
