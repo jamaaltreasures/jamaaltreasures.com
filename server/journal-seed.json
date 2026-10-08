@@ -1,5 +1,91 @@
 [
  {
+  "slug": "ploy-ai-website-builder-bryant-chou",
+  "title": "Ploy: the AI that rebuilds your website in 75 seconds",
+  "excerpt": "The Webflow co-founder's new AI slurps your entire design system and generates on-brand pages while you sleep. What it does and how to try it.",
+  "seoDescription": "Ploy by Bryant Chou (Webflow co-founder) is an AI growth platform that rebuilds websites on-brand in seconds. What Ploy does, pricing context, and how to try it.",
+  "category": "ai-filmmaking",
+  "kind": "guide",
+  "format": "quick-guide",
+  "tool": "Ploy",
+  "serviceId": "landing-page",
+  "relatedServiceIds": [
+   "brand-film"
+  ],
+  "sections": [
+   {
+    "heading": "What Ploy is",
+    "paragraphs": [
+     "Ploy is an AI growth platform built by Bryant Chou, the co-founder and former CTO of Webflow. It launched in June 2026 with a $27 million seed round. Point Ploy at your website and its agents ingest your visual system, typography, and brand style, then generate new on-brand pages in about 75 seconds."
+    ]
+   },
+   {
+    "heading": "What it actually does",
+    "paragraphs": [
+     "Ploy runs three modules. Ploy Web builds and optimizes pages that already match your brand. Ploy Grow finds prospects and runs outreach. Ploy Ads creates and tracks campaigns. It also handles SEO, schema markup, and FAQs in the background, and it is tuned so your content shows up when buyers search through AI tools like ChatGPT."
+    ],
+    "bullets": [
+     "Ingests your site and rebuilds pages on-brand in seconds",
+     "Generates landing pages from a plain request, no design queue",
+     "Runs SEO and outreach workflows overnight"
+    ]
+   },
+   {
+    "heading": "Why creators should care",
+    "paragraphs": [
+     "If you sell services, every offer needs a page. Most creators sit on landing pages for months waiting on design. Ploy removes that bottleneck: describe the offer, get a page that already looks like your company."
+    ]
+   },
+   {
+    "heading": "Your next step",
+    "paragraphs": [
+     "Try it free at ploy.ai and point it at your own site first. Watch what it pulls from your design system before you ask it to build anything new. If the output matches your brand, you just found your landing page machine."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "ploy-site",
+    "title": "Ploy",
+    "url": "https://ploy.ai"
+   },
+   {
+    "id": "ploy-launch",
+    "title": "Ploy launches with $27M seed",
+    "url": "https://www.citybiz.co/article/861774/ploy-launches-with-27m-seed-round-to-automate-website-led-growth/"
+   },
+   {
+    "id": "liam-post",
+    "title": "Original post by @liamjohnston.ai",
+    "url": "https://www.instagram.com/p/Dd7Uw-xg3Jt/"
+   }
+  ],
+  "nextClick": {
+   "label": "Try Ploy free",
+   "url": "https://ploy.ai"
+  },
+  "cta": {
+   "label": "Get a landing page",
+   "serviceId": "landing-page",
+   "price": 400,
+   "currency": "USD"
+  },
+  "brandTreatment": {
+   "type": "plain-text",
+   "label": "Ploy"
+  },
+  "editorial": {
+   "evergreen": false,
+   "firsthandTested": false,
+   "disclosure": "AI assisted editorial, checked against the linked official sources. Inspired by @liamjohnston.ai with credit."
+  },
+  "checkedAt": "2026-10-07",
+  "publishedAt": "2026-10-07T23:15:00.000Z",
+  "updatedAt": "2026-10-07T23:15:00.000Z",
+  "readingMinutes": 3,
+  "wordCount": 226
+ },
+ {
   "slug": "hyperframes-ai-video-editing-claude-code",
   "title": "Raw in, edit out: auto-edit video with Hyperframes and Claude Code",
   "excerpt": "Feed raw footage to an AI agent and get a polished edit back. Setup steps, the exact commands, and a free prompt pack.",
