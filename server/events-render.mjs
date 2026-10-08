@@ -19,13 +19,24 @@ function topicsFor(event){
  if((event.section||'')==='HALLOWEEN'||has(/halloween|hallowyn|thriller|alien|nightmare|\bmask\b|majik|costume/))topics.add('Halloween');
  return [...topics];
 }
+function areaFor(event){
+ const text=((event.venue||'')+' '+(event.title||'')).toLowerCase();
+ if(/jacksonville/.test(text))return 'Jacksonville';
+ if(/fort lauderdale|lauderhill|tamarac/.test(text))return 'Fort Lauderdale';
+ if(/tampa|ybor/.test(text))return 'Tampa';
+ if(/orlando|sanford/.test(text))return 'Orlando';
+ if(/st\.? petersburg/.test(text))return 'St. Petersburg';
+ if(/sarasota/.test(text))return 'Sarasota';
+ if(/miami/.test(text))return 'Miami';
+ return 'More Florida';
+}
 const today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 const activeEvents=events.map(event=>eventRecords.find(record=>record.imageKey===event.imageKey)||event).filter(event=>event.endDate>=today);
 function card(event,index){
  const tags=event.categories.map(category=>`<span class="tag">${esc(category)}</span>`).join('');
  const headliners=event.headliners?`<p class="headliners"><b>Headliners:</b> ${esc(event.headliners)}</p>`:'';
  const featured=index===0?'<span class="flag">FEATURED</span>':'';
- return `<article class="card" data-categories="${esc(event.categories.join('|'))}" data-topics="${esc(topicsFor(event).join('|'))}" data-search="${esc(((event.title||'')+' '+(event.headliners||'')+' '+(event.venue||'')).toLowerCase())}">${featured}<img class="flyer" src="${esc(event.image)}" alt="${esc(event.alt)}" ${index?'loading="lazy"':''} decoding="async"><div class="cbody"><div class="cdateline">${esc(event.verifiedDetails?.timeLabel||event.date)}</div><h3><a href="${eventPath(event)}">${esc(event.title)}</a></h3>${headliners}<p class="venue">${esc(event.venue)}</p><div class="tags">${tags}</div><p><a class="mini flyerbtn" href="${eventPath(event)}">Event details</a></p><div class="actions"><a class="mini tix" href="${esc(event.detailsUrl)}" target="_blank" rel="noopener noreferrer">${esc(event.detailsLabel)}</a><a class="mini flyerbtn" href="${esc(event.flyerUrl)}" target="_blank" rel="noopener noreferrer">Flyer</a></div></div></article>`;
+ return `<article class="card" data-categories="${esc(event.categories.join('|'))}" data-topics="${esc(topicsFor(event).join('|'))}" data-area="${esc(areaFor(event))}" data-search="${esc(((event.title||'')+' '+(event.headliners||'')+' '+(event.venue||'')).toLowerCase())}">${featured}<img class="flyer" src="${esc(event.image)}" alt="${esc(event.alt)}" ${index?'loading="lazy"':''} decoding="async"><div class="cbody"><div class="cdateline">${esc(event.verifiedDetails?.timeLabel||event.date)}</div><h3><a href="${eventPath(event)}">${esc(event.title)}</a></h3>${headliners}<p class="venue">${esc(event.venue)}</p><div class="tags">${tags}</div><p><a class="mini flyerbtn" href="${eventPath(event)}">Event details</a></p><div class="actions"><a class="mini tix" href="${esc(event.detailsUrl)}" target="_blank" rel="noopener noreferrer">${esc(event.detailsLabel)}</a><a class="mini flyerbtn" href="${esc(event.flyerUrl)}" target="_blank" rel="noopener noreferrer">Flyer</a></div></div></article>`;
 }
 export async function eventsPage(){
  const featured=activeEvents.filter(event=>event.section===sections[0]);
@@ -34,8 +45,12 @@ export async function eventsPage(){
   return cards.length?`<h2 class="sec"><span class="dot"></span>${section}</h2><div class="grid">${cards.map(event=>card(event,1)).join('')}</div>`:'';
  }).join('');
  const chipSet=hidden=>`<div class="cartrack"${hidden?' aria-hidden="true"':''}>${categories.map((category,index)=>`<button class="chip${index===0?' on':''}" type="button" data-filter="${category}" aria-pressed="${index===0}"${hidden?' tabindex="-1"':''}>${category}</button>`).join('')}</div>`;
+ const areaCounts={};
+ activeEvents.forEach(event=>{const area=areaFor(event);areaCounts[area]=(areaCounts[area]||0)+1;});
+ const areaNames=['Tampa','Orlando','Miami','Fort Lauderdale','St. Petersburg','Sarasota','Jacksonville','More Florida'].filter(area=>areaCounts[area]);
+ const areaRow=`<div class="arearow" id="arearow" role="region" aria-label="Filter events by area"><span class="arealabel">AREA</span>${['All Areas',...areaNames].map((area,index)=>`<button class="achip${index===0?' on':''}" type="button" data-areafilter="${esc(area)}" aria-pressed="${index===0}">${esc(area)} (${area==='All Areas'?activeEvents.length:areaCounts[area]})</button>`).join('')}</div>`;
  const body=`<header class="site-header"><div class="bar"><a class="brand" href="/">JAMAAL <span>TREASURES</span></a><nav class="nav" aria-label="Main navigation"><a href="/">Home</a><a href="/events" class="active">Events</a><a href="/contact">Book</a></nav></div></header>
- <main class="wrap">${signupForm('events')}<section class="hero"><div class="kicker">FLORIDA EVENT GUIDE</div><h1>Find your next <span class="grad">night out</span></h1><p class="sub">Concerts, festivals, mixers and cultural moments across Florida. Hand picked, always current.</p><div class="searchwrap"><input id="eventsearch" type="search" placeholder="Search events, artists, venues..." aria-label="Search events" autocomplete="off"><p class="searchhint">Organizer? Type your event name to find your flyer instantly.</p></div><div class="carousel" role="region" aria-label="Browse event topics"><div class="carviewport" id="carviewport">${chipSet(false)}${chipSet(true)}</div><div class="carfade left"></div><div class="carfade right"></div></div></section>
+ <main class="wrap">${signupForm('events')}<section class="hero"><div class="kicker">FLORIDA EVENT GUIDE</div><h1>Find your next <span class="grad">night out</span></h1><p class="sub">Concerts, festivals, mixers and cultural moments across Florida. Hand picked, always current.</p><div class="searchwrap"><input id="eventsearch" type="search" placeholder="Search events, artists, venues..." aria-label="Search events" autocomplete="off"><p class="searchhint">Organizer? Type your event name to find your flyer instantly.</p></div><div class="carousel" role="region" aria-label="Browse event topics"><div class="carviewport" id="carviewport">${chipSet(false)}${chipSet(true)}</div><div class="carfade left"></div><div class="carfade right"></div></div>${areaRow}</section>
  <h2 class="sec"><span class="dot"></span>FEATURED EVENT</h2><div class="grid featured-grid">${featured.map((event,index)=>card(event,index)).join('')}</div>${groups}
  <div id="noresults" hidden><p>No events match your search. Try a different event name, artist, or venue.</p></div><section class="promo"><div class="kicker">FOR EVENT ORGANIZERS</div><h2>Get your event featured</h2><p>Premium placement at the top of our Florida event guide, plus cinematic coverage of your event.</p><p class="price">$450 <small>event coverage</small></p><ul class="includes"><li>Featured listing with your flyer, ticket link and branding</li><li>Up to 2 hours of event filming in Florida</li><li>One edited 60 to 90 second highlight video</li><li>3 vertical social clips for your channels</li><li>2 revision rounds</li></ul><a class="btn primary" href="https://square.link/u/KxMuUqlH">Buy Event Package, $450</a><p><a href="/event-coverage">See coverage details</a></p><a class="btn ghost" href="/contact?project=event-coverage">Ask about availability</a></section>
  <section class="invite"><div class="kicker">PRESS AND CREATORS</div><h2>Invite us to cover your event</h2><p>Running something worth filming? Send the official event link and the story angle. We consider every invitation for media access and editorial coverage.</p><a class="btn ghost" href="/contact?project=media-invite">Send an invitation</a></section>
@@ -44,14 +59,16 @@ export async function eventsPage(){
 const searchInput=document.getElementById('eventsearch');
 const viewport=document.getElementById('carviewport');
 let activeCat='All';
+let activeArea='All Areas';
 function applyFilters(){
  const q=searchInput.value.trim().toLowerCase();
  let visible=0;
  document.querySelectorAll('.card').forEach(card=>{
   const topics=(card.dataset.topics||card.dataset.categories||'').split('|');
   const catOk=activeCat==='All'||topics.includes(activeCat);
+  const areaOk=activeArea==='All Areas'||(card.dataset.area||'')===activeArea;
   const qOk=!q||(card.dataset.search||'').includes(q);
-  const show=catOk&&qOk;
+  const show=catOk&&areaOk&&qOk;
   card.hidden=!show;
   if(show)visible++;
  });
@@ -70,9 +87,24 @@ viewport.addEventListener('click',event=>{
  const button=event.target.closest('[data-filter]');
  if(button)setActiveFilter(button.dataset.filter);
 });
+function setActiveArea(area){
+ activeArea=area;
+ document.querySelectorAll('[data-areafilter]').forEach(item=>{const active=item.dataset.areafilter===area;item.classList.toggle('on',active);item.setAttribute('aria-pressed',String(active))});
+ applyFilters();
+}
+document.getElementById('arearow').addEventListener('click',event=>{
+ const button=event.target.closest('[data-areafilter]');
+ if(button)setActiveArea(button.dataset.areafilter);
+});
 searchInput.addEventListener('input',applyFilters);
-const initQ=new URLSearchParams(location.search).get('q');
+const initParams=new URLSearchParams(location.search);
+const initQ=initParams.get('q');
 if(initQ){searchInput.value=initQ;}
+const initArea=initParams.get('area');
+if(initArea){
+ const areaMatch=[...document.querySelectorAll('[data-areafilter]')].find(item=>item.dataset.areafilter.toLowerCase()===initArea.trim().toLowerCase());
+ if(areaMatch&&areaMatch.dataset.areafilter!=='All Areas')setActiveArea(areaMatch.dataset.areafilter);
+}
 applyFilters();
 (function(){
  const reduceMotion=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -124,6 +156,13 @@ applyFilters();
 .searchhint{font-size:13px;color:var(--muted);margin:8px 2px 0}
 #noresults{padding:30px 20px;text-align:center;color:var(--muted);font-size:15px}
 #noresults[hidden]{display:none}
+.arearow{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:16px 0 2px}
+.arealabel{font-size:12px;font-weight:800;letter-spacing:.16em;color:var(--muted);margin-right:2px}
+.achip{flex:0 0 auto;white-space:nowrap;appearance:none;-webkit-appearance:none;min-height:44px;padding:10px 16px;border-radius:999px;font-size:14px;font-weight:700;line-height:1.2;color:#f8f2ff;border:1px solid rgba(255,255,255,.3);background:linear-gradient(145deg,rgba(255,255,255,.18),rgba(168,85,247,.12) 55%,rgba(255,255,255,.05));text-shadow:0 2px 3px #000;box-shadow:inset 0 1px 0 rgba(255,255,255,.45),inset 0 -1px 0 rgba(255,255,255,.08),0 6px 18px rgba(0,0,0,.24);cursor:pointer;transition:background .18s,transform .18s,border-color .18s}
+.achip.on{border-color:rgba(232,121,249,.85);background:linear-gradient(135deg,rgba(168,85,247,.65),rgba(239,43,75,.35));box-shadow:inset 0 1px 0 rgba(255,255,255,.55),0 0 20px rgba(168,85,247,.25)}
+.achip:active{transform:scale(.96)}
+.achip:focus-visible{outline:3px solid #f3c4ff;outline-offset:4px}
+@media(prefers-reduced-motion:reduce){.achip{transition:none}}
 </style>`;
  return new Response(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#050508"><title>Events | Jamaal Treasures</title><meta name="description" content="Find your next night out. Concerts, festivals, mixers and cultural events across Florida, curated by Jamaal Treasures."><link rel="canonical" href="https://jamaaltreasures.com/events"><meta property="og:title" content="Events | Jamaal Treasures"><meta property="og:description" content="Find your next night out. Florida concerts, festivals, nightlife and cultural events."><link rel="icon" href="/assets/star.svg">${schemaTag(activeEvents.map(detailSchema).filter(Boolean))}</head><body>${body}${signupAssets()}</body></html>`,{headers:{'Content-Type':'text/html; charset=utf-8','Cache-Control':'public, max-age=60'}});
 }
