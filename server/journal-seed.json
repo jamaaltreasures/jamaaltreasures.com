@@ -1,5 +1,81 @@
 [
  {
+  "slug": "10-creators-to-study-creative-brand",
+  "title": "10 creators to study if you are building a brand",
+  "excerpt": "From Nipsey Hussle's $100 mixtape to Virgil Abloh's luxury perspective shift. Ten creators, ten lessons, and the twist at number ten.",
+  "seoDescription": "10 creators every creative should study: Ryan Coogler, Nipsey Hussle, Virgil Abloh, Donald Glover, Pharrell and more. Lessons for building your brand.",
+  "category": "brand-growth",
+  "kind": "guide",
+  "format": "quick-guide",
+  "tool": "Brand building",
+  "serviceId": "ai-film-ad",
+  "relatedServiceIds": [
+   "brand-film"
+  ],
+  "sections": [
+   {
+    "heading": "The list",
+    "paragraphs": [
+     "Creator James Nwobu names ten creators every creative person should study, each paired with the lesson their career teaches:"
+    ],
+    "bullets": [
+     "Ryan Coogler: mastery of craft at the highest level",
+     "Nipsey Hussle: gave the mixtape away free, then sold 1,000 copies at $100 each. You only need 1,000 true fans",
+     "Jerry Lorenzo: no fashion degree, built Fear of God anyway. Conviction outworks credentials",
+     "Virgil Abloh: brought streetwear into luxury. Luxury is perspective",
+     "Donald Glover: refused to pick a lane. Multi-passionate is range, not scatterbrain",
+     "Jordan Peele: stopped writing Get Out twenty times out of doubt. Walking away does not mean you cannot return",
+     "Spike Lee: started small. A small seed becomes a Sequoia",
+     "Tobe Nwigwe: athlete turned independent creator, kept the athlete mindset",
+     "Pharrell Williams: twenty years making others famous first. Serving first pays in perpetuity"
+    ]
+   },
+   {
+    "heading": "The twist at number ten",
+    "paragraphs": [
+     "Number ten is your future self. The version of you that kept creating with or without inspiration. The closing message: do not just study what made these creators famous, study what made them inevitable. One day your brand will be someone's inspiration to start."
+    ]
+   },
+   {
+    "heading": "Your next step",
+    "paragraphs": [
+     "Write down what your future self would do today. Not the motivated version, the consistent one. Then do that one thing before the day ends. Study the list, but become the list."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "nwobu-reel",
+    "title": "Original reel by @_jamesnwobu",
+    "url": "https://www.instagram.com/reel/Db3MCwqBA8A/"
+   }
+  ],
+  "nextClick": {
+   "label": "Watch the countdown",
+   "url": "https://www.instagram.com/reel/Db3MCwqBA8A/"
+  },
+  "cta": {
+   "label": "Get an AI video ad",
+   "serviceId": "ai-film-ad",
+   "price": 300,
+   "currency": "USD"
+  },
+  "brandTreatment": {
+   "type": "plain-text",
+   "label": "Creator study"
+  },
+  "editorial": {
+   "evergreen": true,
+   "firsthandTested": false,
+   "disclosure": "AI assisted editorial, checked against the linked official sources. Inspired by @_jamesnwobu with credit."
+  },
+  "checkedAt": "2026-10-07",
+  "publishedAt": "2026-10-07T23:50:00.000Z",
+  "updatedAt": "2026-10-07T23:50:00.000Z",
+  "readingMinutes": 3,
+  "wordCount": 220
+ },
+ {
   "slug": "higgsfield-cinema-studio-ai-filmmaking-art",
   "title": "AI slop or cinema: the artist decides",
   "excerpt": "Higgsfield creator Adrian Per answers the critics with history. Photography was once called soulless too. What Cinema Studio actually enables for solo filmmakers.",
