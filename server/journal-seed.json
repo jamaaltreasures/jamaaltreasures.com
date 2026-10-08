@@ -1,5 +1,95 @@
 [
  {
+  "slug": "trybe-ugc-creator-app",
+  "title": "Trybe: get paid for your UGC without chasing brands",
+  "excerpt": "Trybe is a performance based UGC app for creators and brands. I signed up as a creator, here is how it works and my referral link to join.",
+  "seoDescription": "Trybe UGC creator app: performance based user generated content. How it works, creator signup, and download links for iOS and Android.",
+  "category": "creator-tools",
+  "kind": "guide",
+  "format": "quick-guide",
+  "tool": "Trybe",
+  "serviceId": "ai-film-ad",
+  "relatedServiceIds": [
+   "brand-film"
+  ],
+  "sections": [
+   {
+    "heading": "What Trybe is",
+    "paragraphs": [
+     "Trybe is a UGC platform that connects creators with brands on performance terms. Instead of chasing brands for one off deals, creators join the app, build a profile, and get matched with campaigns. You create content, brands get authentic creative, and you earn from the work."
+    ]
+   },
+   {
+    "heading": "How I set up my creator account",
+    "paragraphs": [
+     "I signed up as a creator under my @jamaaltreasures identity. The onboarding walks you through your profile: name, location, social accounts, and niche. I connected my Instagram. The profile saves, and from there you can browse available campaigns and start creating."
+    ]
+   },
+   {
+    "heading": "Who should join",
+    "paragraphs": [
+     "If you are already making content on Instagram or TikTok and want a direct line to brand work, Trybe removes the cold outreach. Creators who post consistently and have an engaged audience will find the most opportunities. It rewards the work you are already doing."
+    ]
+   },
+   {
+    "heading": "Your next step",
+    "paragraphs": [
+     "Download the app and create your creator profile. Connect the social account where you post most, fill in your niche, and start browsing campaigns. My referral link is below, it helps support my work at no cost to you."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "trybe-site",
+    "title": "Trybe",
+    "url": "https://jointrybe.com"
+   },
+   {
+    "id": "trybe-referral",
+    "title": "Jamaal's Trybe referral link",
+    "url": "https://jointrybe.com/r/3Q25ZYEF"
+   }
+  ],
+  "nextClick": {
+   "label": "Join Trybe with my link",
+   "url": "https://jointrybe.com/r/3Q25ZYEF"
+  },
+  "appButtons": [
+   {
+    "store": "app-store",
+    "label": "Download on the App Store",
+    "url": "https://apps.apple.com/app/trybe",
+    "badge": "/assets/store-badges/app-store-badge.svg"
+   },
+   {
+    "store": "google-play",
+    "label": "Get it on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.trybe",
+    "badge": "/assets/store-badges/google-play-badge.png"
+   }
+  ],
+  "cta": {
+   "label": "Get an AI video ad",
+   "serviceId": "ai-film-ad",
+   "price": 300,
+   "currency": "USD"
+  },
+  "brandTreatment": {
+   "type": "plain-text",
+   "label": "Trybe"
+  },
+  "editorial": {
+   "evergreen": false,
+   "firsthandTested": true,
+   "disclosure": "AI assisted editorial, checked against the linked official sources. I signed up as a creator myself; my referral link earns 10% of referred creators' earnings for their first 100 days on Trybe."
+  },
+  "checkedAt": "2026-10-07",
+  "publishedAt": "2026-10-08T00:05:00.000Z",
+  "updatedAt": "2026-10-08T00:05:00.000Z",
+  "readingMinutes": 3,
+  "wordCount": 187
+ },
+ {
   "slug": "10-creators-to-study-creative-brand",
   "title": "10 creators to study if you are building a brand",
   "excerpt": "From Nipsey Hussle's $100 mixtape to Virgil Abloh's luxury perspective shift. Ten creators, ten lessons, and the twist at number ten.",
