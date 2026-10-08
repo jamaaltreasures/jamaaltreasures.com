@@ -1360,5 +1360,22 @@
   "alt": "Til Death Do Us Party flyer, The Wharf Fort Lauderdale",
   "imageKey": "event-flyers/114-wharf-ftl-til-death-do-us-party.jpg",
   "endDate": "2026-11-01"
+ },
+ {
+  "section": "LATER IN OCTOBER",
+  "title": "Allen Stone and Teedra Moses",
+  "date": "OCTOBER 24, 8 PM TO 11 PM",
+  "headliners": "Allen Stone, Teedra Moses",
+  "venue": "Miramar Cultural Center, Miramar",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.etix.com/ticket/p/52215262/allen-stone-and-teedra-moses-miramar-miramar-cultural-center",
+  "flyerUrl": "https://www.miramarculturalcenter.org/Events-directory/MCC-Presents-Allen-Stone-and-Teedra-Moses",
+  "image": "/events/flyer/115-allen-stone-teedra-moses.jpg",
+  "alt": "Allen Stone and Teedra Moses flyer, Miramar Cultural Center",
+  "imageKey": "event-flyers/115-allen-stone-teedra-moses.jpg",
+  "endDate": "2026-10-24"
  }
 ]
