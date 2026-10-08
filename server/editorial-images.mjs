@@ -13,6 +13,7 @@ export const editorialImages={
  'connect-brand-video-to-a-clear-next-step':{src:'/assets/jamaal-treasures-star-wordmark.webp',alt:'Jamaal Treasures star wordmark',subject:'Your brand and its next step',kind:'logo',sourceUrl:'https://jamaaltreasures.com/',credit:'Jamaal Treasures brand artwork'},
  'meta-muse-charm-ai-tamagotchi-device':{src:'/assets/editorial/muse-charm-device.jpg',alt:'Hand holding the Meta Muse Charm device showing the Muse avatar on its screen',subject:'Meta Muse Charm',kind:'photo',sourceUrl:'https://www.meta.com/muse-charm/',credit:'Meta · official product imagery',showCredit:true},
  'hyperframes-ai-video-editing-claude-code':{src:'/assets/tool-brands/heygen.svg',alt:'HeyGen logo',subject:'Hyperframes',kind:'logo',sourceUrl:'https://github.com/heygen-com/hyperframes',credit:'HeyGen · official brand artwork'},
+ 'instagram-7-settings-viral-reels':{src:'/assets/editorial/ig-reels-settings.jpg',alt:'Phone showing the Create with Reels screen beside the Instagram logo',subject:'Instagram Reels settings',kind:'photo',sourceUrl:'https://brandastic.com/blog/instagram-reels-for-business/',credit:'Representative image · Brandastic',showCredit:true},
 };
 export function articleImage(article){
  const candidate=article.image||editorialImages[article.slug];
