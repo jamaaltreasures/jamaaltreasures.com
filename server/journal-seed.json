@@ -7,6 +7,164 @@
    "price": 900,
    "serviceId": "business-website"
   },
+  "excerpt": "Nine tools that cover email, marketing, hosting, analytics, AI, payroll, banking, and payments. What each one does, what the free tier gets you, and which ones I am actually setting up in my own business this week.",
+  "format": "guide",
+  "image": {
+   "alt": "Founder workspace with laptop, dashboards, and notebook in purple ambient light",
+   "credit": "Jamaal Treasures editorial",
+   "kind": "photo",
+   "sourceUrl": "https://jamaaltreasures.com/blog/founder-tools-9-must-haves",
+   "src": "/assets/editorial/founder-tools-hero.webp",
+   "subject": "Founder tools stack"
+  },
+  "kind": "guide",
+  "nextClick": {
+   "label": "See website pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  },
+  "publishedAt": "2026-10-08T09:45:00.000Z",
+  "readingMinutes": 5,
+  "relatedServiceIds": [
+   "landing-page"
+  ],
+  "sections": [
+   {
+    "heading": "Why your stack matters more than your idea",
+    "paragraphs": [
+     "Every founder obsesses over the idea. Almost none obsess over the stack, the nine or so tools that handle email, marketing, hosting, analytics, building, payroll, banking, and payments. The idea gets you excited. The stack gets you paid.",
+     "I saw a reel breaking down nine must have tools for founders and it was too good not to test against my own business. So I researched every one, checked the free tiers, found the referral programs, and decided which ones are actually worth setting up. Here is the full breakdown, with my honest take on each."
+    ]
+   },
+   {
+    "heading": "Get found and stay in touch",
+    "image": {
+     "alt": "Email marketing dashboard with subscriber graphs on a laptop",
+     "caption": "Email is still the highest return channel you own. Start the list now.",
+     "src": "/assets/editorial/founder-tools-email.webp"
+    },
+    "paragraphs": [
+     "Loops handles your email. Marketing emails, product updates, and transactional emails all in one tool, with a clean editor and a real API from day one. The free tier covers 1,000 contacts and 4,000 sends per rolling 30 days, no credit card required. Every feature ships on free, including the API and automations. You only pay when your list grows, starting at 49 dollars a month for 5,000 contacts.",
+     "My take: I have 120 blog posts and no email list tool. That is leaving money on the table. Loops is the one I am setting up first, because every visitor who leaves without subscribing is a visitor I have to earn all over again.",
+     "Mango SEO AI handles programmatic SEO. It generates content at scale with built in programmatic SEO for every keyword you target, aimed at small businesses and entrepreneurs who want first page rankings without hiring an agency. If you have a content library like mine, a tool like this multiplies what every post can do.",
+     "My take: worth testing once the email engine is running. SEO compounds, but email pays this month."
+    ]
+   },
+   {
+    "heading": "See what your visitors actually do",
+    "image": {
+     "alt": "Product analytics dashboard with charts and session replays",
+     "caption": "Guessing what visitors do is expensive. Watching is free.",
+     "src": "/assets/editorial/founder-tools-analytics.webp"
+    },
+    "paragraphs": [
+     "PostHog is product analytics, session replay, feature flags, surveys, and error tracking in one SDK. The free tier is genuinely generous: 1 million analytics events per month, 5,000 session replays, 1 million feature flag requests, plus free allowances across surveys, error tracking, and more. Over 90 percent of PostHog users never pay anything. It is also open source, so you can self host if you want full control.",
+     "My take: installing this on the site this week. I want to see where visitors drop off, which blog posts convert, and whether anyone actually clicks the booking buttons. Data beats opinions."
+    ]
+   },
+   {
+    "heading": "Ship without a dev team",
+    "paragraphs": [
+     "Railway handles deployment. Connect your GitHub repo and it figures out the rest, no Dockerfile required. Pricing is usage based and billed by the second. New accounts start with a 5 dollar trial credit, then a free plan with a small monthly allowance. A lightweight app can run for a few dollars a month.",
+     "My take: my site runs on Cloudflare Workers and my developer handles infrastructure, so I am skipping Railway for now. If you are shipping your own app with no backend team, this is the fastest path from repo to live URL.",
+     "Claude is your frontend builder. Paired with the right skills, it produces interfaces that look expensive instead of generic. I covered the 10 Claude skills that make apps look premium in a separate post, start there if you want the full setup.",
+     "Codex is your backend builder. In the reel this means the AI coding agent for backend work. In my world it is funnier than that, because the developer who ships my site is literally named Codex. Either way, the point stands: AI writes the boilerplate now, humans make the decisions."
+    ]
+   },
+   {
+    "heading": "Get paid and stay legit",
+    "paragraphs": [
+     "Stripe handles payments. Free to set up, no monthly fee, you pay per transaction when money moves. This is the standard for taking card payments online, and it plugs into everything. If you sell anything on the internet, you need a Stripe account.",
+     "My take: setting this up for direct payments. The 80 dollar reels and 450 dollar event packages need a checkout that is not a DM conversation. Stripe is that checkout.",
+     "Mercury handles business banking. Zero monthly fees, zero minimum balance, FDIC insured up to 5 million through partner banks, built for startups and online businesses. The referral program pays 250 dollars to both sides when a new account deposits 10,000 within 90 days. You will need your EIN, company formation documents, and a government ID to open an account.",
+     "My take: on the list once the EIN paperwork is sorted. Free business banking with no fees is a no brainer, and the referral program is real affiliate income once I am in.",
+     "Gusto handles payroll and HR. The referral program is strong, referrers earn up to 800 dollars in Visa gift cards per successful referral and the new customer gets 100 dollars after running their first payroll. But payroll software with no employees is a solution without a problem.",
+     "My take: bookmarked for the day I hire. Not a day sooner."
+    ]
+   },
+   {
+    "heading": "My actual stack: what I use and what is next",
+    "paragraphs": [
+     "Honesty matters more than a list. Here is where I actually stand on all nine. Already in use: Claude for site work and content, and my developer Codex on infrastructure. Setting up this week: Loops for email, PostHog for analytics, Stripe for payments. Queued behind paperwork: Mercury for business banking. Testing later: Mango SEO AI for the blog library. Skipped for now: Railway because my hosting is handled, and Gusto because I have no employees yet.",
+     "The pattern is simple. Revenue tools first, vanity tools never. Email and payments put money in the account this month. Analytics tells me what to fix. Everything else waits its turn."
+    ]
+   },
+   {
+    "heading": "Your next step",
+    "paragraphs": [
+     "Pick the one tool from this list that would change your revenue this month and set it up today. For most creators and solo founders, that is either email or payments. Everything else is optimization.",
+     "And if your website is the thing holding you back, that is what I build. Business websites that are clear about what you sell, who it is for, and what to do next. Check the pricing and let's talk."
+    ]
+   }
+  ],
+  "seoDescription": "Nine must have tools for founders: Loops for email, Mango for SEO, Railway for hosting, PostHog for analytics, Claude and Codex for building, Stripe for payments, Mercury for banking, Gusto for payroll. Free tiers, referral programs, and an honest take on which ones matter.",
+  "serviceId": "business-website",
+  "slug": "founder-tools-9-must-haves",
+  "sources": [
+   {
+    "title": "Loops pricing",
+    "url": "https://loops.so/pricing"
+   },
+   {
+    "title": "Loops review 2026",
+    "url": "https://encharge.io/loops-review/"
+   },
+   {
+    "title": "Mango SEO AI on Product Hunt",
+    "url": "https://www.Producthunt.com/products/mango-seo-ai/reviews?review=758344"
+   },
+   {
+    "title": "Railway pricing",
+    "url": "https://railway.com/pricing"
+   },
+   {
+    "title": "Railway free tier 2026 breakdown",
+    "url": "https://kuberns.medium.com/railway-free-tier-in-2026-what-you-get-and-when-it-runs-out-2101fdca0998"
+   },
+   {
+    "title": "PostHog pricing",
+    "url": "https://posthog.com/pricing"
+   },
+   {
+    "title": "PostHog pricing teardown 2026",
+    "url": "https://dev.to/beton/posthog-pricing-teardown-2026-57oo"
+   },
+   {
+    "title": "Stripe",
+    "url": "https://stripe.com"
+   },
+   {
+    "title": "Mercury business banking",
+    "url": "https://mercury.com"
+   },
+   {
+    "title": "Mercury referral program details",
+    "url": "https://dadyminds.org/2026/08/13/mercury-business-banking-review-is-mercury-a-good-choice-for-modern-businesses/"
+   },
+   {
+    "title": "Gusto",
+    "url": "https://gusto.com"
+   },
+   {
+    "title": "10 Claude skills that make your app look expensive",
+    "url": "https://jamaaltreasures.com/blog/claude-skills-premium-app-design"
+   },
+   {
+    "title": "Original reel by @adam_ha_yes",
+    "url": "https://www.instagram.com/reel/DcKp6zMRCFe/"
+   }
+  ],
+  "title": "9 Must Have Tools for Founders",
+  "tool": "founder-stack",
+  "updatedAt": "2026-10-08T09:45:00.000Z"
+ },
+ {
+  "category": "brand-growth",
+  "cta": {
+   "currency": "USD",
+   "label": "Get a business website",
+   "price": 900,
+   "serviceId": "business-website"
+  },
   "excerpt": "Claude builds what you tell it to build. These 10 skills teach it to build interfaces that look expensive. What each one does, where to get it, and how I am using them on my own site.",
   "format": "guide",
   "kind": "guide",
