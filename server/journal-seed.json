@@ -1,5 +1,105 @@
 [
  {
+  "slug": "meta-muse-charm-ai-tamagotchi-device",
+  "title": "Meta Muse Charm: the AI Tamagotchi shipping this December",
+  "excerpt": "Meta unveiled a palm-sized AI companion at Connect 2026. Two inch screen, 5G, cameras for eyes, and a customizable avatar. Everything known plus the signup link.",
+  "seoDescription": "Meta Muse Charm: the Tamagotchi-like AI wearable unveiled at Meta Connect 2026. Specs, price, release date, and how to sign up for notify me alerts.",
+  "category": "brand-growth",
+  "kind": "guide",
+  "format": "deep-dive",
+  "tool": "Muse Charm",
+  "serviceId": "ai-film-ad",
+  "relatedServiceIds": [
+   "brand-film"
+  ],
+  "sections": [
+   {
+    "heading": "What was announced",
+    "paragraphs": [
+     "At Meta Connect 2026 on September 23, Mark Zuckerberg closed the keynote with a one more thing: the Muse Charm, a palm-sized companion device built around Muse, Meta's personal AI assistant. Muse itself launched September 8 and topped the App Store within days, one of the biggest US app launches since ChatGPT. The Charm gives that assistant a physical body you can carry on a keychain."
+    ]
+   },
+   {
+    "heading": "The hardware",
+    "paragraphs": [
+     "The Charm centers on a roughly two inch OLED touchscreen showing an animated Muse avatar, known inside Meta as Jolly, which owners can customize with different appearances, wardrobe, and voices. Under the hood it is closer to a stripped down smartphone than a toy: an onboard 5G modem, front and rear cameras, speakers, microphones, a fingerprint sensor, and USB-C charging, all in a translucent shell that shows the circuitry. The cameras double as Muse's eyes, giving the assistant visual context for whatever is in front of you. Tap the fingerprint sensor and you are talking instantly, no phone unlock, no app to open."
+    ],
+    "bullets": [
+     "Two inch OLED touchscreen with customizable Muse avatar",
+     "5G modem, front and rear cameras, speakers, microphones",
+     "Fingerprint sensor for instant voice activation",
+     "Wrist strap, lanyard, and keychain carry options",
+     "Two Charms placed near each other can recognize and interact"
+    ]
+   },
+   {
+    "heading": "What it actually does",
+    "paragraphs": [
+     "Zuckerberg's pitch: the full Muse experience on a keychain, including the real-time voice and avatar stack. If you are not wearing smart glasses, the Charm is the fastest way to talk to your Muse and show it what is going on around you. Muse runs in a dedicated cloud virtual machine and keeps working on longer tasks after you walk away, asking approval before purchases. The Charm is the pager for that agent: hand over a task by voice, let it see the scene, approve or reject what it wants to do next. It does not do phone or video calls. Usage is free within a weekly data allowance, with paid tiers at $20 and $100 a month for heavier use."
+    ]
+   },
+   {
+    "heading": "Why this one might work",
+    "paragraphs": [
+     "Dedicated AI gadgets have a graveyard: Humane's AI Pin and the Rabbit R1 both flamed out. Meta's angle is different. The Charm is not a standalone computer trying to replace the phone, it is an endpoint for an assistant that already lives in an ecosystem spanning the app, WhatsApp, the web, and Meta's AI glasses. The design comes from Meta's new design lab led by Alan Dye, Apple's former interface design chief, which explains why the thing looks like jewelry instead of a prototype. The Tamagotchi comparison is doing real work too: a cute companion you want to carry beats a black slab you have to remember."
+    ]
+   },
+   {
+    "heading": "What is still unknown",
+    "paragraphs": [
+     "Meta has not announced pricing, battery life, or whether the Charm pairs with a phone or runs fully standalone on its 5G connection. Zuckerberg admitted the hardware is not finalized, with the team still laying out components. The target is shipping in time for the December holidays. Expect details closer to launch."
+    ]
+   },
+   {
+    "heading": "Your next step",
+    "paragraphs": [
+     "Meta is taking notify me signups now. Hit the link below, drop your email, and you will hear the moment pricing and preorders open. If you create content around AI tools, this is also a story to ride early: the holiday launch window means review and unboxing content will spike in December."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "meta-charm",
+    "title": "Muse Charm, official page",
+    "url": "https://www.meta.com/muse-charm/"
+   },
+   {
+    "id": "meta-connect",
+    "title": "Everything announced at Meta Connect 2026",
+    "url": "https://www.meta.com/en-gb/blog/meta-connect-2026-everything-we-announced/"
+   },
+   {
+    "id": "techcrunch-charm",
+    "title": "TechCrunch: Meta made a Tamagotchi-like wearable",
+    "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
+   }
+  ],
+  "nextClick": {
+   "label": "Sign up to get the Muse Charm",
+   "url": "https://www.meta.com/muse-charm/"
+  },
+  "cta": {
+   "label": "Get an AI video ad",
+   "serviceId": "ai-film-ad",
+   "price": 300,
+   "currency": "USD"
+  },
+  "brandTreatment": {
+   "type": "plain-text",
+   "label": "Muse Charm"
+  },
+  "editorial": {
+   "evergreen": false,
+   "firsthandTested": false,
+   "disclosure": "AI assisted editorial, checked against the linked official sources."
+  },
+  "checkedAt": "2026-10-07",
+  "publishedAt": "2026-10-07T23:20:00.000Z",
+  "updatedAt": "2026-10-07T23:20:00.000Z",
+  "readingMinutes": 5,
+  "wordCount": 561
+ },
+ {
   "slug": "ploy-ai-website-builder-bryant-chou",
   "title": "Ploy: the AI that rebuilds your website in 75 seconds",
   "excerpt": "The Webflow co-founder's new AI slurps your entire design system and generates on-brand pages while you sleep. What it does and how to try it.",
