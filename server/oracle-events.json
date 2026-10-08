@@ -145,7 +145,7 @@
   "title": "The Gala Night",
   "date": "OCTOBER 16",
   "headliners": "",
-  "venue": "Orlando, Women\u2019s Professional Network gala",
+  "venue": "Orlando, Women’s Professional Network gala",
   "categories": [
    "Business",
    "Nightlife"
@@ -163,7 +163,7 @@
   "title": "The Work Between Conference and Gala",
   "date": "OCTOBER 16",
   "headliners": "",
-  "venue": "Orlando, Women\u2019s Professional Network conference and gala",
+  "venue": "Orlando, Women’s Professional Network conference and gala",
   "categories": [
    "Business"
   ],
@@ -656,5 +656,22 @@
   "alt": "Logic and G Eazy Endless Summer Tour Part II national tour graphic",
   "imageKey": "event-flyers/77-logic-and-g-eazy-the-endless-summer-tour.jpg",
   "endDate": "2026-10-08"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Rock the Bells Cruise",
+  "date": "NOVEMBER 1 TO 6",
+  "headliners": "T.I., Public Enemy, E-40, Too $hort, Warren G, Jermaine Dupri, DJ Jazzy Jeff, Mannie Fresh",
+  "venue": "Norwegian Joy, Miami, sailing to Montego Bay",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Book the Cruise",
+  "detailsUrl": "https://www.rockthebellscruise.com/",
+  "flyerUrl": "https://music.mxdwn.com/2025/12/08/news/rock-the-bells-cruise-announce-2026-lineup-featuring-public-enemy-e-40-too-hort-more/",
+  "image": "/events/flyer/78-rock-the-bells-cruise.jpg",
+  "alt": "Rock the Bells Cruise event flyer",
+  "imageKey": "event-flyers/78-rock-the-bells-cruise.jpg",
+  "endDate": "2026-11-06"
  }
 ]
