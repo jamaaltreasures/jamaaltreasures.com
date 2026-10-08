@@ -26,7 +26,7 @@
  function closeMenu(returnFocus=false){menu.hidden=true;toggle.setAttribute('aria-expanded','false');toggle.setAttribute('aria-label','Open menu');if(returnFocus)toggle.focus()}
  function category(key){const valid=[...document.querySelectorAll('[data-category]')].some(b=>b.dataset.category===key);key=valid?key:'ai';const feature=document.querySelector('.featured-recap-link');if(feature)feature.hidden=key!=='production';document.querySelectorAll('[data-category]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.category===key)));document.querySelectorAll('[data-service-category]').forEach(c=>c.hidden=c.dataset.serviceCategory!==key);const active=document.querySelector('[data-category="'+key+'"]'),strip=active?.parentElement;if(active&&strip){const a=active.getBoundingClientRect(),r=strip.getBoundingClientRect();const left=key==='ai'?0:strip.scrollLeft+a.left-r.left-(strip.clientWidth-a.width)/2;strip.scrollTo({left:Math.max(0,Math.min(strip.scrollWidth-strip.clientWidth,left)),behavior:'instant'})};window.JTGlassOptics?.schedule()}
  function render(url=new URL(location.href),focus=false){
-  const token=++navigationToken;if(isReadingRoute(url)){loadReading(url,focus,token);return}readingRequest?.abort();document.querySelector('#main').removeAttribute('aria-busy');
+  const token=++navigationToken;if(/^\/events\/?$/.test(url.pathname)){location.assign(url.href);return}if(isReadingRoute(url)){loadReading(url,focus,token);return}readingRequest?.abort();document.querySelector('#main').removeAttribute('aria-busy');
   const page=resolve(url),previous=document.body.dataset.page;
   document.dispatchEvent(new CustomEvent('pagewillchange',{detail:{page,previous}}));
   pages.forEach(p=>p.hidden=p.id!==page);document.body.dataset.page=page;
