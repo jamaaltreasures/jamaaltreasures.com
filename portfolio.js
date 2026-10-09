@@ -186,7 +186,7 @@ window.JAMAAL_PORTFOLIO = [
       {
         "id": "qOMJV9E4CMM",
         "title": "GrimReeferBaby X KK The Introvert \"Microdose\"",
-        "channel": "GrimReeferBaby 🖤",
+        "channel": "GrimReeferBaby",
         "url": "https://www.youtube.com/watch?v=qOMJV9E4CMM"
       }
     ]
@@ -777,8 +777,8 @@ window.JAMAAL_PORTFOLIO = [
   },
   {
     "id": "3judNgK-TFA",
-    "title": "TESTING STRANGERS DIAMONDS 💎(EXPOSED EVERYONE !!!) | PUBLIC INTERVIEW",
-    "originalTitle": "TESTING STRANGERS DIAMONDS 💎(EXPOSED EVERYONE !!!) | PUBLIC INTERVIEW",
+    "title": "TESTING STRANGERS DIAMONDS (EXPOSED EVERYONE !!!) | PUBLIC INTERVIEW",
+    "originalTitle": "TESTING STRANGERS DIAMONDS (EXPOSED EVERYONE !!!) | PUBLIC INTERVIEW",
     "channel": "Go.Nolan",
     "duration": 624,
     "category": "Live & visual work",
@@ -944,7 +944,7 @@ window.JAMAAL_PORTFOLIO = [
     "id": "eoVP6dZ3e2o",
     "title": "GRIMREEFERBABY \"Mxmentx\" (AMV) Lyric Video Edited By @CimtexPro",
     "originalTitle": "GRIMREEFERBABY \"Mxmentx\" (AMV) Lyric Video Edited By @CimtexPro",
-    "channel": "GrimReeferBaby 🖤",
+    "channel": "GrimReeferBaby",
     "duration": 184,
     "category": "Music videos",
     "credit": "Editing · CimtexPro",
