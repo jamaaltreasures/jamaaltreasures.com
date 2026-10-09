@@ -2253,5 +2253,129 @@
   "alt": "Shipwrecked Music Festival 2027 flyer, The Cuban Club, Tampa",
   "imageKey": "event-flyers/153-shipwrecked-music-festival-tampa.jpg",
   "endDate": "2027-01-30"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Cyclops Cove 4",
+  "date": "DECEMBER 4 TO 6, 2 PM",
+  "headliners": "Subtronics, Seven Lions, RL Grime, Ravenscoon, Peekaboo",
+  "venue": "Sunset Cove Amphitheater, Boca Raton",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://cyclopscove.frontgatetickets.com/",
+  "flyerUrl": "https://www.jambase.com/festival/cyclops-cove-2026",
+  "image": "/events/flyer/154-cyclops-cove-boca-raton.jpg",
+  "alt": "Cyclops Cove 4 event flyer",
+  "imageKey": "event-flyers/154-cyclops-cove-boca-raton.jpg",
+  "endDate": "2026-12-06"
+ },
+ {
+  "section": "HALLOWEEN",
+  "title": "Hocus Pocus: Dystopia Halloween",
+  "date": "OCTOBER 30 TO NOVEMBER 1, 10 PM",
+  "headliners": "Eric Prydz, Chase & Status, Gorgon City, Meduza, Purple Disco Machine, Nora En Pure, Indira Paganotto, Todd Edwards",
+  "venue": "Factory Town, Miami",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://dice.fm/event/eoxxmw-hocus-pocus-2026-3-day-pass-30th-oct-factory-town-miami-tickets",
+  "flyerUrl": "https://dice.fm/event/eoxxmw-hocus-pocus-2026-3-day-pass-30th-oct-factory-town-miami-tickets",
+  "image": "/events/flyer/155-hocus-pocus-miami.jpg",
+  "alt": "Hocus Pocus Dystopia Halloween event flyer",
+  "imageKey": "event-flyers/155-hocus-pocus-miami.jpg",
+  "endDate": "2026-11-01"
+ },
+ {
+  "section": "HALLOWEEN",
+  "title": "Haunted Fest St. Pete",
+  "date": "OCTOBER 30 TO 31, 5 PM TO 10 PM",
+  "headliners": "Hugel, Eli Brown, Gordo, Ameme, Dreya V, Maesic",
+  "venue": "St. Pete Pier, St. Petersburg",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventliveus.com/event/10384/hauntedfest26",
+  "flyerUrl": "https://breakawayfestival.com/festival/haunted-fest---st-pete-2026",
+  "image": "/events/flyer/156-haunted-fest-st-pete.jpg",
+  "alt": "Haunted Fest St. Pete event flyer",
+  "imageKey": "event-flyers/156-haunted-fest-st-pete.jpg",
+  "endDate": "2026-10-31"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Suncoast Food and Wine Fest",
+  "date": "NOVEMBER 14, 1 PM TO 4 PM",
+  "headliners": "",
+  "venue": "Premier Sports Campus, Lakewood Ranch",
+  "categories": [
+   "Arts"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/suncoast-food-wine-fest-2026-tickets-1998488368508",
+  "flyerUrl": "https://www.eventbrite.com/e/suncoast-food-wine-fest-2026-tickets-1998488368508",
+  "image": "/events/flyer/157-suncoast-food-wine-fest.jpg",
+  "alt": "Suncoast Food and Wine Fest event flyer",
+  "imageKey": "event-flyers/157-suncoast-food-wine-fest.jpg",
+  "endDate": "2026-11-14"
+ },
+ {
+  "section": "THIS WEEK",
+  "title": "5th Annual Small Business and Art Expo",
+  "date": "OCTOBER 11, 12 PM TO 6 PM",
+  "headliners": "",
+  "venue": "The Club at Boca Pointe, Boca Raton",
+  "categories": [
+   "Business",
+   "Arts"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/5th-annual-small-business-art-expo-tickets-2001777834389",
+  "flyerUrl": "https://www.eventbrite.com/e/5th-annual-small-business-art-expo-tickets-2001777834389",
+  "image": "/events/flyer/158-small-business-art-expo-boca-raton.jpg",
+  "alt": "5th Annual Small Business and Art Expo event flyer",
+  "imageKey": "event-flyers/158-small-business-art-expo-boca-raton.jpg",
+  "endDate": "2026-10-11"
+ },
+ {
+  "section": "THIS WEEK",
+  "title": "Miami Carnival Saturday Lime: Flag Edition",
+  "date": "OCTOBER 10, 8 PM TO 3 AM",
+  "headliners": "DJ Special, The Party General, Stone Jam Sound",
+  "venue": "La Veranda Restaurant and Bar, Plantation",
+  "categories": [
+   "Culture",
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/miami-carnival-saturday-lime-flag-edition-tickets-2002090041208",
+  "flyerUrl": "https://www.eventbrite.com/e/miami-carnival-saturday-lime-flag-edition-tickets-2002090041208",
+  "image": "/events/flyer/159-miami-carnival-saturday-lime-plantation.jpg",
+  "alt": "Miami Carnival Saturday Lime Flag Edition event flyer",
+  "imageKey": "event-flyers/159-miami-carnival-saturday-lime-plantation.jpg",
+  "endDate": "2026-10-11"
+ },
+ {
+  "section": "HALLOWEEN",
+  "title": "Halloween Costume Party: Future Millionaire Fridays",
+  "date": "OCTOBER 30, 10 PM TO 2 AM",
+  "headliners": "",
+  "venue": "Euphoria Downtown, Orlando",
+  "categories": [
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/halloween-costume-party-future-millionaire-fridays-tickets-1993572027600",
+  "flyerUrl": "https://www.eventbrite.com/e/halloween-costume-party-future-millionaire-fridays-tickets-1993572027600",
+  "image": "/events/flyer/160-future-millionaire-fridays-halloween-orlando.jpg",
+  "alt": "Halloween Costume Party Future Millionaire Fridays event flyer",
+  "imageKey": "event-flyers/160-future-millionaire-fridays-halloween-orlando.jpg",
+  "endDate": "2026-10-31"
  }
 ]
