@@ -2201,5 +2201,57 @@
   "alt": "The Black Friday Experience event flyer",
   "imageKey": "event-flyers/150-black-friday-experience-jacksonville.jpg",
   "endDate": "2026-11-28"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Reggae Sound Splash Fest",
+  "date": "NOVEMBER 15, 4 PM",
+  "headliners": "The Wailers featuring Julian Junior Marvin, Third World, Inner Circle, The Skatalites",
+  "venue": "The BayCare Sound, Clearwater",
+  "categories": [
+   "Music",
+   "Culture"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://secure.rutheckerdhall.com/33792/33795",
+  "flyerUrl": "https://www.rutheckerdhall.com/events/detail/reggae-sound-splash-fest",
+  "image": "/events/flyer/151-reggae-sound-splash-fest-clearwater.jpg",
+  "alt": "Reggae Sound Splash Fest flyer, The BayCare Sound, Clearwater",
+  "imageKey": "event-flyers/151-reggae-sound-splash-fest-clearwater.jpg",
+  "endDate": "2026-11-15"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "UB40: The Unstoppable Tour, St. Petersburg",
+  "date": "NOVEMBER 14, 8 PM",
+  "headliners": "UB40",
+  "venue": "Mahaffey Theater, St. Petersburg",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://themahaffey.com/show/ub40-the-unstoppable-tour-2/",
+  "flyerUrl": "https://themahaffey.com/show/ub40-the-unstoppable-tour-2/",
+  "image": "/events/flyer/152-ub40-st-petersburg.jpg",
+  "alt": "UB40 The Unstoppable Tour flyer, Mahaffey Theater, St. Petersburg",
+  "imageKey": "event-flyers/152-ub40-st-petersburg.jpg",
+  "endDate": "2026-11-14"
+ },
+ {
+  "section": "MAJOR ANNUALS",
+  "title": "Shipwrecked Music Festival 2027",
+  "date": "JANUARY 30, 4 PM",
+  "headliners": "",
+  "venue": "The Cuban Club, Tampa",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/shipwrecked-music-festival-2027-tampa-fl-tickets-1994750932737",
+  "flyerUrl": "https://www.eventbrite.com/e/shipwrecked-music-festival-2027-tampa-fl-tickets-1994750932737",
+  "image": "/events/flyer/153-shipwrecked-music-festival-tampa.jpg",
+  "alt": "Shipwrecked Music Festival 2027 flyer, The Cuban Club, Tampa",
+  "imageKey": "event-flyers/153-shipwrecked-music-festival-tampa.jpg",
+  "endDate": "2027-01-30"
  }
 ]
