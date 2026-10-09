@@ -32,7 +32,7 @@
   const songs=visibleSongs(),pages=Math.max(1,Math.ceil(songs.length/pageSize));page=Math.max(0,Math.min(page,pages-1));$('#track-list').replaceChildren();
   $('#library-all').setAttribute('aria-pressed',String(!releaseOnly));$('#library-release').setAttribute('aria-pressed',String(releaseOnly));
   for(const song of songs.slice(page*pageSize,(page+1)*pageSize)){
-   const li=document.createElement('li'),b=button('Play '+song.title+' by '+song.artist,()=>playSong(song,songs));b.className='track-button';b.dataset.track=song.id;if(song.id===selectedTrack?.id)b.setAttribute('aria-current','true');
+   const li=document.createElement('li'),b=button('Play '+song.title+' by '+song.artist,()=>playSong(song,window.JTQueue.fromContext(song,songs,releaseOnly?albums.flatMap(album=>album.songs):songs)));b.className='track-button';b.dataset.track=song.id;if(song.id===selectedTrack?.id)b.setAttribute('aria-current','true');
    const image=new Image();image.src=song.cover;image.alt='';image.width=36;image.height=36;image.loading='lazy';const label=document.createElement('span');label.className='track-label';const title=document.createElement('strong');title.textContent=song.title;const artist=document.createElement('small');artist.textContent=song.artist;const listen=document.createElement('span');listen.className='site-listen-count';listen.dataset.siteListens=song.id;label.append(title,artist,listen);const duration=document.createElement('span');duration.textContent=song.id===selectedTrack?.id&&!audio.paused?'Playing':fmt(song.duration);b.append(image,label,duration);li.append(b);$('#track-list').append(li);
   }
   if(!songs.length){const li=document.createElement('li');li.textContent='No matches. Try another title or artist.';li.style.padding='30px 4px';$('#track-list').append(li)}
@@ -49,7 +49,7 @@
  flow.addEventListener('wheel',()=>{}, {passive:true});new ResizeObserver(()=>{if(albums.length){selectAlbum(activeAlbum,true,false);onScroll()}}).observe(flow);
  $('#cover-prev').addEventListener('click',()=>selectAlbum(activeAlbum-1,true,true));$('#cover-next').addEventListener('click',()=>selectAlbum(activeAlbum+1,true,true));$('#release-select').addEventListener('change',event=>selectAlbum(Number(event.target.value),true,true));
  $('#music-search').addEventListener('input',()=>{releaseOnly=false;page=0;renderTracks()});$('#library-all').addEventListener('click',()=>{releaseOnly=false;page=0;renderTracks()});$('#library-release').addEventListener('click',()=>{releaseOnly=true;page=0;$('#music-search').value='';renderTracks()});
- $('#tracks-prev').addEventListener('click',()=>{page--;renderTracks()});$('#tracks-next').addEventListener('click',()=>{page++;renderTracks()});$('#play-release').addEventListener('click',()=>{const album=albums[activeAlbum];if(album)playSong(album.songs[0],album.songs)});
+ $('#tracks-prev').addEventListener('click',()=>{page--;renderTracks()});$('#tracks-next').addEventListener('click',()=>{page++;renderTracks()});$('#play-release').addEventListener('click',()=>{const album=albums[activeAlbum];if(album)playSong(album.songs[0],window.JTQueue.fromContext(album.songs[0],album.songs,albums.flatMap(item=>item.songs)))});
  const playerDialog=$('#music-controls-dialog');let dialogOpener;
  const controls=(action)=>document.querySelectorAll('[data-music-action="'+action+'"]');
  const icons={"play":"<svg class=\"ph-icon \" viewBox=\"0 0 256 256\" aria-hidden=\"true\"><use href=\"/assets/phosphor/sprite.svg#play\"></use></svg>","pause":"<svg class=\"ph-icon \" viewBox=\"0 0 256 256\" aria-hidden=\"true\"><use href=\"/assets/phosphor/sprite.svg#pause\"></use></svg>"};
@@ -71,8 +71,8 @@
   renderTracks();
  }
  function advance(direction,fromEnded=false){
-  if(!queue.length)return;const i=queue.findIndex(t=>t.id===selectedTrack?.id),n=i+direction;
-  if(n>=queue.length||n<0){if(repeatMode==='all')playSong(queue[(n+queue.length)%queue.length],null,true);else if(fromEnded){audio.pause();$('#audio-status').textContent='End of the queue. Choose another song or turn on repeat all.';updatePlayerState()}return;}
+  const i=queue.findIndex(t=>t.id===selectedTrack?.id),n=window.JTQueue.nextIndex(i,queue.length,direction,repeatMode);
+  if(n===null){if(fromEnded){audio.pause();$('#audio-status').textContent='End of the queue. Choose another song or turn on repeat all.';updatePlayerState()}return;}
   playSong(queue[n],null,true);
  }
  function togglePlay(){if(embedded){showPlayer();return}if(!selectedTrack)return;if(audio.paused){document.dispatchEvent(new CustomEvent('musicaudiostart'));audio.play().catch(()=>{$('#audio-status').textContent='Playback could not start. Choose another song or try again.'})}else audio.pause()}

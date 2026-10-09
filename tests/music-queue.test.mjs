@@ -1,0 +1,15 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import vm from 'node:vm';
+import fs from 'node:fs';
+const ctx=vm.createContext({});vm.runInContext(fs.readFileSync('music-queue.js','utf8'),ctx);
+const {fromContext,nextIndex}=ctx.JTQueue;
+const a={id:'a'},b={id:'b'},c={id:'c'};
+const ids=items=>Array.from(items,x=>x.id);
+test('direct middle single preserves displayed collection and index',()=>{const q=fromContext(b,[b],[a,b,c]);assert.deepEqual(ids(q),['a','b','c']);assert.equal(q.findIndex(t=>t.id==='b'),1);assert.equal(nextIndex(1,q.length,1,'off'),2)});
+test('multiple next presses advance through a single collection',()=>{const q=fromContext(a,[a],[a,b,c]);let i=0;i=nextIndex(i,q.length,1,'off');assert.equal(q[i].id,'b');i=nextIndex(i,q.length,1,'off');assert.equal(q[i].id,'c');assert.equal(nextIndex(i,q.length,1,'off'),null)});
+test('album playback retains album sequence',()=>assert.deepEqual(ids(fromContext(a,[a,b],[a,b,c])),['a','b']));
+test('search with only one matching song remains scoped',()=>assert.deepEqual(ids(fromContext(b,[b],[b])),['b']));
+test('artist collection deduplicates collaborations',()=>assert.deepEqual(ids(fromContext(b,[b],[a,b,b,c])),['a','b','c']));
+test('repeat all wraps, repeat one manual next does not wrap at end',()=>{assert.equal(nextIndex(2,3,1,'all'),0);assert.equal(nextIndex(0,3,-1,'all'),2);assert.equal(nextIndex(2,3,1,'one'),null)});
+test('missing current selection is safe',()=>{assert.equal(nextIndex(-1,3,1,'off'),null);assert.equal(nextIndex(0,0,1,'all'),null)});

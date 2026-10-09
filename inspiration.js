@@ -5,7 +5,22 @@
   const page = $('#minds-eye'), dialog = $('#inspiration-dialog');
   if (!page || !dialog) return;
   const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
-  const videoPageSize = 8, episodePageSize = 12, releasePageSize = 8;
+  const collectionNav = page.querySelector('.mind-quick-nav');
+  const collectionLinks = [...(collectionNav?.querySelectorAll('a') || [])];
+  const collectionPanels = collectionLinks.map(link => page.querySelector(link.getAttribute('href'))).filter(Boolean);
+  collectionNav?.setAttribute('role','tablist');
+  function showCollection(id,updateUrl=false){
+    const selected=collectionPanels.find(panel=>panel.id===id||panel.contains(document.getElementById(id)))||collectionPanels[0];if(!selected)return;
+    collectionLinks.forEach(link=>{const active=link.getAttribute('href')==='#'+selected.id;link.setAttribute('role','tab');link.id='tab-'+link.hash.slice(1);link.setAttribute('aria-controls',link.hash.slice(1));link.setAttribute('aria-selected',String(active));link.tabIndex=active?0:-1;});
+    collectionPanels.forEach(panel=>{panel.hidden=panel!==selected;panel.setAttribute('role','tabpanel');panel.setAttribute('aria-labelledby','tab-'+panel.id);});
+    if(updateUrl)history.replaceState(history.state,'',location.pathname+location.search+'#'+selected.id);
+    window.JTGlassOptics?.schedule();
+  }
+  collectionLinks.forEach((link,index)=>{link.addEventListener('click',event=>{event.preventDefault();showCollection(link.hash.slice(1),true);});link.addEventListener('keydown',event=>{let next;if(event.key==='ArrowRight')next=(index+1)%collectionLinks.length;else if(event.key==='ArrowLeft')next=(index+collectionLinks.length-1)%collectionLinks.length;else if(event.key==='Home')next=0;else if(event.key==='End')next=collectionLinks.length-1;else return;event.preventDefault();collectionLinks[next].focus();showCollection(collectionLinks[next].hash.slice(1),true);});});
+  showCollection(location.hash.slice(1));
+  addEventListener('hashchange',()=>showCollection(location.hash.slice(1)));
+  document.addEventListener('pagechange',event=>{if(event.detail?.page==='minds-eye')showCollection(location.hash.slice(1));});
+
   const state = { catalog: null, loading: null, videos: {}, robinPage: 0, artistPage: 0, selectedRelease: null };
   let videoPlayer = null, videoRequest = 0, videoOpener = null, videoTimer = null, backdropPress = false;
   const screen = $('#inspiration-screen');
@@ -42,13 +57,12 @@
     return state.loading;
   }
 
-  // Each video library is a real horizontally scrollable strip, with eight cards per page.
+  // Every video stays in one native swipeable strip; no page replacement.
   function matchingVideos(key) { const query = normal($('#' + key + '-library-search')?.value.trim()); return (state.catalog?.[key].videos || []).filter(video => normal(video.title + ' ' + video.creator).includes(query)); }
   function setVideoButton(button, video) { button.dataset.inspirationVideo = video.id; button.dataset.inspirationTitle = video.title; button.dataset.inspirationCreator = video.creator; button.setAttribute('aria-label', 'Watch ' + video.title + ' by ' + video.creator); }
   function renderVideos(key) {
     const carousel = $('#' + key + '-carousel'), entries = matchingVideos(key), model = state.videos[key];
-    model.page = Math.max(0, Math.min(model.page, Math.max(0, Math.ceil(entries.length / videoPageSize) - 1)));
-    const cards = entries.slice(model.page * videoPageSize, (model.page + 1) * videoPageSize).map(video => {
+    const cards = entries.map(video => {
       const card = element('article', 'creator-film-card influence-card');
       const poster = plainButton('', 'creator-film-poster'); setVideoButton(poster, video);
       poster.append(image(video.thumbnail || 'https://i.ytimg.com/vi/' + video.id + '/hqdefault.jpg', '', 480, 270));
@@ -69,24 +83,11 @@
   }
   function updateVideoNavigation(key) {
     if (!state.catalog) return;
-    const carousel = $('#' + key + '-carousel'), entries = matchingVideos(key), model = state.videos[key];
-    const limit = Math.max(0, carousel.scrollWidth - carousel.clientWidth), firstPage = model.page === 0, lastPage = (model.page + 1) * videoPageSize >= entries.length;
-    $('#' + key + '-previous').disabled = !entries.length || (firstPage && carousel.scrollLeft <= 3);
-    $('#' + key + '-next').disabled = !entries.length || (lastPage && carousel.scrollLeft >= limit - 3);
-    $('#' + key + '-position').textContent = rangeText(model.page, videoPageSize, entries.length, key === 'rea' ? 'videos' : 'readings');
+    const entries=matchingVideos(key);
+    $('#' + key + '-previous').hidden=true;$('#' + key + '-next').hidden=true;
+    $('#' + key + '-position').textContent=entries.length+' '+(key==='rea'?'videos':'readings')+' · Scroll to explore';
   }
-  function moveVideos(key, direction) {
-    const carousel = $('#' + key + '-carousel'), entries = matchingVideos(key), model = state.videos[key];
-    if (!entries.length) return;
-    const limit = Math.max(0, carousel.scrollWidth - carousel.clientWidth), atEdge = direction < 0 ? carousel.scrollLeft <= 3 : carousel.scrollLeft >= limit - 3;
-    if (atEdge) {
-      const nextPage = model.page + direction;
-      if (nextPage < 0 || nextPage * videoPageSize >= entries.length) return;
-      model.page = nextPage; renderVideos(key);
-      if (direction < 0) carousel.scrollLeft = carousel.scrollWidth;
-      updateVideoNavigation(key);
-    } else carousel.scrollBy({ left: direction * Math.max(carousel.clientWidth * .85, 240), behavior: reducedMotion.matches ? 'instant' : 'smooth' });
-  }
+  function moveVideos(key,direction){const carousel=$('#'+key+'-carousel');carousel.scrollBy({left:direction*Math.max(240,carousel.clientWidth*.85),behavior:reducedMotion.matches?'instant':'smooth'});}
   ['rea', 'wisdom'].forEach(key => {
     const carousel = $('#' + key + '-carousel'); if (!carousel) return;
     $('#' + key + '-library-search')?.addEventListener('input', debounce(() => { if (!state.catalog) return; state.videos[key].page = 0; renderVideos(key); }));
@@ -147,9 +148,8 @@
   // Official publisher audio shares the site's persistent music player and queue.
   function matchingEpisodes() { const query = normal($('#robin-search')?.value.trim()); return (state.catalog?.robin.episodes || []).filter(episode => normal(episode.title).includes(query)); }
   function renderEpisodes() {
-    const entries = matchingEpisodes(), list = $('#robin-episodes'), pages = Math.max(1, Math.ceil(entries.length / episodePageSize));
-    state.robinPage = Math.max(0, Math.min(state.robinPage, pages - 1));
-    list.replaceChildren(...entries.slice(state.robinPage * episodePageSize, (state.robinPage + 1) * episodePageSize).map(episode => {
+    const entries = matchingEpisodes(), list = $('#robin-episodes');
+    list.replaceChildren(...entries.map(episode => {
       const li = element('li'), button = plainButton('', 'creator-episode'); button.dataset.robinEpisode = episode.id; button.setAttribute('aria-label', 'Play ' + episode.title + ' by Robin Sharma');
       const copy = element('span', 'creator-episode-copy'); copy.append(element('strong', '', episode.title));
       const metadata = ['Robin Sharma', formatDate(episode.publishedAt), Number(episode.duration) > 0 ? formatTime(episode.duration) : ''].filter(Boolean); copy.append(element('span', '', metadata.join(' · ')));const listens=element('span','site-listen-count');listens.dataset.siteListens=episode.id;copy.append(listens);
@@ -158,8 +158,8 @@
     }));
     if (!entries.length) emptyMessage(list, 'No episodes match that search. Try another title or topic.');
     $('#robin-library-summary').textContent = state.catalog.robin.episodes.length.toLocaleString() + ' episodes from Robin Sharma’s official archive and podcast feed.';
-    $('#robin-position').textContent = rangeText(state.robinPage, episodePageSize, entries.length, 'episodes');
-    $('#robin-previous').disabled = state.robinPage === 0; $('#robin-next').disabled = state.robinPage === pages - 1;
+    $('#robin-position').textContent = entries.length + ' episodes';
+    $('#robin-previous').hidden=true;$('#robin-next').hidden=true;list.scrollTop=0;
     $('#robin-play-all').disabled = !entries.length; window.JTListens?.attach(list);syncPodcastSelection();
   }
   function syncPodcastSelection() { const selected = window.JTMusic?.state?.trackId; page.querySelectorAll('[data-robin-episode]').forEach(button => { if (button.dataset.robinEpisode === selected) button.setAttribute('aria-current', 'true'); else button.removeAttribute('aria-current'); }); }
@@ -173,7 +173,7 @@
       syncPodcastSelection(); await starting;
     } catch { announce('This episode could not start. Please try again, or choose another episode.'); }
   }
-  $('#robin-search')?.addEventListener('input', debounce(() => { if (state.catalog) { state.robinPage = 0; renderEpisodes(); } }));
+  $('#robin-search')?.addEventListener('input', debounce(() => { if (state.catalog) { renderEpisodes();$('#robin-episodes').closest('details').open=true; } }));
   $('#robin-previous')?.addEventListener('click', () => { if (!state.catalog) return; state.robinPage--; renderEpisodes(); });
   $('#robin-next')?.addEventListener('click', () => { if (!state.catalog) return; state.robinPage++; renderEpisodes(); });
   $('#robin-play-all')?.addEventListener('click', () => playPodcast());
@@ -249,12 +249,19 @@
     }
     providerArtistReleases = interleaveReleases(providers);
     ensureArtistControls();
+    const spotlight = $('#artist-spotlight');
+    if (spotlight) spotlight.replaceChildren(...artists.map(artist => {
+      const card = plainButton('', 'artist-spotlight-card glass');card.dataset.artistChoice=artist.key;
+      card.append(image(artist.portrait, '', 96, 96),element('strong','',artist.name),element('span','','Browse albums'));
+      card.addEventListener('click',()=>{filter.value=artist.key;state.artistPage=0;state.selectedRelease=null;$('#artist-search').value='';renderArtists();});return card;
+    }));
   }
   function matchesArtistQuery(release) {
     const query = normal($('#artist-search')?.value.trim()), artist = $('#artist-filter')?.value;
     return (!artist || release.creators.some(creator => creator.key === artist)) && normal([release.title, release.artist, ...release.creators.map(creator => creator.name), ...(release.tracks || []).map(track => track.title + ' ' + track.artist)].join(' ')).includes(query);
   }
-  function matchingReleases() { artistReleases = artistSource === 'native' ? nativeArtistReleases : providerArtistReleases; return artistReleases.filter(matchesArtistQuery); }
+  function releaseRank(release){if(/\bSingle\s*$/i.test(release.title)||(release.native&&release.tracks.length===1))return 2;if(/\bEP\s*$/i.test(release.title))return 1;return 0;}
+  function matchingReleases() { artistReleases = artistSource === 'native' ? nativeArtistReleases : providerArtistReleases; return artistReleases.filter(matchesArtistQuery).sort((a,b)=>releaseRank(a)-releaseRank(b)); }
   function matchingNativeSongs() {
     const query = normal($('#artist-search')?.value.trim()), ids = new Set();
     return nativeArtistReleases.filter(matchesArtistQuery).flatMap(release => release.tracks).filter(track => {
@@ -263,18 +270,18 @@
     });
   }
   function renderArtists() {
-    const entries = matchingReleases(), carousel = $('#artist-coverflow'), pages = Math.max(1, Math.ceil(entries.length / releasePageSize));
-    state.artistPage = Math.max(0, Math.min(state.artistPage, pages - 1));
-    const visible = entries.slice(state.artistPage * releasePageSize, (state.artistPage + 1) * releasePageSize);
+    const entries = matchingReleases(), carousel = $('#artist-coverflow');
+    const visible = entries;
     if (!visible.some(release => release.key === state.selectedRelease)) state.selectedRelease = visible[0]?.key || null;
     carousel.replaceChildren(...visible.map(release => { const button = plainButton('', 'creator-cover-tile'); button.dataset.artistRelease = release.key; button.setAttribute('aria-label', 'Explore ' + displayAlbum(release.title) + ' by ' + release.artist); button.setAttribute('aria-current', String(release.key === state.selectedRelease)); button.append(image(release.cover, displayAlbum(release.title) + ' cover artwork', 480, 480), element('strong', '', displayAlbum(release.title)), element('span', '', release.artist)); return button; }));
     carousel.scrollLeft = 0;
     if (!visible.length) emptyMessage(carousel, 'No releases match. Try another title or artist.');
-    $('#artist-position').textContent = rangeText(state.artistPage, releasePageSize, entries.length, 'releases');
-    $('#artist-previous').disabled = state.artistPage === 0; $('#artist-next').disabled = state.artistPage === pages - 1;
+    $('#artist-position').textContent = entries.length + ' releases · Scroll to explore';
+    $('#artist-previous').hidden = true; $('#artist-next').hidden = true;
     document.querySelectorAll('[data-artist-source]').forEach(button => { button.setAttribute('aria-pressed', String(button.dataset.artistSource === artistSource)); button.disabled = button.dataset.artistSource === 'native' && !nativeArtistTracks.length; });
     const songs = matchingNativeSongs(), play = $('#artist-play-all'); play.hidden = artistSource !== 'native'; play.disabled = !songs.length;
     $('#artist-library-status').textContent = artistSource === 'native' ? songs.length + ' full songs across ' + entries.length + ' releases. Choose a song and keep exploring.' : entries.length + ' additional releases in official artist players. Provider access rules apply.';
+    document.querySelectorAll('[data-artist-choice]').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.artistChoice===$('#artist-filter').value)));
     renderArtistDetail();
   }
   function renderArtistDetail() {
@@ -320,7 +327,7 @@
     $('#artist-coverflow').querySelectorAll('[data-artist-release]').forEach(button => { button.setAttribute('aria-current', String(button.dataset.artistRelease === key)); if (scroll && button.dataset.artistRelease === key) { const flow = $('#artist-coverflow'), box = button.getBoundingClientRect(), parentBox = flow.getBoundingClientRect(); flow.scrollTo({ left: flow.scrollLeft + box.left - parentBox.left - (flow.clientWidth - box.width) / 2, behavior: reducedMotion.matches ? 'instant' : 'smooth' }); } });
     renderArtistDetail();
   }
-  function moveArtists(direction) { const entries = matchingReleases(), pages = Math.ceil(entries.length / releasePageSize); if (state.artistPage + direction < 0 || state.artistPage + direction >= pages) return; state.artistPage += direction; renderArtists(); }
+  function moveArtists(direction) { const carousel=$('#artist-coverflow');carousel.scrollBy({left:direction*Math.max(240,carousel.clientWidth*.8),behavior:reducedMotion.matches?'instant':'smooth'}); }
   $('#artist-previous')?.addEventListener('click', () => moveArtists(-1)); $('#artist-next')?.addEventListener('click', () => moveArtists(1));
   $('#artist-filter')?.addEventListener('change', () => { state.artistPage = 0; renderArtists(); });
   $('#artist-search')?.addEventListener('input', debounce(() => { if (state.catalog) { state.artistPage = 0; renderArtists(); } }));
@@ -334,7 +341,12 @@
     const song = event.target.closest('[data-native-artist-track]'), nativeRelease = event.target.closest('[data-play-native-release]');
     if (song || nativeRelease) {
       const release = nativeArtistReleases.find(item => item.key === (nativeRelease?.dataset.playNativeRelease || state.selectedRelease));
-      if (release) playNativeArtistSongs(release.tracks, song ? release.tracks.findIndex(track => track.id === song.dataset.nativeArtistTrack) : 0);
+      if (release) {
+        const selected = song ? release.tracks.find(track => track.id === song.dataset.nativeArtistTrack) : release.tracks[0];
+        const collection = matchingReleases().filter(item => item.native).flatMap(item => item.tracks);
+        const queue = window.JTQueue.fromContext(selected, release.tracks, collection);
+        playNativeArtistSongs(queue, queue.findIndex(track => track.id === selected.id));
+      }
       return;
     }
     const button = event.target.closest('[data-play-artist-release]'); if (!button) return;

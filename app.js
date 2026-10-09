@@ -36,7 +36,7 @@ if(realm && realmLaunch){
 const filmDialog=$('#film-dialog'),carouselRoot=$('.film-carousel');
 const previewSlides=[...document.querySelectorAll('.film-slide')],previewPlayers=new Map();
 const motionPreference=matchMedia('(prefers-reduced-motion: reduce)');
-let carouselVisible=false,manuallyPaused=motionPreference.matches||!!navigator.connection?.saveData;
+let carouselVisible=false,manuallyPaused=true;
 let previousLink,popupPlayer=null,requestedFilm=0,catalog,youtubeReady,syncScheduled=false;
 // Native horizontal scrolling preserves trackpad, touch and OS scrollbar behavior.
 const carousel={scrollPrev(){moveCarousel(-1)},scrollNext(){moveCarousel(1)},on(event,callback){if(event==='scroll')carouselRoot.addEventListener('scroll',callback,{passive:true});}};
