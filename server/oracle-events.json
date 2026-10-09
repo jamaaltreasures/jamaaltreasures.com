@@ -2634,5 +2634,91 @@
     "alt": "Orlando Beer Festival flyer, Festival Park Orlando",
     "imageKey": "event-flyers/173-orlando-beer-festival.jpg",
     "endDate": "2026-11-14"
+  },
+  {
+    "section": "LATER IN OCTOBER",
+    "title": "Steve Lacy: Oh yeah? Tour",
+    "date": "OCTOBER 28, 8 PM",
+    "headliners": "Steve Lacy",
+    "venue": "Yuengling Center, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.yuenglingcenter.com/event/steve-lacy-2026/",
+    "flyerUrl": "https://www.yuenglingcenter.com/event/steve-lacy-2026/",
+    "image": "/events/flyer/176-steve-lacy-tampa.jpg",
+    "alt": "Steve Lacy Oh yeah? Tour flyer, Yuengling Center Tampa",
+    "imageKey": "event-flyers/176-steve-lacy-tampa.jpg",
+    "endDate": "2026-10-28"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Nick Cannon Presents: Wild 'N Out Live, The Next Generation, Miami",
+    "date": "NOVEMBER 28, 8 PM",
+    "headliners": "Nick Cannon and the Wild 'N Out cast",
+    "venue": "Kaseya Center, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/nick-cannon-presents-wild-n-out-tickets/artist/2502535",
+    "flyerUrl": "https://www.kaseyacenter.com/news/detail/nick-cannon-announces-his-wild-n-out-live-the-next-generation-coming-to-kaseya-center",
+    "image": "/events/flyer/177-wild-n-out.jpg",
+    "alt": "Wild 'N Out Live The Next Generation Tour flyer, Kaseya Center Miami",
+    "imageKey": "event-flyers/177-wild-n-out.jpg",
+    "endDate": "2026-11-28"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Nick Cannon Presents: Wild 'N Out Live, The Next Generation, Tampa",
+    "date": "NOVEMBER 30, 8 PM",
+    "headliners": "Nick Cannon and the Wild 'N Out cast",
+    "venue": "Benchmark International Arena, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/nick-cannon-presents-wild-n-out-tickets/artist/2502535",
+    "flyerUrl": "https://www.kaseyacenter.com/news/detail/nick-cannon-announces-his-wild-n-out-live-the-next-generation-coming-to-kaseya-center",
+    "image": "/events/flyer/177-wild-n-out.jpg",
+    "alt": "Wild 'N Out Live The Next Generation Tour flyer, Benchmark International Arena Tampa",
+    "imageKey": "event-flyers/177-wild-n-out.jpg",
+    "endDate": "2026-11-30"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jodeci: 35th Anniversary Tour of Forever My Lady",
+    "date": "DECEMBER 13, 7 PM",
+    "headliners": "Jodeci",
+    "venue": "Duke Energy Center for the Arts, Mahaffey Theater, St. Petersburg",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://themahaffey.com/show/jodeci/",
+    "flyerUrl": "https://themahaffey.com/show/jodeci/",
+    "image": "/events/flyer/175-jodeci-st-petersburg.jpg",
+    "alt": "Jodeci 35th Anniversary Tour flyer, Mahaffey Theater St. Petersburg",
+    "imageKey": "event-flyers/175-jodeci-st-petersburg.jpg",
+    "endDate": "2026-12-13"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Eternal NYE",
+    "date": "DECEMBER 30 TO 31",
+    "headliners": "Knock2, Zeds Dead, RL Grime, LSDREAM, Space Laces, NGHTMRE",
+    "venue": "Orlando Amphitheater, Orlando",
+    "categories": [
+      "Music",
+      "Arts"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://eternalnye.frontgatetickets.com",
+    "flyerUrl": "https://edmidentity.com/2026/07/01/eternal-nye-2026-lineup/",
+    "image": "/events/flyer/174-eternal-nye-orlando.jpg",
+    "alt": "Eternal NYE flyer, Orlando Amphitheater Orlando",
+    "imageKey": "event-flyers/174-eternal-nye-orlando.jpg",
+    "endDate": "2027-01-01"
   }
 ]
