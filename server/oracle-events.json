@@ -1893,5 +1893,115 @@
     "alt": "14th Annual Tampa Bay Veg Fest flyer, Perry Harvey Sr. Park, Tampa",
     "imageKey": "event-flyers/133-tampa-bay-veg-fest.jpg",
     "endDate": "2026-11-14"
+  },
+  {
+    "section": "HALLOWEEN",
+    "title": "Daylite Halloween Festival",
+    "date": "OCTOBER 31, 10 AM TO 6 PM",
+    "headliners": "FLAGRANT DRVMS, YOKAI",
+    "venue": "Great Southern Box Company, Orlando",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/daylite-halloween-festival-at-sobox-saturday-october-31-tickets-2000487239184",
+    "flyerUrl": "https://www.eventbrite.com/e/daylite-halloween-festival-at-sobox-saturday-october-31-tickets-2000487239184",
+    "image": "/events/flyer/134-daylite-halloween-festival-orlando.jpg",
+    "alt": "Daylite Halloween Festival flyer at SOBOX, Great Southern Box Company, Orlando",
+    "imageKey": "event-flyers/134-daylite-halloween-festival-orlando.jpg",
+    "endDate": "2026-10-31"
+  },
+  {
+    "section": "HALLOWEEN",
+    "title": "HALLOWINE 11.0 The Ultimate Caribbean Halloween Costume Party",
+    "date": "OCTOBER 31, 10 PM TO 3 AM",
+    "headliners": "Deejay Marlo, Selecta KB, Poison Dart Sound",
+    "venue": "Dunns River Island Cafe, Tampa",
+    "categories": [
+      "Music",
+      "Nightlife",
+      "Culture"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/hallowine-110-the-ultimate-caribbean-halloween-costume-party-tickets-1999737572912",
+    "flyerUrl": "https://www.eventbrite.com/e/hallowine-110-the-ultimate-caribbean-halloween-costume-party-tickets-1999737572912",
+    "image": "/events/flyer/135-hallowine-caribbean-costume-party-tampa.jpg",
+    "alt": "HALLOWINE 11.0 Caribbean Halloween costume party flyer, Dunns River Island Cafe, Tampa",
+    "imageKey": "event-flyers/135-hallowine-caribbean-costume-party-tampa.jpg",
+    "endDate": "2026-11-01"
+  },
+  {
+    "section": "HALLOWEEN",
+    "title": "HallowScream: Friday The 30th",
+    "date": "OCTOBER 30, 11 PM TO 4 AM",
+    "headliners": "",
+    "venue": "Truth Bar and Lounge, Fort Lauderdale",
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/hallowscream-friday-the-30th-tickets-2002680375915",
+    "flyerUrl": "https://www.eventbrite.com/e/hallowscream-friday-the-30th-tickets-2002680375915",
+    "image": "/events/flyer/136-hallowscream-friday-the-30th-fort-lauderdale.jpg",
+    "alt": "HallowScream Friday The 30th flyer, Truth, Fort Lauderdale",
+    "imageKey": "event-flyers/136-hallowscream-friday-the-30th-fort-lauderdale.jpg",
+    "endDate": "2026-10-31"
+  },
+  {
+    "section": "HALLOWEEN",
+    "title": "Backyard Riddims Halloween Party and Costume Contest",
+    "date": "OCTOBER 30, 8 PM TO 2 AM",
+    "headliners": "DJ GQ, DJ Lank of Code Red Sound",
+    "venue": "TIMBR Cocktail Bar and Lounge, Fort Lauderdale",
+    "categories": [
+      "Music",
+      "Nightlife",
+      "Culture"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/backyard-riddims-halloween-party-costume-contest-tickets-1998158296253",
+    "flyerUrl": "https://www.eventbrite.com/e/backyard-riddims-halloween-party-costume-contest-tickets-1998158296253",
+    "image": "/events/flyer/137-backyard-riddims-halloween-fort-lauderdale.jpg",
+    "alt": "Backyard Riddims Halloween party flyer, TIMBR, Fort Lauderdale",
+    "imageKey": "event-flyers/137-backyard-riddims-halloween-fort-lauderdale.jpg",
+    "endDate": "2026-10-31"
+  },
+  {
+    "section": "NEXT WEEK",
+    "title": "Night Sky Photography: From Classroom to the Coast",
+    "date": "OCTOBER 17, 2:30 PM",
+    "headliners": "",
+    "venue": "Gulf Coast Camera, Bradenton",
+    "categories": [
+      "Arts",
+      "Community"
+    ],
+    "detailsLabel": "RSVP",
+    "detailsUrl": "https://www.eventbrite.com/e/night-sky-photography-from-classroom-to-the-coast-tickets-2002343267615",
+    "flyerUrl": "https://www.eventbrite.com/e/night-sky-photography-from-classroom-to-the-coast-tickets-2002343267615",
+    "image": "/events/flyer/138-night-sky-photography-bradenton.jpg",
+    "alt": "Night Sky Photography class and beach field session graphic, Bradenton",
+    "imageKey": "event-flyers/138-night-sky-photography-bradenton.jpg",
+    "endDate": "2026-10-17"
+  },
+  {
+    "section": "LATER IN OCTOBER",
+    "title": "Feral Friends Showdown: A Live Painting Competition",
+    "date": "OCTOBER 23, 6 PM TO 10 PM",
+    "headliners": "",
+    "venue": "Cove Brewery, Deerfield Beach",
+    "categories": [
+      "Arts",
+      "Community"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/feral-friends-showdown-a-live-painting-competition-tickets-1998515809585",
+    "flyerUrl": "https://www.eventbrite.com/e/feral-friends-showdown-a-live-painting-competition-tickets-1998515809585",
+    "image": "/events/flyer/139-feral-friends-showdown-deerfield-beach.jpg",
+    "alt": "Feral Friends Showdown live painting competition flyer, Cove Brewery, Deerfield Beach",
+    "imageKey": "event-flyers/139-feral-friends-showdown-deerfield-beach.jpg",
+    "endDate": "2026-10-23"
   }
 ]
