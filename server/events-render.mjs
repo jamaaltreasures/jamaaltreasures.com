@@ -49,7 +49,7 @@ export async function eventsPage(){
  activeEvents.forEach(event=>{const area=areaFor(event);areaCounts[area]=(areaCounts[area]||0)+1;});
  const areaNames=['Tampa','Orlando','Miami','Fort Lauderdale','St. Petersburg','Sarasota','Jacksonville','More Florida'].filter(area=>areaCounts[area]);
  const areaRow=`<div class="arearow" id="arearow" role="region" aria-label="Filter events by area"><span class="arealabel">AREA</span>${['All Areas',...areaNames].map((area,index)=>`<button class="achip${index===0?' on':''}" type="button" data-areafilter="${esc(area)}" aria-pressed="${index===0}">${esc(area)} (${area==='All Areas'?activeEvents.length:areaCounts[area]})</button>`).join('')}</div>`;
- const body=`<header class="site-header"><div class="bar"><a class="brand" href="/">JAMAAL <span>TREASURES</span></a><nav class="nav" aria-label="Main navigation"><a href="/">Home</a><a href="/events" class="active">Events</a><a href="/contact">Book</a></nav></div></header>
+ const body=`<header class="site-header"><div class="bar"><a class="brand jt-brand-dark" href="/"><img class="jt-brand-logo" src="/assets/jamaal-logo-animated.svg" width="184" height="61" alt="Jamaal Treasures"></a><nav class="nav" aria-label="Main navigation"><a href="/">Home</a><a href="/events" class="active">Events</a><a href="/contact">Book</a></nav></div></header>
  <main class="wrap">${signupForm('events')}<section class="hero"><div class="kicker">FLORIDA EVENT GUIDE</div><h1>Find your next <span class="grad">night out</span></h1><p class="sub">Concerts, festivals, mixers and cultural moments across Florida. Hand picked, always current.</p><div class="searchwrap"><input id="eventsearch" type="search" placeholder="Search events, artists, venues..." aria-label="Search events" autocomplete="off"><p class="searchhint">Organizer? Type your event name to find your flyer instantly.</p></div><div class="carousel" role="region" aria-label="Browse event topics"><div class="carviewport" id="carviewport">${chipSet(false)}${chipSet(true)}</div><div class="carfade left"></div><div class="carfade right"></div></div>${areaRow}</section>
  <h2 class="sec"><span class="dot"></span>FEATURED EVENT</h2><div class="grid featured-grid">${featured.map((event,index)=>card(event,index)).join('')}</div>${groups}
  <div id="noresults" hidden><p>No events match your search. Try a different event name, artist, or venue.</p></div><section class="promo"><div class="kicker">FOR EVENT ORGANIZERS</div><h2>Get your event featured</h2><p>Premium placement at the top of our Florida event guide, plus cinematic coverage of your event.</p><p class="price">$450 <small>event coverage</small></p><ul class="includes"><li>Featured listing with your flyer, ticket link and branding</li><li>Up to 2 hours of event filming in Florida</li><li>One edited 60 to 90 second highlight video</li><li>3 vertical social clips for your channels</li><li>2 revision rounds</li></ul><a class="btn primary" href="https://square.link/u/KxMuUqlH">Buy Event Package, $450</a><p><a href="/event-coverage">See coverage details</a></p><a class="btn ghost" href="/contact?project=event-coverage">Ask about availability</a></section>
@@ -163,7 +163,22 @@ applyFilters();
 .achip:active{transform:scale(.96)}
 .achip:focus-visible{outline:3px solid #f3c4ff;outline-offset:4px}
 @media(prefers-reduced-motion:reduce){.achip{transition:none}}
+
+/* Desktop presentation preserves the original, uncropped event flyers. */
+@media(min-width:760px){
+ .bar{max-width:1280px;padding:18px 32px;min-height:108px}
+ .wrap{max-width:1280px;padding:0 32px 80px}
+ .hero{padding:44px 0 18px}.hero h1{font-size:48px}
+ .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;align-items:start}
+ .featured-grid{grid-template-columns:1fr}
+ .featured-grid .card{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);align-items:center}
+ .featured-grid .cbody{padding:32px}.featured-grid h3{font-size:30px}
+ .featured-grid .headliners,.featured-grid .venue{font-size:16px}
+ .nav{gap:28px;font-size:16px}
+}
+@media(min-width:1100px){.grid:not(.featured-grid){grid-template-columns:repeat(3,minmax(0,1fr))}}
+.site-header{background:rgba(5,5,8,.76);backdrop-filter:blur(3px) saturate(1.15);-webkit-backdrop-filter:blur(3px) saturate(1.15);box-shadow:inset 0 1px 0 #ffffff30,0 5px 22px #0002}
 </style>`;
- return new Response(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#050508"><title>Events | Jamaal Treasures</title><meta name="description" content="Find your next night out. Concerts, festivals, mixers and cultural events across Florida, curated by Jamaal Treasures."><link rel="canonical" href="https://jamaaltreasures.com/events"><meta property="og:title" content="Events | Jamaal Treasures"><meta property="og:description" content="Find your next night out. Florida concerts, festivals, nightlife and cultural events."><link rel="icon" href="/assets/star.svg">${schemaTag(activeEvents.map(detailSchema).filter(Boolean))}</head><body>${body}${signupAssets()}</body></html>`,{headers:{'Content-Type':'text/html; charset=utf-8','Cache-Control':'public, max-age=60'}});
+ return new Response(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#050508"><title>Events | Jamaal Treasures</title><meta name="description" content="Find your next night out. Concerts, festivals, mixers and cultural events across Florida, curated by Jamaal Treasures."><link rel="canonical" href="https://jamaaltreasures.com/events"><meta property="og:title" content="Events | Jamaal Treasures"><meta property="og:description" content="Find your next night out. Florida concerts, festivals, nightlife and cultural events."><link rel="icon" href="/assets/jamaal-key.svg">${schemaTag(activeEvents.map(detailSchema).filter(Boolean))}<link rel="stylesheet" href="/brand.css?v=20261009key"></head><body>${body}${signupAssets()}</body></html>`,{headers:{'Content-Type':'text/html; charset=utf-8','Cache-Control':'public, max-age=60'}});
 }
 

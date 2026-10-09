@@ -1,1 +1,1 @@
-{"name": "Jamaal Treasures", "short_name": "Jamaal", "start_url": "/", "display": "standalone", "background_color": "#faf7f2", "theme_color": "#faf7f2", "icons": [{"src": "assets/star.svg", "sizes": "any", "type": "image/svg+xml"}]}
+{"name": "Jamaal Treasures", "short_name": "Jamaal", "start_url": "/", "display": "standalone", "background_color": "#faf7f2", "theme_color": "#faf7f2", "icons": [{"src": "assets/jamaal-key.svg", "sizes": "any", "type": "image/svg+xml"}]}

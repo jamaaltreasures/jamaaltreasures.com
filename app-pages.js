@@ -6,6 +6,29 @@
  const isReadingRoute=url=>/^\/(?:blog(?:\/[^/]+)?|events|privacy)\/?$/.test(url.pathname);
  const reading=document.createElement('section');reading.id='reading-page';reading.className='app-page journal-main';reading.hidden=true;reading.tabIndex=-1;document.querySelector('#main').append(reading);
  let navigationToken=0,readingRequest;
+ function loadIndependentPage(url,focus){
+  readingRequest?.abort();
+  pages.forEach(p=>p.hidden=p!==reading);reading.hidden=false;
+  reading.className='app-page independent-page';reading.replaceChildren();
+  const frame=document.createElement('iframe');frame.title=url.pathname.startsWith('/events')?'Florida Events':'Jamaal Treasures';
+  frame.style.cssText='display:block;width:100%;min-height:80vh;border:0;background:transparent';
+  frame.src=url.pathname+url.search+url.hash;reading.append(frame);
+  document.body.dataset.page='independent';closeMenu();scrollTo({top:0,behavior:'instant'});
+  frame.addEventListener('load',()=>{
+   const doc=frame.contentDocument;if(!doc)return;
+   document.title=doc.title;
+   const header=doc.querySelector('header.site-header');if(header)header.hidden=true;
+   const resize=()=>{frame.style.height=Math.max(500,doc.documentElement.scrollHeight)+'px'};
+   const observer=new ResizeObserver(resize);observer.observe(doc.body);resize();
+   doc.addEventListener('click',event=>{
+    const a=event.target.closest('a[href]');if(!a||a.target==='_blank'||a.hasAttribute('download')||event.defaultPrevented||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
+    const next=new URL(a.href);if(next.origin!==location.origin)return;
+    if(next.pathname.startsWith('/events/flyer/')||/\.(?:png|jpe?g|webp|pdf)$/i.test(next.pathname))return;
+    event.preventDefault();history.pushState({},'',next.pathname+next.search+next.hash);render(next,true);
+   });
+   if(focus)reading.focus({preventScroll:true});
+  });
+ }
  async function loadReading(url,focus,token){
   readingRequest?.abort();readingRequest=new AbortController();document.querySelector('#main').setAttribute('aria-busy','true');
   try{const response=await fetch(url.pathname+url.search,{signal:readingRequest.signal,headers:{Accept:'text/html'}});const html=await response.text();if(token!==navigationToken)return;const parsed=new DOMParser().parseFromString(html,'text/html'),content=parsed.querySelector('main');if(!content)throw Error('Missing page content');
@@ -26,7 +49,7 @@
  function closeMenu(returnFocus=false){menu.hidden=true;toggle.setAttribute('aria-expanded','false');toggle.setAttribute('aria-label','Open menu');if(returnFocus)toggle.focus()}
  function category(key){const valid=[...document.querySelectorAll('[data-category]')].some(b=>b.dataset.category===key);key=valid?key:'ai';const feature=document.querySelector('.featured-recap-link');if(feature)feature.hidden=key!=='production';document.querySelectorAll('[data-category]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.category===key)));document.querySelectorAll('[data-service-category]').forEach(c=>c.hidden=c.dataset.serviceCategory!==key);const active=document.querySelector('[data-category="'+key+'"]'),strip=active?.parentElement;if(active&&strip){const a=active.getBoundingClientRect(),r=strip.getBoundingClientRect();const left=key==='ai'?0:strip.scrollLeft+a.left-r.left-(strip.clientWidth-a.width)/2;strip.scrollTo({left:Math.max(0,Math.min(strip.scrollWidth-strip.clientWidth,left)),behavior:'instant'})};window.JTGlassOptics?.schedule()}
  function render(url=new URL(location.href),focus=false){
-  const token=++navigationToken;if(/^\/(?:events|blog)(?:\/|$)/.test(url.pathname)){location.assign(url.href);return}if(isReadingRoute(url)){loadReading(url,focus,token);return}readingRequest?.abort();document.querySelector('#main').removeAttribute('aria-busy');
+  const token=++navigationToken;if(/^\/(?:events|blog)(?:\/|$)/.test(url.pathname)){loadIndependentPage(url,focus);return}if(isReadingRoute(url)){loadReading(url,focus,token);return}readingRequest?.abort();document.querySelector('#main').removeAttribute('aria-busy');
   const page=resolve(url),previous=document.body.dataset.page;
   document.dispatchEvent(new CustomEvent('pagewillchange',{detail:{page,previous}}));
   pages.forEach(p=>p.hidden=p.id!==page);document.body.dataset.page=page;
@@ -48,7 +71,7 @@
  document.addEventListener('click',event=>{
   const a=event.target.closest('a[href]');if(!a||a.target==='_blank'||event.defaultPrevented||event.metaKey||event.ctrlKey||event.altKey||event.shiftKey||a.hasAttribute('download'))return;
   const url=new URL(a.href,location.href);if(url.origin!==location.origin)return;
-  if(url.pathname==='/events')return;
+  if(/^\/(?:events|blog)(?:\/|$)/.test(url.pathname)){event.preventDefault();history.pushState({},'',url.pathname+url.search+url.hash);render(url,true);return}
   if(isReadingRoute(url)){if(url.pathname===location.pathname&&url.search===location.search&&url.hash)return;event.preventDefault();history.pushState({},'',url.pathname+url.search+url.hash);render(url,true);return}
   const leaf=pageFile(url);if(!Object.values(routes).includes(leaf))return;
   if(url.hash==='#main')return;event.preventDefault();history.pushState({},'',routeMeta[resolve(url)].path+url.search+url.hash);render(url,true);
