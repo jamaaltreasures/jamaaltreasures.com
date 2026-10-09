@@ -44,7 +44,7 @@ input::placeholder,textarea::placeholder{color:#706a63!important}
 
 .hero-magic h1{font-family:"Arial Black",Manrope,Arial,sans-serif!important;font-weight:900!important;letter-spacing:-.065em;font-size:clamp(58px,5.6vw,88px);line-height:1.02}.page-title,.events-guide-hero h1{font-family:"Arial Black",Manrope,Arial,sans-serif!important;font-weight:900!important}
 @media(max-width:700px){.hero-magic h1{font-size:clamp(40px,10.4vw,70px)}}
-.hero-magic h1{font-size:clamp(50px,5.1vw,78px);letter-spacing:-.07em;text-wrap:balance}.inner-world-intro{margin-bottom:24px!important;gap:24px!important}.inner-world-copy summary{cursor:pointer;font-weight:750;padding:16px 0}.inner-world-copy[open] p{font-size:17px;line-height:1.7}.mind-quick-nav{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:30px}.mind-quick-nav a{padding:12px 18px;font-size:16px;font-weight:700}.artist-spotlight{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;padding:24px}.artist-spotlight-card{display:flex;align-items:center;flex-direction:column;gap:10px;padding:20px 12px;min-width:0}.artist-spotlight-card img{width:80px;height:80px;object-fit:cover;}.artist-spotlight-card strong{font-size:22px;font-weight:800}.artist-spotlight-card span{font-size:14px;color:#6c6662}.artist-spotlight-card[aria-pressed=true]{outline:2px solid #780f24;outline-offset:2px}.creator-libraries-page #artist-library{margin-top:0}.creator-libraries-page .creator-selected-profile{gap:18px}.creator-libraries-page .creator-selected-profile .creator-artist-portrait{width:80px;height:80px}.creator-libraries-page .creator-native-controls{padding-bottom:16px}.creator-libraries-page .creator-native-release{margin-top:20px}
+.hero-magic h1{font-size:clamp(50px,5.1vw,78px);letter-spacing:-.07em;text-wrap:balance}.inner-world-intro{margin-bottom:24px!important;gap:24px!important}.inner-world-copy summary{cursor:pointer;font-weight:750;padding:16px 0}.inner-world-copy[open] p{font-size:17px;line-height:1.7}.mind-quick-nav{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:30px}.mind-quick-nav a{padding:12px 18px;font-size:16px;font-weight:700}.artist-spotlight{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;padding:24px}.artist-spotlight-card{display:flex;align-items:center;flex-direction:column;gap:10px;padding:20px 12px;min-width:0}.artist-spotlight-card img{width:80px;height:80px;object-fit:cover;}.artist-spotlight-card strong{font-size:22px;font-weight:800}.artist-spotlight-card span{font-size:14px;color:#6c6662}.artist-spotlight-card[aria-pressed=true]{outline:2px solid #111114;outline-offset:2px}.creator-libraries-page #artist-library{margin-top:0}.creator-libraries-page .creator-selected-profile{gap:18px}.creator-libraries-page .creator-selected-profile .creator-artist-portrait{width:80px;height:80px}.creator-libraries-page .creator-native-controls{padding-bottom:16px}.creator-libraries-page .creator-native-release{margin-top:20px}
 @media(max-width:700px){.hero-magic h1{font-size:clamp(39px,10.2vw,66px)}.artist-spotlight{padding:16px 12px;gap:8px}.artist-spotlight-card{padding:14px 5px;}.artist-spotlight-card img{width:56px;height:56px}.artist-spotlight-card strong{font-size:16px}.artist-spotlight-card span{font-size:12px}.mind-quick-nav{display:grid;grid-template-columns:1fr 1fr;gap:8px}.mind-quick-nav a{text-align:center;padding:12px 8px}.creator-libraries-page .creator-music-heading{gap:14px;padding-bottom:20px}}
 .offer-expanded{margin:10px 0 22px;border-block:1px solid #aa9a8a38}.offer-expanded summary{cursor:pointer;min-height:50px;padding:14px 0;font-weight:750;color:#111113}.offer-expanded[open]{padding-bottom:12px}.offer-expanded p,.offer-expanded li{font-size:16px;line-height:1.65}.offer-top .service-illustration{width:70px;height:70px;object-fit:contain}.offer-card>.service-payment{margin-top:auto}.offer-card .offer-summary{font-size:17px;line-height:1.7}
 /* Put listening first: keep the introduction compact. */
@@ -58,34 +58,34 @@ body{background:#f4f0e8!important;color:#111113}
 .hero.hero-magic{background:#f4f0e8}.site-header{background:linear-gradient(#f4f0e840,transparent)}
 .brand img{filter:brightness(0)}.brand span{color:#111113}
 .glass,.glass-panel,.button,.nav-quote,.text-action,.menu-toggle,.project-link,.service-payment,.app-download,.icon-button{color:#111113}
-.hero-actions .button,.nav-quote{color:#780f24!important;--glass-label-color:#780f24!important}
+.hero-actions .button,.nav-quote{color:#111113!important;--glass-label-color:#111113!important}
 .button-label,.button-arrow{color:var(--glass-label-color,inherit)!important;text-shadow:none}
-.nav-quote .button-arrow,.button .button-arrow{background:#780f24;color:#fff!important;border-color:transparent}
+.nav-quote .button-arrow,.button .button-arrow{background:#EF2B4B;color:#fff!important;border-color:transparent}
 .hero .glass-panel{background:#f4f0e830!important}.glass-panel{background:#f4f0e870!important}
 .site-header .site-menu.glass-panel{background:#f4f0e882!important;color:#111113}
 .site-menu,.music-player,.mobile-dock{--glass-label-color:#111113}
 .site-menu a:hover,.site-menu a[aria-current=page]{color:#780f24;background:#1111130c}
-.category-button[aria-pressed=true],.library-filter[aria-pressed=true],.creator-source-button[aria-pressed=true],.journal-filters a[aria-current=page],.mobile-dock a[aria-current=page]{background:#780f24;color:#fff!important}
+.category-button[aria-pressed=true],.library-filter[aria-pressed=true],.creator-source-button[aria-pressed=true],.journal-filters a[aria-current=page],.mobile-dock a[aria-current=page]{background:#111114;color:#fff!important}
 input,select,textarea,option,.glass-field input,.glass-field select,.glass-field textarea,#realm-quality{color:#111113}
 option{background:#f4f0e8}input::placeholder,textarea::placeholder{color:#655f59}
 .realm,.preview-media,#film-screen,.creator-film-poster{background:#111113}.realm-launch,.realm-launch span,.preview-play,.preview-status{color:#fff!important}
-.realm-play{background:#780f24!important;color:#fff!important;border-color:#ffffff40}.realm-play svg,.realm-play svg use{fill:#fff!important;color:#fff!important}
+.realm-play{background:#111114!important;color:#fff!important;border-color:#ffffff40}.realm-play svg,.realm-play svg use{fill:#fff!important;color:#fff!important}
 .music-player.music-player-complete,.music-player.music-player-complete:hover{background:#f4f0e870!important;color:#111113}
 .music-controls-dialog{background:#f4f0e86b!important;color:#111113}.music-controls-dialog .music-controls-header{background:#f4f0e838}
 .music-player-complete .now-playing strong,.music-player-complete .now-playing #playing-artist{color:#111113}
-.music-player-complete .primary-play svg.ph-icon,.music-player-complete .primary-play svg.ph-icon use{fill:#780f24}
+.music-player-complete .primary-play svg.ph-icon,.music-player-complete .primary-play svg.ph-icon use{fill:#111114}
 body svg.ph-icon,body svg.ph-icon use{fill:currentColor}
 .film-modal,.film-modal:hover{background:#f4f0e814;color:#111113}.film-modal #close-film{color:#111113}.film-modal #film-credit,.film-modal #film-playback-status{color:#111113;text-shadow:none}
 .film-modal .film-dialog-heading :is(h2,h1.page-title){text-shadow:none}
 .hero-magic .hero-actions .button{background:#11111324;box-shadow:inset 0 1px 0 #ffffff5e,0 8px 26px #00000026}
 .artist-spotlight-card{border-radius:28px}.mind-quick-nav a{border-radius:999px}.offer-top .service-illustration{filter:grayscale(1)}
-@media(prefers-reduced-transparency:reduce),(prefers-contrast:more){.glass,.glass-panel,.site-header .site-menu.glass-panel,.music-player.music-player-complete,.music-controls-dialog,.mobile-dock,.glass-field,.reach-evidence[open]{background:#f4f0e8!important;color:#111113!important}input,select{color:#111113!important}.category-button[aria-pressed=true],.creator-source-button[aria-pressed=true],.mobile-dock a[aria-current=page]{background:#780f24!important;color:#fff!important}}
+@media(prefers-reduced-transparency:reduce),(prefers-contrast:more){.glass,.glass-panel,.site-header .site-menu.glass-panel,.music-player.music-player-complete,.music-controls-dialog,.mobile-dock,.glass-field,.reach-evidence[open]{background:#f4f0e8!important;color:#111113!important}input,select{color:#111113!important}.category-button[aria-pressed=true],.creator-source-button[aria-pressed=true],.mobile-dock a[aria-current=page]{background:#111114!important;color:#fff!important}}
 
 /* Crimson stays in solid ink and controls, not translucent rose washes. */
 .editorial-dot{color:#780f24!important}
-.app-page .button,.project-link,.service-payment,.app-download{color:#780f24!important}
+.app-page .button,.project-link,.service-payment,.app-download{color:#111113!important}
 .realm-launch{background:linear-gradient(0deg,#08080888,transparent 75%)!important}
-.realm-play svg,.realm-play svg use{fill:#780f24!important;color:#780f24!important}
+.realm-play svg,.realm-play svg use{fill:#fff!important;color:#fff!important}
 .artist-spotlight-card img{border-radius:50%}
 
 /* Requested opacity increase: denser neutral surfaces with original optics above them. */
@@ -99,15 +99,15 @@ body svg.ph-icon,body svg.ph-icon use{fill:currentColor}
 .mobile-dock{background:#f4f0e8d1!important}
 
 /* Dense neutral body; optical rim and white glints remain independently visible. */
-.nav-quote .button-arrow,.button .button-arrow,.mobile-dock a[aria-current=page]{background:linear-gradient(145deg,#780f24,#a6192e)}
+.nav-quote .button-arrow,.button .button-arrow{background:#EF2B4B}.mobile-dock a[aria-current=page]{background:#111114}
 .glass-field,.reach-evidence[open],.film-modal,.film-modal:hover{background:#f4f0e8d6!important}
-@media(prefers-reduced-transparency:reduce),(prefers-contrast:more){.glass,.glass-panel,.hero .glass-panel,.hero-magic .hero-actions .button,.site-header .site-menu.glass-panel,.music-player.music-player-complete,.music-player.music-player-complete:hover,.music-controls-dialog,.mobile-dock,.glass-field,.reach-evidence[open],.film-modal{background:#f4f0e8!important;color:#111113!important}.glass-optics{display:none!important}.category-button[aria-pressed=true],.creator-source-button[aria-pressed=true],.mobile-dock a[aria-current=page]{background:#780f24!important;color:#fff!important}}
+@media(prefers-reduced-transparency:reduce),(prefers-contrast:more){.glass,.glass-panel,.hero .glass-panel,.hero-magic .hero-actions .button,.site-header .site-menu.glass-panel,.music-player.music-player-complete,.music-player.music-player-complete:hover,.music-controls-dialog,.mobile-dock,.glass-field,.reach-evidence[open],.film-modal{background:#f4f0e8!important;color:#111113!important}.glass-optics{display:none!important}.category-button[aria-pressed=true],.creator-source-button[aria-pressed=true],.mobile-dock a[aria-current=page]{background:#111114!important;color:#fff!important}}
 
 /* Mind’s Eye collections display one panel at a time. */
 #minds-eye .creator-library[hidden]{display:none!important}
-.mind-quick-nav [aria-selected=true]{background:#780f24;color:#fff!important;box-shadow:inset 0 1px 0 #ffffff40,0 8px 24px #11111320}
+.mind-quick-nav [aria-selected=true]{background:#111114;color:#fff!important;box-shadow:inset 0 1px 0 #ffffff40,0 8px 24px #11111320}
 .mind-quick-nav [aria-selected=true]>.glass-optics{display:none}
-#minds-eye .creator-source-button[aria-pressed=true]{background:#780f24!important;color:#fff!important}
+#minds-eye .creator-source-button[aria-pressed=true]{background:#111114!important;color:#fff!important}
 
 #minds-eye .creator-cover-tile,#minds-eye .creator-episode{color:#111113}
 #wisdom-library .creator-panel{grid-template-columns:1fr}
