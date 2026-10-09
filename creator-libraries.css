@@ -1,5 +1,5 @@
 /* The Mind’s Eye: visible creator libraries, built on the existing media surfaces. */
-.creator-libraries-page{--creator-ink:#111114;--creator-secondary:#111114;--creator-line:#fbe9ed2c;color:var(--creator-ink)}.creator-libraries-page :is(.creator-library,.creator-panel,.creator-library-heading,.creator-music-surface,.podcast-library-surface,.creator-artists){min-width:0}
+.creator-libraries-page{--creator-ink:#111114;--creator-secondary:#111114;--creator-line:#11111417;color:var(--creator-ink)}.creator-libraries-page :is(.creator-library,.creator-panel,.creator-library-heading,.creator-music-surface,.podcast-library-surface,.creator-artists){min-width:0}
 .creator-libraries-page .creator-library{margin-top:72px;scroll-margin-top:125px}
 .creator-libraries-page .creator-library:first-of-type{margin-top:0}
 .creator-libraries-page :is(p,button,input,label,small,.creator-credit){font-size:18px}
@@ -57,11 +57,11 @@
 .creator-libraries-page .creator-episode-list{list-style:none;padding:0;margin:0}
 .creator-libraries-page .creator-episode-list>li{border-bottom:1px solid #11111420;min-width:0}
 .creator-libraries-page .creator-episode{width:100%;display:grid;grid-template-columns:64px minmax(0,1fr) 48px;align-items:center;gap:17px;padding:20px 6px;text-align:left;background:transparent;border:0;border-radius:16px;color:#111114;cursor:pointer}
-.creator-libraries-page .creator-episode:hover,.creator-libraries-page .creator-episode[aria-current=true]{background:#fbe9ed0b}.creator-libraries-page .creator-episode>img{width:64px;height:64px;object-fit:cover;border-radius:13px;display:block}
+.creator-libraries-page .creator-episode:hover,.creator-libraries-page .creator-episode[aria-current=true]{background:rgba(17,17,20,.05)}.creator-libraries-page .creator-episode>img{width:64px;height:64px;object-fit:cover;border-radius:13px;display:block}
 .creator-libraries-page .creator-episode-copy{min-width:0;display:flex;flex-direction:column;gap:8px}
 .creator-libraries-page .creator-episode-copy strong{font-size:20px;line-height:1.4;font-weight:550;overflow-wrap:anywhere}
 .creator-libraries-page .creator-episode-copy>span{font-size:18px;line-height:1.45;color:var(--creator-secondary)}
-.creator-libraries-page .creator-episode-play{display:grid;place-items:center;border-radius:50%;width:46px;height:46px;border:1px solid #11111450;background:#fbe9ed0b}.creator-libraries-page .creator-episode-play svg{width:24px;height:24px}
+.creator-libraries-page .creator-episode-play{display:grid;place-items:center;border-radius:50%;width:46px;height:46px;border:1px solid #11111450;background:rgba(17,17,20,.05)}.creator-libraries-page .creator-episode-play svg{width:24px;height:24px}
 .creator-libraries-page .creator-music-heading{display:grid;grid-template-columns:1fr 1fr;gap:50px;align-items:end;margin-bottom:28px}
 .creator-libraries-page .creator-music-heading .ph-prominent{margin-bottom:18px}
 .creator-libraries-page .creator-music-heading .eyebrow{margin-bottom:18px;letter-spacing:.05em;line-height:1.5}
@@ -154,7 +154,7 @@
   scrollbar-width:thin;scrollbar-color:#11111480 #11111408;
 }
 .creator-libraries-page #rea-carousel::-webkit-scrollbar{height:7px}
-.creator-libraries-page #rea-carousel::-webkit-scrollbar-thumb{background:#fbe9ed80;border-radius:8px}
+.creator-libraries-page #rea-carousel::-webkit-scrollbar-thumb{background:#d9d3c8;border-radius:8px}
 .creator-libraries-page #rea-carousel::-webkit-scrollbar-track{background:#ffffff08;border-radius:8px}
 .creator-libraries-page #rea-carousel .creator-film-card{
   flex:0 0 470px;min-width:0;padding:8px 8px 0;border-radius:28px;
@@ -215,7 +215,7 @@
 .creator-libraries-page .creator-native-controls{display:flex;align-items:center;flex-wrap:wrap;gap:20px;padding:0 30px 22px}
 .creator-libraries-page .creator-source-picker{display:flex;flex-wrap:wrap;gap:10px;width:100%}
 .creator-libraries-page .creator-source-button{font:inherit;font-size:18px;font-weight:550;line-height:1.35;padding:12px 18px;min-height:50px;border:1px solid #11111440;border-radius:25px;color:#111114;background:#edeae31c;cursor:pointer}
-.creator-libraries-page .creator-source-button[aria-pressed=true]{background:#fbe9ed22;border-color:#d9d3c8;color:#111114}.creator-libraries-page .creator-source-button:disabled{opacity:.55;cursor:default}
+.creator-libraries-page .creator-source-button[aria-pressed=true]{background:#111114;border-color:#111114;color:#fff}.creator-libraries-page .creator-source-button:disabled{opacity:.55;cursor:default}
 .creator-libraries-page .creator-native-summary{flex:1 1 300px;margin:0;font-size:18px;line-height:1.6;color:var(--creator-secondary)}
 .creator-libraries-page .creator-native-controls>.button{min-height:54px}
 .creator-libraries-page .creator-selected-profile{display:flex;gap:26px;align-items:center;min-width:0;flex-basis:100%}
@@ -229,8 +229,8 @@
 .creator-libraries-page .creator-native-tracks{list-style:none;padding:0;margin:0;min-width:0}
 .creator-libraries-page .creator-native-tracks>li{margin:0;border-top:1px solid #11111420}
 .creator-libraries-page .creator-native-track{display:grid;grid-template-columns:56px minmax(0,1fr) auto;align-items:center;gap:18px;width:100%;min-height:92px;border:0;border-radius:12px;padding:15px 12px;text-align:left;background:transparent;color:#111114;font:inherit;cursor:pointer}
-.creator-libraries-page .creator-native-track:hover{background:#fbe9ed0d}
-.creator-libraries-page .creator-native-track[aria-current=true]{background:#fbe9ed19;box-shadow:inset 3px 0 #1111142e}.creator-libraries-page .creator-native-track>img{width:56px;height:56px;object-fit:cover;border-radius:9px}
+.creator-libraries-page .creator-native-track:hover{background:rgba(17,17,20,.04)}
+.creator-libraries-page .creator-native-track[aria-current=true]{background:rgba(17,17,20,.06);box-shadow:inset 3px 0 #1111142e}.creator-libraries-page .creator-native-track>img{width:56px;height:56px;object-fit:cover;border-radius:9px}
 .creator-libraries-page .creator-native-track-copy{min-width:0;display:flex;flex-direction:column;gap:4px;line-height:1.45;overflow-wrap:anywhere}
 .creator-libraries-page .creator-native-track-copy strong{font-size:20px;font-weight:550}
 .creator-libraries-page .creator-native-track-copy>span,.creator-libraries-page .creator-native-track-duration{font-size:18px;line-height:1.45;color:var(--creator-secondary)}
@@ -290,3 +290,6 @@ html.lg-refract .creator-libraries-page .creator-panel{backdrop-filter:url(#lg-c
 .creator-libraries-page .creator-film-card .button.glass,
 .creator-libraries-page .creator-film-card .button.glass::before,
 .creator-libraries-page .creator-film-card .button.glass::after{backdrop-filter:none!important;-webkit-backdrop-filter:none!important}
+
+/* Selected and listen actions inside creator glass panels use ink, never red or burgundy. */
+.creator-libraries-page [data-play-artist-release]{background:#111114!important;color:#fff!important;border-color:transparent}
