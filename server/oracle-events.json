@@ -127,7 +127,7 @@
   "title": "The Gala Night",
   "date": "OCTOBER 16",
   "headliners": "",
-  "venue": "Orlando, Women’s Professional Network gala",
+  "venue": "Orlando, Women\u2019s Professional Network gala",
   "categories": [
    "Business",
    "Nightlife"
@@ -145,7 +145,7 @@
   "title": "The Work Between Conference and Gala",
   "date": "OCTOBER 16",
   "headliners": "",
-  "venue": "Orlando, Women’s Professional Network conference and gala",
+  "venue": "Orlando, Women\u2019s Professional Network conference and gala",
   "categories": [
    "Business"
   ],
@@ -762,9 +762,9 @@
  },
  {
   "section": "THIS WEEK",
-  "title": "Arcángel",
+  "title": "Arc\u00e1ngel",
   "date": "OCTOBER 11, 8 PM",
-  "headliners": "Arcángel",
+  "headliners": "Arc\u00e1ngel",
   "venue": "Kaseya Center, Miami",
   "categories": [
    "Music"
@@ -773,7 +773,7 @@
   "detailsUrl": "https://nightout.com/events/v/arcangel-kaseya-center-miami-2026-10-11/tickets",
   "flyerUrl": "https://www.kaseyacenter.com/news/detail/arcangel-announces-his-la-8va-maravilla-world-tour-20-aniversario-coming-to-kaseya-center",
   "image": "/events/flyer/87-arcangel.jpg",
-  "alt": "Arcángel live flyer, Kaseya Center Miami",
+  "alt": "Arc\u00e1ngel live flyer, Kaseya Center Miami",
   "imageKey": "event-flyers/87-arcangel.jpg",
   "endDate": "2026-10-11"
  },
@@ -833,7 +833,7 @@
  },
  {
   "section": "THIS WEEK",
-  "title": "KREYOL FÊTE: MIAMI CARNIVAL",
+  "title": "KREYOL F\u00caTE: MIAMI CARNIVAL",
   "date": "OCTOBER 8, 9 PM",
   "headliners": "Soca Pump x SoFlo Events",
   "venue": "Kalalou Fort Lauderdale, Tamarac",
@@ -1188,9 +1188,9 @@
  },
  {
   "section": "NOVEMBER",
-  "title": "Victoria Monét: Frequency Of Love Tour, Fort Lauderdale",
+  "title": "Victoria Mon\u00e9t: Frequency Of Love Tour, Fort Lauderdale",
   "date": "NOVEMBER 7, 8 PM",
-  "headliners": "Victoria Monét",
+  "headliners": "Victoria Mon\u00e9t",
   "venue": "War Memorial Auditorium, Fort Lauderdale",
   "categories": [
    "Music",
@@ -1200,15 +1200,15 @@
   "detailsUrl": "https://www.victoriamonet.co",
   "flyerUrl": "https://www.victoriamonet.co",
   "image": "/events/flyer/108-victoria-monet.jpg",
-  "alt": "Victoria Monét flyer, War Memorial Auditorium Fort Lauderdale",
+  "alt": "Victoria Mon\u00e9t flyer, War Memorial Auditorium Fort Lauderdale",
   "imageKey": "event-flyers/108-victoria-monet.jpg",
   "endDate": "2026-11-07"
  },
  {
   "section": "NOVEMBER",
-  "title": "Victoria Monét: Frequency Of Love Tour, Tampa",
+  "title": "Victoria Mon\u00e9t: Frequency Of Love Tour, Tampa",
   "date": "NOVEMBER 8",
-  "headliners": "Victoria Monét",
+  "headliners": "Victoria Mon\u00e9t",
   "venue": "Yuengling Center, Tampa",
   "categories": [
    "Music",
@@ -1218,7 +1218,7 @@
   "detailsUrl": "https://www.victoriamonet.co",
   "flyerUrl": "https://www.victoriamonet.co",
   "image": "/events/flyer/108-victoria-monet.jpg",
-  "alt": "Victoria Monét flyer, Yuengling Center Tampa",
+  "alt": "Victoria Mon\u00e9t flyer, Yuengling Center Tampa",
   "imageKey": "event-flyers/108-victoria-monet.jpg",
   "endDate": "2026-11-08"
  },
@@ -1845,7 +1845,7 @@
   "section": "NOVEMBER",
   "title": "Welcome to Jamrock Reggae Cruise",
   "date": "NOVEMBER 11 TO 16",
-  "headliners": "Damian Marley, Stephen Marley, Burning Spear, Sizzla, Capleton, Beenie Man, Protoje, Barrington Levy, Elephant Man, Junior Reid, Lila Iké",
+  "headliners": "Damian Marley, Stephen Marley, Burning Spear, Sizzla, Capleton, Beenie Man, Protoje, Barrington Levy, Elephant Man, Junior Reid, Lila Ik\u00e9",
   "venue": "Norwegian Joy, Miami",
   "categories": [
    "Music",
@@ -2829,5 +2829,192 @@
   "alt": "Top Chef Competition flyer, Town Square University Parkway, Sarasota",
   "imageKey": "event-flyers/183-top-chef-competition-sarasota.jpg",
   "endDate": "2026-11-07"
+ },
+ {
+  "section": "LATER IN OCTOBER",
+  "title": "sombr: You Are The Reason Tour, Sunrise",
+  "date": "OCTOBER 24, 7 PM",
+  "headliners": "sombr, The Last Dinner Party, The Hellp",
+  "venue": "Amerant Bank Arena, Sunrise",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.amerantbankarena.com/events/detail/sombr-2026",
+  "flyerUrl": "https://images.bubbleup.com/vipnation/1-default/2-vipnationcom/static_vip_1280x1280_sombr_2026_national_1775762608.jpg",
+  "image": "/events/flyer/184-sombr-you-are-the-reason-tour.jpg",
+  "alt": "sombr You Are The Reason Tour flyer",
+  "imageKey": "event-flyers/184-sombr-you-are-the-reason-tour.jpg",
+  "endDate": "2026-10-24"
+ },
+ {
+  "section": "LATER IN OCTOBER",
+  "title": "sombr: You Are The Reason Tour, Orlando",
+  "date": "OCTOBER 25, 7 PM",
+  "headliners": "sombr, The Last Dinner Party, The Hellp",
+  "venue": "Kia Center, Orlando",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.kiacenter.com/events/detail/sombr-2026",
+  "flyerUrl": "https://images.bubbleup.com/vipnation/1-default/2-vipnationcom/static_vip_1280x1280_sombr_2026_national_1775762608.jpg",
+  "image": "/events/flyer/184-sombr-you-are-the-reason-tour.jpg",
+  "alt": "sombr You Are The Reason Tour flyer, Kia Center Orlando",
+  "imageKey": "event-flyers/184-sombr-you-are-the-reason-tour.jpg",
+  "endDate": "2026-10-25"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "UB40: The Unstoppable Tour, Orlando",
+  "date": "NOVEMBER 13, 8 PM",
+  "headliners": "UB40",
+  "venue": "Hard Rock Live Orlando, Orlando",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/ub40-tickets/artist/736366",
+  "flyerUrl": "https://casino.hardrock.com/hollywood/events/ub40",
+  "image": "/events/flyer/186-ub40-unstoppable-tour.jpg",
+  "alt": "UB40 The Unstoppable Tour flyer, Hard Rock Live Orlando",
+  "imageKey": "event-flyers/186-ub40-unstoppable-tour.jpg",
+  "endDate": "2026-11-13"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "UB40: The Unstoppable Tour, Hollywood",
+  "date": "NOVEMBER 15, 7 PM",
+  "headliners": "UB40",
+  "venue": "Hard Rock Live, Hollywood",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://casino.hardrock.com/hollywood/events/ub40",
+  "flyerUrl": "https://casino.hardrock.com/hollywood/events/ub40",
+  "image": "/events/flyer/186-ub40-unstoppable-tour.jpg",
+  "alt": "UB40 The Unstoppable Tour flyer, Hard Rock Live Hollywood",
+  "imageKey": "event-flyers/186-ub40-unstoppable-tour.jpg",
+  "endDate": "2026-11-15"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "STING 3.0 Tour, Orlando",
+  "date": "NOVEMBER 24, 8 PM",
+  "headliners": "Sting, Chance Emerson",
+  "venue": "Hard Rock Live Orlando, Orlando",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://entertainment.hardrock.com/events/sting",
+  "flyerUrl": "https://images.bubbleup.com/vipnation/1-default/2-vipnationcom/static_vip_1280x720_sting_2026_national_1772224604.jpg",
+  "image": "/events/flyer/185-sting-3-0-tour.jpg",
+  "alt": "STING 3.0 Tour flyer, Hard Rock Live Orlando",
+  "imageKey": "event-flyers/185-sting-3-0-tour.jpg",
+  "endDate": "2026-11-24"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "STING 3.0 Tour, Hollywood",
+  "date": "NOVEMBER 25, 8 PM",
+  "headliners": "Sting, Chance Emerson",
+  "venue": "Hard Rock Live, Hollywood",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://casino.hardrock.com/vi/hollywood/events/sting",
+  "flyerUrl": "https://images.bubbleup.com/vipnation/1-default/2-vipnationcom/static_vip_1280x720_sting_2026_national_1772224604.jpg",
+  "image": "/events/flyer/185-sting-3-0-tour.jpg",
+  "alt": "STING 3.0 Tour flyer, Hard Rock Live Hollywood",
+  "imageKey": "event-flyers/185-sting-3-0-tour.jpg",
+  "endDate": "2026-11-25"
+ },
+ {
+  "section": "NEXT WEEK",
+  "title": "Journey: Final Frontier Tour, Sunrise",
+  "date": "OCTOBER 16, 7:30 PM",
+  "headliners": "Journey",
+  "venue": "Amerant Bank Arena, Sunrise",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.amerantbankarena.com/events/detail/journey-2026",
+  "flyerUrl": "https://www.kiacenter.com/assets/img/Journey_EventImage_840x500-9113d93392.png",
+  "image": "/events/flyer/187-journey-final-frontier-tour.jpg",
+  "alt": "Journey Final Frontier Tour flyer, Amerant Bank Arena Sunrise",
+  "imageKey": "event-flyers/187-journey-final-frontier-tour.jpg",
+  "endDate": "2026-10-16"
+ },
+ {
+  "section": "NEXT WEEK",
+  "title": "Journey: Final Frontier Tour, Orlando",
+  "date": "OCTOBER 17, 7:30 PM",
+  "headliners": "Journey",
+  "venue": "Kia Center, Orlando",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.kiacenter.com/events/detail/journey-2026",
+  "flyerUrl": "https://www.kiacenter.com/assets/img/Journey_EventImage_840x500-9113d93392.png",
+  "image": "/events/flyer/187-journey-final-frontier-tour.jpg",
+  "alt": "Journey Final Frontier Tour flyer, Kia Center Orlando",
+  "imageKey": "event-flyers/187-journey-final-frontier-tour.jpg",
+  "endDate": "2026-10-17"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Silvestre Dangond: El Baile de Todos, Hollywood",
+  "date": "DECEMBER 5, 8 PM",
+  "headliners": "Silvestre Dangond",
+  "venue": "Hard Rock Live, Hollywood",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/silvestre-dangond-tickets/artist/1494861",
+  "flyerUrl": "https://casino.hardrock.com/hollywood/events/silvestre-dangond",
+  "image": "/events/flyer/188-silvestre-dangond-el-baile-de-todos.jpg",
+  "alt": "Silvestre Dangond El Baile de Todos flyer, Hard Rock Live Hollywood",
+  "imageKey": "event-flyers/188-silvestre-dangond-el-baile-de-todos.jpg",
+  "endDate": "2026-12-05"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Silvestre Dangond: El Baile de Todos, Tampa",
+  "date": "DECEMBER 6, 8 PM",
+  "headliners": "Silvestre Dangond",
+  "venue": "Yuengling Center, Tampa",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/silvestre-dangond-tickets/artist/1494861",
+  "flyerUrl": "https://casino.hardrock.com/hollywood/events/silvestre-dangond",
+  "image": "/events/flyer/188-silvestre-dangond-el-baile-de-todos.jpg",
+  "alt": "Silvestre Dangond El Baile de Todos flyer, Yuengling Center Tampa",
+  "imageKey": "event-flyers/188-silvestre-dangond-el-baile-de-todos.jpg",
+  "endDate": "2026-12-06"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Menudo 50th Anniversary Tour",
+  "date": "DECEMBER 4, 8 PM",
+  "headliners": "Menudo",
+  "venue": "Hard Rock Live, Hollywood",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://casino.hardrock.com/hollywood/events/menudo",
+  "flyerUrl": "https://casino.hardrock.com/hollywood/events/menudo",
+  "image": "/events/flyer/189-menudo-50th-anniversary-tour.jpg",
+  "alt": "Menudo 50th Anniversary Tour flyer, Hard Rock Live Hollywood",
+  "imageKey": "event-flyers/189-menudo-50th-anniversary-tour.jpg",
+  "endDate": "2026-12-04"
  }
 ]
