@@ -2003,5 +2003,23 @@
     "alt": "Feral Friends Showdown live painting competition flyer, Cove Brewery, Deerfield Beach",
     "imageKey": "event-flyers/139-feral-friends-showdown-deerfield-beach.jpg",
     "endDate": "2026-10-23"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Elderbrook DJ Set at Tempo Daylife Pool Party",
+    "date": "NOVEMBER 15, 11 AM",
+    "headliners": "Elderbrook",
+    "venue": "Tempo Daylife, Seminole Hard Rock Hotel and Casino Tampa",
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://casino.hardrock.com/tampa/events/elderbrook",
+    "flyerUrl": "https://casino.hardrock.com/tampa/events/elderbrook",
+    "image": "/events/flyer/140-elderbrook-tempo-daylife-tampa.jpg",
+    "alt": "Elderbrook DJ set flyer, Tempo Daylife Tampa",
+    "imageKey": "event-flyers/140-elderbrook-tempo-daylife-tampa.jpg",
+    "endDate": "2026-11-15"
   }
 ]
