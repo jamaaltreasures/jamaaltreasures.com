@@ -116,3 +116,11 @@ body{isolation:isolate}.site-atmosphere{position:fixed;inset:0;z-index:-1;pointe
 .headline-film-footer label{flex-direction:row;font-size:18px;white-space:nowrap}
 #realm-quality{width:auto}
 @media(min-width:1051px){.hero-with-film .hero-reach{bottom:35px;right:7%;flex-direction:row;align-items:center;gap:18px;max-width:280px}.hero-with-film .hero-reach strong{font-size:64px}.hero-with-film .hero-reach span{max-width:160px}}
+
+/* Phase 4 icon layer: inline SVG icons replace the old text glyph icons.
+   One sizing rule serves every context because each surface already sets
+   its own font size (the 29px button circle runs at 20px, the icon
+   buttons at theirs). The play mark inside the 55px preview circle gets
+   an explicit 20px so it matches the old glyph weight. */
+.icon-glyph{width:1em;height:1em;display:inline-block;vertical-align:-.12em;flex:none}
+.preview-play-icon .icon-glyph{width:20px;height:20px}
