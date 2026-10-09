@@ -1,3 +1,12 @@
+/* Gating fix for the liquid glass displacement path. A script set class is
+   the only safe switch: the root element gains the lg-refract class only
+   where navigator.userAgentData exists, which is Chromium browsers. A
+   supports query cannot be trusted for this gate, because Safari answers
+   it as if the url form were supported and then paints nothing, so a query
+   gate would strip the frost from the very browsers that need it. Every
+   other engine keeps the default frosted system with its baked frames. */
+(()=>{try{if(navigator.userAgentData)document.documentElement.classList.add('lg-refract');}catch(err){}})();
+
 /* Aligned background sampling with a rounded lens and separate RGB rays.
    Owned image/canvas sources only. Arbitrary DOM and cross-origin video retain the live frost fallback. */
 (() => {
@@ -43,8 +52,7 @@
    const fade=edgeOnly?Math.max(0,Math.min(1,(22-depth)/14)):1;pixels.data[i+3]=255*Math.min(1,depth)*fade*fade*(3-2*fade);
   }
   ctx.putImageData(pixels,0,0);entry.canvas.hidden=false;entry.element.classList.add('has-optics');
-  if(!edgeOnly&&entry.element.matches('.nav-quote,.hero-actions .button')){let sum=0,count=0;for(let y=Math.round(map.height*.37);y<map.height*.65;y+=3)for(let x=Math.round(map.width*.1);x<map.width*.7;x+=3){const i=(y*map.width+x)*4;sum+=pixels.data[i]*.2126+pixels.data[i+1]*.7152+pixels.data[i+2]*.0722;count++;}const threshold=entry.element.dataset.ink==='dark'?130:155;const dark=sum/count>threshold;entry.element.dataset.ink=dark?'dark':'light';entry.element.style.setProperty('--glass-label-color',dark?'#111113':'#fff');}
-  stats.renders++;stats.elementRenders ||= {};const name=entry.element.id||entry.element.className.split(' ').slice(0,2).join('.');stats.elementRenders[name]=(stats.elementRenders[name]||0)+1;stats.lastMs=performance.now()-start;stats.maxMs=Math.max(stats.maxMs,stats.lastMs);
+  if(!edgeOnly&&entry.element.matches('.nav-quote,.hero-actions .button')){let sum=0,count=0;for(let y=Math.round(map.height*.37);y<map.height*.65;y+=3)for(let x=Math.round(map.width*.1);x<map.width*.7;x+=3){const i=(y*map.width+x)*4;sum+=pixels.data[i]*.2126+pixels.data[i+1]*.7152+pixels.data[i+2]*.0722;count++;}const threshold=entry.element.dataset.ink==='dark'?130:155;const dark=sum/count>threshold;entry.element.dataset.ink=dark?'dark':'light';entry.element.style.setProperty('--glass-label-color',dark?'#111114':'#fff');}  stats.renders++;stats.elementRenders ||= {};const name=entry.element.id||entry.element.className.split(' ').slice(0,2).join('.');stats.elementRenders[name]=(stats.elementRenders[name]||0)+1;stats.lastMs=performance.now()-start;stats.maxMs=Math.max(stats.maxMs,stats.lastMs);
  }
  function renderAll(){queued=false;if(document.hidden)return;const t=performance.now();for(let i=entries.length-1;i>=0;i--){const entry=entries[i];if(!entry.element.isConnected){entry.resize.disconnect();entries.splice(i,1);}else render(entry);}stats.batchMs=performance.now()-t;stats.maxBatchMs=Math.max(stats.maxBatchMs||0,stats.batchMs);}
  function schedule(){if(!queued){queued=true;requestAnimationFrame(renderAll);}}
@@ -76,8 +84,7 @@
   // A source-owned review image is safe to sample. Text and third-party players keep live frost.
   const image=[...document.querySelectorAll('.review-image img')].find(i=>{const b=i.getBoundingClientRect();return i.complete&&i.naturalWidth&&rect.top>=b.top&&rect.bottom<=b.bottom;});if(!image)return null;
   const b=image.getBoundingClientRect(),figure=image.closest('figure'),f=figure.getBoundingClientRect(),top=rect.top-16,w=innerWidth,h=Math.ceil(rect.height+32),key=[image.currentSrc,b.x,b.y,b.width,b.height,f.x,f.y,f.width,f.height,top,w,h].join(':');
-  if(!reviewCache||reviewCache.key!==key){const canvas=document.createElement('canvas');canvas.width=w;canvas.height=h;const c=canvas.getContext('2d',{willReadFrequently:true});c.fillStyle='#f4f0e8';c.fillRect(0,0,w,h);c.fillStyle=getComputedStyle(figure).backgroundColor;c.beginPath();c.roundRect(f.x,f.y-top,f.width,f.height,parseFloat(getComputedStyle(figure).borderRadius));c.fill();c.save();c.beginPath();c.roundRect(b.x,b.y-top,b.width,b.height,parseFloat(getComputedStyle(image.parentElement).borderRadius));c.clip();c.drawImage(image,b.x,b.y-top,b.width,b.height);c.restore();reviewCache={key,width:w,height:h,data:c.getImageData(0,0,w,h).data,version:key};}
-  return {...reviewCache,left:0,top};
+  if(!reviewCache||reviewCache.key!==key){const canvas=document.createElement('canvas');canvas.width=w;canvas.height=h;const c=canvas.getContext('2d',{willReadFrequently:true});c.fillStyle='#FAF7F2';c.fillRect(0,0,w,h);c.fillStyle=getComputedStyle(figure).backgroundColor;c.beginPath();c.roundRect(f.x,f.y-top,f.width,f.height,parseFloat(getComputedStyle(figure).borderRadius));c.fill();c.save();c.beginPath();c.roundRect(b.x,b.y-top,b.width,b.height,parseFloat(getComputedStyle(image.parentElement).borderRadius));c.clip();c.drawImage(image,b.x,b.y-top,b.width,b.height);c.restore();reviewCache={key,width:w,height:h,data:c.getImageData(0,0,w,h).data,version:key};}  return {...reviewCache,left:0,top};
  }
  function atmosphereSource(){
   const img=document.querySelector('.atmosphere-image');if(!img?.complete||!img.naturalWidth)return null;
@@ -97,4 +104,9 @@
  document.fonts?.ready.then(schedule);
 })();
 /* Slow shared scene drift. Controls remain fixed; source and lens share the exact offset. */
-(()=>{const hero=document.querySelector('.hero');if(!hero)return;const pref=matchMedia('(prefers-reduced-motion: reduce)');let visible=true,phase=0;new IntersectionObserver(e=>visible=e[0].isIntersecting).observe(hero);function draw(){const x=Math.sin(phase)*22,y=Math.cos(phase*.7)*10;hero.style.setProperty('--nebula-x',x.toFixed(2)+'px');hero.style.setProperty('--nebula-y',y.toFixed(2)+'px');JTGlassOptics.schedule()}window.JTNebula={setPhase(value){phase=value;draw()},pause:false};pref.addEventListener('change',()=>{if(pref.matches){phase=0;hero.style.setProperty('--nebula-x','0px');hero.style.setProperty('--nebula-y','0px');JTGlassOptics.schedule()}});setInterval(()=>{if(visible&&!document.hidden&&!pref.matches&&!window.JTNebula.pause&&!document.querySelector('dialog[open]')){phase+=.0195;draw()}},150)})();
+(()=>{const hero=document.querySelector('.hero');if(!hero)return;const pref=matchMedia('(prefers-reduced-motion: reduce)');let visible=true,phase=0;new IntersectionObserver(e=>visible=e[0].isIntersecting).observe(hero);function draw(){const x=Math.sin(phase)*22,y=Math.cos(phase*.7)*10;hero.style.setProperty('--drift-x',x.toFixed(2)+'px');hero.style.setProperty('--drift-y',y.toFixed(2)+'px');JTGlassOptics.schedule()}window.JTSceneDrift={setPhase(value){phase=value;draw()},pause:false};pref.addEventListener('change',()=>{if(pref.matches){phase=0;hero.style.setProperty('--drift-x','0px');hero.style.setProperty('--drift-y','0px');JTGlassOptics.schedule()}});setInterval(()=>{if(visible&&!document.hidden&&!pref.matches&&!window.JTSceneDrift.pause&&!document.querySelector('dialog[open]')){phase+=.0195;draw()}},150)})();
+
+/* Phase 3 living light: one passive scroll listener drives a single CSS
+   variable, --sheen-pos, so the specular sheen on frosted and baked glass
+   drifts as the page moves. Static under prefers-reduced-motion. */
+(()=>{const root=document.documentElement;const pref=matchMedia('(prefers-reduced-motion: reduce)');let ticking=false;function update(){ticking=false;const max=Math.max(1,root.scrollHeight-innerHeight);const p=Math.min(1,Math.max(0,scrollY/max));root.style.setProperty('--sheen-pos',(8+p*84).toFixed(1)+'%');}function onScroll(){if(!ticking){ticking=true;requestAnimationFrame(update);}}if(pref.matches){root.style.setProperty('--sheen-pos','30%');}else{update();addEventListener('scroll',onScroll,{passive:true});addEventListener('resize',onScroll,{passive:true});}})();
