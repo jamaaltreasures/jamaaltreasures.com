@@ -1,5 +1,391 @@
 [
  {
+  "category": "ai-filmmaking",
+  "cta": {
+   "currency": "USD",
+   "label": "Get an AI UGC Ad",
+   "price": 300,
+   "serviceId": "ai-ugc-ad"
+  },
+  "excerpt": "Google just opened its SynthID Detector to everyone. Anyone can now scan a photo, a video, or an audio clip and check whether AI made it. Here is what that means for creators who publish AI work.",
+  "format": "explainer",
+  "image": {
+   "alt": "Smartphone scanning a video frame with a glowing lens revealing a hidden watermark pattern, purple and magenta accents",
+   "credit": "Jamaal Treasures editorial",
+   "kind": "photo",
+   "sourceUrl": "https://jamaaltreasures.com/blog/synthid-detector-ai-content-creators",
+   "src": "/assets/editorial/synthid-detector-hero.webp",
+   "subject": "SynthID Detector scanning AI content"
+  },
+  "kind": "guide",
+  "nextClick": {
+   "label": "Read The Rundown AI",
+   "url": "https://www.therundown.ai"
+  },
+  "publishedAt": "2026-10-09T04:52:00.000Z",
+  "readingMinutes": 4,
+  "relatedServiceIds": [
+   "ai-ugc-ad",
+   "brand-film"
+  ],
+  "sections": [
+   {
+    "heading": "What Google just shipped",
+    "image": {
+     "alt": "A photo tile, a video frame, and an audio waveform being checked by a glowing scanner beam",
+     "caption": "One detector now checks images, video, and audio.",
+     "src": "/assets/editorial/synthid-detector-ai-content-creators-inline-1.webp"
+    },
+    "paragraphs": [
+     "The Rundown AI reported this week that Google has rolled its SynthID Detector out worldwide. The tool lets anyone scan images, video, and audio for the invisible watermarks that AI generators leave behind, including watermarks from partners like OpenAI, Nvidia, and Kakao.",
+     "Until now, provenance checks lived mostly inside platforms and labs. Now the check is public. A client, a brand, a festival judge, or a competitor can run your content through a detector before they ever talk to you."
+    ],
+    "sourceRefs": [
+     "rundown-synthid"
+    ]
+   },
+   {
+    "heading": "Why this matters more than you think",
+    "paragraphs": [
+     "AI content is not the problem. Undisclosed AI content is. Brands are writing AI clauses into contracts, platforms are labeling synthetic media, and audiences are getting sharper about spotting it. The creators who get hurt are the ones who pretend.",
+     "There is also a flip side nobody talks about. A detector protects honest creators too. When your filmed work gets accused of being AI, or your AI work gets accused of being stolen footage, a watermark trail and a clean paper trail settle the argument fast."
+    ]
+   },
+   {
+    "heading": "What I am doing about it",
+    "image": {
+     "alt": "Video creator at a desk reviewing footage on a monitor with a transparency checklist beside the keyboard",
+     "caption": "Disclosure is a workflow step now, not an afterthought.",
+     "src": "/assets/editorial/synthid-detector-ai-content-creators-inline-2.webp"
+    },
+    "paragraphs": [
+     "My rule on every AI assisted deliverable is simple: label it, document it, and keep the project files. When a client buys an AI film or an AI reel from me, they know exactly what was generated, what was filmed, and what was edited by hand. That clarity is part of the product.",
+     "If you publish AI video, build the same habit. Save your prompts and project files. Note which shots are generated. Tell the client up front. The detector era rewards the creators who were honest before anyone checked."
+    ],
+    "sourceRefs": [
+     "elevenlabs-internal"
+    ]
+   },
+   {
+    "heading": "Your move",
+    "paragraphs": [
+     "Assume everything you publish can be scanned, because now it can. Run your own content through the detector before a client does. Keep your source files organized. And put your disclosure in writing, in the contract and in the caption, so nobody has to guess.",
+     "Transparency is about to become a selling point. The creators who treat it that way will win the brand deals everyone else loses."
+    ]
+   }
+  ],
+  "seoDescription": "Google's SynthID Detector is now open to everyone, scanning images, video, and audio for AI watermarks. What Florida creators and brands should do next.",
+  "serviceId": "ai-ugc-ad",
+  "slug": "synthid-detector-ai-content-creators",
+  "sources": [
+   {
+    "id": "rundown-synthid",
+    "title": "The Rundown AI (Oct 8, 2026): Google rolls SynthID Detector out worldwide",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "elevenlabs-internal",
+    "title": "ElevenLabs voiceovers for reels and ads that sound human",
+    "url": "https://jamaaltreasures.com/blog/elevenlabs-voiceover-reels-ads"
+   }
+  ],
+  "title": "Anyone Can Now Scan Your Content for AI Watermarks",
+  "updatedAt": "2026-10-09T04:52:00.000Z"
+ },
+ {
+  "category": "brand-growth",
+  "cta": {
+   "currency": "USD",
+   "label": "Get a business website",
+   "price": 900,
+   "serviceId": "business-website"
+  },
+  "excerpt": "Elon Musk just announced that Grok Bot will send tasks to rival AI models like Claude and Midjourney, picking whichever is most likely to nail the job. The one model era is ending. Here is the creator playbook.",
+  "format": "explainer",
+  "image": {
+   "alt": "AI robot assistant at a control desk routing glowing task cards to three different AI model orbs, purple and magenta accents",
+   "credit": "Jamaal Treasures editorial",
+   "kind": "photo",
+   "sourceUrl": "https://jamaaltreasures.com/blog/grok-bot-routes-best-model-creators",
+   "src": "/assets/editorial/grok-bot-model-routing-hero.webp",
+   "subject": "AI agents routing tasks to the best model"
+  },
+  "kind": "guide",
+  "nextClick": {
+   "label": "Read The Rundown AI",
+   "url": "https://www.therundown.ai"
+  },
+  "publishedAt": "2026-10-09T04:50:00.000Z",
+  "readingMinutes": 4,
+  "relatedServiceIds": [
+   "business-website",
+   "meta-ads"
+  ],
+  "sections": [
+   {
+    "heading": "What Musk actually announced",
+    "image": {
+     "alt": "Switchboard with glowing cables plugging one task stream into several different AI engine machines",
+     "caption": "One assistant in front. Many models behind it.",
+     "src": "/assets/editorial/grok-bot-routes-best-model-creators-inline-1.webp"
+    },
+    "paragraphs": [
+     "The Rundown AI covered the announcement this week: SpaceXAI's Grok Bot agent platform will route tasks to rival models, including Anthropic's Claude for reasoning work and Midjourney for images. Musk's own framing was that it will route to whatever is most likely to give you the best outcome.",
+     "Simple questions will still run on a fast version of Grok. The harder or more specialized work gets handed to whichever outside model or leading API fits the job. Read that again. One of the richest model builders on earth just told his own assistant to use the competition when the competition is better."
+    ],
+    "sourceRefs": [
+     "rundown-grok"
+    ]
+   },
+   {
+    "heading": "Why this is a bigger deal than it looks",
+    "paragraphs": [
+     "For two years, creators have been told to pick a side: one chatbot, one image model, one subscription. Routing kills that loyalty test. The assistant becomes a dispatcher, and the models become specialists competing job by job.",
+     "It also changes what you are paying for. You stop buying a model and start buying outcomes. The person who wins is not the one with the strongest single tool. It is the one who knows which tool fits which job, and can prove it with finished work."
+    ]
+   },
+   {
+    "heading": "The creator version of this play",
+    "image": {
+     "alt": "Creative director pointing at three glowing screens showing a film scene, an image, and a document, choosing the best one",
+     "caption": "Directing models is the job now. Picking one forever is not.",
+     "src": "/assets/editorial/grok-bot-routes-best-model-creators-inline-2.webp"
+    },
+    "paragraphs": [
+     "This is already how I run productions. One model drafts the script pass, another handles the image look, a third cuts the routine work down to size, and a human directs all of it. The Haiku playbook I published this week is the same pattern at a smaller scale: a strong model directs, a fast model executes.",
+     "Build your own routing table. Which model writes your best captions? Which one makes your best images? Which one do you trust with client facing copy? Write it down, test it monthly, and stop apologizing for using more than one tool."
+    ],
+    "sourceRefs": [
+     "haiku-internal"
+    ]
+   },
+   {
+    "heading": "Your move",
+    "paragraphs": [
+     "Audit your stack this week. List every AI task in your business, name the model that does it best today, and mark the ones you have never tested anywhere else. Then test one swap. Routing is not a feature announcement. It is the new default, and the creators who direct the models will beat the creators who marry one."
+    ]
+   }
+  ],
+  "seoDescription": "Grok Bot will route tasks to Claude, Midjourney, and other rival models for the best outcome. Why model routing changes the game for creators and small studios.",
+  "serviceId": "business-website",
+  "slug": "grok-bot-routes-best-model-creators",
+  "sources": [
+   {
+    "id": "rundown-grok",
+    "title": "The Rundown AI (Oct 8, 2026): Grok Bot opens up routing to Claude, other models",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "haiku-internal",
+    "title": "Give the boring work to the cheap model: the Haiku 5.5 playbook",
+    "url": "https://jamaaltreasures.com/blog/haiku-55-routine-work-playbook"
+   }
+  ],
+  "title": "Your AI Assistant Just Became a Model Picker",
+  "updatedAt": "2026-10-09T04:50:00.000Z"
+ },
+ {
+  "category": "brand-growth",
+  "cta": {
+   "currency": "USD",
+   "label": "Get an AI Video Ad",
+   "price": 300,
+   "serviceId": "ai-ugc-ad"
+  },
+  "excerpt": "ElevenLabs showed up in The Rundown AI's trending tools with Architect, an assistant for building and fixing AI support agents. For small businesses drowning in repeat questions, this is the practical one.",
+  "format": "explainer",
+  "image": {
+   "alt": "Friendly AI voice assistant with a headset answering customer chat bubbles, glowing sound waves, purple and magenta accents",
+   "credit": "Jamaal Treasures editorial",
+   "kind": "photo",
+   "sourceUrl": "https://jamaaltreasures.com/blog/elevenlabs-architect-support-agents",
+   "src": "/assets/editorial/elevenlabs-architect-hero.webp",
+   "subject": "ElevenLabs Architect building support agents"
+  },
+  "kind": "guide",
+  "nextClick": {
+   "label": "Try ElevenLabs",
+   "url": "https://try.elevenlabs.io/9tyu1w5rdng0"
+  },
+  "publishedAt": "2026-10-09T04:48:00.000Z",
+  "readingMinutes": 4,
+  "relatedServiceIds": [
+   "ai-ugc-ad",
+   "brand-film"
+  ],
+  "sections": [
+   {
+    "heading": "What Architect is",
+    "image": {
+     "alt": "Small business owner smiling while an AI assistant handles a ringing phone and a stack of customer questions behind her",
+     "caption": "The goal is simple: the repeat questions stop eating your day.",
+     "src": "/assets/editorial/elevenlabs-architect-support-agents-inline-1.webp"
+    },
+    "paragraphs": [
+     "The Rundown AI's trending tools list this week included Architect, ElevenLabs' assistant for building and fixing AI support agents. ElevenLabs built its name on voice, and this is the next step: not just a voice for your videos, but a voice that answers your customers.",
+     "A support agent built this way can take the questions your business gets fifty times a week. Hours, pricing, booking steps, delivery times. It answers in a natural voice, around the clock, and hands off to a human when the conversation actually needs one."
+    ],
+    "sourceRefs": [
+     "rundown-architect"
+    ]
+   },
+   {
+    "heading": "Who this is actually for",
+    "paragraphs": [
+     "Not big companies. They already have support departments. This is for the Florida business owner answering DMs at midnight, the studio losing bookings because nobody replied fast enough, the shop whose phone rings during every job.",
+     "Speed to lead is the whole game in local business. The first business that answers usually gets the booking. An agent that replies in seconds, in a voice that sounds like your brand, closes the gap between you and the bigger competitor down the street."
+    ]
+   },
+   {
+    "heading": "How I would set it up",
+    "image": {
+     "alt": "Voice waveform being shaped by building blocks and a wrench into a helpful robot assistant",
+     "caption": "Build it from your real answers, not from a template.",
+     "src": "/assets/editorial/elevenlabs-architect-support-agents-inline-2.webp"
+    },
+    "paragraphs": [
+     "Start with your twenty most common questions and your real answers, in your words. Feed the agent your pricing, your policies, and your booking link. Then test it like a customer would, including the weird questions, before it ever touches a real lead.",
+     "And keep the quality rule from my slop grenade post taped to the wall: the agent drafts, you direct. Review its conversations weekly, fix the answers that drift, and never let it guess about money or availability."
+    ],
+    "sourceRefs": [
+     "slop-internal"
+    ]
+   },
+   {
+    "heading": "Your move",
+    "paragraphs": [
+     "If repeat questions eat your day, this is worth a weekend test. I use ElevenLabs in my own voiceover workflow, and you can try the platform through my link below. Pair a support agent with clear pricing and a fast booking page, and your business starts answering like a team of five while it is still just you."
+    ]
+   }
+  ],
+  "seoDescription": "ElevenLabs Architect helps build and fix AI support agents. How Florida small businesses can answer leads in seconds with a branded AI voice.",
+  "serviceId": "ai-ugc-ad",
+  "slug": "elevenlabs-architect-support-agents",
+  "sources": [
+   {
+    "id": "rundown-architect",
+    "title": "The Rundown AI (Oct 8, 2026), Trending AI Tools: ElevenLabs Architect",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "elevenlabs-affiliate",
+    "title": "ElevenLabs: AI voice tools for creators and businesses",
+    "url": "https://try.elevenlabs.io/9tyu1w5rdng0"
+   },
+   {
+    "id": "slop-internal",
+    "title": "Stop sending slop grenades: the AI quality rule that wins clients",
+    "url": "https://jamaaltreasures.com/blog/stop-sending-slop-grenades"
+   }
+  ],
+  "title": "ElevenLabs Architect: A Support Agent That Answers Like Your Brand",
+  "updatedAt": "2026-10-09T04:48:00.000Z"
+ },
+ {
+  "category": "brand-growth",
+  "cta": {
+   "currency": "USD",
+   "label": "Get a Landing Page",
+   "price": 400,
+   "serviceId": "landing-page"
+  },
+  "excerpt": "Two AI models just cracked WWII Enigma messages that stumped researchers for nearly twenty years. The method they used is a prompting playbook you can steal for your hardest business problems today.",
+  "format": "guide",
+  "image": {
+   "alt": "Vintage code breaking machine with glowing dials being solved by a modern AI light beam, purple and magenta accents",
+   "credit": "Jamaal Treasures editorial",
+   "kind": "photo",
+   "sourceUrl": "https://jamaaltreasures.com/blog/give-ai-the-goal-not-the-recipe",
+   "src": "/assets/editorial/enigma-goal-not-recipe-hero.webp",
+   "subject": "AI cracking an Enigma message"
+  },
+  "kind": "guide",
+  "nextClick": {
+   "label": "Read The Neuron",
+   "url": "https://www.theneuron.ai/newsletter/october-08-thursday/"
+  },
+  "publishedAt": "2026-10-09T04:46:00.000Z",
+  "readingMinutes": 4,
+  "relatedServiceIds": [
+   "landing-page",
+   "business-website"
+  ],
+  "sections": [
+   {
+    "heading": "What happened with the Enigma messages",
+    "image": {
+     "alt": "Treasure map with a glowing destination flag and an open dotted path instead of step by step footprints",
+     "caption": "Give the destination. Let the model find the road.",
+     "src": "/assets/editorial/give-ai-the-goal-not-the-recipe-inline-1.webp"
+    },
+    "paragraphs": [
+     "The Neuron's AI Skill of the Day told a wild story this week. Developer Carter Leffen handed GPT 6 Astra a loose mission: find an unsolved Enigma message in an archive and decode it. The model researched the history on its own, built its own Enigma simulator, and recovered readable text from a message that had sat unsolved since 2005. A second researcher got a Claude model to crack another one, with more hand holding and one known clue to start from.",
+     "The details matter less than the method. Nobody fed the model a recipe. They handed it a goal, one fact they were sure of, and room to build its own tools. That is the part worth stealing."
+    ],
+    "sourceRefs": [
+     "neuron-enigma"
+    ]
+   },
+   {
+    "bullets": [
+     "Give a goal, not a recipe. Describe the outcome and let the AI research first.",
+     "Let it build its own tools: a script, a spreadsheet, a simulator, whatever the problem needs.",
+     "Feed it one fact you are sure of. A known clue narrows the whole search.",
+     "Check the result against something real before you trust it or ship it."
+    ],
+    "heading": "The playbook, translated for your business",
+    "paragraphs": [
+     "Most people prompt like a manager who does not trust the help. Do step one, then step two, then step three, in exactly this format. That style caps the model at your own imagination. The Enigma runs worked because the instructions flipped: outcome first, research second, tools third, verification last.",
+     "Try it on a real problem. Reconciling a messy month of invoices. Figuring out why one reel outperformed everything else on your page. Planning a launch with too many moving parts. State the outcome, give the model one fact you know is true, let it research and build what it needs, then make it show you how to check the answer against something real."
+    ]
+   },
+   {
+    "heading": "Where this fits my workflow",
+    "image": {
+     "alt": "AI assistant building its own small tools, a calculator, a chart, and a wrench, on a workbench facing a glowing goal target",
+     "caption": "Direction is the skill. The tools are getting cheaper.",
+     "src": "/assets/editorial/give-ai-the-goal-not-the-recipe-inline-2.webp"
+    },
+    "paragraphs": [
+     "This is the same shift running through everything I published this week. Cheap models handling routine work under a strong model's direction. Agents routing each task to the best model for the job. In every case, the human edge is the same: setting the goal clearly and checking the result honestly.",
+     "That is also why I keep my clarity rule. A goal stated badly gets you a polished answer to the wrong problem. Say what done looks like, in plain words, and the tools will surprise you."
+    ],
+    "sourceRefs": [
+     "grok-internal",
+     "gpt6-internal"
+    ]
+   },
+   {
+    "heading": "Your move",
+    "paragraphs": [
+     "Pick the problem you have been avoiding because it feels too tangled. Write the goal in one sentence. Add the one fact you know for sure. Ask the model to research first, build what it needs, and finish by telling you how to verify the answer. Then actually verify it. That last step is the difference between a demo and a result."
+    ]
+   }
+  ],
+  "seoDescription": "AI models cracked WWII Enigma messages by being given a goal instead of a recipe. The four step prompting playbook creators and founders can steal today.",
+  "serviceId": "landing-page",
+  "slug": "give-ai-the-goal-not-the-recipe",
+  "sources": [
+   {
+    "id": "neuron-enigma",
+    "title": "The Neuron (Oct 8, 2026), AI Skill of the Day: Give AI the goal, not the recipe",
+    "url": "https://www.theneuron.ai/newsletter/october-08-thursday/"
+   },
+   {
+    "id": "grok-internal",
+    "title": "Your AI assistant just became a model picker",
+    "url": "https://jamaaltreasures.com/blog/grok-bot-routes-best-model-creators"
+   },
+   {
+    "id": "gpt6-internal",
+    "title": "ChatGPT builds apps now: what creators should do with GPT 6's Intelligent UI",
+    "url": "https://jamaaltreasures.com/blog/chatgpt-gpt6-intelligent-ui-mini-apps"
+   }
+  ],
+  "title": "Give AI the Goal, Not the Recipe",
+  "updatedAt": "2026-10-09T04:46:00.000Z"
+ },
+ {
   "category": "brand-growth",
   "cta": {
    "currency": "USD",
