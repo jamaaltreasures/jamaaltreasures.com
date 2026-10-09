@@ -2720,5 +2720,78 @@
     "alt": "Eternal NYE flyer, Orlando Amphitheater Orlando",
     "imageKey": "event-flyers/174-eternal-nye-orlando.jpg",
     "endDate": "2027-01-01"
+  },
+  {
+    "section": "THIS WEEK",
+    "title": "Afrocentrik: Miami Carnival 2026 Afro Caribbean Fete",
+    "date": "OCTOBER 10, 10 PM TO 3:30 AM",
+    "headliners": "",
+    "venue": "Blanc, Hollywood",
+    "categories": [
+      "Culture",
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/afrocentrik-miami-carnival-2026-afro-caribbean-fete-afrobeats-soca-tickets-2000663697977",
+    "flyerUrl": "https://www.eventbrite.com/e/afrocentrik-miami-carnival-2026-afro-caribbean-fete-afrobeats-soca-tickets-2000663697977",
+    "image": "/events/flyer/178-afrocentrik-miami-carnival-hollywood.jpg",
+    "alt": "Afrocentrik Miami Carnival flyer, Blanc Hollywood",
+    "imageKey": "event-flyers/178-afrocentrik-miami-carnival-hollywood.jpg",
+    "endDate": "2026-10-11"
+  },
+  {
+    "section": "NEXT WEEK",
+    "title": "Stink and Dutty Miami Carnival 2026",
+    "date": "OCTOBER 12, 8 AM TO 2 PM",
+    "headliners": "",
+    "venue": "Historic Virginia Key Beach Park, Key Biscayne",
+    "categories": [
+      "Culture",
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/stink-and-dutty-miami-carnival-2026-tickets-1996315338918",
+    "flyerUrl": "https://www.eventbrite.com/e/stink-and-dutty-miami-carnival-2026-tickets-1996315338918",
+    "image": "/events/flyer/179-stink-and-dutty-miami-carnival.jpg",
+    "alt": "Stink and Dutty Miami Carnival flyer, Virginia Key Beach Park",
+    "imageKey": "event-flyers/179-stink-and-dutty-miami-carnival.jpg",
+    "endDate": "2026-10-12"
+  },
+  {
+    "section": "LATER IN OCTOBER",
+    "title": "Taste of Africa Music and Food Festival",
+    "date": "OCTOBER 24, 2 PM TO 8 PM",
+    "headliners": "DJ Puffy",
+    "venue": "Eagle Nest Park, Orlando",
+    "categories": [
+      "Music",
+      "Arts"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/taste-of-africa-music-and-food-festival-tickets-1985313138039",
+    "flyerUrl": "https://www.eventbrite.com/e/taste-of-africa-music-and-food-festival-tickets-1985313138039",
+    "image": "/events/flyer/180-taste-of-africa-orlando.jpg",
+    "alt": "Taste of Africa Music and Food Festival flyer, Eagle Nest Park Orlando",
+    "imageKey": "event-flyers/180-taste-of-africa-orlando.jpg",
+    "endDate": "2026-10-24"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "AfroSocaLove: Orlando One Love Festival",
+    "date": "DECEMBER 12, 3 PM TO 8 PM",
+    "headliners": "Maga Stories",
+    "venue": "Festival Park, Orlando",
+    "categories": [
+      "Culture",
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/orlando-one-love-festival-tickets-2002848933074",
+    "flyerUrl": "https://www.eventbrite.com/e/orlando-one-love-festival-tickets-2002848933074",
+    "image": "/events/flyer/181-afrosocalove-orlando-one-love-festival.jpg",
+    "alt": "AfroSocaLove Orlando One Love Festival flyer, Festival Park Orlando",
+    "imageKey": "event-flyers/181-afrosocalove-orlando-one-love-festival.jpg",
+    "endDate": "2026-12-12"
   }
 ]
