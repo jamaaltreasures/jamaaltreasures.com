@@ -2377,5 +2377,108 @@
   "alt": "Halloween Costume Party Future Millionaire Fridays event flyer",
   "imageKey": "event-flyers/160-future-millionaire-fridays-halloween-orlando.jpg",
   "endDate": "2026-10-31"
+ },
+ {
+  "section": "THIS WEEK",
+  "title": "Jonas Brothers: The Burning Up Tour All Over Again",
+  "date": "OCTOBER 11, 7:30 PM",
+  "headliners": "Jonas Brothers, Magnus Ferrell, Deleasa",
+  "venue": "Benchmark International Arena, Tampa",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.benchmarkintlarena.com/event/jonas-brothers-2026/",
+  "flyerUrl": "https://www.benchmarkintlarena.com/event/jonas-brothers-2026/",
+  "image": "/events/flyer/161-jonas-brothers-tampa.jpg",
+  "alt": "Jonas Brothers The Burning Up Tour All Over Again event flyer",
+  "imageKey": "event-flyers/161-jonas-brothers-tampa.jpg",
+  "endDate": "2026-10-11"
+ },
+ {
+  "section": "NEXT WEEK",
+  "title": "Weezer: The Gathering Tour",
+  "date": "OCTOBER 14, 7 PM",
+  "headliners": "Weezer, The Shins, Silversun Pickups",
+  "venue": "Benchmark International Arena, Tampa",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.benchmarkintlarena.com/event/weezer-2026/",
+  "flyerUrl": "https://www.benchmarkintlarena.com/event/weezer-2026/",
+  "image": "/events/flyer/162-weezer-the-gathering-tampa.jpg",
+  "alt": "Weezer The Gathering Tour event flyer",
+  "imageKey": "event-flyers/162-weezer-the-gathering-tampa.jpg",
+  "endDate": "2026-10-14"
+ },
+ {
+  "section": "LATER IN OCTOBER",
+  "title": "Chayanne: Bailemos Otra Vez Tour",
+  "date": "OCTOBER 30, 8 PM",
+  "headliners": "Chayanne",
+  "venue": "Benchmark International Arena, Tampa",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.benchmarkintlarena.com/event/chayanne-2026/",
+  "flyerUrl": "https://www.benchmarkintlarena.com/event/chayanne-2026/",
+  "image": "/events/flyer/163-chayanne-tampa.jpg",
+  "alt": "Chayanne Bailemos Otra Vez Tour event flyer",
+  "imageKey": "event-flyers/163-chayanne-tampa.jpg",
+  "endDate": "2026-10-30"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "I LOVE R&B PARTY",
+  "date": "NOVEMBER 27, 8 PM",
+  "headliners": "I LOVE R&B Party, presented by Concert Crave",
+  "venue": "The Orpheum, Tampa",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/i-love-rb-party-tickets-2002299694286",
+  "flyerUrl": "https://www.eventbrite.com/e/i-love-rb-party-tickets-2002299694286",
+  "image": "/events/flyer/164-i-love-rnb-party-tampa.jpg",
+  "alt": "I LOVE R&B PARTY event flyer",
+  "imageKey": "event-flyers/164-i-love-rnb-party-tampa.jpg",
+  "endDate": "2026-11-28"
+ },
+ {
+  "section": "LATER IN OCTOBER",
+  "title": "gymclassheroes. and Lupe Fiasco: Back To Basics Tour",
+  "date": "OCTOBER 25, 5:30 PM TO 10 PM",
+  "headliners": "gymclassheroes., Lupe Fiasco, B.o.B",
+  "venue": "England Brothers Park, Pinellas Park",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/gymclassheroes-lupe-fiasco-back-to-basics-tour-tickets-1993693840947",
+  "flyerUrl": "https://www.eventbrite.com/e/gymclassheroes-lupe-fiasco-back-to-basics-tour-tickets-1993693840947",
+  "image": "/events/flyer/165-back-to-basics-tour-pinellas-park.jpg",
+  "alt": "gymclassheroes and Lupe Fiasco Back To Basics Tour event flyer",
+  "imageKey": "event-flyers/165-back-to-basics-tour-pinellas-park.jpg",
+  "endDate": "2026-10-25"
+ },
+ {
+  "section": "LATER IN OCTOBER",
+  "title": "Teddy Swims: The Ugly Tour, Tampa",
+  "date": "OCTOBER 25, 7 PM",
+  "headliners": "Teddy Swims, Freak Freely, Wyatt Flores, MarcLo",
+  "venue": "Benchmark International Arena, Tampa",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.benchmarkintlarena.com/event/teddy-2026/",
+  "flyerUrl": "https://www.benchmarkintlarena.com/event/teddy-2026/",
+  "image": "/events/flyer/166-teddy-swims-ugly-tour-tampa.jpg",
+  "alt": "Teddy Swims The Ugly Tour event flyer",
+  "imageKey": "event-flyers/166-teddy-swims-ugly-tour-tampa.jpg",
+  "endDate": "2026-10-25"
  }
 ]
