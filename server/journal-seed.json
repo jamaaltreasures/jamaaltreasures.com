@@ -3,6 +3,199 @@
   "category": "ai-filmmaking",
   "cta": {
    "currency": "USD",
+   "label": "Get an AI Video Ad",
+   "price": 300,
+   "serviceId": "ai-ugc-ad"
+  },
+  "excerpt": "Claude can now turn your live numbers into a dashboard and your report into an editable animated explainer, then hand it to Adobe for a pro finish. Here is why that changes client work.",
+  "format": "explainer",
+  "image": {
+   "alt": "Bright clean workspace showing a live chart transforming into an animated explainer on screen, red accent details, light editorial style",
+   "credit": "Jamaal Treasures editorial",
+   "kind": "photo",
+   "sourceUrl": "https://jamaaltreasures.com/blog/claude-motion-dashboards-adobe-handoff",
+   "src": "/assets/editorial/claude-motion-dashboards-hero.webp",
+   "subject": "Claude Motion animated explainer and live dashboard"
+  },
+  "kind": "guide",
+  "nextClick": {
+   "label": "Read The Neuron",
+   "url": "https://www.theneurondaily.com"
+  },
+  "publishedAt": "2026-10-09T23:23:00.000Z",
+  "readingMinutes": 4,
+  "relatedServiceIds": [
+   "brand-film",
+   "meta-ads"
+  ],
+  "sections": [
+   {
+    "heading": "From answer to finished work",
+    "paragraphs": [
+     "Anthropic launched two beta tools this week that move Claude past answering questions. Claude Dashboards connects to company data in systems like Salesforce and Snowflake and builds charts that update as the numbers change. Ask why sales dropped and Claude can build a live view of the answer instead of describing it.",
+     "Claude Motion does the creative half. It turns a report, a chart, or an idea into a short animation, and it generates code instead of AI video footage. Every word, every number, and every transition stays editable. Anyone who has regenerated a whole video to fix one typo knows why that matters.",
+     "Claude Docs, Slides, and Design are also out of beta now and available on all plans, including Free. Dashboards is in beta on paid plans, and Motion is in beta on Team and Enterprise."
+    ],
+    "sourceRefs": [
+     "neuron-claude-motion",
+     "rundown-claude-dashboards"
+    ]
+   },
+   {
+    "bullets": [
+     "Turn a client report into an animated explainer, fix the wording yourself, then polish it in Adobe before it ships.",
+     "Build a sponsor or event recap that updates from live numbers, so the recap you show a partner is never stale.",
+     "Prototype an ad concept in Motion in the morning and finish the real cut in Premiere the same day."
+    ],
+    "heading": "The Adobe handoff is the real story for creators",
+    "image": {
+     "alt": "Bright timeline graphic showing an animated explainer moving from Claude into Adobe Firefly Video Editor for final polish",
+     "caption": "Start in Motion, finish in a pro editor. The handoff is the workflow.",
+     "src": "/assets/editorial/claude-motion-dashboards-adobe-handoff-inline-1.webp"
+    },
+    "paragraphs": [
+     "Here is the part filmmakers and editors should notice. Click Send to Adobe and a Motion animation opens directly in Firefly Video Editor, where you can rearrange clips, adjust pacing, color, and audio, add real footage, or generate new clips. Adobe also has a Claude plugin with more than 80 creative and productivity tools across Photoshop, Premiere, Acrobat, and Adobe Express.",
+     "That workflow matches how good creative work has always been made. Start fast with AI, then bring in pro tools when you need precision. The model drafts, you direct. Recognition first: Anthropic and Adobe are respecting the craft here by keeping the work editable instead of locking you into whatever the model spit out."
+    ],
+    "sourceRefs": [
+     "neuron-claude-motion"
+    ]
+   },
+   {
+    "heading": "Ask for a decision, not a chart",
+    "image": {
+     "alt": "Simple bright checklist for building a decision dashboard, with the decision written at the top",
+     "caption": "Write the decision first. The right chart builds itself from there.",
+     "src": "/assets/editorial/claude-motion-dashboards-adobe-handoff-inline-2.webp"
+    },
+    "paragraphs": [
+     "The Neuron shared a skill worth stealing word for word in spirit. A dashboard is only useful when it helps you decide something, otherwise you just made a prettier spreadsheet. Start with the decision, name your data sources, and ask Claude to show the definition behind each metric, the query that produced it, and what could make the result misleading.",
+     "My take for founders and creators is simple. Pretty charts are easy. Trustworthy ones your client can actually use are the benchmark. If the numbers cannot be checked and the animation cannot be corrected without starting over, it is not finished work yet. Used right, this stack saves the boring hours and puts your judgment exactly where it belongs, on the final call.",
+     "Want an animated explainer or an AI video ad built this way for your brand? My AI video ad service is 300 dollars, with clear wording, a clear call to action, and a finished file you can actually edit and reuse."
+    ],
+    "sourceRefs": [
+     "neuron-claude-motion"
+    ]
+   }
+  ],
+  "seoDescription": "Claude Dashboards builds live charts from your company data and Claude Motion creates editable animated explainers you can send to Adobe. What creators and founders should do with both.",
+  "serviceId": "ai-ugc-ad",
+  "slug": "claude-motion-dashboards-adobe-handoff",
+  "sources": [
+   {
+    "id": "neuron-claude-motion",
+    "title": "The Neuron: New Claude Dashboards use your live data (Oct 9, 2026)",
+    "url": "https://www.theneurondaily.com"
+   },
+   {
+    "id": "rundown-claude-dashboards",
+    "title": "The Rundown AI: Anthropic launched Claude Dashboards and Motion (Oct 9, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "title": "Claude Builds the Presentation Now: Motion, Dashboards, and the Adobe Handoff",
+  "updatedAt": "2026-10-09T23:23:00.000Z"
+ },
+ {
+  "category": "brand-growth",
+  "cta": {
+   "currency": "USD",
+   "label": "Get a Brand Film",
+   "price": 750,
+   "serviceId": "brand-film"
+  },
+  "excerpt": "A wave of personal AI agents just launched and one tester ran them all. His four best routines take under an hour to set up, and the event follow up one alone is worth stealing.",
+  "format": "quick-guide",
+  "image": {
+   "alt": "Bright phone screen showing a personal AI agent sorting morning mentions and follow up reminders, light editorial style, red accent details",
+   "credit": "Jamaal Treasures editorial",
+   "kind": "photo",
+   "sourceUrl": "https://jamaaltreasures.com/blog/personal-ai-agents-four-routines",
+   "src": "/assets/editorial/personal-ai-agents-routines-hero.webp",
+   "subject": "Personal AI agent routines on a phone"
+  },
+  "kind": "guide",
+  "nextClick": {
+   "label": "Read The Rundown AI",
+   "url": "https://www.therundown.ai"
+  },
+  "publishedAt": "2026-10-09T23:23:00.000Z",
+  "readingMinutes": 4,
+  "relatedServiceIds": [
+   "ai-ugc-ad",
+   "meta-ads"
+  ],
+  "sections": [
+   {
+    "heading": "Every platform just shipped a personal agent",
+    "paragraphs": [
+     "The Rundown AI tested the new wave of personal AI agents all at once: Meta Muse, SpaceXAI GrokBot, OpenAI Dots, Hermes, OpenClaw, and the newly launched Hark Pro. Most of them do similar things, but the tester said GrokBot stood out for personal use because it feels seamless on the phone and has live access to X, which is a real advantage for anyone who needs to monitor what people are saying right now.",
+     "Forget the platform war for a second. The useful part is not which agent won. It is the routines, and every one of them can be set up in under an hour."
+    ],
+    "sourceRefs": [
+     "rundown-personal-agents"
+    ]
+   },
+   {
+    "bullets": [
+     "Every morning, the agent finds real AI use cases shared on X and filters out the hype threads, so research time starts with signal instead of noise.",
+     "It catches every mention of your brand on X, labels each one, and pings your team in Slack to respond while the conversation is still warm.",
+     "Every four hours, it listens for people searching for and reviewing newsletters like yours, so you learn exactly what your audience is asking for.",
+     "Each morning, it reads your phone contacts and reminds you to follow up with the new people you met in person."
+    ],
+    "heading": "Four routines worth stealing today",
+    "image": {
+     "alt": "Simple bright list of four agent routines with time estimates for setup",
+     "caption": "Four routines, each under an hour to set up.",
+     "src": "/assets/editorial/personal-ai-agents-four-routines-inline-1.webp"
+    },
+    "paragraphs": [
+     "Here they are, in the order I would set them up:"
+    ],
+    "sourceRefs": [
+     "rundown-personal-agents"
+    ]
+   },
+   {
+    "heading": "Why the follow up routine is gold for event people",
+    "image": {
+     "alt": "Bright calendar and contacts view with follow up reminders after a live event",
+     "caption": "The follow up is where event relationships turn into clients.",
+     "src": "/assets/editorial/personal-ai-agents-four-routines-inline-2.webp"
+    },
+    "paragraphs": [
+     "That last routine is the one I felt in my chest. I meet a lot of people at events. Organizers, artists, sponsors, vendors. The money is rarely in the first conversation. It is in the follow up that most people never send because the next day gets busy.",
+     "An agent that wakes up, looks at who you met, and puts the follow ups in front of you turns a vague intention into a daily habit. That is Repetition, one of the values I run this business on, working exactly as it should. Pair it with mention monitoring and you have a simple system: hear what the market is saying, respond fast, and never let a real relationship go cold.",
+     "My honest take: do not try to automate your whole life this weekend. Pick one routine, the one closest to revenue, run it for a week, and check its work like you would check any new hire. Trust is earned by the output, not promised by the launch post.",
+     "Want help building content systems that turn event relationships into clients? My brand film service is 750 dollars and it starts with exactly this kind of clear, consistent follow through."
+    ],
+    "sourceRefs": [
+     "goal-internal"
+    ]
+   }
+  ],
+  "seoDescription": "Personal AI agents from Meta, OpenAI, and SpaceXAI are here. Four routines from a hands on test, including mention monitoring and event follow ups creators can set up in under an hour.",
+  "serviceId": "brand-film",
+  "slug": "personal-ai-agents-four-routines",
+  "sources": [
+   {
+    "id": "rundown-personal-agents",
+    "title": "The Rundown AI: I tested every new personal AI agent, Rowan's Corner (Oct 9, 2026)",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "goal-internal",
+    "title": "Give AI the Goal, Not the Recipe",
+    "url": "https://jamaaltreasures.com/blog/give-ai-the-goal-not-the-recipe"
+   }
+  ],
+  "title": "The Personal Agent Era Is Here: Four Routines Every Creator Should Steal",
+  "updatedAt": "2026-10-09T23:23:00.000Z"
+ },
+ {
+  "category": "ai-filmmaking",
+  "cta": {
+   "currency": "USD",
    "label": "Get an AI UGC Ad",
    "price": 300,
    "serviceId": "ai-ugc-ad"
