@@ -1822,5 +1822,23 @@
   "alt": "Olivia Rodrigo The Unraveled Tour poster",
   "imageKey": "event-flyers/126-olivia-rodrigo-the-unraveled-tour.jpg",
   "endDate": "2026-11-20"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "We Heart RnB Fort Lauderdale",
+  "date": "NOVEMBER 7, 10 PM TO 4 AM",
+  "headliners": "",
+  "venue": "Kemistry Nightclub, Fort Lauderdale",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/we-heart-rnb-fort-lauderdale-rb-exclusive-event-tickets-2001007513338",
+  "flyerUrl": "https://www.eventbrite.com/e/we-heart-rnb-fort-lauderdale-rb-exclusive-event-tickets-2001007513338",
+  "image": "/events/flyer/128-we-heart-rnb-fort-lauderdale.jpg",
+  "alt": "We Heart RnB Fort Lauderdale flyer, Kemistry Nightclub",
+  "imageKey": "event-flyers/128-we-heart-rnb-fort-lauderdale.jpg",
+  "endDate": "2026-11-08"
  }
 ]
