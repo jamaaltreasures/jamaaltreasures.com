@@ -10,7 +10,6 @@ $('#quote-form').addEventListener('submit', () => {
 });
 window.addEventListener('pageshow', () => { $('#form-status').textContent = ''; });
 const realm = $('#realm-video');
-const realmLaunch = $('#realm-launch');
 let realmHls=null,realmReady=false,realmScript;
 function realmPlaying(){return !!realm&&!realm.paused&&!realm.ended;}
 function loadRealmLibrary(){return realmScript ||= new Promise((resolve,reject)=>{const script=document.createElement('script');script.src='assets/vendor/hls-1.7.3.light.min.js';script.onload=resolve;script.onerror=()=>reject(new Error('The player could not load. Please try again.'));document.head.append(script)}).catch(error=>{realmScript=null;throw error});}
@@ -20,14 +19,17 @@ async function prepareRealm(){
  await loadRealmLibrary();
  if(!Hls.isSupported())throw new Error('This browser cannot play the film. Please use Safari, Chrome, Edge or Firefox.');
  realmHls=new Hls({maxBufferLength:20,backBufferLength:15,capLevelToPlayerSize:false});
- realmHls.on(Hls.Events.ERROR,(_event,data)=>{if(data.fatal){$('#realm-status').textContent='Playback was interrupted. Press Watch THE REALM to try again.';realmHls?.destroy();realmHls=null;realmReady=false;realmLaunch.hidden=false;}});
+ realmHls.on(Hls.Events.ERROR,(_event,data)=>{if(data.fatal){$('#realm-status').textContent='Playback was interrupted. Press play to try again.';realmHls?.destroy();realmHls=null;realmReady=false;}});
  realmHls.on(Hls.Events.MANIFEST_PARSED,()=>{const quality=$('#realm-quality').value;if(quality!=='auto')realmHls.currentLevel=realmHls.levels.findIndex(level=>level.height===Number(quality));});
  realmHls.loadSource(realm.dataset.stream);realmHls.attachMedia(realm);realmReady=true;
 }
-if(realm && realmLaunch){
- realmLaunch.addEventListener('click',async()=>{realmLaunch.hidden=true;$('#realm-status').textContent='Loading THE REALM…';try{await prepareRealm();if(realm.ended)realm.currentTime=0;realm.muted=false;await realm.play();$('#realm-status').textContent='';}catch(error){realmLaunch.hidden=false;$('#realm-status').textContent=error.message||'Press play to try again.';}});
- realm.addEventListener('playing',()=>{realmLaunch.hidden=true;$('#realm-status').textContent='';if(document.hidden)realm.pause();});
- realm.addEventListener('ended',()=>{realmLaunch.hidden=false;});
+if(realm){
+ let realmStarting=false;
+ const startRealm=async()=>{if(realmReady||realmStarting)return;realmStarting=true;$('#realm-status').textContent='Loading THE REALM…';try{await prepareRealm();if(realm.ended)realm.currentTime=0;realm.muted=false;await realm.play();$('#realm-status').textContent='';}catch(error){$('#realm-status').textContent=error.message||'Press play to try again.';}realmStarting=false;};
+ realm.addEventListener('pointerdown',()=>{if(!realmReady)startRealm();},true);
+ realm.addEventListener('click',()=>{if(!realmReady)startRealm();});
+ realm.addEventListener('play',()=>{if(!realmReady)startRealm();});
+ realm.addEventListener('playing',()=>{$('#realm-status').textContent='';if(document.hidden)realm.pause();});
  const syncRealmQuality=()=>{if(realm.videoHeight)$('#realm-quality-state').textContent=(realm.videoHeight>=1080?'Full quality · ':'Playing at ')+realm.videoHeight+'p'+($('#realm-quality').value==='auto'?' · Auto':'')};realm.addEventListener('resize',syncRealmQuality);realm.addEventListener('loadeddata',syncRealmQuality);realm.addEventListener('playing',syncRealmQuality);
  realm.addEventListener('pause',()=>resumeCarousel());
  new IntersectionObserver(entries=>{if(!entries[0].isIntersecting&&!document.fullscreenElement&&!realm.webkitDisplayingFullscreen)realm.pause()},{threshold:0}).observe(realm);
