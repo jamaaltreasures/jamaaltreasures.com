@@ -302,3 +302,6 @@ html.lg-refract .mobile-dock{backdrop-filter:url(#lg-chip)!important;-webkit-bac
 
 /* Crimson pressed and selected highlight: buttons and pills flash crimson with white text when clicked or on (Jamaal, 2026-10-09). */
 .button:active,.chip:active,.category-button:active,.library-filter:active,.creator-source-button:active,.sound-control:active,.journal-tab:active,[aria-pressed=true]{background:#A7192F!important;color:#fff!important}
+
+/* Primary hero button stays solid crimson over the hero glass treatment. */
+body .hero-magic .hero-actions .button.primary{background:#A7192F!important;color:#fff!important;--glass-label-color:#fff!important;border:1px solid transparent;backdrop-filter:none;-webkit-backdrop-filter:none}

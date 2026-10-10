@@ -193,3 +193,7 @@ html.lg-refract .mobile-dock{backdrop-filter:url(#lg-chip)}
 
 /* Crimson pressed and selected highlight: buttons and pills flash crimson with white text when clicked or on (Jamaal, 2026-10-09). */
 .button:active,.chip:active,.category-button:active,.library-filter:active,.creator-source-button:active,.sound-control:active,.journal-tab:active,[aria-pressed=true]{background:#A7192F!important;color:#fff!important}
+
+/* Primary button: solid crimson fill, white text (Jamaal, 2026-10-09). */
+.button.primary{background:#A7192F;color:#fff;border-color:transparent}
+.button.primary .button-arrow{background:#fff;color:#A7192F!important;border-color:transparent}
