@@ -3174,5 +3174,107 @@
   "alt": "ARE N BEE Miami Halloween Weekend flyer, Casa Nube Wynwood Miami",
   "imageKey": "event-flyers/202-are-n-bee-halloween-weekend.jpg",
   "endDate": "2026-11-01"
+ },
+ {
+  "section": "NEXT WEEK",
+  "title": "39th Annual Las Olas Art Fair",
+  "date": "OCTOBER 17 TO 18, 10 AM TO 5 PM",
+  "headliners": "",
+  "venue": "East Las Olas Boulevard, Fort Lauderdale",
+  "categories": [
+   "Arts"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://www.artfestival.com/festivals/las-olas-art-fair-fort-lauderdale-florida",
+  "flyerUrl": "https://www.artfestival.com/festivals/las-olas-art-fair-fort-lauderdale-florida",
+  "image": "/events/flyer/203-las-olas-art-fair.jpg",
+  "alt": "39th Annual Las Olas Art Fair flyer, East Las Olas Boulevard Fort Lauderdale",
+  "imageKey": "event-flyers/203-las-olas-art-fair.jpg",
+  "endDate": "2026-10-18"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "38th Annual Downtown Venice Art Festival",
+  "date": "OCTOBER 31 TO NOVEMBER 1, 10 AM TO 5 PM",
+  "headliners": "",
+  "venue": "West Venice Avenue, Venice",
+  "categories": [
+   "Arts"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://www.artfestival.com/festivals/downtown-venice-art-festival-venice-florida",
+  "flyerUrl": "https://www.artfestival.com/festivals/downtown-venice-art-festival-venice-florida",
+  "image": "/events/flyer/204-downtown-venice-art-festival.jpg",
+  "alt": "38th Annual Downtown Venice Art Festival flyer, West Venice Avenue Venice",
+  "imageKey": "event-flyers/204-downtown-venice-art-festival.jpg",
+  "endDate": "2026-11-01"
+ },
+ {
+  "section": "NEXT WEEK",
+  "title": "30th Anniversary Downtown Sarasota Craft Festival",
+  "date": "OCTOBER 17 TO 18, 10 AM TO 5 PM",
+  "headliners": "",
+  "venue": "Selby Five Points Park, Sarasota",
+  "categories": [
+   "Arts"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://www.artfestival.com/festivals/30th-anniversary-downtown-sarasota-craft-festival",
+  "flyerUrl": "https://www.artfestival.com/festivals/30th-anniversary-downtown-sarasota-craft-festival",
+  "image": "/events/flyer/205-downtown-sarasota-craft-festival.jpg",
+  "alt": "30th Anniversary Downtown Sarasota Craft Festival flyer, Selby Five Points Park Sarasota",
+  "imageKey": "event-flyers/205-downtown-sarasota-craft-festival.jpg",
+  "endDate": "2026-10-18"
+ },
+ {
+  "section": "LATER IN OCTOBER",
+  "title": "The Mall at UTC Art Festival with Craft Marketplace",
+  "date": "OCTOBER 24 TO 25, 10 AM TO 5 PM",
+  "headliners": "",
+  "venue": "The Mall at University Town Center, Sarasota",
+  "categories": [
+   "Arts"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://www.artfestival.com/festivals/mall-utc-art-festival-craft-marketplace",
+  "flyerUrl": "https://www.artfestival.com/festivals/mall-utc-art-festival-craft-marketplace",
+  "image": "/events/flyer/206-mall-at-utc-art-festival.jpg",
+  "alt": "The Mall at UTC Art Festival with Craft Marketplace flyer, University Town Center Sarasota",
+  "imageKey": "event-flyers/206-mall-at-utc-art-festival.jpg",
+  "endDate": "2026-10-25"
+ },
+ {
+  "section": "THIS WEEK",
+  "title": "33rd Annual Downtown Dunedin Craft Festival",
+  "date": "OCTOBER 10 TO 11, 10 AM TO 5 PM",
+  "headliners": "",
+  "venue": "Main Street, Dunedin",
+  "categories": [
+   "Arts"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://www.artfestival.com/festivals/downtown-dunedin-craft-festival",
+  "flyerUrl": "https://www.artfestival.com/festivals/downtown-dunedin-craft-festival",
+  "image": "/events/flyer/207-downtown-dunedin-craft-festival.jpg",
+  "alt": "33rd Annual Downtown Dunedin Craft Festival flyer, Main Street Dunedin",
+  "imageKey": "event-flyers/207-downtown-dunedin-craft-festival.jpg",
+  "endDate": "2026-10-11"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Small Business Marketplace",
+  "date": "NOVEMBER 22, 12 PM TO 5 PM",
+  "headliners": "",
+  "venue": "Miramar Cultural Center, Miramar",
+  "categories": [
+   "Business"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/small-business-marketplace-tickets-1998070902857",
+  "flyerUrl": "https://www.eventbrite.com/e/small-business-marketplace-tickets-1998070902857",
+  "image": "/events/flyer/208-small-business-marketplace-miramar.jpg",
+  "alt": "Small Business Marketplace flyer, Miramar Cultural Center Miramar",
+  "imageKey": "event-flyers/208-small-business-marketplace-miramar.jpg",
+  "endDate": "2026-11-22"
  }
 ]
