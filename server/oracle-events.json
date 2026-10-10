@@ -3118,5 +3118,74 @@
   "alt": "Suncoast Jazz Festival flyer, Sheraton Sand Key Resort Clearwater",
   "imageKey": "event-flyers/193-suncoast-jazz-festival.jpg",
   "endDate": "2026-11-22"
+ },
+ {
+  "section": "NEXT WEEK",
+  "title": "Lemon Drop and Seafood Festival",
+  "date": "OCTOBER 18, 4 PM TO 9 PM",
+  "headliners": "Gohard Show, Jazzy Jeff, DJ DK, Ian The Icon",
+  "venue": "Wall Street Plaza, Orlando",
+  "categories": [
+   "Food",
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/lemon-drop-seafood-festival-tickets-1996449691771",
+  "flyerUrl": "https://www.eventbrite.com/e/lemon-drop-seafood-festival-tickets-1996449691771",
+  "image": "/events/flyer/196-lemon-drop-seafood-festival.jpg",
+  "alt": "Lemon Drop and Seafood Festival flyer, Wall Street Plaza Orlando",
+  "imageKey": "event-flyers/196-lemon-drop-seafood-festival.jpg",
+  "endDate": "2026-10-18"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Sarasota Fine Art Show by Hot Works",
+  "date": "OCTOBER 31 TO NOVEMBER 1, 10 AM TO 5 PM",
+  "headliners": "",
+  "venue": "JD Hamel Park, Sarasota",
+  "categories": [
+   "Arts"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://hotworks.org/art-show/sarasota-fine-art-show-october-31-november-1-2026/",
+  "flyerUrl": "https://hotworks.org/art-show/sarasota-fine-art-show-october-31-november-1-2026/",
+  "image": "/events/flyer/197-sarasota-fine-art-show.jpg",
+  "alt": "Sarasota Fine Art Show flyer, JD Hamel Park Sarasota",
+  "imageKey": "event-flyers/197-sarasota-fine-art-show.jpg",
+  "endDate": "2026-11-01"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "37th Annual St. Armands Circle Art Festival",
+  "date": "NOVEMBER 14 TO 15, 10 AM TO 5 PM",
+  "headliners": "",
+  "venue": "St. Armands Circle Park, Sarasota",
+  "categories": [
+   "Arts"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://www.artfestival.com/festivals/st-armands-art-festival-sarasota-florida",
+  "flyerUrl": "https://www.artfestival.com/festivals/st-armands-art-festival-sarasota-florida",
+  "image": "/events/flyer/194-st-armands-circle-art-festival.jpg",
+  "alt": "37th Annual St. Armands Circle Art Festival flyer, St. Armands Circle Park Sarasota",
+  "imageKey": "event-flyers/194-st-armands-circle-art-festival.jpg",
+  "endDate": "2026-11-15"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Southwest Florida New Year's Rockin' Eve",
+  "date": "DECEMBER 31, 2 PM TO 2 AM",
+  "headliners": "Nelly, Lil Jon, Godsmack, Randy Houser",
+  "venue": "Charlotte County Fairgrounds, Port Charlotte",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/southwest-florida-new-years-rockin-eve-tickets-1993296679025",
+  "flyerUrl": "https://www.eventbrite.com/e/southwest-florida-new-years-rockin-eve-tickets-1993296679025",
+  "image": "/events/flyer/195-southwest-florida-new-years-rockin-eve.jpg",
+  "alt": "Southwest Florida New Year's Rockin' Eve flyer, Charlotte County Fairgrounds Port Charlotte",
+  "imageKey": "event-flyers/195-southwest-florida-new-years-rockin-eve.jpg",
+  "endDate": "2027-01-01"
  }
 ]
