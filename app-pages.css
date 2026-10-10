@@ -282,3 +282,9 @@ html.lg-refract .mobile-dock{background-image:none!important}
 html.lg-refract .mobile-dock{backdrop-filter:url(#lg-chip)!important;-webkit-backdrop-filter:blur(14px) saturate(1.1)!important}
 }
 @media(prefers-reduced-transparency:reduce){.mobile-dock{background-image:none!important}}
+/* Mobile stability: no live backdrop blur on phones. */
+@media (max-width:700px){
+.site-menu,.mobile-dock,.glass,.glass-panel,.music-player,.music-player.music-player-complete,.music-controls-dialog,.collaboration-dialog,.music-controls-dialog .music-controls-header,body .site-header :is(.nav-quote,.menu-toggle),body .hero-magic .hero-actions .button,body .mobile-dock,body .site-header .site-menu.glass-panel{-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
+.music-controls-dialog::backdrop,.collaboration-dialog::backdrop{-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
+.site-menu,.music-player,.music-controls-dialog,.collaboration-dialog,body .mobile-dock,body .site-header .site-menu.glass-panel,body .site-header :is(.nav-quote,.menu-toggle),body .hero-magic .hero-actions .button{background:rgba(255,255,255,.94)!important}
+}
