@@ -21,5 +21,6 @@ export const glassDefs=`<svg class="lg-defs" width="0" height="0" aria-hidden="t
 <feColorMatrix in="disp" type="saturate" values="1.03" result="sat"/>
 <feComponentTransfer in="sat"><feFuncR type="linear" slope="1.01"/><feFuncG type="linear" slope="1.01"/><feFuncB type="linear" slope="1.01"/></feComponentTransfer>
 </filter>
+<filter id="jt-lab" x="-8%" y="-8%" width="116%" height="116%"><feTurbulence type="fractalNoise" baseFrequency="0.012 0.016" numOctaves="2" seed="8" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="90"/></filter>
 </defs>
 </svg>`;

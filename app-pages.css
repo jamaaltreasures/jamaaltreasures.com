@@ -374,3 +374,46 @@ body .site-menu .menu-links a.menu-cta svg.ph-icon,body .site-menu .menu-links a
 .hero-key{display:block;position:absolute;width:112vw;right:-39vw;top:64px;z-index:1;pointer-events:none}
 .hero .hero-content{position:relative;z-index:2}
 }
+
+/* JT tuned liquid glass (owner's Glass Lab recipe, 2026-10-10): MENU PANEL and MOBILE DOCK only.
+   Scoped override of the mobile backdrop kill switch for these two surfaces, placed after the cure block at owner direction. Every other surface keeps the cure untouched. */
+body .site-header .site-menu.glass-panel,body .mobile-dock,html.lg-refract body .site-header .site-menu.glass-panel,html.lg-refract body .mobile-dock{
+background:rgba(255,255,255,.13)!important;background-image:none!important;
+border:1px solid rgba(255,255,255,.55)!important;border-radius:22px;
+box-shadow:0 22px 44px rgba(0,0,0,.24),-16.7px 0 25px -6px rgba(255,0,60,.56),16.7px 0 25px -6px rgba(0,140,255,.56)!important;
+-webkit-backdrop-filter:blur(2px) saturate(240%)!important;backdrop-filter:blur(2px) saturate(240%)!important}
+/* Displaced marble copy layer + prism rim, one static layer per surface, no content cloning, no scroll listeners. */
+.site-menu .jt-glass-bg,.mobile-dock .jt-glass-bg{position:absolute;inset:-36px;z-index:0;pointer-events:none;background-image:url(/assets/marble.svg);background-repeat:repeat;background-size:1100px auto;opacity:.62;filter:url(#jt-lab) blur(.7px) saturate(240%);transform:scale(1.385)}
+.site-menu .jt-glass-prism,.mobile-dock .jt-glass-prism{position:absolute;inset:0;z-index:1;pointer-events:none;border-radius:inherit;padding:4.6px;opacity:1;mix-blend-mode:screen;background:linear-gradient(115deg,rgba(255,0,60,.34),rgba(255,180,0,.18) 28%,rgba(0,200,120,.16) 52%,rgba(0,140,255,.30) 78%,rgba(180,0,255,.22));-webkit-mask:linear-gradient(#000,#000) content-box,linear-gradient(#000,#000);-webkit-mask-composite:xor;mask:linear-gradient(#000,#000) content-box,linear-gradient(#000,#000);mask-composite:exclude}
+body .mobile-dock{overflow:hidden}
+body .mobile-dock a{position:relative;z-index:2}
+.site-menu .menu-links{z-index:2}
+/* Stacked glass: current page link and dock active item get a second glass pill on top; same pill flashes on press. Crimson active base stays underneath. */
+.site-menu .menu-links a,.mobile-dock a{position:relative}
+.site-menu .menu-links a>*,.mobile-dock a>*{position:relative;z-index:1}
+.site-menu .menu-links a[aria-current="page"]::after,.site-menu .menu-links a:active::after,.mobile-dock a[aria-current]::after,.mobile-dock a:active::after{
+content:"";position:absolute;inset:0;z-index:0;pointer-events:none;border-radius:inherit;
+background:rgba(255,255,255,.22);
+border:1px solid rgba(255,255,255,.55);
+box-shadow:-10px 0 18px -6px rgba(255,0,60,.56),10px 0 18px -6px rgba(0,140,255,.56);
+-webkit-backdrop-filter:blur(2px) saturate(240%);backdrop-filter:blur(2px) saturate(240%)}
+.site-menu .menu-links a[aria-current="page"]::before,.site-menu .menu-links a:active::before,.mobile-dock a[aria-current]::before,.mobile-dock a:active::before{
+content:"";position:absolute;inset:0;z-index:2;pointer-events:none;border-radius:inherit;padding:4.6px;opacity:1;mix-blend-mode:screen;
+background:linear-gradient(115deg,rgba(255,0,60,.34),rgba(255,180,0,.18) 28%,rgba(0,200,120,.16) 52%,rgba(0,140,255,.30) 78%,rgba(180,0,255,.22));
+-webkit-mask:linear-gradient(#000,#000) content-box,linear-gradient(#000,#000);-webkit-mask-composite:xor;mask:linear-gradient(#000,#000) content-box,linear-gradient(#000,#000);mask-composite:exclude}
+/* Scoped kill switch override restated inside the phone media query for the menu and dock only. */
+@media (max-width:700px){
+body .site-header .site-menu.glass-panel,body .mobile-dock{
+background:rgba(255,255,255,.13)!important;background-image:none!important;
+-webkit-backdrop-filter:blur(2px) saturate(240%)!important;backdrop-filter:blur(2px) saturate(240%)!important}
+}
+/* Reduced transparency preference still wins on these two surfaces. */
+@media (prefers-reduced-transparency:reduce){
+body .site-header .site-menu.glass-panel,body .mobile-dock{background:#fff!important;-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
+.site-menu .jt-glass-bg,.mobile-dock .jt-glass-bg,.site-menu .jt-glass-prism,.mobile-dock .jt-glass-prism{display:none!important}
+.site-menu .menu-links a[aria-current="page"]::after,.mobile-dock a[aria-current]::after{display:none!important}
+}
+/* Music player collapse: small glossy Mac style yellow minimize dot with a dark minus, 40px hit area. */
+.music-player .player-collapse{width:40px;height:40px;min-width:40px;min-height:40px;background:transparent;border-radius:50%}
+.music-player .player-collapse::before{content:"";position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:16px;height:16px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#ffedb0 0%,#ffd23e 42%,#ffb400 75%,#e89b00 100%);box-shadow:inset 0 -2px 3px rgba(146,90,0,.45),inset 0 1px 2px rgba(255,255,255,.85),0 1px 3px rgba(17,17,20,.28)}
+.music-player .player-collapse svg{position:relative;z-index:1;width:9px;height:9px;color:#4a3500}
