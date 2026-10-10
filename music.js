@@ -185,3 +185,50 @@
  new ResizeObserver(entries=>{const height=$('#music-player').hidden?0:entries[0].contentRect.height;document.documentElement.style.setProperty('--music-player-clearance',Math.ceil(height+135)+'px')}).observe($('#music-player'));
 
 })();
+
+/* Homepage audit fix: collapse the site wide player into a floating waveform button.
+   Swipe down on the player (or use its collapse button) and it tucks into one small
+   button at the bottom right with an animated waveform while music keeps playing.
+   Tap the button and the player expands back. Playback wiring in music.js is untouched. */
+(() => {
+ 'use strict';
+ const player=document.querySelector('#music-player'),audio=document.querySelector('#music-audio'),
+       mini=document.querySelector('#music-player-mini'),collapseButton=document.querySelector('#music-collapse'),
+       dialog=document.querySelector('#music-controls-dialog');
+ if(!player||!audio||!mini)return;
+ let collapsed=false,hideTimer=0;
+ const syncWave=()=>mini.classList.toggle('is-playing',!audio.paused&&!audio.ended);
+ function showMini(){mini.hidden=false;requestAnimationFrame(()=>mini.classList.add('is-in'));syncWave()}
+ function hideMini(){mini.classList.remove('is-in');mini.hidden=true}
+ function collapse(){
+  if(collapsed||player.hidden||dialog?.open)return;
+  collapsed=true;player.classList.add('player-collapsing');
+  hideTimer=setTimeout(()=>{player.hidden=true;player.classList.remove('player-collapsing');showMini()},300);
+ }
+ function expand(){
+  if(!collapsed)return;
+  collapsed=false;clearTimeout(hideTimer);hideMini();
+  if(audio.getAttribute('src'))document.body.classList.add('has-music-player');
+  if(player.hidden){player.hidden=false;player.classList.add('player-expanding');
+   requestAnimationFrame(()=>requestAnimationFrame(()=>player.classList.remove('player-expanding')))}
+  else player.classList.remove('player-collapsing');
+ }
+ function syncMode(){
+  if(!collapsed)return;
+  if(!document.body.classList.contains('has-music-player')){collapsed=false;clearTimeout(hideTimer);hideMini();return}
+  if(!player.hidden&&!player.classList.contains('player-expanding')){player.hidden=true;showMini()}
+ }
+ new MutationObserver(syncMode).observe(player,{attributes:true,attributeFilter:['hidden']});
+ new MutationObserver(syncMode).observe(document.body,{attributes:true,attributeFilter:['class']});
+ mini.addEventListener('click',expand);
+ collapseButton?.addEventListener('click',collapse);
+ let touchStart=null;
+ player.addEventListener('touchstart',event=>{if(event.touches.length===1)touchStart={x:event.touches[0].clientX,y:event.touches[0].clientY,target:event.target}},{passive:true});
+ player.addEventListener('touchend',event=>{
+  if(!touchStart)return;
+  const t=event.changedTouches[0],dy=t.clientY-touchStart.y,dx=t.clientX-touchStart.x,onRange=!!touchStart.target.closest('input[type=range]');
+  touchStart=null;
+  if(!onRange&&dy>56&&dy>Math.abs(dx)*1.4)collapse();
+ },{passive:true});
+ audio.addEventListener('play',syncWave);audio.addEventListener('pause',syncWave);audio.addEventListener('ended',syncWave);
+})();

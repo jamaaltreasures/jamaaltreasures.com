@@ -197,3 +197,8 @@ html.lg-refract .mobile-dock{backdrop-filter:url(#lg-chip)}
 /* Primary button: solid crimson fill, white text (Jamaal, 2026-10-09). */
 .button.primary{background:#A7192F;color:#fff;border-color:transparent}
 .button.primary .button-arrow{background:#fff;color:#A7192F!important;border-color:transparent}
+
+/* Homepage audit fix: proof strip placement on Work and Music views */
+.page-reach{position:static;flex-direction:row;align-items:center;gap:20px;max-width:360px;margin:4px 0 30px}
+.page-reach strong{font-size:54px}
+.page-reach span{max-width:210px}

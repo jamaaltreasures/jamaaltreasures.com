@@ -1,5 +1,5 @@
 /* Jamaal Treasures: a restrained editorial system, October 2026. */
-:root{color-scheme:light;--bg:#f4f0e8;--surface:#f4f0e8;--text:#111113;--muted:#6c6662;--line:#d9d2c9;--purple:#A7192F;--accent:#A7192F;--radius:28px;--creator-secondary:#6c6662;--creator-line:#d9d2c9}
+:root{color-scheme:light;--bg:#f4f0e8;--surface:#f4f0e8;--text:#111113;--muted:#6c6662;--line:#d9d2c9;--crimson:#A7192F;--accent:#A7192F;--radius:28px;--creator-secondary:#6c6662;--creator-line:#d9d2c9}
 body{color:var(--text);font-family:Manrope,Arial,sans-serif}
 body::before,body::after,.hero-mark,.magic-signature-star{display:none!important}
 
@@ -52,7 +52,7 @@ input::placeholder,textarea::placeholder{color:#706a63!important}
 @media(max-width:700px){.inner-world-intro{grid-template-columns:1fr;gap:8px!important;margin-bottom:10px!important}.inner-world-intro h1{font-size:38px!important}.inner-world-copy summary{padding:10px 0}.mind-quick-nav{margin-bottom:18px}.artist-spotlight-card{flex-direction:column;text-align:center;gap:6px;padding:12px 4px}.artist-spotlight-card strong{font-size:15px}.artist-spotlight-card img{width:48px;height:48px}.artist-spotlight-card span{font-size:11px}.creator-libraries-page .creator-music-heading h2{font-size:28px}}
 
 /* Material behavior comes from version 30. Only its color environment changes here. */
-:root{color-scheme:light;--bg:#f4f0e8;--surface:#f4f0e8;--text:#111113;--muted:#6c6662;--line:#1111131c;--purple:#A7192F;--accent:#A7192F}
+:root{color-scheme:light;--bg:#f4f0e8;--surface:#f4f0e8;--text:#111113;--muted:#6c6662;--line:#1111131c;--crimson:#A7192F;--accent:#A7192F}
 body{background:#f4f0e8!important;color:#111113}
 .site-atmosphere{background:#f4f0e8}.hero-background,.atmosphere-image{filter:grayscale(1) invert(1) contrast(.32) brightness(1.52)}
 .hero.hero-magic{background:#f4f0e8}.site-header{background:linear-gradient(#f4f0e840,transparent)}
@@ -118,3 +118,6 @@ body svg.ph-icon,body svg.ph-icon use{fill:currentColor}
 #minds-eye #robin-episodes .creator-episode>img{width:48px;height:48px}
 #minds-eye #robin-episodes .creator-episode-copy strong{font-size:16px;line-height:1.25;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 #minds-eye #robin-episodes .creator-episode-copy>span{font-size:12px;line-height:1.3}
+
+/* Homepage audit fix: services strip is one full width list of two rows */
+.home-services{grid-template-columns:1fr}
