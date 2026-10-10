@@ -2,7 +2,7 @@ import offers from '../offers.json' with {type:'json'};
 
 export function llmsText(){return `# Jamaal Treasures
 
-> Jamaal Treasures is a Florida event coverage company. Two shooters, one photographer and one videographer, capture events across Florida and deliver the full photo and video recap within two days. This website presents the event coverage offer and booking, curated Florida events, creative services and prices, a Journal, and the studio portfolio, including directed music videos with more than five million views.
+> Jamaal Treasures is a Florida event coverage company. Two shooters, one photographer and one videographer, capture events across Florida and deliver the full photo and video recap within two days. This website presents the event coverage offer and booking, an events page updated regularly with events going on across Florida, soon expanding to more states, creative services and prices, a Journal, and the studio portfolio, including directed music videos with more than five million views.
 
 ## Main sections
 
