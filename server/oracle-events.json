@@ -3276,5 +3276,96 @@
   "alt": "Small Business Marketplace flyer, Miramar Cultural Center Miramar",
   "imageKey": "event-flyers/208-small-business-marketplace-miramar.jpg",
   "endDate": "2026-11-22"
+ },
+ {
+  "section": "THIS WEEK",
+  "title": "I Love Soca Miami 2026",
+  "date": "OCTOBER 11, 9 PM TO 5 AM",
+  "headliners": "20 plus DJs and surprise guest artists",
+  "venue": "Mango's Tropical Cafe, Miami Beach",
+  "categories": [
+   "Culture",
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/i-love-soca-miami-2026-tickets-1994628465434",
+  "flyerUrl": "https://www.eventbrite.com/e/i-love-soca-miami-2026-tickets-1994628465434",
+  "image": "/events/flyer/209-i-love-soca-miami-2026.jpg",
+  "alt": "I Love Soca Miami 2026 flyer, Mango's Tropical Cafe Miami Beach",
+  "imageKey": "event-flyers/209-i-love-soca-miami-2026.jpg",
+  "endDate": "2026-10-12"
+ },
+ {
+  "section": "NEXT WEEK",
+  "title": "Finale Miami Carnival Last Lap",
+  "date": "OCTOBER 12, 10 PM TO 4 AM",
+  "headliners": "",
+  "venue": "Blackbird Ordinary, Miami",
+  "categories": [
+   "Culture",
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/finale-miami-miami-carnival-last-lap-tickets-1998026687608",
+  "flyerUrl": "https://www.eventbrite.com/e/finale-miami-miami-carnival-last-lap-tickets-1998026687608",
+  "image": "/events/flyer/210-finale-miami-carnival-last-lap.jpg",
+  "alt": "Finale Miami Carnival Last Lap flyer, Blackbird Ordinary Miami",
+  "imageKey": "event-flyers/210-finale-miami-carnival-last-lap.jpg",
+  "endDate": "2026-10-13"
+ },
+ {
+  "section": "HALLOWEEN",
+  "title": "Gordo at E11EVEN",
+  "date": "OCTOBER 30, 8 PM TO 10 AM",
+  "headliners": "Gordo",
+  "venue": "E11EVEN Miami, Miami",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://link.dice.fm/g92d1759cd77",
+  "flyerUrl": "https://11miami.com/halloween",
+  "image": "/events/flyer/211-gordo-at-e11even.jpg",
+  "alt": "Gordo at E11EVEN flyer, E11EVEN Miami",
+  "imageKey": "event-flyers/211-gordo-at-e11even.jpg",
+  "endDate": "2026-10-31"
+ },
+ {
+  "section": "HALLOWEEN",
+  "title": "DJ Diesel aka Shaquille O'Neal at E11EVEN",
+  "date": "OCTOBER 31, 8 PM TO 10 AM",
+  "headliners": "DJ Diesel aka Shaquille O'Neal",
+  "venue": "E11EVEN Miami, Miami",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://link.dice.fm/f213c48a8b5c",
+  "flyerUrl": "https://11miami.com/halloween",
+  "image": "/events/flyer/212-dj-diesel-at-e11even.jpg",
+  "alt": "DJ Diesel at E11EVEN flyer, E11EVEN Miami",
+  "imageKey": "event-flyers/212-dj-diesel-at-e11even.jpg",
+  "endDate": "2026-11-01"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Yelawolf, Jacksonville",
+  "date": "NOVEMBER 13, 6 PM TO 10 PM",
+  "headliners": "Yelawolf",
+  "venue": "River City Railway, Jacksonville",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/yelawolf-jacksonville-tickets-1990420652753",
+  "flyerUrl": "https://www.eventbrite.com/e/yelawolf-jacksonville-tickets-1990420652753",
+  "image": "/events/flyer/213-yelawolf-jacksonville.jpg",
+  "alt": "Yelawolf flyer, River City Railway Jacksonville",
+  "imageKey": "event-flyers/213-yelawolf-jacksonville.jpg",
+  "endDate": "2026-11-13"
  }
 ]
