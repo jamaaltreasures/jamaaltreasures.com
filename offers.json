@@ -67,6 +67,26 @@
       "checkoutType": "catalog-item"
     },
     {
+      "id": "expedited-delivery",
+      "category": "production",
+      "name": "Expedited Delivery",
+      "price": 200,
+      "icon": "work",
+      "summary": "Expedited delivery for your event coverage. Your full recap delivered the same night or the next day. Add this to the Event Coverage package.",
+      "deliverables": [
+        "Your full photo and video recap delivered the same night or the next day",
+        "Priority editing ahead of the standard two day delivery"
+      ],
+      "time": "Your full recap is delivered the same night or the next day when Expedited Delivery is added to Event Coverage.",
+      "note": "Expedited Delivery is booked as an add on to the Event Coverage package.",
+      "cta": "Add expedited delivery",
+      "idealFor": "Event Coverage clients who want the recap live the same night or the next day, while the event is still being talked about.",
+      "description": "Expedited delivery for your event coverage. Your full recap delivered the same night or the next day. Add this to the Event Coverage package.\n\nPerfect for: Event Coverage clients who want the recap live the same night or the next day, while the event is still being talked about.\n\nWhat you get:\n• Your full photo and video recap delivered the same night or the next day\n• Priority editing ahead of the standard two day delivery\n\nTurnaround: Your full recap is delivered the same night or the next day when Expedited Delivery is added to Event Coverage.\n\nExpedited Delivery is booked as an add on to the Event Coverage package.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "checkoutUrl": "https://square.link/u/jfh3fGsU",
+      "checkoutType": "catalog-item"
+    },
+    {
       "id": "ai-ugc-ad",
       "category": "ai",
       "name": "AI UGC Ad",
@@ -350,6 +370,6 @@
     "https://www.lunnaagency.com/blog/corporate-event-photography-video-cost-south-florida",
     "https://blueboxdigital.com/florida-event-videography-services/"
   ],
-  "square_status": "16 fresh service items have service-specific customer checkouts. Meta Ads uses a separate fixed monthly payment link, not a catalog subscription plan.",
+  "square_status": "17 fresh service items have service-specific customer checkouts. Meta Ads uses a separate fixed monthly payment link, not a catalog subscription plan.",
   "checkout_status": "Only verified matching service checkouts are linked. Membership uses its existing Whop access gate."
 }
