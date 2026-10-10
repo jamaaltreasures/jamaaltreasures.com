@@ -369,27 +369,15 @@ body .site-menu .menu-links a.menu-cta svg.ph-icon,body .site-menu .menu-links a
 .footer-explore{display:flex;flex-wrap:wrap;align-items:center;gap:6px 16px;flex:1 1 100%;margin-top:4px}
 .footer-explore-label{font-size:13px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#6E6A63}
 
-/* Home hero key, mobile only, FINAL FORM (2026-10-10): the owner re rendered the key on the site cream background, so the hero runs a plain H.264 MP4 (assets/hero-key-cream.mp4) with no transparency, no alpha gate, no player: autoplay, muted, loop, playsinline, poster for instant paint. Composition from the owner mockup, tightened 2026-10-10 in the owner escalation (see the Tight hero composition block below): the key stands full and clear on the right and never touches the wordmark, descriptor, or headline; frame 64.9vw wide at left 52.8vw, top calc(57px + 2vw); the render art bbox (x 63..657, y 38..1193 of 720x1280) puts the visible art left edge at 228px of 390 (the bow), bow top just below the header, and the right rim bleeding off the right edge. Owner placement rule (2026-10-10): the key tip (art bottom, 1192/1280 of frame height) lines up with the bottom of the A RECAP headline line, 484px at 390px wide in the tight composition; the top value puts the tip there. The flat cream frame feathers into the marble page through a two axis mask so no rectangle edge can show; the key art is central so the soft edges only ever cross cream. Text protection: the wordmark block is capped at 62vw and the headline lead lane at 70vw (widened from 62vw on 2026-10-10 so "YOUR EVENT" holds one line in the mockup's three line wrap, keeping clear air from the blade near 77vw) so no glyph runs under the key art; the italic serif lines flow below the key tip at full width. Desktop and tablet keep .hero-key display:none above. The old alpha WebM, MP4, and PNG stay in the repo unreferenced. */
+/* Home hero key, mobile only, FINAL FORM (2026-10-10): the owner re rendered the key on the site cream background, so the hero runs a plain H.264 MP4 (assets/hero-key-cream.mp4) with no transparency, no alpha gate, no player: autoplay, muted, loop, playsinline, poster for instant paint. Composition from the owner mockup: the key stands full and clear on the right and never touches the wordmark, descriptor, or headline; frame 53.3vw wide at left 60.1vw, top calc(86px + 2vw); the render art bbox (x 63..657, y 38..1193 of 720x1280) puts the art left edge at 64.8vw, its right rim about 8.7vw off the right edge, bow top just below the header. Owner placement rule (2026-10-10): the key tip (art bottom, 1192/1280 of frame height) lines up with the bottom of the A RECAP headline line, 438px at 390px wide after the three line wrap; the top value was lowered from calc(64px + 2vw) to calc(86px + 2vw) to put the tip there. The flat cream frame feathers into the marble page through a two axis mask so no rectangle edge can show; the key art is central so the soft edges only ever cross cream. Text protection: the wordmark block is capped at 62vw and the headline lead lane at 70vw (widened from 62vw on 2026-10-10 so "YOUR EVENT" holds one line in the mockup's three line wrap, keeping clear air from the blade near 77vw) so no glyph runs under the key art; the italic serif lines flow below the key tip at full width. Desktop and tablet keep .hero-key display:none above. The old alpha WebM, MP4, and PNG stay in the repo unreferenced. */
 /* Desktop and tablet: no key. The older .hero-key{display:none} sits inside a max-width:700px block, so it never applied above 700px and the key element rendered in the hero grid on wide screens; this global rule makes the documented intent real. The mobile block below re enables it. */
 .hero-key{display:none}
 @media (max-width:700px){
-.hero-key{display:block;position:absolute;width:64.9vw;left:52.8vw;top:calc(57px + 2vw);aspect-ratio:9/16;z-index:1;pointer-events:none}
+.hero-key{display:block;position:absolute;width:53.3vw;left:60.1vw;top:calc(86px + 2vw);aspect-ratio:9/16;z-index:1;pointer-events:none}
 .hero-key-cream{display:block;width:100%;height:100%;object-fit:cover;-webkit-mask-image:linear-gradient(90deg,transparent,#000 9%,#000 91%,transparent),linear-gradient(180deg,transparent,#000 5.5%,#000 95.5%,transparent);-webkit-mask-composite:source-in;mask-image:linear-gradient(90deg,transparent,#000 9%,#000 91%,transparent),linear-gradient(180deg,transparent,#000 5.5%,#000 95.5%,transparent);mask-composite:intersect}
 body .hero-coverage .hero-brand{max-width:62vw}
 body .hero-coverage .magic-title h1 .magic-lead{max-width:70vw}
 .hero .hero-content{position:relative;z-index:2}
-}
-
-/* Tight hero composition (2026-10-10, owner escalation): the mobile home hero is re composed to the owner's reference: text column fills the screen with no airy bands, type scaled up about 15 percent with tracking tightened so line widths hold, gaps closed, wordmark block enlarged under the header, and the key enlarged so its bow starts just under the header and its tip still lands on the A RECAP bottom. All values tuned by measured ink boxes in 390x844 renders against the reference fractions. */
-@media (max-width:700px){
-body .hero-magic.hero-coverage{padding-top:161px}
-body .hero-coverage .hero-wordmark{width:217px;height:102px;object-fit:fill;transform:scaleY(1.165);transform-origin:50% 0}
-body .hero-coverage .hero-descriptor{font-size:13.8px;letter-spacing:2.2px;margin-top:18px}
-body .hero-coverage .hero-brand{margin-bottom:16px}
-body .hero-coverage .magic-title h1{font-size:52px;line-height:1.13}
-body .hero-coverage .magic-title h1 .magic-lead{letter-spacing:-.095em}
-body .hero-coverage .magic-title h1 .magic-word{letter-spacing:-.085em}
-body .hero-coverage .hero-description{margin-top:32px}
 }
 
 /* JT tuned liquid glass (owner's Glass Lab recipe, 2026-10-10): MENU PANEL and MOBILE DOCK only.
