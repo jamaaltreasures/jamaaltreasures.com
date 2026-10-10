@@ -3367,5 +3367,56 @@
   "alt": "Yelawolf flyer, River City Railway Jacksonville",
   "imageKey": "event-flyers/213-yelawolf-jacksonville.jpg",
   "endDate": "2026-11-13"
+ },
+ {
+  "section": "LATER IN OCTOBER",
+  "title": "Afroman at The Vanguard",
+  "date": "OCTOBER 30, 7 PM",
+  "headliners": "Afroman, Cypress Spring, Red Savage, The Wonder Years",
+  "venue": "The Vanguard, Orlando",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/afroman-at-the-vanguard-tickets-1993545111092",
+  "flyerUrl": "https://www.eventbrite.com/e/afroman-at-the-vanguard-tickets-1993545111092",
+  "image": "/events/flyer/214-afroman-at-the-vanguard.jpg",
+  "alt": "Afroman at The Vanguard flyer, The Vanguard Orlando",
+  "imageKey": "event-flyers/214-afroman-at-the-vanguard.jpg",
+  "endDate": "2026-10-30"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Holiday Market Networking Mixer",
+  "date": "DECEMBER 1, 6 PM TO 8:30 PM",
+  "headliners": "",
+  "venue": "The Hangar Restaurant and Flight Lounge, St. Petersburg",
+  "categories": [
+   "Business"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/holiday-market-networking-mixer-tickets-2000501196932",
+  "flyerUrl": "https://www.eventbrite.com/e/holiday-market-networking-mixer-tickets-2000501196932",
+  "image": "/events/flyer/215-holiday-market-networking-mixer.jpg",
+  "alt": "Holiday Market Networking Mixer flyer, The Hangar Restaurant and Flight Lounge St. Petersburg",
+  "imageKey": "event-flyers/215-holiday-market-networking-mixer.jpg",
+  "endDate": "2026-12-01"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Body Mind Spirit Celebration",
+  "date": "NOVEMBER 14 TO 15",
+  "headliners": "",
+  "venue": "Florida State Fairgrounds, Tampa",
+  "categories": [
+   "Wellness"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/copy-of-body-mind-spirit-celebration-tampa-nov-14-15-tickets-1990701683323",
+  "flyerUrl": "https://www.eventbrite.com/e/copy-of-body-mind-spirit-celebration-tampa-nov-14-15-tickets-1990701683323",
+  "image": "/events/flyer/216-body-mind-spirit-celebration.jpg",
+  "alt": "Body Mind Spirit Celebration flyer, Florida State Fairgrounds Tampa",
+  "imageKey": "event-flyers/216-body-mind-spirit-celebration.jpg",
+  "endDate": "2026-11-15"
  }
 ]
