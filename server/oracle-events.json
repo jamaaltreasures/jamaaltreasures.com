@@ -3418,5 +3418,42 @@
   "alt": "Body Mind Spirit Celebration flyer, Florida State Fairgrounds Tampa",
   "imageKey": "event-flyers/216-body-mind-spirit-celebration.jpg",
   "endDate": "2026-11-15"
+ },
+ {
+  "section": "NEXT WEEK",
+  "title": "A:M Jamboree Miami",
+  "date": "OCTOBER 12, 4 PM TO 10 PM",
+  "headliners": "Skinny Fabulous",
+  "venue": "2651 NW 36th St, Miami",
+  "categories": [
+   "Culture",
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/am-jamboree-miami-tickets-1995573609385",
+  "flyerUrl": "https://www.eventbrite.com/e/am-jamboree-miami-tickets-1995573609385",
+  "image": "/events/flyer/217-am-jamboree-miami.jpg",
+  "alt": "A:M Jamboree Miami event flyer",
+  "imageKey": "event-flyers/217-am-jamboree-miami.jpg",
+  "endDate": "2026-10-12"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Florida Classic Concert: YFN Lucci Live",
+  "date": "NOVEMBER 21, 10 PM TO 2 AM",
+  "headliners": "YFN Lucci, DJ 4D, DJ DK, DJ Savage",
+  "venue": "Rum Jungle, Orlando",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/florida-classic-concert-yfn-lucci-live-tickets-2001647576785",
+  "flyerUrl": "https://www.eventbrite.com/e/florida-classic-concert-yfn-lucci-live-tickets-2001647576785",
+  "image": "/events/flyer/218-florida-classic-concert-yfn-lucci.jpg",
+  "alt": "Florida Classic Concert YFN Lucci flyer, Rum Jungle Orlando",
+  "imageKey": "event-flyers/218-florida-classic-concert-yfn-lucci.jpg",
+  "endDate": "2026-11-22"
  }
 ]
