@@ -184,3 +184,9 @@ html.lg-refract .mobile-dock{backdrop-filter:url(#lg-chip)}
    an explicit 20px so it matches the old glyph weight. */
 .icon-glyph{width:1em;height:1em;display:inline-block;vertical-align:-.12em;flex:none}
 .preview-play-icon .icon-glyph{width:20px;height:20px}
+/* Mobile stability: no live backdrop blur on phones. */
+@media (max-width:700px){
+.glass,.glass-panel,.film-modal,.inspiration-dialog,.mobile-dock,.desktop-nav,.site-header,.preview-play,.preview-status,.preview-play-icon,.reach-evidence>summary,.reach-evidence[open],footer a:not(.brand){-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
+.glass::before,.film-slide::before,.film-modal::backdrop,dialog::backdrop{-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
+.glass,.glass-panel,.film-modal,.inspiration-dialog,.mobile-dock,.site-header,.preview-play,.preview-status{background:rgba(255,255,255,.94)!important}
+}
