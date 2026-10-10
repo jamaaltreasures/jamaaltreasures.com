@@ -2,7 +2,7 @@ import offers from '../offers.json' with {type:'json'};
 
 export function llmsText(){return `# Jamaal Treasures
 
-> Jamaal Treasures is a Florida event coverage company. Two shooters, one photographer and one videographer, capture events across Florida and deliver the full photo and video recap within two days. Behind the company is creative director Jamaal Treasures, a creator with serious proof: 51 directed music videos with more than five million views, 1.6 million streams as recording artist Oracle Gemini, and director of the AI film THE REALM. The events page tracks 196 Florida events, updates regularly, and expands to more states soon. The blog holds 131 stories. Book the team while your date is open.
+> Jamaal Treasures is a Florida event coverage company. Two shooters, one photographer and one videographer, capture events across Florida and deliver the full photo and video recap within two days. Behind the company is creative director Jamaal Treasures, a creator with serious proof: 51 directed music videos with more than five million views, 1.6 million streams as recording artist Oracle Gemini, and director of the AI film THE REALM. Book the team while your date is open.
 
 ## Main sections
 
