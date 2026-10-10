@@ -428,3 +428,36 @@ body .site-header .site-menu.glass-panel,body .mobile-dock{background:#fff!impor
 .music-player .player-collapse{width:40px;height:40px;min-width:40px;min-height:40px;background:transparent;border-radius:50%}
 .music-player .player-collapse::before{content:"";position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:16px;height:16px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#ffedb0 0%,#ffd23e 42%,#ffb400 75%,#e89b00 100%);box-shadow:inset 0 -2px 3px rgba(146,90,0,.45),inset 0 1px 2px rgba(255,255,255,.85),0 1px 3px rgba(17,17,20,.28)}
 .music-player .player-collapse svg{position:relative;z-index:1;width:9px;height:9px;color:#4a3500}
+
+/* Condensed footer and Careers page, 2026-10-10 (owner order): the footer is organized into tight rows with compact chips and no dead air, roughly half its former height; Careers joins the Explore list. */
+footer{display:flex;flex-wrap:wrap;align-items:center;gap:8px 10px;padding:16px 0 18px!important;line-height:1.35}
+footer .footer-top{display:flex;align-items:center;flex-wrap:wrap;gap:4px 14px;flex:1 1 100%}
+footer .footer-top .brand{flex:none;line-height:0}
+footer .jt-brand-logo{height:44px;width:auto}
+footer .footer-copy{margin:0;color:#6E6A63}
+footer>div.footer-contact{display:flex;flex-wrap:wrap;gap:8px;flex:1 1 100%}
+footer a:not(.brand){display:inline-flex;align-items:center;gap:7px;min-height:34px;padding:5px 12px;border-radius:999px;background:rgba(255,255,255,.55);border:1px solid rgba(17,17,20,.08);line-height:1.25}
+footer .platform-logo{margin:0;width:16px;height:16px}
+footer .footer-explore{display:flex;flex-wrap:wrap;align-items:center;gap:8px;flex:1 1 100%;margin-top:0}
+footer .footer-explore-label{margin-right:2px}
+.careers-ambition{font-size:18px;line-height:1.7;font-weight:650;color:#111114;max-width:760px;margin:14px 0 0}
+.careers-roles{margin-top:30px}
+.careers-apply{margin-top:36px;border-top:1px solid var(--line);padding-top:28px}
+.careers-apply h2{font-size:clamp(28px,3.4vw,40px);letter-spacing:-.04em}
+.careers-apply p{font-size:18px;line-height:1.7;color:#111114;max-width:640px;margin:12px 0 20px}
+.careers-lead{font-size:18px;line-height:1.7;color:#111114;max-width:760px;margin:10px 0 0}
+footer{gap:6px 8px;padding:14px 0 16px!important}
+footer .footer-top{gap:2px 12px}
+footer .jt-brand-logo{height:40px}
+footer .footer-copy{line-height:1.3}
+footer>div.footer-contact{gap:6px 8px}
+footer a:not(.brand){min-height:32px;padding:4px 10px;gap:6px}
+footer .footer-explore{gap:6px 8px}
+footer>div.footer-contact{flex-direction:row;align-items:center}
+footer .footer-top{flex-direction:row}
+footer .brand img.jt-brand-logo{height:40px;width:auto;max-height:none}
+footer .footer-top .footer-copy{line-height:1.3}
+footer a:not(.brand){font-size:17px}
+footer{padding:12px 0 14px!important}
+footer>div.footer-contact{gap:6px}
+footer .footer-explore{gap:6px}

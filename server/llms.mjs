@@ -12,9 +12,14 @@ export function llmsText(){return `# Jamaal Treasures
 * [Blog and Journal](https://jamaaltreasures.com/blog): 131 stories on creativity, AI film and Florida events, with sources.
 * [Events](https://jamaaltreasures.com/events): 196 Florida events, updated regularly: concerts, festivals, nightlife, business and cultural events, with more states coming soon. Confirm details with the linked organizer or ticket source.
 * [Biography](https://jamaaltreasures.com/bio): Background and credits for creative director Jamaal Treasures.
+* [Careers](https://jamaaltreasures.com/careers): Join the crew. The team is building a roster of production specialists for bigger Florida events, and applications are open by email.
 * [Music](https://jamaaltreasures.com/music): The music of Oracle Gemini: 81 songs across 36 releases and 1.6 million streams.
 * [Reviews](https://jamaaltreasures.com/reviews): Client feedback.
 * [Contact and booking](https://jamaaltreasures.com/contact): Check a date, discuss a project, book coverage.
+
+## Careers and crew roster
+
+Jamaal Treasures is growing from Florida event coverage into a full service production company and is building a per event crew roster for bigger productions. The company is led by Jamaal Treasures as producer and executive producer. Open roles: Experienced Producer, Camera Operator, Photographer, DIT, Editor for Dailies, Editor for Socials, VFX Artist, Drone and FPV Pilot, Hyperlapse Photographer. To apply, email media@jamaaltreasures.com with your role, your city, links to your work, and your gear list. Careers page: https://jamaaltreasures.com/careers
 
 ## Listed service prices
 
