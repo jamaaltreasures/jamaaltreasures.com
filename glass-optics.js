@@ -110,3 +110,20 @@
    variable, --sheen-pos, so the specular sheen on frosted and baked glass
    drifts as the page moves. Static under prefers-reduced-motion. */
 (()=>{const root=document.documentElement;const pref=matchMedia('(prefers-reduced-motion: reduce)');let ticking=false;function update(){ticking=false;const max=Math.max(1,root.scrollHeight-innerHeight);const p=Math.min(1,Math.max(0,scrollY/max));root.style.setProperty('--sheen-pos',(8+p*84).toFixed(1)+'%');}function onScroll(){if(!ticking){ticking=true;requestAnimationFrame(update);}}if(pref.matches||matchMedia('(pointer: coarse)').matches){root.style.setProperty('--sheen-pos','30%');}else{update();addEventListener('scroll',onScroll,{passive:true});addEventListener('resize',onScroll,{passive:true});}})();
+
+/* Hero key living image gate (2026-10-10): the key video carries a real
+   alpha channel, but only an engine that decodes WebM alpha honestly may
+   show it. A decoded frame is drawn to a tiny canvas and its corner pixels
+   are sampled: transparent corners reveal the video over the PNG still,
+   while an opaque corner (the H.264 fallback, an engine without WebM
+   alpha, a stalled load) leaves the still in place, so the black studio
+   background the video was keyed from can never paint as a rectangle on
+   the cream hero. Reduced motion keeps the still and pauses the video,
+   and playback pauses while the hero is off screen. */
+(()=>{const wrap=document.querySelector('.hero-key');const video=wrap&&wrap.querySelector('.hero-key-video');if(!wrap||!video)return;const reduce=matchMedia('(prefers-reduced-motion: reduce)');let proven=false;
+function prove(){if(proven||video.readyState<2)return;try{const c=document.createElement('canvas');c.width=8;c.height=8;const x=c.getContext('2d',{willReadFrequently:true});x.drawImage(video,0,0,8,8);const d=x.getImageData(0,0,8,8).data;if(d[3]<10&&d[31]<10&&d[227]<10&&d[255]<10){proven=true;if(reduce.matches){video.pause();}else{wrap.classList.add('live');const p=video.play();if(p&&p.catch)p.catch(()=>{});}}}catch(err){}}
+video.addEventListener('loadeddata',prove);video.addEventListener('canplay',prove);
+if(reduce.matches)video.pause();
+if(reduce.addEventListener)reduce.addEventListener('change',()=>{if(reduce.matches){video.pause();wrap.classList.remove('live');}});
+new IntersectionObserver(entries=>{if(!proven||reduce.matches)return;if(entries[0].isIntersecting){const p=video.play();if(p&&p.catch)p.catch(()=>{});}else{video.pause();}}).observe(wrap);
+})();

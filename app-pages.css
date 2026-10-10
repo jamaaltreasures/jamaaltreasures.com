@@ -369,9 +369,13 @@ body .site-menu .menu-links a.menu-cta svg.ph-icon,body .site-menu .menu-links a
 .footer-explore{display:flex;flex-wrap:wrap;align-items:center;gap:6px 16px;flex:1 1 100%;margin-top:4px}
 .footer-explore-label{font-size:13px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#6E6A63}
 
-/* Home hero key artwork, mobile only: the key art sits inside a square canvas with transparent margins (art spans x 27% to 74%, y 3% to 98% of the canvas), so the canvas is sized up and pushed right until the visible key matches the owner mockup: visible art about 43vw wide bleeding about 10vw off the right edge, top at the masthead, tip ending in the description zone above the buttons. Desktop and tablet keep .hero-key display:none above. */
+/* Home hero key, mobile only, living image (2026-10-10): the owner's key video (VP9 WebM carrying a real alpha channel keyed from the black studio background, H.264 MP4 as second source) replaces the still, framed so the key ART lands on the exact footprint the approved PNG placement produced. PNG reference: canvas 112vw at right -39vw, top 64px, its art spanning x 27% to 74% and y 3% to 98% of the square, so art 52.64vw wide, art left edge 57.24vw, art top 64px + 3.36vw. Video frame 720 by 1280, its art bounding box measured at x 8.47% to 93.33% and y 2.81% to 94.22%: solving element width so 84.86% of it equals 52.64vw gives 62vw; a 52vw left edge gives right -14vw; the art top offset inside the element is 3.10vw against the PNG's 3.36vw, so top calc(64px + .26vw) restores the art top exactly. The PNG still stays underneath, sized and offset to reproduce the original approved placement pixel for pixel (112vw square at left 27vw, top 64px), and it carries the hero whenever the video cannot prove its transparency, motion is reduced, or scripts do not run. glass-optics.js adds .live only after a decoded frame samples transparent corners: the video then paints and the still hides. Desktop and tablet keep .hero-key display:none above. */
 @media (max-width:700px){
-.hero-key{display:block;position:absolute;width:112vw;right:-39vw;top:64px;z-index:1;pointer-events:none}
+.hero-key{display:block;position:absolute;width:62vw;right:-14vw;top:calc(64px + .26vw);aspect-ratio:9/16;z-index:1;pointer-events:none}
+.hero-key-still{position:absolute;left:-40.32%;top:-.24%;width:180.65%;height:101.61%}
+.hero-key-video{position:absolute;inset:0;width:100%;height:100%;opacity:0}
+.hero-key.live .hero-key-video{opacity:1}
+.hero-key.live .hero-key-still{visibility:hidden}
 .hero .hero-content{position:relative;z-index:2}
 }
 
