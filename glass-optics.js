@@ -11,7 +11,7 @@
    Owned image/canvas sources only. Arbitrary DOM and cross-origin video retain the live frost fallback. */
 (() => {
  'use strict';
- const reduced=matchMedia('(prefers-reduced-transparency: reduce)'),contrast=matchMedia('(prefers-contrast: more)'),motion=matchMedia('(prefers-reduced-motion: reduce)');
+ const reduced=matchMedia('(prefers-reduced-transparency: reduce)'),contrast=matchMedia('(prefers-contrast: more)'),motion=matchMedia('(prefers-reduced-motion: reduce)');const coarsePointer=matchMedia('(pointer: coarse)').matches;
  const entries=[],fields=new Map();let queued=false,sceneCache,reviewCache,cinemaCache,atmosphereCache,intensity=1;
  const stats={renders:0,lastMs:0,maxMs:0,mode:'aligned RGB image sampling'};
  function distance(x,y,w,h,r){const qx=Math.abs(x-w/2)-(w/2-r),qy=Math.abs(y-h/2)-(h/2-r);return Math.hypot(Math.max(qx,0),Math.max(qy,0))+Math.min(Math.max(qx,qy),0)-r;}
@@ -96,17 +96,17 @@
  }
  window.JTGlassOptics={attach,renderAll,schedule,stats,field,setIntensity(value){intensity=Math.max(.5,Math.min(1.8,Number(value)||1));schedule();}};
  function attachNew(root=document){const elements=[...(root.matches?.('.glass')?[root]:[]),...root.querySelectorAll('.glass')];elements.forEach(element=>attach(element,element.closest('#film-dialog')?cinemaSource:element.dataset.opticsSource==='atmosphere'?atmosphereSource:heroSource));}
- attachNew();new MutationObserver(records=>{for(const record of records)for(const node of record.addedNodes)if(node.nodeType===1&&node.tagName!=='CANVAS')attachNew(node);}).observe(document.body,{childList:true,subtree:true});
+ if(!coarsePointer){attachNew();new MutationObserver(records=>{for(const record of records)for(const node of record.addedNodes)if(node.nodeType===1&&node.tagName!=='CANVAS')attachNew(node);}).observe(document.body,{childList:true,subtree:true});}
  const cinema=document.querySelector('#film-dialog');if(cinema)new MutationObserver(schedule).observe(cinema,{attributes:true,attributeFilter:['open']});
  document.querySelector('.hero-background')?.addEventListener('load',schedule);document.querySelector('.atmosphere-image')?.addEventListener('load',schedule);
- window.addEventListener('scroll',schedule,{passive:true});window.addEventListener('resize',()=>{sceneCache=null;atmosphereCache=null;cinemaCache=null;schedule();},{passive:true});
+ if(!coarsePointer)window.addEventListener('scroll',schedule,{passive:true});window.addEventListener('resize',()=>{sceneCache=null;atmosphereCache=null;cinemaCache=null;schedule();},{passive:true});
  for(const pref of [reduced,contrast,motion])pref.addEventListener('change',schedule);
  document.fonts?.ready.then(schedule);
 })();
 /* Slow shared scene drift. Controls remain fixed; source and lens share the exact offset. */
-(()=>{const hero=document.querySelector('.hero');if(!hero)return;const pref=matchMedia('(prefers-reduced-motion: reduce)');let visible=true,phase=0;new IntersectionObserver(e=>visible=e[0].isIntersecting).observe(hero);function draw(){const x=Math.sin(phase)*22,y=Math.cos(phase*.7)*10;hero.style.setProperty('--drift-x',x.toFixed(2)+'px');hero.style.setProperty('--drift-y',y.toFixed(2)+'px');JTGlassOptics.schedule()}window.JTSceneDrift={setPhase(value){phase=value;draw()},pause:false};pref.addEventListener('change',()=>{if(pref.matches){phase=0;hero.style.setProperty('--drift-x','0px');hero.style.setProperty('--drift-y','0px');JTGlassOptics.schedule()}});setInterval(()=>{if(visible&&!document.hidden&&!pref.matches&&!window.JTSceneDrift.pause&&!document.querySelector('dialog[open]')){phase+=.0195;draw()}},150)})();
+(()=>{const hero=document.querySelector('.hero');if(!hero)return;const pref=matchMedia('(prefers-reduced-motion: reduce)');let visible=true,phase=0;new IntersectionObserver(e=>visible=e[0].isIntersecting).observe(hero);function draw(){const x=Math.sin(phase)*22,y=Math.cos(phase*.7)*10;hero.style.setProperty('--drift-x',x.toFixed(2)+'px');hero.style.setProperty('--drift-y',y.toFixed(2)+'px');JTGlassOptics.schedule()}window.JTSceneDrift={setPhase(value){phase=value;draw()},pause:false};pref.addEventListener('change',()=>{if(pref.matches){phase=0;hero.style.setProperty('--drift-x','0px');hero.style.setProperty('--drift-y','0px');JTGlassOptics.schedule()}});if(!matchMedia('(pointer: coarse)').matches)setInterval(()=>{if(visible&&!document.hidden&&!pref.matches&&!window.JTSceneDrift.pause&&!document.querySelector('dialog[open]')){phase+=.0195;draw()}},150)})();
 
 /* Phase 3 living light: one passive scroll listener drives a single CSS
    variable, --sheen-pos, so the specular sheen on frosted and baked glass
    drifts as the page moves. Static under prefers-reduced-motion. */
-(()=>{const root=document.documentElement;const pref=matchMedia('(prefers-reduced-motion: reduce)');let ticking=false;function update(){ticking=false;const max=Math.max(1,root.scrollHeight-innerHeight);const p=Math.min(1,Math.max(0,scrollY/max));root.style.setProperty('--sheen-pos',(8+p*84).toFixed(1)+'%');}function onScroll(){if(!ticking){ticking=true;requestAnimationFrame(update);}}if(pref.matches){root.style.setProperty('--sheen-pos','30%');}else{update();addEventListener('scroll',onScroll,{passive:true});addEventListener('resize',onScroll,{passive:true});}})();
+(()=>{const root=document.documentElement;const pref=matchMedia('(prefers-reduced-motion: reduce)');let ticking=false;function update(){ticking=false;const max=Math.max(1,root.scrollHeight-innerHeight);const p=Math.min(1,Math.max(0,scrollY/max));root.style.setProperty('--sheen-pos',(8+p*84).toFixed(1)+'%');}function onScroll(){if(!ticking){ticking=true;requestAnimationFrame(update);}}if(pref.matches||matchMedia('(pointer: coarse)').matches){root.style.setProperty('--sheen-pos','30%');}else{update();addEventListener('scroll',onScroll,{passive:true});addEventListener('resize',onScroll,{passive:true});}})();
