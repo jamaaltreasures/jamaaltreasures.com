@@ -365,3 +365,9 @@ body .site-menu .menu-links a.menu-cta svg.ph-icon,body .site-menu .menu-links a
 @keyframes player-wave{0%,100%{transform:scaleY(.35)}50%{transform:scaleY(1)}}
 @media(max-width:700px){.music-player-mini{bottom:calc(92px + env(safe-area-inset-bottom));right:14px;backdrop-filter:none;-webkit-backdrop-filter:none;background:rgba(255,255,255,.94)}.music-player.music-player-complete{padding-top:8px;padding-bottom:8px;gap:6px 10px}.music-player-complete .music-timeline{min-height:20px}}
 @media(prefers-reduced-motion:reduce){.music-player-mini.is-playing .wave-bar{animation:none;transform:scaleY(.7)}.music-player-mini.is-in{animation:none}.music-player{transition:none}}
+
+/* Restored navigation, 2026-10-10: menu group label and footer utility area. Additions only. */
+.menu-group{margin-top:10px;padding-top:12px;border-top:1px solid rgba(17,17,20,.1)}
+.menu-group-label{margin:0 14px 6px;font-size:13px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#6E6A63}
+.footer-explore{display:flex;flex-wrap:wrap;align-items:center;gap:6px 16px;flex:1 1 100%;margin-top:4px}
+.footer-explore-label{font-size:13px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#6E6A63}
