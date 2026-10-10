@@ -313,3 +313,20 @@ body .hero-magic .hero-actions .button{flex:1 1 0;min-width:0;justify-content:ce
 body .hero-magic .hero-actions{flex-direction:column;align-items:stretch}
 body .hero-magic .hero-actions .button{flex:none;width:100%}
 }
+
+/* Home hero masthead: wordmark logo, descriptor line, one shared left edge, even spacing rhythm */
+body .hero-coverage .hero-content{text-align:left}
+body .hero-coverage .hero-brand{margin:0 0 24px}
+body .hero-coverage .hero-wordmark{display:block;width:250px;height:auto}
+body .hero-coverage .hero-descriptor{margin:12px 0 0;color:#A7192F;font-size:12px;font-weight:700;letter-spacing:.34em;line-height:1.5}
+body .hero-coverage .magic-title{margin:0}
+body .hero-coverage .magic-title h1{margin:0;line-height:1.05;text-wrap:balance}
+body .hero-coverage .hero-description{margin:26px 0 0;max-width:56ch;line-height:1.65}
+body .hero-coverage .hero-actions{margin-top:30px}
+@media (max-width:700px){
+body .hero-coverage .hero-brand{margin-bottom:20px}
+body .hero-coverage .hero-wordmark{width:212px}
+body .hero-coverage .hero-descriptor{font-size:11px;letter-spacing:.3em}
+body .hero-coverage .hero-description{margin-top:22px}
+body .hero-coverage .hero-actions{margin-top:26px}
+}
