@@ -14,3 +14,5 @@ body:not([data-page="journal"]) .glass-optics{filter:none;opacity:.85}
 @media(prefers-reduced-transparency:reduce),(prefers-contrast:more){body:not([data-page="journal"]) .glass{backdrop-filter:none!important;-webkit-backdrop-filter:none!important;background:#f4f0e8!important}}
 
 #reading-page.independent-page{width:100%;max-width:none;padding:115px 0 110px;margin:0;overflow:visible}body[data-page="independent"] #main{max-width:none;width:100%}
+/* Mobile stability: no live backdrop blur on phones. */
+@media (max-width:700px){body:not([data-page="journal"]) .glass{-webkit-backdrop-filter:none!important;backdrop-filter:none!important}}
