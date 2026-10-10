@@ -288,3 +288,14 @@ html.lg-refract .mobile-dock{backdrop-filter:url(#lg-chip)!important;-webkit-bac
 .music-controls-dialog::backdrop,.collaboration-dialog::backdrop{-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
 .site-menu,.music-player,.music-controls-dialog,.collaboration-dialog,body .mobile-dock,body .site-header .site-menu.glass-panel,body .site-header :is(.nav-quote,.menu-toggle),body .hero-magic .hero-actions .button{background:rgba(255,255,255,.94)!important}
 }
+
+/* Event coverage hero: coverage copy leads the home page, the Realm film sits below as proof. */
+.hero.hero-coverage .hero-content{grid-column:1/-1;grid-row:1;max-width:1080px}
+.hero.hero-coverage .hero-description{max-width:62ch}
+.hero-proof{display:flex;flex-wrap:wrap;gap:12px 30px;list-style:none;margin:28px 0 0;padding:0;max-width:1080px}
+.hero-proof li{position:relative;padding-left:20px;font-size:18px;line-height:1.55;color:#111114}
+.hero-proof li::before{content:"";position:absolute;left:0;top:.52em;width:9px;height:9px;border-radius:50%;background:#EF2B4B}
+.hero.hero-coverage .hero-feature.hero-feature-below{grid-column:1/-1;grid-row:auto;align-self:start;width:100%;max-width:880px;margin-top:44px}
+.hero.hero-coverage .hero-feature-below .headline-film{grid-column:auto;grid-row:auto;max-width:none}
+@media(max-width:1099px){.hero.hero-coverage .hero-feature.hero-feature-below{max-width:800px}}
+@media(max-width:700px){.hero-proof{gap:10px 18px;margin-top:22px}.hero.hero-coverage .hero-feature.hero-feature-below{margin-top:30px}}
