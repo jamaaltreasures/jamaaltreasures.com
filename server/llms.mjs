@@ -2,13 +2,13 @@ import offers from '../offers.json' with {type:'json'};
 
 export function llmsText(){return `# Jamaal Treasures
 
-> Jamaal Treasures is a creative director, filmmaker, designer and recording artist serving Florida. This website presents creative work, services and prices, a Journal, and a curated Florida event guide.
+> Jamaal Treasures is a Florida event coverage company. Two shooters, one photographer and one videographer, capture events across Florida and deliver the full photo and video recap within two days. This website presents the event coverage offer and booking, a curated Florida event guide, creative services and prices, a Journal, and the studio portfolio, including directed music videos with more than five million views.
 
 ## Main sections
 
-* [Homepage](https://jamaaltreasures.com/): Introduction and featured work.
+* [Homepage](https://jamaaltreasures.com/): The event coverage offer, proof and booking paths.
 * [Services and prices](https://jamaaltreasures.com/prices): Current service descriptions, deliverables, USD prices and booking options.
-* [Work](https://jamaaltreasures.com/work): Directed music videos and creative projects.
+* [Work](https://jamaaltreasures.com/work): Directed music videos and creative projects, the production portfolio behind the coverage team.
 * [Blog and Journal](https://jamaaltreasures.com/blog): Creative news and practical guides with sources.
 * [Events](https://jamaaltreasures.com/events): Curated Florida concerts, festivals, nightlife, business and cultural events. Confirm current details with the linked organizer or ticket source.
 * [Biography](https://jamaaltreasures.com/bio): Professional background and credits.

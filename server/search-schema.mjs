@@ -4,7 +4,7 @@ const months = ['JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST
 export const businessSchema = {
   '@context': 'https://schema.org', '@type': 'LocalBusiness',
   '@id': origin + '/#business', name: 'Jamaal Treasures', url: origin + '/',
-  description: 'Creative direction, music videos, cinematic AI films, websites, branding, design and event coverage.',
+  description: 'Florida event coverage company. Two shooters, one photographer and one videographer, capture events across Florida and deliver the full recap within two days. The team also produces music videos, cinematic AI films, websites, branding and design.',
   areaServed: { '@type': 'State', name: 'Florida' },
   telephone: '+19412949274', email: 'jamaaltreasures@gmail.com',
   image: origin + '/assets/jamaal-portrait-900.webp',
