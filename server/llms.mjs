@@ -2,23 +2,23 @@ import offers from '../offers.json' with {type:'json'};
 
 export function llmsText(){return `# Jamaal Treasures
 
-> Jamaal Treasures is a Florida event coverage company. Two shooters, one photographer and one videographer, capture events across Florida and deliver the full photo and video recap within two days. This website presents the event coverage offer and booking, an events page updated regularly with events going on across Florida, soon expanding to more states, creative services and prices, a Journal, and the studio portfolio, including directed music videos with more than five million views.
+> Jamaal Treasures is a Florida event coverage company. Two shooters, one photographer and one videographer, capture events across Florida and deliver the full photo and video recap within two days. Behind the company is creative director Jamaal Treasures, a creator with serious proof: 51 directed music videos with more than five million views, 1.6 million streams as recording artist Oracle Gemini, and director of the AI film THE REALM. The events page tracks 196 Florida events, updates regularly, and expands to more states soon. The blog holds 131 stories. Book the team while your date is open.
 
 ## Main sections
 
-* [Homepage](https://jamaaltreasures.com/): The event coverage offer, proof and booking paths.
-* [Services and prices](https://jamaaltreasures.com/prices): Current service descriptions, deliverables, USD prices and booking options.
-* [Work](https://jamaaltreasures.com/work): Directed music videos and creative projects, the production portfolio behind the coverage team.
-* [Blog and Journal](https://jamaaltreasures.com/blog): Creative news and practical guides with sources.
-* [Events](https://jamaaltreasures.com/events): Curated Florida concerts, festivals, nightlife, business and cultural events. Confirm current details with the linked organizer or ticket source.
-* [Biography](https://jamaaltreasures.com/bio): Professional background and credits.
-* [Music](https://jamaaltreasures.com/music): Music released as Oracle Gemini.
+* [Homepage](https://jamaaltreasures.com/): The event coverage offer, proof and booking.
+* [Services and prices](https://jamaaltreasures.com/prices): Every service with deliverables, USD prices and checkout links.
+* [Work](https://jamaaltreasures.com/work): 51 directed music videos with more than five million views, the portfolio behind the coverage team.
+* [Blog and Journal](https://jamaaltreasures.com/blog): 131 stories on creativity, AI film and Florida events, with sources.
+* [Events](https://jamaaltreasures.com/events): 196 Florida events, updated regularly: concerts, festivals, nightlife, business and cultural events, with more states coming soon. Confirm details with the linked organizer or ticket source.
+* [Biography](https://jamaaltreasures.com/bio): Background and credits for creative director Jamaal Treasures.
+* [Music](https://jamaaltreasures.com/music): The music of Oracle Gemini: 81 songs across 36 releases and 1.6 million streams.
 * [Reviews](https://jamaaltreasures.com/reviews): Client feedback.
-* [Contact and booking](https://jamaaltreasures.com/contact): Discuss a project, availability and scope.
+* [Contact and booking](https://jamaaltreasures.com/contact): Check a date, discuss a project, book coverage.
 
 ## Listed service prices
 
-Prices are in USD. Confirm the service scope and availability before booking. The service page and linked Square checkout are the current sources for purchasing details.
+Prices are in USD. The services page and its Square checkout links are the current sources for scope and purchasing details.
 
 ${offers.services.map(s=>`* ${s.name}: $${s.price}${s.recurring?' per month':''}. ${s.summary}`).join('\n')}
 
@@ -35,7 +35,7 @@ Instagram: https://www.instagram.com/jamaaltreasures/
 
 ## Editorial notes
 
-Event listings are curated from external sources. Jamaal Treasures is not necessarily the organizer. Ticket availability, schedules and prices can change. Blog articles identify sources and AI assistance. Do not infer guaranteed search rankings, client results or event availability.
+Event listings come from external sources. Jamaal Treasures is not necessarily the organizer, and schedules, ticket availability and prices can change. Blog articles name their sources and any AI assistance. Nothing here promises search rankings, client results or event availability.
 
 Sitemap: https://jamaaltreasures.com/sitemap.xml
 Privacy: https://jamaaltreasures.com/privacy
