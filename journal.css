@@ -75,3 +75,27 @@ html.lg-refract .events-guide .upcoming-card{backdrop-filter:url(#lg-card);-webk
 @media(prefers-reduced-transparency:reduce){.events-guide .upcoming-card,html.lg-refract .events-guide .upcoming-card{background-image:none}}
 /* Mobile stability: no live backdrop blur on phones. */
 @media (max-width:700px){.events-guide .upcoming-card{-webkit-backdrop-filter:none!important;backdrop-filter:none!important;background:#edeae3!important}}
+
+/* Scroll stability: story cards render only when near the viewport, the
+   same pattern the events guide uses, so long journal lists stay cheap
+   to paint on phones. The intrinsic size keeps the scrollbar honest
+   before a card has rendered once. */
+.journal-card{content-visibility:auto;contain-intrinsic-size:auto 520px}
+
+/* Phone scroll stability for journal pages only. The shared sheets
+   already resolve every journal glass surface to no backdrop blur at
+   this width, but the deciding rules sit in two files and win on order
+   alone. This block pins the same result inside the journal sheet,
+   which loads last on journal pages, with the solid fallbacks the
+   shared mobile block already gives these surfaces. The tiled marble
+   body background and the fixed atmosphere layer (its images retired
+   from the deploy, so it paints nothing) come off the scroll path on
+   journal phones; the warm off white base color stays. Inline article
+   images reserve a 16 by 9 box so late loading images stop shoving
+   the text around mid scroll. Desktop appearance is untouched. */
+@media (max-width:700px){
+body[data-page="journal"] .glass,body[data-page="journal"] .glass-panel,body[data-page="journal"] .site-header,body[data-page="journal"] .mobile-dock,body[data-page="journal"] .site-menu,body[data-page="journal"] .journal-card,body[data-page="journal"] .journal-reading,body[data-page="journal"] .journal-cta,body[data-page="journal"] footer a:not(.brand),body[data-page="journal"] .glass::before{-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
+body[data-page="journal"]{background-image:none}
+body[data-page="journal"] .site-atmosphere{display:none}
+body[data-page="journal"] .journal-inline-image img{aspect-ratio:16/9}
+}
