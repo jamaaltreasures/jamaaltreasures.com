@@ -4152,5 +4152,41 @@
   "alt": "Soundtuary at LIV Miami event flyer",
   "imageKey": "event-flyers/257-soundtuary-at-liv-miami.jpg",
   "endDate": "2026-11-29"
+ },
+ {
+  "section": "LATER IN OCTOBER",
+  "title": "EDX at E11EVEN",
+  "date": "OCTOBER 24, 8 PM",
+  "headliners": "EDX",
+  "venue": "E11EVEN, Miami",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://speakeasygo.com/E11EVEN/EDX-AT-E11EVEN?eid=EVE-W7S3OV",
+  "flyerUrl": "https://11miami.com/",
+  "image": "/events/flyer/258-edx-at-e11even.jpg",
+  "alt": "EDX at E11EVEN event flyer",
+  "imageKey": "event-flyers/258-edx-at-e11even.jpg",
+  "endDate": "2026-10-25"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "DJ Pauly D at Decca Live",
+  "date": "NOVEMBER 7, 10 PM TO 3 AM",
+  "headliners": "DJ Pauly D",
+  "venue": "Decca Live, Jacksonville",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/dj-pauly-d-decca-live-tickets-1999114267589",
+  "flyerUrl": "https://www.eventbrite.com/e/dj-pauly-d-decca-live-tickets-1999114267589",
+  "image": "/events/flyer/259-dj-pauly-d-jacksonville.jpg",
+  "alt": "DJ Pauly D at Decca Live event flyer",
+  "imageKey": "event-flyers/259-dj-pauly-d-jacksonville.jpg",
+  "endDate": "2026-11-08"
  }
 ]
