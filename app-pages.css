@@ -330,3 +330,16 @@ body .hero-coverage .hero-descriptor{font-size:11px;letter-spacing:.3em}
 body .hero-coverage .hero-description{margin-top:22px}
 body .hero-coverage .hero-actions{margin-top:26px}
 }
+
+/* Home hero compact composition: no negative space, scoped to the home hero only */
+body section.hero-coverage{padding-top:96px;padding-bottom:56px;min-height:0;height:auto;gap:28px}
+body .hero-coverage .hero-brand{margin-bottom:18px}
+body .hero-coverage .hero-descriptor{margin-top:10px}
+body .hero-coverage .hero-description{margin-top:20px}
+body .hero-coverage .hero-actions{margin-top:24px}
+@media (max-width:700px){
+body section.hero-coverage{padding-top:calc(84px + env(safe-area-inset-top));padding-bottom:40px;gap:22px}
+body .hero-coverage .hero-brand{margin-bottom:16px}
+body .hero-coverage .hero-description{margin-top:18px}
+body .hero-coverage .hero-actions{margin-top:22px}
+}
