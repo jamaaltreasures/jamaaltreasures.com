@@ -223,6 +223,7 @@ body .hero.hero-magic{padding:150px 25px 48px;gap:48px;border-radius:0;backgroun
 .hero-magic .hero-shade{background:linear-gradient(90deg,#edeae366,transparent 90%),linear-gradient(0deg,#edeae3,transparent 20%);transform:none}
 body .hero-magic .hero-identity{font-size:16px!important;letter-spacing:.16em;line-height:1.6;margin-bottom:26px;row-gap:7px;text-shadow:none}
 .hero-magic .hero-identity>span:last-child{font-size:10px;letter-spacing:.34em;white-space:nowrap}
+.hero-key{display:none}
 .hero-magic .magic-title{padding:0;isolation:isolate}.hero-magic .magic-title h1{font-size:clamp(44px,12.5vw,82px);margin:0 0 25px;position:relative;z-index:1;text-shadow:none}
 .hero-magic .magic-lead{font-family:Manrope,sans-serif;font-weight:500;letter-spacing:-.065em}
 .hero-magic h1 .magic-word{font-size:1.35em;letter-spacing:-.065em;padding-bottom:.5em}
@@ -371,3 +372,9 @@ body .site-menu .menu-links a.menu-cta svg.ph-icon,body .site-menu .menu-links a
 .menu-group-label{margin:0 14px 6px;font-size:13px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#6E6A63}
 .footer-explore{display:flex;flex-wrap:wrap;align-items:center;gap:6px 16px;flex:1 1 100%;margin-top:4px}
 .footer-explore-label{font-size:13px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#6E6A63}
+
+/* Home hero key artwork, mobile only: the key art sits inside a square canvas with transparent margins (art spans x 27% to 74%, y 3% to 98% of the canvas), so the canvas is sized up and pushed right until the visible key matches the owner mockup: visible art about 43vw wide bleeding about 10vw off the right edge, top at the masthead, tip ending in the description zone above the buttons. Desktop and tablet keep .hero-key display:none above. */
+@media (max-width:700px){
+.hero-key{display:block;position:absolute;width:112vw;right:-39vw;top:64px;z-index:1;pointer-events:none}
+.hero .hero-content{position:relative;z-index:2}
+}
