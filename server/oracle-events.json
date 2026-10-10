@@ -4296,5 +4296,40 @@
   "alt": "Prophecy at Club Space event flyer",
   "imageKey": "event-flyers/265-prophecy-club-space.jpg",
   "endDate": "2026-12-02"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Pirates, Parrots, & Paradise",
+  "date": "NOVEMBER 7 TO 8",
+  "headliners": "",
+  "venue": "Coachman Park, Clearwater",
+  "categories": [
+   "Music",
+   "Arts"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/pirates-parrots-paradise-tickets-2002079999172",
+  "flyerUrl": "https://www.eventbrite.com/e/pirates-parrots-paradise-tickets-2002079999172",
+  "image": "/events/flyer/266-pirates-parrots-paradise-clearwater.jpg",
+  "alt": "Pirates, Parrots, & Paradise event flyer",
+  "imageKey": "event-flyers/266-pirates-parrots-paradise-clearwater.jpg",
+  "endDate": "2026-11-08"
+ },
+ {
+  "section": "NEXT WEEK",
+  "title": "Manatee NAACP Freedom Fund Banquet 2026",
+  "date": "OCTOBER 17, 6 PM TO 9 PM",
+  "headliners": "Ed James, III",
+  "venue": "Manatee Performing Arts Center, Bradenton",
+  "categories": [
+   "Business"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/manatee-naacp-freedom-fund-banquet-2026-tickets-1995629756322",
+  "flyerUrl": "https://www.eventbrite.com/e/manatee-naacp-freedom-fund-banquet-2026-tickets-1995629756322",
+  "image": "/events/flyer/267-manatee-naacp-freedom-fund-banquet.jpg",
+  "alt": "Manatee NAACP Freedom Fund Banquet 2026 event flyer",
+  "imageKey": "event-flyers/267-manatee-naacp-freedom-fund-banquet.jpg",
+  "endDate": "2026-10-17"
  }
 ]
