@@ -13,7 +13,7 @@
   const frame=document.createElement('iframe');frame.title=url.pathname.startsWith('/events')?'Florida Events':'Jamaal Treasures';
   frame.style.cssText='display:block;width:100%;min-height:80vh;border:0;background:transparent';
   frame.src=url.pathname+url.search+url.hash;reading.append(frame);
-  document.body.dataset.page='independent';closeMenu();scrollTo({top:0,behavior:'instant'});
+  document.body.dataset.page='independent';const independentRoute=url.pathname.startsWith('/events')?'events':'';document.querySelectorAll('[data-route]').forEach(a=>{if(a.dataset.route===independentRoute)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current')});closeMenu();scrollTo({top:0,behavior:'instant'});
   frame.addEventListener('load',()=>{
    const doc=frame.contentDocument;if(!doc)return;
    document.title=doc.title;

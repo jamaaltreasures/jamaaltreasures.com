@@ -305,3 +305,11 @@ html.lg-refract .mobile-dock{backdrop-filter:url(#lg-chip)!important;-webkit-bac
 
 /* Primary hero button stays solid crimson over the hero glass treatment. */
 body .hero-magic .hero-actions .button.primary{background:#A7192F!important;color:#fff!important;--glass-label-color:#fff!important;border:1px solid transparent;backdrop-filter:none;-webkit-backdrop-filter:none}
+
+/* Hero actions pair: two equal size buttons, side by side on wide screens, stacked and centered on mobile */
+body .hero-magic .hero-actions{display:flex;flex-direction:row;flex-wrap:nowrap;align-items:stretch;gap:12px}
+body .hero-magic .hero-actions .button{flex:1 1 0;min-width:0;justify-content:center}
+@media (max-width:700px){
+body .hero-magic .hero-actions{flex-direction:column;align-items:stretch}
+body .hero-magic .hero-actions .button{flex:none;width:100%}
+}
