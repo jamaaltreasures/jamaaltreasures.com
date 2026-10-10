@@ -3118,5 +3118,22 @@
   "alt": "Il Volo World Tour flyer, Benchmark International Arena Tampa",
   "imageKey": "event-flyers/191-il-volo-world-tour.jpg",
   "endDate": "2026-11-12"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Living Arts Festival Sarasota",
+  "date": "NOVEMBER 8 TO 15",
+  "headliners": "",
+  "venue": "Art Ovation Hotel, Sarasota",
+  "categories": [
+   "Arts"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://sarasotarising.org/events/",
+  "flyerUrl": "https://sarasotarising.org/events/",
+  "image": "/events/flyer/192-living-arts-festival-sarasota.jpg",
+  "alt": "Living Arts Festival Sarasota 2026 poster",
+  "imageKey": "event-flyers/192-living-arts-festival-sarasota.jpg",
+  "endDate": "2026-11-15"
  }
 ]
