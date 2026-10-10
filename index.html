@@ -127,7 +127,7 @@ body.booking-overlay-open{overflow:hidden}
 .booking-overlay-mute[aria-pressed="true"] .booking-icon-sound{display:none!important}
 .booking-overlay-mute[aria-pressed="false"] .booking-icon-muted{display:none!important}
 .booking-overlay-sweep{position:absolute;inset:0;z-index:1;pointer-events:none;opacity:0;background:linear-gradient(105deg,transparent 32%,rgba(255,255,255,.6) 50%,transparent 68%);transform:translateX(-130%)}
-.booking-overlay.is-entering .booking-overlay-sweep{animation:booking-sweep .6s ease-out .05s both}
+.booking-overlay.is-entering .booking-overlay-sweep{animation:booking-sweep .55s ease-out .03s both}
 @keyframes booking-sweep{0%{opacity:0;transform:translateX(-130%)}20%{opacity:.25}100%{opacity:0;transform:translateX(130%)}}
 .booking-overlay-progress{position:absolute;left:0;right:0;bottom:0;height:3px;z-index:3;background:#A7192F;transform:scaleX(0);transform-origin:0 50%;pointer-events:none}
 .booking-overlay.is-entering{animation:booking-overlay-in .45s cubic-bezier(.22,.9,.3,1) both}
