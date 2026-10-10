@@ -293,3 +293,6 @@ html.lg-refract .creator-libraries-page .creator-panel{backdrop-filter:url(#lg-c
 
 /* Selected and listen actions inside creator glass panels use ink, never red or burgundy. */
 .creator-libraries-page [data-play-artist-release]{background:#111114!important;color:#fff!important;border-color:transparent}
+
+/* Show more: shelves paint one batch of tiles first; the rest load on demand. */
+.creator-libraries-page .creator-show-more{margin:16px 0 4px}

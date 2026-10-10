@@ -21,7 +21,18 @@
   addEventListener('hashchange',()=>showCollection(location.hash.slice(1)));
   document.addEventListener('pagechange',event=>{if(event.detail?.page==='minds-eye')showCollection(location.hash.slice(1));});
 
-  const state = { catalog: null, loading: null, videos: {}, robinPage: 0, artistPage: 0, selectedRelease: null };
+  const SHELF_BATCH = 24;
+  const state = { catalog: null, loading: null, videos: {}, robinPage: 0, robinShown: SHELF_BATCH, robinQuery: null, artistPage: 0, artistShown: SHELF_BATCH, artistSignature: null, selectedRelease: null };
+  function syncShowMore(id, anchor, total, shown, onMore) {
+    let button = document.getElementById(id);
+    if (!anchor || shown >= total) { button?.remove(); return; }
+    if (!button) {
+      button = plainButton('Show more', 'button glass creator-show-more');
+      button.id = id;
+      button.addEventListener('click', onMore);
+      anchor.after(button);
+    }
+  }
   let videoPlayer = null, videoRequest = 0, videoOpener = null, videoTimer = null, backdropPress = false;
   const screen = $('#inspiration-screen');
   const dateFormat = new Intl.DateTimeFormat('en', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' });
@@ -43,7 +54,7 @@
     state.loading = fetch('/creator-catalog.json?v=23').then(response => { if (!response.ok) throw new Error('Library unavailable'); return response.json(); }).then(catalog => {
       if (!Array.isArray(catalog.rea?.videos) || !Array.isArray(catalog.wisdom?.videos) || !Array.isArray(catalog.robin?.episodes) || !Array.isArray(catalog.artists)) throw new Error('Incomplete library');
       state.catalog = catalog;
-      ['rea', 'wisdom'].forEach(key => { state.videos[key] = { page: 0 }; renderVideos(key); });
+      ['rea', 'wisdom'].forEach(key => { state.videos[key] = { page: 0, shown: SHELF_BATCH, query: '' }; renderVideos(key); });
       renderEpisodes(); prepareArtists(); artistSource = 'provider'; renderArtists(); announce(''); loadNativeArtistMusic();
       return catalog;
     }).catch(error => {
@@ -61,8 +72,11 @@
   function matchingVideos(key) { const query = normal($('#' + key + '-library-search')?.value.trim()); return (state.catalog?.[key].videos || []).filter(video => normal(video.title + ' ' + video.creator).includes(query)); }
   function setVideoButton(button, video) { button.dataset.inspirationVideo = video.id; button.dataset.inspirationTitle = video.title; button.dataset.inspirationCreator = video.creator; button.setAttribute('aria-label', 'Watch ' + video.title + ' by ' + video.creator); }
   function renderVideos(key) {
-    const carousel = $('#' + key + '-carousel'), entries = matchingVideos(key), model = state.videos[key];
-    const cards = entries.map(video => {
+    const carousel = $('#' + key + '-carousel'), entries = matchingVideos(key), model = state.videos[key] || (state.videos[key] = { page: 0, shown: SHELF_BATCH, query: '' });
+    const query = normal($('#' + key + '-library-search')?.value.trim());
+    const queryChanged = model.query !== query;
+    if (queryChanged) { model.query = query; model.shown = SHELF_BATCH; }
+    const cards = entries.slice(0, model.shown).map(video => {
       const card = element('article', 'creator-film-card influence-card');
       const poster = plainButton('', 'creator-film-poster'); setVideoButton(poster, video);
       poster.append(image(video.thumbnail || 'https://i.ytimg.com/vi/' + video.id + '/hqdefault.jpg', '', 480, 270));
@@ -75,7 +89,8 @@
     });
     carousel.replaceChildren(...cards);
     if (!cards.length) emptyMessage(carousel, 'No titles match that search. Try a different word.');
-    carousel.scrollLeft = 0;
+    if (queryChanged) carousel.scrollLeft = 0;
+    syncShowMore(key + '-show-more', carousel, entries.length, cards.length, () => { model.shown += SHELF_BATCH; renderVideos(key); });
     const fullCount = state.catalog[key].videos.length;
     $('#' + key + '-library-summary').textContent = key === 'rea' ? fullCount + ' public videos. Choose one to begin.' : fullCount + ' readings longer than three hours. Choose one to begin.';
     updateVideoNavigation(key);
@@ -149,7 +164,11 @@
   function matchingEpisodes() { const query = normal($('#robin-search')?.value.trim()); return (state.catalog?.robin.episodes || []).filter(episode => normal(episode.title).includes(query)); }
   function renderEpisodes() {
     const entries = matchingEpisodes(), list = $('#robin-episodes');
-    list.replaceChildren(...entries.map(episode => {
+    const query = normal($('#robin-search')?.value.trim());
+    const queryChanged = state.robinQuery !== query;
+    if (queryChanged) { state.robinQuery = query; state.robinShown = SHELF_BATCH; }
+    const batch = entries.slice(0, state.robinShown);
+    list.replaceChildren(...batch.map(episode => {
       const li = element('li'), button = plainButton('', 'creator-episode'); button.dataset.robinEpisode = episode.id; button.setAttribute('aria-label', 'Play ' + episode.title + ' by Robin Sharma');
       const copy = element('span', 'creator-episode-copy'); copy.append(element('strong', '', episode.title));
       const metadata = ['Robin Sharma', formatDate(episode.publishedAt), Number(episode.duration) > 0 ? formatTime(episode.duration) : ''].filter(Boolean); copy.append(element('span', '', metadata.join(' · ')));const listens=element('span','site-listen-count');listens.dataset.siteListens=episode.id;copy.append(listens);
@@ -159,8 +178,9 @@
     if (!entries.length) emptyMessage(list, 'No episodes match that search. Try another title or topic.');
     $('#robin-library-summary').textContent = state.catalog.robin.episodes.length.toLocaleString() + ' episodes from Robin Sharma’s official archive and podcast feed.';
     $('#robin-position').textContent = entries.length + ' episodes';
-    $('#robin-previous').hidden=true;$('#robin-next').hidden=true;list.scrollTop=0;
+    $('#robin-previous').hidden=true;$('#robin-next').hidden=true;if (queryChanged) list.scrollTop=0;
     $('#robin-play-all').disabled = !entries.length; window.JTListens?.attach(list);syncPodcastSelection();
+    syncShowMore('robin-show-more', list, entries.length, batch.length, () => { state.robinShown += SHELF_BATCH; renderEpisodes(); });
   }
   function syncPodcastSelection() { const selected = window.JTMusic?.state?.trackId; page.querySelectorAll('[data-robin-episode]').forEach(button => { if (button.dataset.robinEpisode === selected) button.setAttribute('aria-current', 'true'); else button.removeAttribute('aria-current'); }); }
   async function playPodcast(id) {
@@ -271,11 +291,15 @@
   }
   function renderArtists() {
     const entries = matchingReleases(), carousel = $('#artist-coverflow');
-    const visible = entries;
-    if (!visible.some(release => release.key === state.selectedRelease)) state.selectedRelease = visible[0]?.key || null;
+    const signature = [artistSource, $('#artist-filter')?.value || '', normal($('#artist-search')?.value.trim())].join('|');
+    const signatureChanged = state.artistSignature !== signature;
+    if (signatureChanged) { state.artistSignature = signature; state.artistShown = SHELF_BATCH; }
+    const visible = entries.slice(0, state.artistShown);
+    if (!entries.some(release => release.key === state.selectedRelease)) state.selectedRelease = entries[0]?.key || null;
     carousel.replaceChildren(...visible.map(release => { const button = plainButton('', 'creator-cover-tile'); button.dataset.artistRelease = release.key; button.setAttribute('aria-label', 'Explore ' + displayAlbum(release.title) + ' by ' + release.artist); button.setAttribute('aria-current', String(release.key === state.selectedRelease)); button.append(image(release.cover, displayAlbum(release.title) + ' cover artwork', 480, 480), element('strong', '', displayAlbum(release.title)), element('span', '', release.artist)); return button; }));
-    carousel.scrollLeft = 0;
+    if (signatureChanged) carousel.scrollLeft = 0;
     if (!visible.length) emptyMessage(carousel, 'No releases match. Try another title or artist.');
+    syncShowMore('artist-show-more', carousel, entries.length, visible.length, () => { state.artistShown += SHELF_BATCH; renderArtists(); });
     $('#artist-position').textContent = entries.length + ' releases · Scroll to explore';
     $('#artist-previous').hidden = true; $('#artist-next').hidden = true;
     document.querySelectorAll('[data-artist-source]').forEach(button => { button.setAttribute('aria-pressed', String(button.dataset.artistSource === artistSource)); button.disabled = button.dataset.artistSource === 'native' && !nativeArtistTracks.length; });
