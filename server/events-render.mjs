@@ -31,7 +31,7 @@ function areaFor(event){
  return 'More Florida';
 }
 const today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
-const activeEvents=events.map(event=>eventRecords.find(record=>record.imageKey===event.imageKey)||event).filter(event=>event.endDate>=today);
+const activeEvents=events.map(event=>eventRecords.find(record=>record.title===event.title&&record.date===event.date&&record.venue===event.venue)||event).filter(event=>event.endDate>=today);
 function card(event,index){
  const tags=event.categories.map(category=>`<span class="tag">${esc(category)}</span>`).join('');
  const headliners=event.headliners?`<p class="headliners"><b>Headliners:</b> ${esc(event.headliners)}</p>`:'';
