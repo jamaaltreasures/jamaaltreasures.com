@@ -3135,5 +3135,22 @@
   "alt": "Living Arts Festival Sarasota 2026 poster",
   "imageKey": "event-flyers/192-living-arts-festival-sarasota.jpg",
   "endDate": "2026-11-15"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "The 36th Suncoast Jazz Festival",
+  "date": "NOVEMBER 20 TO 22",
+  "headliners": "John Pizzarelli Trio, Anat Cohen, Diego Figueiredo, Dave Bennett Quartet, Champian Fulton, Tom Rigney and Flambeau",
+  "venue": "Sheraton Sand Key Resort, Clearwater",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/the-36th-suncoast-jazz-festival-tickets-1991987220399",
+  "flyerUrl": "https://suncoastjazzfestival.com",
+  "image": "/events/flyer/193-suncoast-jazz-festival.jpg",
+  "alt": "Suncoast Jazz Festival flyer, Sheraton Sand Key Resort Clearwater",
+  "imageKey": "event-flyers/193-suncoast-jazz-festival.jpg",
+  "endDate": "2026-11-22"
  }
 ]
