@@ -73,3 +73,5 @@ html.lg-refract .events-guide .upcoming-card{background-image:linear-gradient(13
 html.lg-refract .events-guide .upcoming-card{backdrop-filter:url(#lg-card);-webkit-backdrop-filter:blur(5px) saturate(1.15)}
 }
 @media(prefers-reduced-transparency:reduce){.events-guide .upcoming-card,html.lg-refract .events-guide .upcoming-card{background-image:none}}
+/* Mobile stability: no live backdrop blur on phones. */
+@media (max-width:700px){.events-guide .upcoming-card{-webkit-backdrop-filter:none!important;backdrop-filter:none!important;background:#edeae3!important}}
