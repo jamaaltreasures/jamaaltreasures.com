@@ -215,7 +215,7 @@
 .creator-libraries-page .creator-native-controls{display:flex;align-items:center;flex-wrap:wrap;gap:20px;padding:0 30px 22px}
 .creator-libraries-page .creator-source-picker{display:flex;flex-wrap:wrap;gap:10px;width:100%}
 .creator-libraries-page .creator-source-button{font:inherit;font-size:18px;font-weight:550;line-height:1.35;padding:12px 18px;min-height:50px;border:1px solid #11111440;border-radius:25px;color:#111114;background:#edeae31c;cursor:pointer}
-.creator-libraries-page .creator-source-button[aria-pressed=true]{background:#111114;border-color:#111114;color:#fff}.creator-libraries-page .creator-source-button:disabled{opacity:.55;cursor:default}
+.creator-libraries-page .creator-source-button[aria-pressed=true]{background:#A7192F;border-color:#A7192F;color:#fff}.creator-libraries-page .creator-source-button:disabled{opacity:.55;cursor:default}
 .creator-libraries-page .creator-native-summary{flex:1 1 300px;margin:0;font-size:18px;line-height:1.6;color:var(--creator-secondary)}
 .creator-libraries-page .creator-native-controls>.button{min-height:54px}
 .creator-libraries-page .creator-selected-profile{display:flex;gap:26px;align-items:center;min-width:0;flex-basis:100%}
@@ -248,12 +248,12 @@
 
 /* Phase 1 light editorial theme: warm off white base, gray glass, ink text, red accent. */
 .creator-libraries-page{--creator-ink:#111114;--creator-secondary:#6E6A63;--creator-line:rgba(17,17,20,.09);color:var(--creator-ink)}
-.creator-libraries-page :is(a,button,input):focus-visible{outline-color:#EF2B4B}
+.creator-libraries-page :is(a,button,input):focus-visible{outline-color:#A7192F}
 .creator-libraries-page .creator-panel{background:linear-gradient(130deg,#fff,#F1EDE6 70%);border-color:rgba(17,17,20,.09);box-shadow:inset 0 1px 0 rgba(255,255,255,.7),0 8px 30px rgba(17,17,20,.08)}
 .creator-libraries-page .creator-portrait-wrap{background:#EDEAE3}
 .creator-libraries-page .creator-image-caption{background:linear-gradient(transparent,rgba(17,17,20,.78));color:#fff}
-.creator-libraries-page .creator-introduction>.eyebrow{color:#EF2B4B}
-.creator-libraries-page .creator-introduction h2 em{color:#EF2B4B}
+.creator-libraries-page .creator-introduction>.eyebrow{color:#A7192F}
+.creator-libraries-page .creator-introduction h2 em{color:#A7192F}
 .creator-libraries-page .creator-introduction .creator-invitation{color:#111114}
 .creator-libraries-page .creator-search input{background:#fff;border-color:rgba(17,17,20,.14);color:#111114}
 .creator-libraries-page .creator-search input::placeholder{color:#6E6A63}
@@ -292,7 +292,7 @@ html.lg-refract .creator-libraries-page .creator-panel{backdrop-filter:url(#lg-c
 .creator-libraries-page .creator-film-card .button.glass::after{backdrop-filter:none!important;-webkit-backdrop-filter:none!important}
 
 /* Selected and listen actions inside creator glass panels use ink, never red or burgundy. */
-.creator-libraries-page [data-play-artist-release]{background:#111114!important;color:#fff!important;border-color:transparent}
+.creator-libraries-page [data-play-artist-release]{background:#A7192F!important;color:#fff!important;border-color:transparent}
 
 /* Show more: shelves paint one batch of tiles first; the rest load on demand. */
 .creator-libraries-page .creator-show-more{margin:16px 0 4px}
