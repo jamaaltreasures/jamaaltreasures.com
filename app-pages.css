@@ -384,11 +384,11 @@ body .site-menu .menu-links a.menu-cta svg.ph-icon,body .site-menu .menu-links a
 body .site-header .site-menu.glass-panel,body .mobile-dock,html.lg-refract body .site-header .site-menu.glass-panel,html.lg-refract body .mobile-dock{
 background:rgba(255,255,255,.13)!important;background-image:none!important;
 border:1px solid rgba(255,255,255,.55)!important;border-radius:22px;
-box-shadow:0 22px 44px rgba(0,0,0,.24),-16.7px 0 25px -6px rgba(255,0,60,.56),16.7px 0 25px -6px rgba(0,140,255,.56)!important;
+box-shadow:0 22px 44px rgba(0,0,0,.24),-16.7px 0 25px -6px rgba(167,25,47,.5),16.7px 0 25px -6px rgba(0,140,255,.56)!important;
 -webkit-backdrop-filter:blur(2px) saturate(240%)!important;backdrop-filter:blur(2px) saturate(240%)!important}
 /* Displaced marble copy layer + prism rim, one static layer per surface, no content cloning, no scroll listeners. */
 .site-menu .jt-glass-bg,.mobile-dock .jt-glass-bg{position:absolute;inset:-36px;z-index:0;pointer-events:none;background-image:url(/assets/marble.svg);background-repeat:repeat;background-size:1100px auto;opacity:.62;filter:url(#jt-lab) blur(.7px) saturate(240%);transform:scale(1.385)}
-.site-menu .jt-glass-prism,.mobile-dock .jt-glass-prism{position:absolute;inset:0;z-index:1;pointer-events:none;border-radius:inherit;padding:4.6px;opacity:1;mix-blend-mode:screen;background:linear-gradient(115deg,rgba(255,0,60,.34),rgba(255,180,0,.18) 28%,rgba(0,200,120,.16) 52%,rgba(0,140,255,.30) 78%,rgba(180,0,255,.22));-webkit-mask:linear-gradient(#000,#000) content-box,linear-gradient(#000,#000);-webkit-mask-composite:xor;mask:linear-gradient(#000,#000) content-box,linear-gradient(#000,#000);mask-composite:exclude}
+.site-menu .jt-glass-prism,.mobile-dock .jt-glass-prism{position:absolute;inset:0;z-index:1;pointer-events:none;border-radius:inherit;padding:4.6px;opacity:1;mix-blend-mode:screen;background:linear-gradient(115deg,rgba(167,25,47,.34),rgba(255,180,0,.18) 28%,rgba(0,200,120,.16) 52%,rgba(0,140,255,.30) 78%,rgba(180,0,255,.22));-webkit-mask:linear-gradient(#000,#000) content-box,linear-gradient(#000,#000);-webkit-mask-composite:xor;mask:linear-gradient(#000,#000) content-box,linear-gradient(#000,#000);mask-composite:exclude}
 body .mobile-dock{overflow:hidden}
 body .mobile-dock a{position:relative;z-index:2}
 .site-menu .menu-links{z-index:2}
@@ -399,12 +399,14 @@ body .mobile-dock a{position:relative;z-index:2}
 content:"";position:absolute;inset:0;z-index:0;pointer-events:none;border-radius:inherit;
 background:rgba(255,255,255,.22);
 border:1px solid rgba(255,255,255,.55);
-box-shadow:-10px 0 18px -6px rgba(255,0,60,.56),10px 0 18px -6px rgba(0,140,255,.56);
+box-shadow:-10px 0 18px -6px rgba(167,25,47,.5),10px 0 18px -6px rgba(0,140,255,.56);
 -webkit-backdrop-filter:blur(2px) saturate(240%);backdrop-filter:blur(2px) saturate(240%)}
 .site-menu .menu-links a[aria-current="page"]::before,.site-menu .menu-links a:active::before,.mobile-dock a[aria-current]::before,.mobile-dock a:active::before{
 content:"";position:absolute;inset:0;z-index:2;pointer-events:none;border-radius:inherit;padding:4.6px;opacity:1;mix-blend-mode:screen;
-background:linear-gradient(115deg,rgba(255,0,60,.34),rgba(255,180,0,.18) 28%,rgba(0,200,120,.16) 52%,rgba(0,140,255,.30) 78%,rgba(180,0,255,.22));
+background:linear-gradient(115deg,rgba(167,25,47,.34),rgba(255,180,0,.18) 28%,rgba(0,200,120,.16) 52%,rgba(0,140,255,.30) 78%,rgba(180,0,255,.22));
 -webkit-mask:linear-gradient(#000,#000) content-box,linear-gradient(#000,#000);-webkit-mask-composite:xor;mask:linear-gradient(#000,#000) content-box,linear-gradient(#000,#000);mask-composite:exclude}
+/* Crimson composite guard (2026-10-10): on the current dock item and the current menu link, the stacked pill's white tint and its saturate(240%) backdrop wash the solid crimson base #A7192F up to a hot pink (#FF3851 sampled). Neutralize both over the active pill itself so the composite lands on crimson; the stacked border and the (now crimson) fringe shadow stay. */
+.site-menu .menu-links a[aria-current="page"]::after,.mobile-dock a[aria-current]::after{background:transparent;-webkit-backdrop-filter:none;backdrop-filter:none}
 /* Scoped kill switch override restated inside the phone media query for the menu and dock only. */
 @media (max-width:700px){
 body .site-header .site-menu.glass-panel,body .mobile-dock{
