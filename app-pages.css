@@ -461,3 +461,43 @@ footer a:not(.brand){font-size:17px}
 footer{padding:12px 0 14px!important}
 footer>div.footer-contact{gap:6px}
 footer .footer-explore{gap:6px}
+
+/* Site audit upgrades, October 10, 2026: prices groups, reviews, recaps player, music static list, stats proof, contact event fields. */
+.offer-group{margin-top:34px}
+.offer-group-heading{margin-bottom:18px}
+.offer-group-heading h2{font-size:30px;letter-spacing:-.04em;margin:0 0 6px}
+.offer-group-heading p{font-size:18px;line-height:1.7;color:#111114;margin:0}
+.offer-group[hidden]{display:none}
+.most-booked{align-self:flex-start;background:#A7192F;color:#fff;font-weight:700;font-size:18px;line-height:1.2;padding:7px 14px;border-radius:999px;margin:0 0 18px}
+.review-service{flex-basis:100%;font-size:18px;color:#A7192F;font-weight:650}
+.featured-review{display:block;margin:0 0 28px;padding:24px}
+.featured-review .eyebrow{margin:0 0 8px}
+.featured-review-title{font-size:28px;letter-spacing:-.03em;margin:0 0 14px}
+.featured-review blockquote{margin:0 0 14px;font-size:22px;line-height:1.55}
+.featured-review blockquote p{margin:0}
+.featured-review figcaption{display:flex;flex-wrap:wrap;gap:7px 14px;align-items:baseline;font-size:18px;margin-bottom:12px}
+.featured-review figcaption cite{font-style:normal;font-weight:650}
+.featured-review-note{font-size:18px;line-height:1.75;color:#111114;margin:0 0 8px}
+.reviews-book{margin-top:4px;padding:28px;border-radius:28px}
+.reviews-book h2{font-size:30px;letter-spacing:-.03em;margin:0 0 10px}
+.reviews-book p{font-size:18px;line-height:1.8;color:#111114;margin:0}
+.reviews-book-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:20px}
+.recap-player{margin:26px 0 0;max-width:430px}
+.recap-player video{width:100%;height:auto;display:block;border-radius:22px;background:#000}
+.recap-player figcaption{font-size:18px;line-height:1.7;margin-top:12px;color:#111114}
+.music-noscript{margin-top:24px;padding:24px;border-radius:28px}
+.music-noscript h2{font-size:26px;margin:0 0 10px}
+.music-noscript p{font-size:18px;line-height:1.8;color:#111114;margin:0 0 16px}
+.static-release-list{margin-top:24px;padding:24px;border-radius:28px}
+.static-release-list summary{cursor:pointer;font-size:20px;font-weight:650;min-height:44px}
+.static-release-note{font-size:18px;line-height:1.8;color:#111114}
+.static-release-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px;margin-top:16px}
+.static-release h3{font-size:20px;margin:0 0 6px}
+.static-release-meta{font-size:18px;color:#A7192F;font-weight:650;margin:0 0 8px}
+.static-release ol{margin:0;padding-left:21px;font-size:18px;line-height:1.7;color:#111114}
+.stats .reach-strip.business-proof{grid-template-columns:repeat(4,1fr);margin-top:30px}
+.stats .reach-strip.business-proof>div:first-child strong{font-family:inherit;font-weight:750;font-size:clamp(42px,5.5vw,78px);letter-spacing:-.07em;color:#111114}
+.event-fields{grid-column:1/-1;border:0;padding:0;margin:12px 0 0;min-width:0;display:grid;gap:20px}
+.event-fields[hidden]{display:none}
+.event-fields legend{font-size:20px;font-weight:550;margin-bottom:20px;color:#111114}
+@media(max-width:700px){.offer-group-heading h2{font-size:26px}.featured-review{padding:20px}.featured-review-title{font-size:24px}.reviews-book{padding:22px}.static-release-grid{grid-template-columns:1fr}.stats .reach-strip.business-proof{grid-template-columns:1fr}.stats .reach-strip.business-proof>div:first-child strong{font-size:42px}}

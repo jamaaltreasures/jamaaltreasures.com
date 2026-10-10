@@ -38,11 +38,21 @@ function card(event,index){
  const featured=index===0?'<span class="flag">FEATURED</span>':'';
  return `<article class="card" data-categories="${esc(event.categories.join('|'))}" data-topics="${esc(topicsFor(event).join('|'))}" data-area="${esc(areaFor(event))}" data-search="${esc(((event.title||'')+' '+(event.headliners||'')+' '+(event.venue||'')).toLowerCase())}">${featured}<img class="flyer" src="${esc(event.image)}" alt="${esc(event.alt)}" ${index?'loading="lazy"':''} decoding="async"><div class="cbody"><div class="cdateline">${esc(event.verifiedDetails?.timeLabel||event.date)}</div><h3><a href="${eventPath(event)}">${esc(event.title)}</a></h3>${headliners}<p class="venue">${esc(event.venue)}</p><div class="tags">${tags}</div><p><a class="mini flyerbtn" href="${eventPath(event)}">Event details</a></p><div class="actions"><a class="mini tix" href="${esc(event.detailsUrl)}" target="_blank" rel="noopener noreferrer">${esc(event.detailsLabel)}</a><a class="mini flyerbtn" href="${esc(event.flyerUrl)}" target="_blank" rel="noopener noreferrer">Flyer</a></div></div></article>`;
 }
+function novemberGroups(cards){
+ const buckets=[['Early November','november-early',[]],['Mid November','november-mid',[]],['Late November','november-late',[]]];
+ cards.forEach(event=>{const match=String(event.date||'').toUpperCase().match(/NOVEMBER\s+(\d{1,2})/);const day=match?parseInt(match[1],10):99;buckets[day<=10?0:day<=20?1:2][2].push(event);});
+ const live=buckets.filter(bucket=>bucket[2].length);
+ const chips=`<nav class="nov-jump" aria-label="Jump to a part of November">${live.map(bucket=>`<a class="nov-chip" href="#${bucket[1]}">${bucket[0]}</a>`).join('')}</nav>`;
+ const subs=live.map(bucket=>`<h3 class="sec subsec" id="${bucket[1]}"><span class="dot"></span>${bucket[0]}</h3><div class="grid">${bucket[2].map(event=>card(event,1)).join('')}</div>`).join('');
+ return chips+subs;
+}
 export async function eventsPage(){
  const featured=activeEvents.filter(event=>event.section===sections[0]);
  const groups=sections.slice(1).map(section=>{
   const cards=activeEvents.filter(event=>event.section===section);
-  return cards.length?`<h2 class="sec"><span class="dot"></span>${section}</h2><div class="grid">${cards.map(event=>card(event,1)).join('')}</div>`:'';
+  if(!cards.length)return '';
+  if(section==='NOVEMBER')return `<h2 class="sec"><span class="dot"></span>${section}</h2>${novemberGroups(cards)}`;
+  return `<h2 class="sec"><span class="dot"></span>${section}</h2><div class="grid">${cards.map(event=>card(event,1)).join('')}</div>`;
  }).join('');
  const chipSet=hidden=>`<div class="cartrack"${hidden?' aria-hidden="true"':''}>${categories.map((category,index)=>`<button class="chip${index===0?' on':''}" type="button" data-filter="${category}" aria-pressed="${index===0}"${hidden?' tabindex="-1"':''}>${category}</button>`).join('')}</div>`;
  const areaCounts={};
@@ -75,7 +85,19 @@ function applyFilters(){
  });
  document.querySelectorAll('.sec').forEach(heading=>{
   const grid=heading.nextElementSibling;
-  if(grid&&grid.classList.contains('grid'))heading.hidden=grid.querySelectorAll('.card:not([hidden])').length===0;
+  if(grid&&grid.classList.contains('grid')){heading.hidden=grid.querySelectorAll('.card:not([hidden])').length===0;return;}
+  let el=heading.nextElementSibling,any=false;
+  while(el&&!(el.classList&&el.classList.contains('sec')&&!el.classList.contains('subsec'))){
+   if(el.classList&&el.classList.contains('grid')&&el.querySelectorAll('.card:not([hidden])').length)any=true;
+   el=el.nextElementSibling;
+  }
+  heading.hidden=!any;
+  const jump=heading.nextElementSibling;
+  if(jump&&jump.classList&&jump.classList.contains('nov-jump'))jump.hidden=!any;
+ });
+ document.querySelectorAll('.nov-chip').forEach(chip=>{
+  const target=document.getElementById((chip.getAttribute('href')||'').slice(1));
+  chip.hidden=!target||target.hidden;
  });
  document.getElementById('noresults').hidden=visible!==0;
 }
@@ -247,6 +269,11 @@ if(bookCard&&(location.hash==='#book-coverage'||bookSubjectParam))setBook(true,t
 html.lg-refract .chip:not(.on),html.lg-refract .achip:not(.on){backdrop-filter:url(#lg-chip)}
 }
 @media(prefers-reduced-transparency:reduce){.chip,.achip{background:#fff;backdrop-filter:none;-webkit-backdrop-filter:none}}
+.subsec{font-size:12px;margin:22px 0 10px;scroll-margin-top:96px}
+.nov-jump{display:flex;gap:8px;flex-wrap:wrap;margin:2px 0 6px}
+.nov-jump[hidden]{display:none}
+.nov-chip{flex:0 0 auto;min-height:44px;display:inline-flex;align-items:center;padding:10px 16px;border-radius:999px;font-size:14px;font-weight:700;color:var(--silver);border:1px solid rgba(17,17,20,.22);background:rgba(255,255,255,.62);box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 2px 8px rgba(60,58,52,.10)}
+.nov-chip[hidden]{display:none}
 </style>`;
  return new Response(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#FAF7F2"><title>Events | Jamaal Treasures</title><meta name="description" content="Find your next night out. Concerts, festivals, mixers and cultural events across Florida, curated by Jamaal Treasures."><link rel="canonical" href="https://jamaaltreasures.com/events"><meta property="og:title" content="Events | Jamaal Treasures"><meta property="og:description" content="Find your next night out. Florida concerts, festivals, nightlife and cultural events."><link rel="icon" href="/assets/jamaal-key.svg">${schemaTag(activeEvents.map(detailSchema).filter(Boolean))}<link rel="stylesheet" href="/brand.css?v=20261009key"></head><body>${glassDefs}${body}</body></html>`,{headers:{'Content-Type':'text/html; charset=utf-8','Cache-Control':'public, max-age=60'}});
 

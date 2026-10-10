@@ -47,7 +47,7 @@
  function pageFile(url){const leaf=url.pathname.replace(/\/+$/,'').split('/').pop();return leaf?leaf.endsWith('.html')?leaf:leaf+'.html':'index.html'}
  function resolve(url){return routes[url.hash.slice(1)]?url.hash.slice(1):Object.keys(routes).find(k=>pageFile(url)===routes[k])||'home'}
  function closeMenu(returnFocus=false){menu.hidden=true;toggle.setAttribute('aria-expanded','false');toggle.setAttribute('aria-label','Open menu');if(returnFocus)toggle.focus()}
- function category(key){const valid=[...document.querySelectorAll('[data-category]')].some(b=>b.dataset.category===key);key=valid?key:'ai';const feature=document.querySelector('.featured-recap-link');if(feature)feature.hidden=key!=='production';document.querySelectorAll('[data-category]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.category===key)));document.querySelectorAll('[data-service-category]').forEach(c=>c.hidden=c.dataset.serviceCategory!==key);const active=document.querySelector('[data-category="'+key+'"]'),strip=active?.parentElement;if(active&&strip){const a=active.getBoundingClientRect(),r=strip.getBoundingClientRect();const left=key==='ai'?0:strip.scrollLeft+a.left-r.left-(strip.clientWidth-a.width)/2;strip.scrollTo({left:Math.max(0,Math.min(strip.scrollWidth-strip.clientWidth,left)),behavior:'instant'})};window.JTGlassOptics?.schedule()}
+ function category(key){const valid=[...document.querySelectorAll('[data-category]')].some(b=>b.dataset.category===key);key=valid?key:'production';const feature=document.querySelector('.featured-recap-link');if(feature)feature.hidden=key!=='production';document.querySelectorAll('[data-category]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.category===key)));document.querySelectorAll('[data-service-category]').forEach(c=>c.hidden=c.dataset.serviceCategory!==key);document.querySelectorAll('[data-service-group]').forEach(g=>{g.hidden=![...g.querySelectorAll('[data-service-category]')].some(c=>!c.hidden)});const active=document.querySelector('[data-category="'+key+'"]'),strip=active?.parentElement;if(active&&strip){const a=active.getBoundingClientRect(),r=strip.getBoundingClientRect();const left=key==='production'?0:strip.scrollLeft+a.left-r.left-(strip.clientWidth-a.width)/2;strip.scrollTo({left:Math.max(0,Math.min(strip.scrollWidth-strip.clientWidth,left)),behavior:'instant'})};window.JTGlassOptics?.schedule()}
  function render(url=new URL(location.href),focus=false){
   const token=++navigationToken;if(/^\/(?:events|blog)(?:\/|$)/.test(url.pathname)){loadIndependentPage(url,focus);return}if(isReadingRoute(url)){loadReading(url,focus,token);return}readingRequest?.abort();document.querySelector('#main').removeAttribute('aria-busy');
   const page=resolve(url),previous=document.body.dataset.page;
@@ -62,7 +62,7 @@
   const poster=document.querySelector('#realm-video');if(page==='home'&&poster?.dataset.poster&&!poster.hasAttribute('poster'))poster.setAttribute('poster',poster.dataset.poster);
   document.querySelectorAll('[data-route]').forEach(a=>{if(a.dataset.route===page)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current')});closeMenu();
   if(page==='services')category(url.searchParams.get('category'));
-  if(page==='contact'&&url.searchParams.get('project')){const select=document.querySelector('#project-type');if([...select.options].some(o=>o.value===url.searchParams.get('project')))select.value=url.searchParams.get('project')}
+  if(page==='contact'&&url.searchParams.get('project')){const select=document.querySelector('#project-type'),wanted=url.searchParams.get('project'),catalog=JSON.parse(document.querySelector('#payment-catalog')?.textContent||'{}'),match=[...select.options].find(o=>o.value===wanted||catalog[o.value]?.id===wanted);if(match)select.value=match.value}
   syncCheckout();
   scrollTo({top:0,behavior:'instant'});
   if(focus)document.getElementById(page)?.focus({preventScroll:true});
@@ -91,9 +91,9 @@
   const block=document.querySelector('#selected-checkout'),select=document.querySelector('#project-type');
   if(!block||!select)return;
   const catalog=JSON.parse(document.querySelector('#payment-catalog')?.textContent||'{}'),offer=catalog[select.value],link=document.querySelector('#selected-pay-now');
-  const fields=document.querySelector('#collaboration-fields'),isCollaboration=offer?.id==='song-collaboration';if(fields){fields.hidden=!isCollaboration;fields.disabled=!isCollaboration;if(isCollaboration){const budget=document.querySelector('[name="budget"]');if(!budget.value)budget.value='$50'}}
+  const fields=document.querySelector('#collaboration-fields'),isCollaboration=offer?.id==='song-collaboration';if(fields){fields.hidden=!isCollaboration;fields.disabled=!isCollaboration;if(isCollaboration){const budget=document.querySelector('[name="budget"]');if(!budget.value)budget.value='$50'}}const eventFields=document.querySelector('#event-fields'),isEventCoverage=offer?.id==='event-coverage';if(eventFields){eventFields.hidden=!isEventCoverage;eventFields.disabled=!isEventCoverage;}
   block.hidden=!offer;
-  if(!offer){link.removeAttribute('href');return}
+  if(!offer){link.href='/prices';link.removeAttribute('data-offer');return}
   link.href=offer.url;link.dataset.offer=offer.id;
   link.setAttribute('aria-label','Pay now for '+offer.name+', $'+offer.price+(offer.recurring?' per month':''));
   document.querySelector('#selected-checkout-summary').textContent=offer.name+' · $'+offer.price.toLocaleString('en-US')+(offer.recurring?' per month':'');
