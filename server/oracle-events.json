@@ -3741,5 +3741,221 @@
   "alt": "Soul by The Bay Music Festival event flyer",
   "imageKey": "event-flyers/234-soul-by-the-bay-music-festival.jpg",
   "endDate": "2026-11-29"
+ },
+ {
+  "section": "THIS WEEK",
+  "title": "SIDEPIECE at LIV Miami",
+  "date": "OCTOBER 10, 11:30 PM",
+  "headliners": "SIDEPIECE",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261010/sidepiece/",
+  "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261010/sidepiece/",
+  "image": "/events/flyer/235-sidepiece-at-liv-miami.jpg",
+  "alt": "SIDEPIECE at LIV Miami event flyer",
+  "imageKey": "event-flyers/235-sidepiece-at-liv-miami.jpg",
+  "endDate": "2026-10-11"
+ },
+ {
+  "section": "NEXT WEEK",
+  "title": "Loud Luxury at LIV Miami",
+  "date": "OCTOBER 17, 11:30 PM",
+  "headliners": "Loud Luxury",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261017/loud-luxury/",
+  "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261017/loud-luxury/",
+  "image": "/events/flyer/236-loud-luxury-at-liv-miami.jpg",
+  "alt": "Loud Luxury at LIV Miami event flyer",
+  "imageKey": "event-flyers/236-loud-luxury-at-liv-miami.jpg",
+  "endDate": "2026-10-18"
+ },
+ {
+  "section": "LATER IN OCTOBER",
+  "title": "Twinsick at LIV Miami",
+  "date": "OCTOBER 24, 11:30 PM",
+  "headliners": "Twinsick",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261024/twinsick/",
+  "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261024/twinsick/",
+  "image": "/events/flyer/237-twinsick-at-liv-miami.jpg",
+  "alt": "Twinsick at LIV Miami event flyer",
+  "imageKey": "event-flyers/237-twinsick-at-liv-miami.jpg",
+  "endDate": "2026-10-25"
+ },
+ {
+  "section": "HALLOWEEN",
+  "title": "Lost Frequencies at LIV Miami",
+  "date": "OCTOBER 31, 11:30 PM",
+  "headliners": "Lost Frequencies",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261031/lost-frequencies/",
+  "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261031/lost-frequencies/",
+  "image": "/events/flyer/238-lost-frequencies-at-liv-miami.jpg",
+  "alt": "Lost Frequencies at LIV Miami event flyer",
+  "imageKey": "event-flyers/238-lost-frequencies-at-liv-miami.jpg",
+  "endDate": "2026-11-01"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Ian Asher at LIV Miami",
+  "date": "NOVEMBER 14, 11:30 PM",
+  "headliners": "Ian Asher",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261114/ian-asher/",
+  "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261114/ian-asher/",
+  "image": "/events/flyer/239-ian-asher-at-liv-miami.jpg",
+  "alt": "Ian Asher at LIV Miami event flyer",
+  "imageKey": "event-flyers/239-ian-asher-at-liv-miami.jpg",
+  "endDate": "2026-11-15"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "D.O.D at LIV Miami",
+  "date": "NOVEMBER 21, 11:30 PM",
+  "headliners": "D.O.D",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261121/d-o-d/",
+  "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261121/d-o-d/",
+  "image": "/events/flyer/240-dod-at-liv-miami.jpg",
+  "alt": "D.O.D at LIV Miami event flyer",
+  "imageKey": "event-flyers/240-dod-at-liv-miami.jpg",
+  "endDate": "2026-11-22"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Sonny Fodera at LIV Miami",
+  "date": "DECEMBER 12, 11:00 PM",
+  "headliners": "Sonny Fodera",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261212/sonny-fodera/",
+  "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261212/sonny-fodera/",
+  "image": "/events/flyer/241-sonny-fodera-at-liv-miami.jpg",
+  "alt": "Sonny Fodera at LIV Miami event flyer",
+  "imageKey": "event-flyers/241-sonny-fodera-at-liv-miami.jpg",
+  "endDate": "2026-12-13"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Adriatique at LIV Miami",
+  "date": "DECEMBER 31, 11:30 PM",
+  "headliners": "Adriatique",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261231/adriatique/",
+  "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261231/adriatique/",
+  "image": "/events/flyer/242-adriatique-at-liv-miami.jpg",
+  "alt": "Adriatique at LIV Miami event flyer",
+  "imageKey": "event-flyers/242-adriatique-at-liv-miami.jpg",
+  "endDate": "2027-01-01"
+ },
+ {
+  "section": "NEXT WEEK",
+  "title": "Dessert Wars Orlando",
+  "date": "OCTOBER 17, 3 PM TO 6 PM",
+  "headliners": "",
+  "venue": "Central Florida Fairgrounds, Orlando",
+  "categories": [
+   "Food",
+   "Community"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/dessert-wars-orlando-tickets-1986267207687",
+  "flyerUrl": "https://www.eventbrite.com/e/dessert-wars-orlando-tickets-1986267207687",
+  "image": "/events/flyer/243-dessert-wars-orlando.jpg",
+  "alt": "Dessert Wars Orlando flyer, Central Florida Fairgrounds Orlando",
+  "imageKey": "event-flyers/243-dessert-wars-orlando.jpg",
+  "endDate": "2026-10-17"
+ },
+ {
+  "section": "LATER IN OCTOBER",
+  "title": "Dessert Wars Tampa",
+  "date": "OCTOBER 24, 3 PM TO 6 PM",
+  "headliners": "",
+  "venue": "Florida State Fairgrounds, Tampa",
+  "categories": [
+   "Food",
+   "Community"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/dessert-wars-tampa-tickets-2001896060005",
+  "flyerUrl": "https://www.eventbrite.com/e/dessert-wars-tampa-tickets-2001896060005",
+  "image": "/events/flyer/244-dessert-wars-tampa.jpg",
+  "alt": "Dessert Wars Tampa flyer, Florida State Fairgrounds Tampa",
+  "imageKey": "event-flyers/244-dessert-wars-tampa.jpg",
+  "endDate": "2026-10-24"
+ },
+ {
+  "section": "HALLOWEEN",
+  "title": "Halloween Kids Costume Contest and Party",
+  "date": "OCTOBER 31, 12 PM TO 5 PM",
+  "headliners": "",
+  "venue": "Unseen Creatures Brewing and Blending, Miami",
+  "categories": [
+   "Arts",
+   "Community"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/halloween-kids-costume-contest-and-party-tickets-1999693845121",
+  "flyerUrl": "https://www.eventbrite.com/e/halloween-kids-costume-contest-and-party-tickets-1999693845121",
+  "image": "/events/flyer/245-halloween-kids-costume-contest-party-miami.jpg",
+  "alt": "Halloween Kids Costume Contest and Party flyer, Unseen Creatures Brewing and Blending Miami",
+  "imageKey": "event-flyers/245-halloween-kids-costume-contest-party-miami.jpg",
+  "endDate": "2026-10-31"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Bolo at LIV Miami",
+  "date": "NOVEMBER 12, 11:30 PM",
+  "headliners": "Bolo",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261112/bolo/",
+  "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261112/bolo/",
+  "image": "/events/flyer/246-bolo-at-liv-miami.jpg",
+  "alt": "Bolo at LIV Miami event flyer",
+  "imageKey": "event-flyers/246-bolo-at-liv-miami.jpg",
+  "endDate": "2026-11-13"
  }
 ]
