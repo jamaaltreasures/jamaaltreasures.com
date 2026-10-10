@@ -369,8 +369,8 @@ body .site-menu .menu-links a.menu-cta svg.ph-icon,body .site-menu .menu-links a
 .footer-explore{display:flex;flex-wrap:wrap;align-items:center;gap:6px 16px;flex:1 1 100%;margin-top:4px}
 .footer-explore-label{font-size:13px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#6E6A63}
 
-/* Home hero key artwork, mobile only: the key art sits inside a square canvas with transparent margins (art spans x 27% to 74%, y 3% to 98% of the canvas), so the canvas is sized up and pushed right until the visible key matches the owner mockup: visible art about 46vw wide bleeding about 10vw off the right edge, bow top at the masthead wordmark line, tip ending at the foot of the headline above the buttons. max-width:none lifts the global img cap so the canvas can exceed the hero width. Desktop and tablet keep .hero-key display:none above. */
+/* Home hero key artwork, mobile only: the key art sits inside a square canvas with transparent margins (art spans x 27% to 74%, y 3% to 98% of the canvas), so the canvas is sized up and pushed right until the visible key matches the owner mockup: visible art about 43vw wide bleeding about 10vw off the right edge, top at the masthead, tip ending in the description zone above the buttons. Desktop and tablet keep .hero-key display:none above. */
 @media (max-width:700px){
-.hero-key{display:block;position:absolute;width:119vw;max-width:none;right:-41vw;top:138px;z-index:1;pointer-events:none}
+.hero-key{display:block;position:absolute;width:112vw;right:-39vw;top:64px;z-index:1;pointer-events:none}
 .hero .hero-content{position:relative;z-index:2}
 }
