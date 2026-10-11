@@ -60,7 +60,15 @@ export async function eventsPage(){
  const areaNames=['Tampa','Orlando','Miami','Fort Lauderdale','St. Petersburg','Sarasota','Jacksonville','More Florida'].filter(area=>areaCounts[area]);
  const areaRow=`<div class="arearow" id="arearow" role="region" aria-label="Filter events by area"><span class="arealabel">AREA</span>${['All Areas',...areaNames].map((area,index)=>`<button class="achip${index===0?' on':''}" type="button" data-areafilter="${esc(area)}" aria-pressed="${index===0}">${esc(area)} (${area==='All Areas'?activeEvents.length:areaCounts[area]})</button>`).join('')}</div>`;
  const body=`<header class="site-header"><div class="bar"><a class="brand jt-brand-dark" href="/"><img class="jt-brand-logo" src="/assets/jamaal-logo-animated.svg" width="184" height="61" alt="Jamaal Treasures"></a><nav class="nav" aria-label="Main navigation"><a href="/">Home</a><a href="/events" class="active">Events</a><a href="/contact">Book</a></nav></div></header>
- <main class="wrap"><section class="hero"><div class="kicker">FLORIDA EVENTS</div><h1>Find your next <span class="grad">night out</span></h1><p class="radarline"><span>Event Radar</span> · Real Time Event Discovery Engine</p><p class="sub">Concerts, festivals, mixers and cultural moments across Florida. Hand picked, always current.</p><div class="searchwrap"><div class="searchrow"><input id="eventsearch" type="search" placeholder="Search events, artists, venues..." aria-label="Search events" autocomplete="off"><button class="btn primary bookbtn" type="button" id="book-toggle" aria-expanded="false" aria-controls="book-coverage">Book for event coverage</button></div><p class="searchhint">Organizer? Type your event name to find your flyer instantly.</p></div><div class="carousel" role="region" aria-label="Browse event topics"><div class="carviewport" id="carviewport">${chipSet(false)}${chipSet(true)}</div><div class="carfade left"></div><div class="carfade right"></div></div>${areaRow}</section>
+ <main class="wrap"><section class="hero"><div class="radar-stage"><div class="radar-copy"><h1 class="radar-title"><span class="rt-ink">EVENT</span><span class="rt-red">RADAR</span></h1><p class="radar-sub">FLORIDA AND BEYOND</p><p class="radar-engine">REAL TIME EVENT DISCOVERY ENGINE</p><p class="radar-discover">DISCOVER<br>REAL EVENTS<br>NEAR YOU</p><p class="radar-italic">GOOD TIMES<br>ARE CLOSER<br>THAN YOU THINK.</p></div><button type="button" class="radar-btn" id="radar-jump" aria-label="Scroll down to the event search menu"><img class="radar-sticker" src="/assets/click-the-radar.png" width="974" height="580" alt="" aria-hidden="true" decoding="async"><img class="radar-device" src="/assets/event-radar-device.webp" width="922" height="931" alt="" aria-hidden="true" decoding="async"><span class="radar-badge"><span class="radar-dot" aria-hidden="true"></span>ALWAYS SWEEPING</span></button></div><p class="radar-cats"><span>MUSIC</span><i aria-hidden="true"></i><span>FOOD</span><i aria-hidden="true"></i><span>ART</span><i aria-hidden="true"></i><span>CULTURE</span><i aria-hidden="true"></i><span>SPORTS</span><i aria-hidden="true"></i><span>COMMUNITY</span></p>
+    <div class="install-row"><button class="install-badge" id="install-badge" type="button" aria-label="Add Jamaal Treasures to your home screen"><svg class="install-apple" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12.152 6.896c-.948 0-2.415-1.078-3.96-1.04-2.04.027-3.91 1.183-4.961 3.014-2.117 3.675-.546 9.103 1.519 12.09 1.013 1.454 2.208 3.09 3.792 3.039 1.52-.065 2.09-.987 3.935-.987 1.831 0 2.35.987 3.96.948 1.637-.026 2.676-1.48 3.676-2.948 1.156-1.688 1.636-3.325 1.662-3.415-.039-.013-3.182-1.221-3.22-4.857-.026-3.04 2.48-4.494 2.597-4.559-1.429-2.09-3.623-2.324-4.39-2.376-2-.156-3.675 1.09-4.61 1.09zM15.53 3.83c.843-1.012 1.4-2.427 1.245-3.83-1.207.052-2.662.805-3.532 1.818-.78.896-1.454 2.338-1.273 3.714 1.338.104 2.715-.688 3.559-1.701"/></svg><span class="install-lines"><span class="install-small">ADD TO</span><span class="install-big">HOME SCREEN</span></span></button></div>
+    <div class="install-card" id="install-card" hidden role="dialog" aria-label="Add Jamaal Treasures to your home screen">
+      <button class="install-x" id="install-x" type="button" aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+      <img class="install-icon" src="/assets/icon-192.png" alt="" width="56" height="56">
+      <p class="install-card-title">Add Jamaal Treasures to your home screen</p>
+      <p class="install-step"><svg class="install-glyph" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 14.5V3.6"/><path d="M7.6 6.4L12 2l4.4 4.4"/><path d="M5.5 11.5v7a2 2 0 0 0 2 2h9a2 2 0 0 0 2-2v-7"/></svg><span id="install-step-1">Tap the Share button</span></p>
+      <p class="install-step"><svg class="install-glyph" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="4"/><path d="M12 8.5v7M8.5 12h7"/></svg><span id="install-step-2">Then tap Add to Home Screen</span></p>
+    </div><button type="button" class="explore-pill" id="explore-events">Explore Events<span class="explore-arrow" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" focusable="false"><path d="M6 18L18 6"/><path d="M8.5 6H18v9.5"/></svg></span></button><div class="searchwrap" id="search-menu"><div class="searchrow"><input id="eventsearch" type="search" placeholder="Search events, artists, venues..." aria-label="Search events" autocomplete="off"><button class="btn primary bookbtn" type="button" id="book-toggle" aria-expanded="false" aria-controls="book-coverage">Book for event coverage</button></div><p class="searchhint">Organizer? Type your event name to find your flyer instantly.</p></div><div class="carousel" role="region" aria-label="Browse event topics"><div class="carviewport" id="carviewport">${chipSet(false)}${chipSet(true)}</div><div class="carfade left"></div><div class="carfade right"></div></div>${areaRow}</section>
  <section class="bookcard" id="book-coverage" aria-labelledby="book-title" hidden><div class="kicker">BOOKING</div><h2 id="book-title">Book event coverage</h2><p class="bookemail">Email <a href="mailto:jamaaltreasures@gmail.com">jamaaltreasures@gmail.com</a></p><form id="booking-form" action="https://formsubmit.co/jamaaltreasures@gmail.com" method="post"><input type="hidden" name="_template" value="table"><input type="hidden" name="_url" value="https://jamaaltreasures.com/events"><input type="text" name="_honey" class="honeypot" tabindex="-1" autocomplete="off" aria-hidden="true"><div class="bookgrid"><label>Your email<span class="bookfield"><input name="email" type="email" autocomplete="email" required maxlength="254"></span></label><label>Subject<span class="bookfield"><select name="_subject" required><option selected>Book event coverage</option><option>Media pass inquiry</option><option>List my event</option><option>Other</option></select></span></label><label class="bookdesc">Description<span class="bookfield"><textarea name="description" rows="4" maxlength="2000" placeholder="What is the event, when is it, and where?"></textarea></span></label></div><p class="form-privacy">Your details are sent through FormSubmit to Jamaal Treasures. <a href="/privacy">Privacy</a></p><button class="btn primary" type="submit">Send booking request</button><p id="booking-form-status" role="status" aria-live="polite"></p></form><p class="bookbuy">Ready to lock in your date? <a href="https://square.link/u/KxMuUqlH">Buy the Event Package, $450</a>, <a href="https://square.link/u/jfh3fGsU">add Expedited Delivery, $200</a> for the recap the same night or the next day, or <a href="/event-coverage">see coverage details</a>.</p></section><noscript><style>#book-coverage{display:block!important}</style></noscript>
  <h2 class="sec"><span class="dot"></span>FEATURED EVENT</h2><div class="grid featured-grid">${featured.map((event,index)=>card(event,index)).join('')}</div>${groups}
  <div id="noresults" hidden><p>No events match your search. Try a different event name, artist, or venue.</p></div>
@@ -181,6 +189,57 @@ if(bookCard&&bookSubjectParam){
  if(subjectSelect){const wanted=bookSubjectParam.trim().toLowerCase();[...subjectSelect.options].forEach(option=>{if(option.text.toLowerCase()===wanted)subjectSelect.value=option.value;});}
 }
 if(bookCard&&(location.hash==='#book-coverage'||bookSubjectParam))setBook(true,true);
+(function(){
+ const reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+ const target=document.getElementById('search-menu');
+ if(!target)return;
+ function timedScroll(){
+  const offset=92;
+  const y=Math.max(0,target.getBoundingClientRect().top+window.scrollY-offset);
+  if(reduce){window.scrollTo(0,y);return;}
+  const start=window.scrollY,dist=y-start,dur=1050,t0=performance.now();
+  const root=document.documentElement,prev=root.style.scrollBehavior;
+  root.style.scrollBehavior='auto';
+  function frame(now){
+   const t=Math.min(1,(now-t0)/dur);
+   const e=t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2;
+   window.scrollTo(0,start+dist*e);
+   if(t<1)requestAnimationFrame(frame);
+   else root.style.scrollBehavior=prev;
+  }
+  requestAnimationFrame(frame);
+ }
+ const radarBtn=document.getElementById('radar-jump');
+ if(radarBtn)radarBtn.addEventListener('click',timedScroll);
+ const exploreBtn=document.getElementById('explore-events');
+ if(exploreBtn)exploreBtn.addEventListener('click',timedScroll);
+})();
+(function(){
+ var badge=document.getElementById('install-badge');
+ if(!badge)return;
+ var standalone=false;
+ try{standalone=(window.matchMedia&&window.matchMedia('(display-mode: standalone)').matches)||window.navigator.standalone===true;}catch(e){}
+ if(standalone){var row=badge.parentNode;if(row)row.remove();var c0=document.getElementById('install-card');if(c0)c0.remove();return;}
+ var card=document.getElementById('install-card');
+ var ua=navigator.userAgent||'';
+ var isIOS=/iphone|ipad|ipod/i.test(ua)||(/macintosh/i.test(ua)&&navigator.maxTouchPoints>1);
+ if(!isIOS){
+  var s1=document.getElementById('install-step-1');
+  var s2=document.getElementById('install-step-2');
+  if(s1)s1.textContent='Tap your browser menu';
+  if(s2)s2.textContent='Then tap Install app or Add to Home Screen';
+ }
+ var deferred=null;
+ window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();deferred=e;});
+ function openCard(){if(card)card.hidden=false;}
+ function closeCard(){if(card)card.hidden=true;try{sessionStorage.setItem('jtInstallCardDismissed','1');}catch(e){}}
+ badge.addEventListener('click',function(){
+  if(deferred){var p=deferred;deferred=null;p.prompt();if(p.userChoice)p.userChoice.then(function(){},function(){});return;}
+  openCard();
+ });
+ var x=document.getElementById('install-x');
+ if(x)x.addEventListener('click',closeCard);
+})();
 </script>
  <style>
  :root{color-scheme:light;--black:#FAF7F2;--panel:#ffffff;--panel2:#F1EDE6;--red:#A7192F;--silver:#111114;--muted:#6E6A63;--line:rgba(17,17,20,.09);--radius:18px}*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}body{margin:0;background:var(--black);color:var(--silver);font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text",Inter,Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5}a{color:inherit;text-decoration:none}.site-header{position:sticky;top:0;z-index:50;background:transparent;backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:1px solid transparent}.bar{display:flex;align-items:center;justify-content:space-between;padding:14px 16px;max-width:640px;margin:0 auto}.brand{font-weight:800;letter-spacing:.06em;font-size:15px}.brand span{color:var(--red)}.nav{display:flex;gap:18px;font-size:14px;color:var(--silver);font-weight:600}.nav a.active{color:var(--silver);font-weight:800}.wrap{max-width:640px;margin:0 auto;padding:0 16px 80px}.hero{padding:34px 0 10px}.kicker{font-size:12px;letter-spacing:.18em;color:var(--red);font-weight:700;margin-bottom:8px}.radarline{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);font-weight:700;margin:0 0 12px}.radarline span{color:var(--red)}.hero h1{font-size:32px;line-height:1.15;margin:0 0 10px;font-weight:800}.grad{color:var(--red)}.sub{color:var(--muted);font-size:15px;margin:0 0 18px}.carousel{position:relative;margin:10px -16px 0}
@@ -274,8 +333,64 @@ html.lg-refract .chip:not(.on),html.lg-refract .achip:not(.on){backdrop-filter:u
 .nov-jump[hidden]{display:none}
 .nov-chip{flex:0 0 auto;min-height:44px;display:inline-flex;align-items:center;padding:10px 16px;border-radius:999px;font-size:14px;font-weight:700;color:var(--silver);border:1px solid rgba(17,17,20,.22);background:rgba(255,255,255,.62);box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 2px 8px rgba(60,58,52,.10)}
 .nov-chip[hidden]{display:none}
+@font-face{font-family:BarlowCondensed;src:url(/assets/barlow-condensed.woff2) format('woff2');font-weight:600;font-style:normal;font-display:swap}
+@font-face{font-family:Instrument;src:url(/assets/instrument-serif-italic.woff2) format('woff2');font-weight:400;font-style:italic;font-display:swap}
+body{overflow-x:clip}
+.hero{padding-top:14px}
+.radar-stage{position:relative}
+.radar-copy{position:relative;z-index:2;pointer-events:none}
+.hero h1.radar-title{font-family:BarlowCondensed,Impact,sans-serif;font-weight:600;font-size:23.5vw;line-height:.85;letter-spacing:-.015em;text-transform:uppercase;margin:66px 0 0;color:var(--silver)}
+.radar-title span{display:block}
+.radar-title .rt-red{color:var(--red)}
+.radar-sub{margin:12px 0 0;font-size:13px;font-weight:800;letter-spacing:.34em;color:var(--red)}
+.radar-engine{margin:9px 0 0;font-size:9px;font-weight:700;letter-spacing:.2em;color:var(--muted)}
+.radar-discover{margin:46px 0 0;font-family:BarlowCondensed,Impact,sans-serif;font-weight:600;font-size:12.6vw;line-height:.96;letter-spacing:-.01em;color:var(--silver);text-transform:uppercase}
+.radar-italic{margin:16px 0 0;font-family:Instrument,Georgia,serif;font-style:italic;font-weight:400;font-size:12.2vw;line-height:1.05;color:var(--red)}
+.radar-btn{position:absolute;top:-20px;right:-22vw;width:68vw;padding:0;border:none;background:none;cursor:pointer;-webkit-appearance:none;appearance:none;font-family:inherit}
+.radar-device{position:relative;z-index:1;display:block;width:100%;height:auto;filter:drop-shadow(0 16px 22px rgba(17,17,20,.28));transition:transform .18s}
+.radar-btn:active .radar-device{transform:scale(.985)}
+.radar-sticker{position:absolute;z-index:3;width:54%;height:auto;left:-31%;top:-10%;transform:rotate(-5deg);pointer-events:none}
+.radar-badge{position:absolute;z-index:3;left:-7%;bottom:4%;display:inline-flex;align-items:center;gap:6px;padding:7px 11px;border-radius:999px;background:rgba(255,255,255,.62);backdrop-filter:blur(14px) saturate(1.1);-webkit-backdrop-filter:blur(14px) saturate(1.1);border:1px solid rgba(17,17,20,.22);box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 2px 8px rgba(60,58,52,.10);font-size:9.5px;font-weight:800;letter-spacing:.18em;color:var(--silver);white-space:nowrap}
+.radar-dot{width:7px;height:7px;border-radius:50%;background:#2fdc5f;flex:0 0 auto}
+@media(prefers-reduced-motion:no-preference){.radar-dot{animation:radarpulse 2.2s ease-in-out infinite}}
+@keyframes radarpulse{0%,100%{opacity:1}50%{opacity:.35}}
+.radar-btn:focus-visible{outline:3px solid var(--red);outline-offset:4px;border-radius:24px}
+.radar-cats{display:flex;align-items:center;gap:7px;flex-wrap:nowrap;margin:30px 0 0;font-size:10px;font-weight:800;letter-spacing:.09em;}
+.radar-cats span{flex:none;white-space:nowrapcolor:var(--silver)}
+.radar-cats i{width:5px;height:5px;border-radius:50%;background:var(--red);flex:0 0 auto}
+.explore-pill{display:inline-flex;align-items:center;gap:10px;margin:20px 0 2px;min-height:52px;padding:10px 12px 10px 22px;border-radius:999px;border:1px solid rgba(17,17,20,.22);background:rgba(255,255,255,.62);backdrop-filter:blur(14px) saturate(1.1);-webkit-backdrop-filter:blur(14px) saturate(1.1);box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 2px 8px rgba(60,58,52,.10);font-family:inherit;font-size:15.5px;font-weight:700;color:var(--silver);cursor:pointer;-webkit-appearance:none;appearance:none;transition:transform .18s}
+.explore-arrow{display:inline-flex;align-items:center;justify-content:center;width:32px;height:32px;border-radius:50%;background:var(--red);color:#fff;flex:0 0 auto}
+.explore-arrow svg{width:16px;height:16px}
+.explore-pill:active{transform:scale(.97)}
+.explore-pill:focus-visible{outline:3px solid var(--red);outline-offset:4px}
+#search-menu{scroll-margin-top:92px}
+@media(min-width:760px){
+ .hero h1.radar-title{font-size:150px;margin-top:72px}
+ .radar-discover{font-size:88px}
+ .radar-italic{font-size:86px}
+ .radar-sub{font-size:16px}
+ .radar-engine{font-size:11.5px}
+ .radar-btn{width:480px;right:-30px;top:34px}
+ .radar-cats{font-size:12.5px;gap:12px}
+}
+@media(prefers-reduced-motion:reduce){.radar-device,.explore-pill{transition:none}}
+
+.install-row{display:flex;justify-content:center;margin-top:20px}
+.install-badge{display:inline-flex;align-items:center;gap:8px;background:#0B0B0D;border:1px solid rgba(255,255,255,.35);border-radius:10px;padding:10px 11px 11px;cursor:pointer;color:#fff;font-family:inherit;-webkit-tap-highlight-color:transparent}
+.install-apple{width:25px;height:25px;fill:#fff;flex:none}
+.install-lines{display:flex;flex-direction:column;align-items:flex-start;line-height:1.12;text-align:left}
+.install-small{font-size:10px;font-weight:600;letter-spacing:.15em}
+.install-big{font-size:17.5px;font-weight:700;letter-spacing:.01em}
+.install-card{position:fixed;left:50%;bottom:16px;transform:translateX(-50%);width:min(342px,calc(100vw - 28px));z-index:95;background:rgba(255,255,255,.8);-webkit-backdrop-filter:blur(16px) saturate(170%);backdrop-filter:blur(16px) saturate(170%);border:1px solid rgba(255,255,255,.7);border-radius:22px;padding:20px 20px 16px;text-align:center;color:#111114;box-shadow:0 18px 44px rgba(17,17,20,.22)}
+.install-card[hidden]{display:none}
+.install-x{position:absolute;top:8px;right:8px;width:30px;height:30px;border:0;border-radius:999px;background:rgba(17,17,20,.06);color:#111114;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0}
+.install-x svg{width:14px;height:14px}
+.install-icon{width:56px;height:56px;border-radius:13px}
+.install-card-title{font-size:16.5px;font-weight:700;line-height:1.3;margin:10px 0 12px}
+.install-step{display:flex;align-items:center;gap:10px;text-align:left;font-size:15px;font-weight:550;margin:9px 0;color:#111114}
+.install-glyph{width:22px;height:22px;flex:none;color:#A7192F}
 </style>`;
- return new Response(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#FAF7F2"><title>Events | Jamaal Treasures</title><meta name="description" content="Find your next night out. Concerts, festivals, mixers and cultural events across Florida, curated by Jamaal Treasures."><link rel="canonical" href="https://jamaaltreasures.com/events"><meta property="og:title" content="Events | Jamaal Treasures"><meta property="og:description" content="Find your next night out. Florida concerts, festivals, nightlife and cultural events."><link rel="icon" href="/assets/jamaal-key.svg">${schemaTag(activeEvents.map(detailSchema).filter(Boolean))}<link rel="stylesheet" href="/brand.css?v=20261009key"></head><body>${glassDefs}${body}</body></html>`,{headers:{'Content-Type':'text/html; charset=utf-8','Cache-Control':'public, max-age=60'}});
+ return new Response(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#FAF7F2"><link rel="manifest" href="/manifest.webmanifest"><link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Jamaal Treasures"><title>Events | Jamaal Treasures</title><meta name="description" content="Find your next night out. Concerts, festivals, mixers and cultural events across Florida, curated by Jamaal Treasures."><link rel="canonical" href="https://jamaaltreasures.com/events"><meta property="og:title" content="Events | Jamaal Treasures"><meta property="og:description" content="Find your next night out. Florida concerts, festivals, nightlife and cultural events."><link rel="icon" href="/assets/jamaal-key.svg">${schemaTag(activeEvents.map(detailSchema).filter(Boolean))}<link rel="stylesheet" href="/brand.css?v=20261009key"></head><body>${glassDefs}${body}</body></html>`,{headers:{'Content-Type':'text/html; charset=utf-8','Cache-Control':'public, max-age=60'}});
 
 }
 
