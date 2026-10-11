@@ -78,6 +78,53 @@
  });
  document.addEventListener('submit',event=>{const form=event.target;if(!reading.contains(form)||form.method.toLowerCase()!=='get')return;const url=new URL(form.action,location.href);if(url.origin!==location.origin||!isReadingRoute(url))return;event.preventDefault();url.search=new URLSearchParams(new FormData(form));history.pushState({},'',url.pathname+url.search);render(url,true)});
  toggle.addEventListener('click',()=>{const open=menu.hidden;menu.hidden=!open;toggle.setAttribute('aria-expanded',String(open));toggle.setAttribute('aria-label',open?'Close menu':'Open menu');window.JTGlassOptics?.schedule()});
+ /* Swipe right to collapse the open menu into the header dot (owner order, 2026-10-11).
+    A dominantly horizontal rightward drag that starts on the panel makes the panel
+    follow the finger, then on release past the threshold it shrinks into the menu
+    button and closes. Vertical scrolling of the panel and the page is never
+    intercepted (listeners are passive and the panel keeps touch-action: pan-y);
+    a short drag springs back. Reduced motion closes instantly. */
+ const reduceMotion=matchMedia('(prefers-reduced-motion: reduce)');
+ let swipe=null,swipeOrigin=null,suppressMenuClick=false;
+ function swipeCleanup(){menu.style.transition='';menu.style.removeProperty('transform');menu.style.opacity='';menu.style.transformOrigin='';menu.classList.remove('swipe-closing')}
+ function collapseMenu(){
+  if(reduceMotion.matches){closeMenu();swipeCleanup();return}
+  if(swipeOrigin)menu.style.transformOrigin=swipeOrigin.x+'px '+swipeOrigin.y+'px';
+  menu.style.transition='transform .32s cubic-bezier(.32,.72,.24,1),opacity .32s ease';
+  /* The Player v21 shell pins the panel with transform:none!important, so the
+     swipe transforms are set as inline !important to render at all. */
+  menu.style.setProperty('transform','scale(.06)','important');
+  menu.style.opacity='0';
+  menu.classList.add('swipe-closing');
+  setTimeout(()=>{closeMenu();swipeCleanup();window.JTGlassOptics?.schedule()},340);
+ }
+ menu.addEventListener('click',event=>{if(suppressMenuClick){suppressMenuClick=false;event.preventDefault();event.stopPropagation()}},true);
+ menu.addEventListener('touchstart',event=>{
+  if(menu.hidden||event.touches.length!==1)return;
+  const t=event.touches[0],mr=menu.getBoundingClientRect(),tr=toggle.getBoundingClientRect();
+  swipeOrigin={x:tr.left+tr.width/2-mr.left,y:tr.top+tr.height/2-mr.top};
+  swipe={id:t.identifier,x:t.clientX,y:t.clientY,active:false};
+ },{passive:true});
+ menu.addEventListener('touchmove',event=>{
+  if(!swipe)return;
+  const t=[...event.changedTouches].find(c=>c.identifier===swipe.id);if(!t)return;
+  const dx=t.clientX-swipe.x,dy=t.clientY-swipe.y;
+  if(!swipe.active){if(dx>10&&dx>Math.abs(dy)*1.5)swipe.active=true;else return}
+  menu.style.transition='none';
+  menu.style.setProperty('transform','translateX('+Math.max(0,dx)+'px)','important');
+ },{passive:true});
+ function swipeEnd(event){
+  if(!swipe)return;
+  const t=[...event.changedTouches].find(c=>c.identifier===swipe.id);
+  const was=swipe.active,dx=t?t.clientX-swipe.x:0;
+  swipe=null;
+  if(!was)return;
+  suppressMenuClick=true;
+  if(dx>=56)collapseMenu();
+  else{menu.style.transition='transform .25s ease';menu.style.removeProperty('transform');setTimeout(swipeCleanup,260)}
+ }
+ menu.addEventListener('touchend',swipeEnd);
+ menu.addEventListener('touchcancel',swipeEnd);
  document.addEventListener('click',event=>{if(!menu.hidden&&!menu.contains(event.target)&&!toggle.contains(event.target))closeMenu()});
  document.addEventListener('keydown',event=>{if(event.key==='Escape'&&!menu.hidden){event.preventDefault();closeMenu(true)}});
  document.querySelectorAll('[data-category]').forEach(b=>b.addEventListener('click',()=>{category(b.dataset.category);history.replaceState({},'','/prices?category='+b.dataset.category)}));

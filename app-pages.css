@@ -501,3 +501,28 @@ footer .footer-explore{gap:6px}
 .event-fields[hidden]{display:none}
 .event-fields legend{font-size:20px;font-weight:550;margin-bottom:20px;color:#111114}
 @media(max-width:700px){.offer-group-heading h2{font-size:26px}.featured-review{padding:20px}.featured-review-title{font-size:24px}.reviews-book{padding:22px}.static-release-grid{grid-template-columns:1fr}.stats .reach-strip.business-proof{grid-template-columns:1fr}.stats .reach-strip.business-proof>div:first-child strong{font-size:42px}}
+
+/* Menu clarity pass, 2026-10-11 (owner order from his phone screenshot): the
+   DROPDOWN PANEL only moves from the tuned Glass Lab recipe to a clear frosted
+   white. Saturation drops from 240% to near neutral so page colors stop
+   amplifying into a pink smear, the white tint rises so the panel reads
+   frosted, and the displaced marble copy layer loses its distortion and
+   saturation on this surface. The dock and the header buttons keep the tuned
+   recipe untouched. Menu link labels go bold for legibility. */
+body .site-header .site-menu.glass-panel,html.lg-refract body .site-header .site-menu.glass-panel{
+background:rgba(255,255,255,.5)!important;
+-webkit-backdrop-filter:blur(8px) saturate(110%)!important;backdrop-filter:blur(8px) saturate(110%)!important}
+@media (max-width:700px){
+body .site-header .site-menu.glass-panel,html.lg-refract body .site-header .site-menu.glass-panel{
+background:rgba(255,255,255,.5)!important;
+-webkit-backdrop-filter:blur(8px) saturate(110%)!important;backdrop-filter:blur(8px) saturate(110%)!important}
+}
+.site-menu .jt-glass-bg{filter:none;opacity:.18}
+.site-menu .menu-links a{font-weight:700}
+.site-menu,.site-menu .menu-links{touch-action:pan-y}
+.site-menu.swipe-closing{pointer-events:none}
+/* Reduced transparency still wins on the panel after this pass. */
+@media (prefers-reduced-transparency:reduce){
+body .site-header .site-menu.glass-panel,html.lg-refract body .site-header .site-menu.glass-panel{background:#fff!important;-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
+.site-menu .jt-glass-bg{display:none!important}
+}
