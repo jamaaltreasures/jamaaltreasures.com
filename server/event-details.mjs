@@ -25,17 +25,46 @@ function status(event){
  const value=String(event.eventStatus||event.status||'').replace('https://schema.org/','');
  return ({cancelled:'EventCancelled',canceled:'EventCancelled',rescheduled:'EventRescheduled',postponed:'EventPostponed',scheduled:'EventScheduled'})[value.toLowerCase()]||(['EventCancelled','EventRescheduled','EventPostponed','EventScheduled'].includes(value)?value:null);
 }
+const floridaCities=['Miami Beach','West Palm Beach','Fort Lauderdale','St. Petersburg','North Bay Village','Miami Gardens','Key Biscayne','Fruitland Park','Deerfield Beach','Port Charlotte','Lakewood Ranch','Pinellas Park','Boca Raton','Jacksonville','Clearwater','Bradenton','Hialeah','Hollywood','Lauderhill','Miramar','Orlando','Sarasota','Sunrise','Tamarac','Plantation','Dunedin','Gibsonton','Sanford','Gainesville','Tampa','Miami','Venice'];
+// The feed's venue states the city in nearly every row ("Venue Name, City").
+// Resolve the locality only when a known Florida city is actually stated in
+// the venue string; never invent a street address the feed does not carry.
+function venueParts(event){
+ const raw=String(event.venue||'').trim();
+ const segments=raw.split(',').map(part=>part.trim()).filter(Boolean);
+ for(let i=segments.length-1;i>=0;i--){
+  if(floridaCities.includes(segments[i]))return {name:segments.slice(0,i).join(', ')||raw,city:segments[i]};
+ }
+ for(let i=segments.length-1;i>=0;i--){
+  for(const city of floridaCities)if(segments[i].endsWith(' '+city))return {name:raw,city};
+ }
+ for(const city of floridaCities){
+  if(new RegExp('\\b'+city.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'\\b').test(raw))return {name:raw,city};
+ }
+ return {name:raw,city:null};
+}
+// Headliners are a comma separated billing list. Keep billed units whole
+// (B2B pairings and "&" duos stay together); drop placeholders and filler.
+function performers(event){
+ const raw=String(event.headliners||'').trim();
+ if(!raw||/to be announced/i.test(raw))return null;
+ const names=raw.split(',').map(part=>part.trim().replace(/\s+and\s+more$/i,'').replace(/^(hosted by|featuring|feat\.)\s+/i,'').trim()).filter(part=>part&&!/^(and\s+)?more$/i.test(part));
+ return names.length?names.map(name=>({'@type':'PerformingGroup',name})):null;
+}
 export function detailSchema(event){
- const verified=event.verifiedDetails||{},start=startDate(event),state=status(event);
+ const verified=event.verifiedDetails||{},start=startDate(event),state=status(event),parts=venueParts(event),acts=performers(event);
  const schema={'@context':'https://schema.org','@type':'Event','@id':origin+eventPath(event)+'#event',name:event.title,startDate:start,
   description:`${event.title}. ${verified.timeLabel||event.date}. ${verified.venueName||event.venue}.`,
   url:origin+eventPath(event),image:new URL(event.image,origin).href,
-  location:{'@type':'Place',name:verified.venueName||event.venue,...(verified.address?{address:verified.address}:{})},
+  location:{'@type':'Place',name:verified.venueName||parts.name,...(verified.address?{address:verified.address}:parts.city?{address:{'@type':'PostalAddress',addressLocality:parts.city,addressRegion:'FL',addressCountry:'US'}}:{})},
   offers:{'@type':'Offer',url:verified.ticketUrl||event.detailsUrl},sameAs:[...new Set([event.detailsUrl,event.flyerUrl,...(verified.sources||[])])]
  };
- if(verified.endDate)schema.endDate=verified.endDate;
- else if(event.endDate!==start?.slice(0,10))schema.endDate=event.endDate;
- if(state)schema.eventStatus='https://schema.org/'+state;
+ if(!start)delete schema.startDate;
+ const endDate=verified.endDate||(event.endDate&&start&&event.endDate>=start.slice(0,10)?event.endDate:null);
+ if(endDate)schema.endDate=endDate;
+ schema.eventStatus='https://schema.org/'+(state||'EventScheduled');
+ schema.eventAttendanceMode='https://schema.org/OfflineEventAttendanceMode';
+ if(acts)schema.performer=acts;
  if(event.previousStartDate)schema.previousStartDate=event.previousStartDate;
  return schema;
 }
