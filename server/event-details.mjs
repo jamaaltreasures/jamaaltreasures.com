@@ -3,16 +3,66 @@ import records from './event-records.json' with {type:'json'};
 import {eventStartDate,schemaTag} from './search-schema.mjs';
 const origin='https://jamaaltreasures.com';
 const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const slug=event=>event.slug||event.title.normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')+'-'+event.endDate.slice(0,4);
-const key=event=>event.imageKey||event.image||event.detailsUrl;
-const stored=new Map(records.map(event=>[key(event),event]));
+const deriveSlug=event=>event.title.normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')+'-'+event.endDate.slice(0,4);
+// A stop is one title on one date at one venue. A curated record belongs to
+// exactly one stop, but the flyer key (imageKey) is shared by every stop of a
+// tour, so keying records by flyer merged whole tours onto a single URL: the
+// record claimed the shared slug for every stop and the other stops never
+// appeared as pages of their own. Records therefore match feed events by stop
+// identity (title, date, venue), the same identity the board merge uses.
+const identity=event=>[event.title,event.date,event.venue].map(value=>String(value??'').trim()).join('|');
+const legacyKey=event=>event.imageKey||event.image||event.detailsUrl;
+const feedByIdentity=new Map(feed.map(event=>[identity(event),event]));
+const feedForRecord=new Map(),claimedFeed=new Set();
+for(const record of records){
+ const exact=feedByIdentity.get(identity(record));
+ if(exact&&!claimedFeed.has(identity(exact))){feedForRecord.set(record,exact);claimedFeed.add(identity(exact));}
+}
+// A curated record whose feed row drifted (for example a retitled stop) keeps
+// its match through the flyer key, but only when exactly one unclaimed feed
+// event carries that key, so a shared tour flyer can never claim extra stops.
+for(const record of records){
+ if(feedForRecord.has(record))continue;
+ const candidates=feed.filter(event=>legacyKey(event)===legacyKey(record)&&!claimedFeed.has(identity(event)));
+ if(candidates.length===1){feedForRecord.set(record,candidates[0]);claimedFeed.add(identity(candidates[0]));}
+}
 export const eventRecords=records.map(record=>{
- const current=feed.find(event=>key(event)===key(record));
+ const current=feedForRecord.get(record);
  if(!current)return record;
  const verifiedDetails=current.date===record.date&&current.venue===record.venue?record.verifiedDetails:{};
  return {...record,...current,slug:record.slug,verifiedDetails};
-}).concat(feed.filter(event=>!stored.has(key(event))).map(event=>({...event,slug:slug(event),verifiedDetails:{}})));
-export const eventPath=event=>'/events/'+(stored.get(key(event))?.slug||slug(event));
+}).concat(feed.filter(event=>!claimedFeed.has(identity(event))).map(event=>({...event,slug:deriveSlug(event),verifiedDetails:{}})));
+// Slugs are unique per stop. A derived slug can land on a curated record slug
+// when an artist plays the same city twice on one tour (the feed title names
+// the city, and the record slug names it too). The later stop then carries
+// its month and day in the slug, so the curated record slug never has to move
+// and a refresh that re-derives slugs lands on the same answer every time.
+const monthNames=['january','february','march','april','may','june','july','august','september','october','november','december'];
+function datedSlug(entry){
+ const start=eventStartDate(entry);
+ const tag=start?`-${monthNames[Number(start.slice(5,7))-1]}-${Number(start.slice(8,10))}`:'';
+ return entry.slug.replace(/-(\d{4})$/,`${tag}-$1`);
+}
+const slugOwners=new Map();
+for(const entry of eventRecords){
+ const owner=slugOwners.get(entry.slug);
+ if(!owner||identity(owner)===identity(entry)){slugOwners.set(entry.slug,entry);continue;}
+ const dated=datedSlug(entry);let candidate=dated,n=2;
+ while(slugOwners.has(candidate)&&identity(slugOwners.get(candidate))!==identity(entry)){candidate=dated+'-'+n;n++;}
+ entry.slug=candidate;slugOwners.set(candidate,entry);
+}
+const slugByIdentity=new Map(eventRecords.map(entry=>[identity(entry),entry.slug]));
+export const eventPath=event=>'/events/'+(slugByIdentity.get(identity(event))||event.slug||deriveSlug(event));
+// Tour stops used to share one URL per tour (the curated record slug). Those
+// shared paths now redirect (301) to the chronologically first stop's own
+// page, the stop the shared URL always served, so existing links land on the
+// same event instead of a generic board or a 404.
+const legacyEventPaths={
+ '/events/doja-cat-tour-ma-vie-world-tour-with-latto-2026':'/events/doja-cat-tour-ma-vie-world-tour-with-latto-miami-2026',
+ '/events/young-miko-late-checkout-tour-2026':'/events/young-miko-late-checkout-tour-miami-2026',
+ '/events/rod-wave-don-t-look-down-tour-with-fridayy-2026':'/events/rod-wave-don-t-look-down-tour-with-fridayy-orlando-2026',
+ '/events/uicideboy-grey-day-tour-2026':'/events/uicideboy-grey-day-tour-tampa-2026'
+};
 function startDate(event){
  if(event.verifiedDetails?.startDate)return event.verifiedDetails.startDate;
  const day=eventStartDate(event),time=String(event.date).match(/(\d{1,2})(?::(\d{2}))?\s*(AM|PM)/i);
@@ -71,6 +121,7 @@ export function detailSchema(event){
 export function eventDetailPage(request){
  const path=new URL(request.url).pathname.replace(/\/+$/,'');
  if(!path.startsWith('/events/')||path.startsWith('/events/flyer/'))return null;
+ if(Object.hasOwn(legacyEventPaths,path)&&['GET','HEAD'].includes(request.method))return new Response(null,{status:301,headers:{Location:origin+legacyEventPaths[path],'Cache-Control':'public, max-age=3600'}});
  const event=eventRecords.find(event=>eventPath(event)===path);
  if(!event)return new Response('Event not found',{status:404,headers:{'Content-Type':'text/plain; charset=utf-8'}});
  if(!['GET','HEAD'].includes(request.method))return new Response('Method not allowed',{status:405,headers:{Allow:'GET, HEAD'}});
