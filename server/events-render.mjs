@@ -60,7 +60,7 @@ export async function eventsPage(){
  const areaNames=['Tampa','Orlando','Miami','Fort Lauderdale','St. Petersburg','Sarasota','Jacksonville','More Florida'].filter(area=>areaCounts[area]);
  const areaRow=`<div class="arearow" id="arearow" role="region" aria-label="Filter events by area"><span class="arealabel">AREA</span>${['All Areas',...areaNames].map((area,index)=>`<button class="achip${index===0?' on':''}" type="button" data-areafilter="${esc(area)}" aria-pressed="${index===0}">${esc(area)} (${area==='All Areas'?activeEvents.length:areaCounts[area]})</button>`).join('')}</div>`;
  const body=`<header class="site-header"><div class="bar"><a class="brand jt-brand-dark" href="/"><img class="jt-brand-logo" src="/assets/jamaal-logo-animated.svg" width="184" height="61" alt="Jamaal Treasures"></a><nav class="nav" aria-label="Main navigation"><a href="/">Home</a><a href="/events" class="active">Events</a><a href="/contact">Book</a></nav></div></header>
- <main class="wrap"><section class="hero"><div class="radar-stage"><div class="radar-copy"><h1 class="radar-title"><span class="rt-ink">EVENT</span><span class="rt-red">RADAR</span></h1><p class="radar-sub">FLORIDA AND BEYOND</p><p class="radar-engine">REAL TIME EVENT DISCOVERY ENGINE</p><p class="radar-discover">DISCOVER<br>REAL EVENTS<br>NEAR YOU</p><p class="radar-italic">GOOD TIMES<br>ARE CLOSER<br>THAN YOU THINK.</p></div><button type="button" class="radar-btn" id="radar-jump" aria-label="Scroll down to the event search menu"><img class="radar-sticker" src="/assets/click-the-radar.png" width="974" height="580" alt="" aria-hidden="true" decoding="async"><img class="radar-device" src="/assets/event-radar-device.webp" width="922" height="931" alt="" aria-hidden="true" decoding="async"><span class="radar-badge"><span class="radar-dot" aria-hidden="true"></span>ALWAYS SWEEPING</span></button></div><p class="radar-cats"><span>MUSIC</span><i aria-hidden="true"></i><span>FOOD</span><i aria-hidden="true"></i><span>ART</span><i aria-hidden="true"></i><span>CULTURE</span><i aria-hidden="true"></i><span>SPORTS</span><i aria-hidden="true"></i><span>COMMUNITY</span></p>
+ <main class="wrap"><section class="hero"><div class="radar-stage"><div class="radar-copy"><h1 class="radar-title"><span class="rt-ink">EVENT</span><span class="rt-red">RADAR</span></h1><p class="radar-sub">FLORIDA AND BEYOND</p><p class="radar-engine">REAL TIME EVENT DISCOVERY ENGINE</p><p class="radar-discover">DISCOVER<br>REAL EVENTS<br>NEAR YOU</p><p class="radar-italic">GOOD TIMES<br>ARE CLOSER<br>THAN YOU THINK.</p></div><button type="button" class="radar-btn" id="radar-jump" aria-label="Scroll down to the event search menu"><img class="radar-sticker" src="/assets/click-the-radar.png" width="974" height="580" alt="" aria-hidden="true" decoding="async"><img class="radar-device" src="/assets/event-radar-device.webp" width="577" height="1054" alt="" aria-hidden="true" decoding="async"><span class="radar-badge"><span class="radar-dot" aria-hidden="true"></span>ALWAYS SWEEPING</span></button></div><p class="radar-cats"><span>MUSIC</span><i aria-hidden="true"></i><span>FOOD</span><i aria-hidden="true"></i><span>ART</span><i aria-hidden="true"></i><span>CULTURE</span><i aria-hidden="true"></i><span>SPORTS</span><i aria-hidden="true"></i><span>COMMUNITY</span></p>
     <div class="install-row"><button class="install-badge" id="install-badge" type="button" aria-label="Add Jamaal Treasures to your home screen"><svg class="install-apple" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12.152 6.896c-.948 0-2.415-1.078-3.96-1.04-2.04.027-3.91 1.183-4.961 3.014-2.117 3.675-.546 9.103 1.519 12.09 1.013 1.454 2.208 3.09 3.792 3.039 1.52-.065 2.09-.987 3.935-.987 1.831 0 2.35.987 3.96.948 1.637-.026 2.676-1.48 3.676-2.948 1.156-1.688 1.636-3.325 1.662-3.415-.039-.013-3.182-1.221-3.22-4.857-.026-3.04 2.48-4.494 2.597-4.559-1.429-2.09-3.623-2.324-4.39-2.376-2-.156-3.675 1.09-4.61 1.09zM15.53 3.83c.843-1.012 1.4-2.427 1.245-3.83-1.207.052-2.662.805-3.532 1.818-.78.896-1.454 2.338-1.273 3.714 1.338.104 2.715-.688 3.559-1.701"/></svg><span class="install-lines"><span class="install-small">ADD TO</span><span class="install-big">HOME SCREEN</span></span></button></div>
     <div class="install-card" id="install-card" hidden role="dialog" aria-label="Add Jamaal Treasures to your home screen">
       <button class="install-x" id="install-x" type="button" aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
@@ -340,25 +340,27 @@ body{overflow-x:clip}
 .radar-stage{position:relative}
 .radar-copy{position:relative;z-index:2;pointer-events:none;padding-top:25vw}
 .radar-copy>*{width:max-content;max-width:100%}
-.hero h1.radar-title{font-family:BarlowCondensed,Impact,sans-serif;font-weight:600;font-size:17.8vw;line-height:.83;letter-spacing:-.015em;text-transform:uppercase;margin:0;color:var(--silver)}
+.hero h1.radar-title{font-family:BarlowCondensed,Impact,sans-serif;font-weight:600;font-size:22vw;line-height:.82;letter-spacing:-.015em;text-transform:uppercase;margin:0;color:var(--silver)}
 .radar-title span{display:block}
 .radar-title .rt-red{color:var(--red)}
-.radar-sub{margin:6px 0 0;font-size:12px;font-weight:800;letter-spacing:.26em;line-height:1.3;color:var(--red)}
-.radar-engine{margin:5px 0 0;font-size:9px;font-weight:700;letter-spacing:.2em;line-height:1.3;color:var(--muted)}
-.radar-discover{margin:10px 0 0;font-family:BarlowCondensed,Impact,sans-serif;font-weight:600;font-size:10vw;line-height:.92;letter-spacing:-.01em;color:var(--silver);text-transform:uppercase}
-.radar-italic{margin:8px 0 0;font-family:Instrument,Georgia,serif;font-style:italic;font-weight:400;font-size:9.8vw;line-height:.98;color:var(--red)}
-.radar-btn{position:absolute;top:3.5vw;right:-5vw;width:50vw;padding:0;border:none;background:none;cursor:pointer;-webkit-appearance:none;appearance:none;font-family:inherit}
+.radar-sub{margin:4px 0 0;font-size:12px;font-weight:800;letter-spacing:.22em;line-height:1.3;color:var(--red)}
+.radar-engine{margin:4px 0 0;font-size:2.2vw;font-weight:700;letter-spacing:.15em;line-height:1.3;color:var(--muted)}
+.radar-discover{margin:3px 0 0;font-family:BarlowCondensed,Impact,sans-serif;font-weight:600;font-size:11vw;line-height:.9;letter-spacing:-.01em;color:var(--silver);text-transform:uppercase}
+.radar-italic{margin:5px 0 0;font-family:Instrument,Georgia,serif;font-style:italic;font-weight:400;font-size:12.6vw;line-height:.94;color:var(--red)}
+.radar-btn{position:absolute;top:5vw;right:-19vw;width:62vw;padding:0;border:none;background:none;cursor:pointer;-webkit-appearance:none;appearance:none;font-family:inherit}
 .radar-device{position:relative;z-index:1;display:block;width:100%;height:auto;filter:drop-shadow(0 16px 22px rgba(17,17,20,.28));transition:transform .18s}
 .radar-btn:active .radar-device{transform:scale(.985)}
-.radar-sticker{position:absolute;z-index:3;width:68%;height:auto;left:-56%;top:-10%;transform:rotate(-5deg);pointer-events:none}
-.radar-badge{position:absolute;z-index:3;left:-4%;bottom:6%;display:inline-flex;align-items:center;gap:6px;padding:7px 11px;border-radius:999px;background:rgba(255,255,255,.62);backdrop-filter:blur(14px) saturate(1.1);-webkit-backdrop-filter:blur(14px) saturate(1.1);border:1px solid rgba(17,17,20,.22);box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 2px 8px rgba(60,58,52,.10);font-size:9.5px;font-weight:800;letter-spacing:.18em;color:var(--silver);white-space:nowrap}
-.radar-dot{width:7px;height:7px;border-radius:50%;background:#2fdc5f;flex:0 0 auto}
-@media(prefers-reduced-motion:no-preference){.radar-dot{animation:radarpulse 2.2s ease-in-out infinite}}
+.radar-sticker{position:absolute;z-index:3;width:54%;height:auto;left:-16%;top:-1.5%;transform:rotate(-5deg);pointer-events:none}
+.radar-badge{position:absolute;z-index:3;left:12%;bottom:35%;display:inline-flex;align-items:center;gap:6px;padding:7px 11px;border-radius:999px;background:rgba(255,255,255,.62);backdrop-filter:blur(14px) saturate(1.1);-webkit-backdrop-filter:blur(14px) saturate(1.1);border:1px solid rgba(17,17,20,.22);box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 2px 8px rgba(60,58,52,.10);font-size:8.5px;font-weight:800;letter-spacing:.14em;color:var(--silver);white-space:nowrap}
+.radar-dot{width:6px;height:6px;border-radius:50%;background:#2fdc5f;flex:0 0 auto;box-shadow:0 0 6px 2px rgba(47,220,95,.55)}
+.radar-badge::before{content:"";position:absolute;inset:-10px -14px;border-radius:999px;background:radial-gradient(closest-side,rgba(64,230,110,.55),rgba(64,230,110,0) 72%);filter:blur(6px);opacity:.45;z-index:-1;pointer-events:none}
+@media(prefers-reduced-motion:no-preference){.radar-dot{animation:radarpulse 2.4s ease-in-out infinite}.radar-badge::before{animation:badgebreathe 2.4s ease-in-out infinite}}
+@keyframes badgebreathe{0%,100%{opacity:.35;transform:scale(.98)}50%{opacity:.85;transform:scale(1.04)}}
 @keyframes radarpulse{0%,100%{opacity:1}50%{opacity:.35}}
 .radar-btn:focus-visible{outline:3px solid var(--red);outline-offset:4px;border-radius:24px}
-.radar-cats{display:flex;align-items:center;gap:7px;flex-wrap:nowrap;margin:9px 0 0;font-size:10px;font-weight:800;letter-spacing:.09em;line-height:1.3}
+.radar-cats{display:flex;align-items:center;justify-content:space-between;gap:1.2vw;flex-wrap:nowrap;margin:8px 0 0;font-size:2.5vw;font-weight:800;letter-spacing:.05em;line-height:1.3}
 .radar-cats span{flex:none;white-space:nowrap;color:var(--silver)}
-.radar-cats i{width:5px;height:5px;border-radius:50%;background:var(--red);flex:0 0 auto}
+.radar-cats i{width:1.3vw;height:1.3vw;border-radius:50%;background:var(--red);flex:0 0 auto}
 .explore-pill{display:inline-flex;align-items:center;gap:10px;margin:9px 0 2px;min-height:52px;padding:10px 12px 10px 22px;border-radius:999px;border:1px solid rgba(17,17,20,.22);background:rgba(255,255,255,.62);backdrop-filter:blur(14px) saturate(1.1);-webkit-backdrop-filter:blur(14px) saturate(1.1);box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 2px 8px rgba(60,58,52,.10);font-family:inherit;font-size:15.5px;font-weight:700;color:var(--silver);cursor:pointer;-webkit-appearance:none;appearance:none;transition:transform .18s}
 .explore-arrow{display:inline-flex;align-items:center;justify-content:center;width:32px;height:32px;border-radius:50%;background:var(--red);color:#fff;flex:0 0 auto}
 .explore-arrow svg{width:16px;height:16px}
@@ -372,13 +374,13 @@ body{overflow-x:clip}
  .radar-italic{font-size:72px}
  .radar-sub{font-size:16px}
  .radar-engine{font-size:11.5px}
- .radar-btn{width:320px;right:-10px;top:40px}
- .radar-sticker{width:52%;left:-34%;top:-12%}
+ .radar-btn{width:400px;right:-70px;top:24px}
+ .radar-sticker{width:150px;left:-69px;top:-23px}
  .radar-cats{font-size:12.5px;gap:12px}
 }
 @media(prefers-reduced-motion:reduce){.radar-device,.explore-pill{transition:none}}
 
-.install-row{display:flex;justify-content:center;margin-top:9px}
+.install-row{display:flex;justify-content:center;margin-top:7px}
 .install-badge{display:inline-flex;align-items:center;gap:8px;background:#0B0B0D;border:1px solid rgba(255,255,255,.35);border-radius:10px;padding:10px 11px 11px;cursor:pointer;color:#fff;font-family:inherit;-webkit-tap-highlight-color:transparent}
 .install-apple{width:25px;height:25px;fill:#fff;flex:none}
 .install-lines{display:flex;flex-direction:column;align-items:flex-start;line-height:1.12;text-align:left}
