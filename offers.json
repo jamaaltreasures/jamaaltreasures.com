@@ -3,7 +3,7 @@
   "services": [
     {
       "id": "music-video",
-      "category": "production",
+      "category": "music",
       "name": "Music Videos",
       "price": 650,
       "icon": "work",
@@ -24,7 +24,7 @@
     },
     {
       "id": "artist-recap",
-      "category": "production",
+      "category": "music",
       "name": "Artist Recap Videos",
       "price": 250,
       "icon": "work",
@@ -45,7 +45,7 @@
     },
     {
       "id": "event-coverage",
-      "category": "production",
+      "category": "events",
       "name": "Event Coverage",
       "price": 450,
       "icon": "work",
@@ -68,7 +68,7 @@
     },
     {
       "id": "expedited-delivery",
-      "category": "production",
+      "category": "events",
       "name": "Expedited Delivery",
       "price": 200,
       "icon": "work",
@@ -347,7 +347,7 @@
     },
     {
       "id": "song-collaboration",
-      "category": "production",
+      "category": "music",
       "name": "Song Collaboration with Jamaal",
       "price": 50,
       "icon": "music",
