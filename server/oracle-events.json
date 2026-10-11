@@ -4930,5 +4930,23 @@
   "alt": "Suwannee Hulaween event flyer",
   "imageKey": "event-flyers/310-suwannee-hulaween.jpg",
   "endDate": "2026-10-25"
+ },
+ {
+  "section": "NEXT WEEK",
+  "title": "iHeartRadio Fiesta Latina",
+  "date": "OCTOBER 17, 8 PM",
+  "headliners": "Anuel AA, Myke Towers, Farruko, Manuel Turizo, Eladio Carrión, FloyyMenor, Greeicy, Alleh, Rey Tony y Helabusador Los Titis",
+  "venue": "Kaseya Center, Miami",
+  "categories": [
+   "Music",
+   "Culture"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/event/0D0064C58CC07B23",
+  "flyerUrl": "https://i.iheart.com/v3/re/new_assets/6ac6b78a2494d56dba81b9de",
+  "image": "/events/flyer/311-fiesta-latina-kaseya-center-miami.jpg",
+  "alt": "iHeartRadio Fiesta Latina event flyer, Kaseya Center Miami",
+  "imageKey": "event-flyers/311-fiesta-latina-kaseya-center-miami.jpg",
+  "endDate": "2026-10-17"
  }
 ]
