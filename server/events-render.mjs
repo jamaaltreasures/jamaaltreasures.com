@@ -336,46 +336,49 @@ html.lg-refract .chip:not(.on),html.lg-refract .achip:not(.on){backdrop-filter:u
 @font-face{font-family:BarlowCondensed;src:url(/assets/barlow-condensed.woff2) format('woff2');font-weight:600;font-style:normal;font-display:swap}
 @font-face{font-family:Instrument;src:url(/assets/instrument-serif-italic.woff2) format('woff2');font-weight:400;font-style:italic;font-display:swap}
 body{overflow-x:clip}
-.hero{padding-top:14px}
+.hero{padding-top:6px}
 .radar-stage{position:relative}
-.radar-copy{position:relative;z-index:2;pointer-events:none}
-.hero h1.radar-title{font-family:BarlowCondensed,Impact,sans-serif;font-weight:600;font-size:23.5vw;line-height:.85;letter-spacing:-.015em;text-transform:uppercase;margin:66px 0 0;color:var(--silver)}
+.radar-copy{position:relative;z-index:2;pointer-events:none;padding-top:25vw}
+.radar-copy>*{width:max-content;max-width:100%}
+.hero h1.radar-title{font-family:BarlowCondensed,Impact,sans-serif;font-weight:600;font-size:17.8vw;line-height:.83;letter-spacing:-.015em;text-transform:uppercase;margin:0;color:var(--silver)}
 .radar-title span{display:block}
 .radar-title .rt-red{color:var(--red)}
-.radar-sub{margin:12px 0 0;font-size:13px;font-weight:800;letter-spacing:.34em;color:var(--red)}
-.radar-engine{margin:9px 0 0;font-size:9px;font-weight:700;letter-spacing:.2em;color:var(--muted)}
-.radar-discover{margin:46px 0 0;font-family:BarlowCondensed,Impact,sans-serif;font-weight:600;font-size:12.6vw;line-height:.96;letter-spacing:-.01em;color:var(--silver);text-transform:uppercase}
-.radar-italic{margin:16px 0 0;font-family:Instrument,Georgia,serif;font-style:italic;font-weight:400;font-size:12.2vw;line-height:1.05;color:var(--red)}
-.radar-btn{position:absolute;top:-20px;right:-22vw;width:68vw;padding:0;border:none;background:none;cursor:pointer;-webkit-appearance:none;appearance:none;font-family:inherit}
+.radar-sub{margin:6px 0 0;font-size:12px;font-weight:800;letter-spacing:.26em;line-height:1.3;color:var(--red)}
+.radar-engine{margin:5px 0 0;font-size:9px;font-weight:700;letter-spacing:.2em;line-height:1.3;color:var(--muted)}
+.radar-discover{margin:10px 0 0;font-family:BarlowCondensed,Impact,sans-serif;font-weight:600;font-size:10vw;line-height:.92;letter-spacing:-.01em;color:var(--silver);text-transform:uppercase}
+.radar-italic{margin:8px 0 0;font-family:Instrument,Georgia,serif;font-style:italic;font-weight:400;font-size:9.8vw;line-height:.98;color:var(--red)}
+.radar-btn{position:absolute;top:3.5vw;right:-5vw;width:50vw;padding:0;border:none;background:none;cursor:pointer;-webkit-appearance:none;appearance:none;font-family:inherit}
 .radar-device{position:relative;z-index:1;display:block;width:100%;height:auto;filter:drop-shadow(0 16px 22px rgba(17,17,20,.28));transition:transform .18s}
 .radar-btn:active .radar-device{transform:scale(.985)}
-.radar-sticker{position:absolute;z-index:3;width:54%;height:auto;left:-31%;top:-10%;transform:rotate(-5deg);pointer-events:none}
-.radar-badge{position:absolute;z-index:3;left:-7%;bottom:4%;display:inline-flex;align-items:center;gap:6px;padding:7px 11px;border-radius:999px;background:rgba(255,255,255,.62);backdrop-filter:blur(14px) saturate(1.1);-webkit-backdrop-filter:blur(14px) saturate(1.1);border:1px solid rgba(17,17,20,.22);box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 2px 8px rgba(60,58,52,.10);font-size:9.5px;font-weight:800;letter-spacing:.18em;color:var(--silver);white-space:nowrap}
+.radar-sticker{position:absolute;z-index:3;width:68%;height:auto;left:-56%;top:-10%;transform:rotate(-5deg);pointer-events:none}
+.radar-badge{position:absolute;z-index:3;left:-4%;bottom:6%;display:inline-flex;align-items:center;gap:6px;padding:7px 11px;border-radius:999px;background:rgba(255,255,255,.62);backdrop-filter:blur(14px) saturate(1.1);-webkit-backdrop-filter:blur(14px) saturate(1.1);border:1px solid rgba(17,17,20,.22);box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 2px 8px rgba(60,58,52,.10);font-size:9.5px;font-weight:800;letter-spacing:.18em;color:var(--silver);white-space:nowrap}
 .radar-dot{width:7px;height:7px;border-radius:50%;background:#2fdc5f;flex:0 0 auto}
 @media(prefers-reduced-motion:no-preference){.radar-dot{animation:radarpulse 2.2s ease-in-out infinite}}
 @keyframes radarpulse{0%,100%{opacity:1}50%{opacity:.35}}
 .radar-btn:focus-visible{outline:3px solid var(--red);outline-offset:4px;border-radius:24px}
-.radar-cats{display:flex;align-items:center;gap:7px;flex-wrap:nowrap;margin:30px 0 0;font-size:10px;font-weight:800;letter-spacing:.09em;}
-.radar-cats span{flex:none;white-space:nowrapcolor:var(--silver)}
+.radar-cats{display:flex;align-items:center;gap:7px;flex-wrap:nowrap;margin:9px 0 0;font-size:10px;font-weight:800;letter-spacing:.09em;line-height:1.3}
+.radar-cats span{flex:none;white-space:nowrap;color:var(--silver)}
 .radar-cats i{width:5px;height:5px;border-radius:50%;background:var(--red);flex:0 0 auto}
-.explore-pill{display:inline-flex;align-items:center;gap:10px;margin:20px 0 2px;min-height:52px;padding:10px 12px 10px 22px;border-radius:999px;border:1px solid rgba(17,17,20,.22);background:rgba(255,255,255,.62);backdrop-filter:blur(14px) saturate(1.1);-webkit-backdrop-filter:blur(14px) saturate(1.1);box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 2px 8px rgba(60,58,52,.10);font-family:inherit;font-size:15.5px;font-weight:700;color:var(--silver);cursor:pointer;-webkit-appearance:none;appearance:none;transition:transform .18s}
+.explore-pill{display:inline-flex;align-items:center;gap:10px;margin:9px 0 2px;min-height:52px;padding:10px 12px 10px 22px;border-radius:999px;border:1px solid rgba(17,17,20,.22);background:rgba(255,255,255,.62);backdrop-filter:blur(14px) saturate(1.1);-webkit-backdrop-filter:blur(14px) saturate(1.1);box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 2px 8px rgba(60,58,52,.10);font-family:inherit;font-size:15.5px;font-weight:700;color:var(--silver);cursor:pointer;-webkit-appearance:none;appearance:none;transition:transform .18s}
 .explore-arrow{display:inline-flex;align-items:center;justify-content:center;width:32px;height:32px;border-radius:50%;background:var(--red);color:#fff;flex:0 0 auto}
 .explore-arrow svg{width:16px;height:16px}
 .explore-pill:active{transform:scale(.97)}
 .explore-pill:focus-visible{outline:3px solid var(--red);outline-offset:4px}
 #search-menu{scroll-margin-top:92px}
 @media(min-width:760px){
- .hero h1.radar-title{font-size:150px;margin-top:72px}
- .radar-discover{font-size:88px}
- .radar-italic{font-size:86px}
+ .hero h1.radar-title{font-size:120px}
+ .radar-copy{padding-top:150px}
+ .radar-discover{font-size:76px}
+ .radar-italic{font-size:72px}
  .radar-sub{font-size:16px}
  .radar-engine{font-size:11.5px}
- .radar-btn{width:480px;right:-30px;top:34px}
+ .radar-btn{width:320px;right:-10px;top:40px}
+ .radar-sticker{width:52%;left:-34%;top:-12%}
  .radar-cats{font-size:12.5px;gap:12px}
 }
 @media(prefers-reduced-motion:reduce){.radar-device,.explore-pill{transition:none}}
 
-.install-row{display:flex;justify-content:center;margin-top:20px}
+.install-row{display:flex;justify-content:center;margin-top:9px}
 .install-badge{display:inline-flex;align-items:center;gap:8px;background:#0B0B0D;border:1px solid rgba(255,255,255,.35);border-radius:10px;padding:10px 11px 11px;cursor:pointer;color:#fff;font-family:inherit;-webkit-tap-highlight-color:transparent}
 .install-apple{width:25px;height:25px;fill:#fff;flex:none}
 .install-lines{display:flex;flex-direction:column;align-items:flex-start;line-height:1.12;text-align:left}
