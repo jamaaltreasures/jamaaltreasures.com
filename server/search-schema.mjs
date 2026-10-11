@@ -16,9 +16,16 @@ export const businessSchema = {
 export function eventStartDate(event) {
   const match = String(event.date).toUpperCase().match(new RegExp('(' + months.join('|') + ')\\s+(\\d{1,2})\\b'));
   if (!match || !/^\d{4}-\d{2}-\d{2}$/.test(event.endDate || '')) return null;
-  const year = event.endDate.slice(0,4);
-  const value = `${year}-${String(months.indexOf(match[1])+1).padStart(2,'0')}-${match[2].padStart(2,'0')}`;
-  return new Date(value).toISOString().slice(0,10) === value ? value : null;
+  const month = String(months.indexOf(match[1])+1).padStart(2,'0'), day = match[2].padStart(2,'0');
+  const valid = value => new Date(value).toISOString().slice(0,10) === value;
+  // The feed names the start month and day but not the year. Use the year that
+  // places the start on or before the recorded end date: a December start can
+  // belong to the year before a January end date (New Year's Eve events).
+  for (const year of [event.endDate.slice(0,4), String(Number(event.endDate.slice(0,4))-1)]) {
+    const value = `${year}-${month}-${day}`;
+    if (valid(value) && value <= event.endDate) return value;
+  }
+  return null;
 }
 
 export function eventSchema(event) {
