@@ -4948,5 +4948,23 @@
   "alt": "iHeartRadio Fiesta Latina event flyer, Kaseya Center Miami",
   "imageKey": "event-flyers/311-fiesta-latina-kaseya-center-miami.jpg",
   "endDate": "2026-10-17"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "We Belong Here Tampa Bay",
+  "date": "DECEMBER 11 TO 13",
+  "headliners": "deadmau5, Disclosure, ILLENIUM, Cassian, Nora En Pure, Kasbo, Jackie Hollander",
+  "venue": "Armature Works Riverfront, Tampa",
+  "categories": [
+   "Music",
+   "Arts"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.webelonghere.world/tampabay/",
+  "flyerUrl": "https://edmidentity.com/2026/10/10/we-belong-here-tampa-2026-lineup/",
+  "image": "/events/flyer/312-we-belong-here-tampa-bay.jpg",
+  "alt": "We Belong Here Tampa Bay event flyer",
+  "imageKey": "event-flyers/312-we-belong-here-tampa-bay.jpg",
+  "endDate": "2026-12-13"
  }
 ]
