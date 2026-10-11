@@ -519,10 +519,30 @@ background:rgba(255,255,255,.5)!important;
 }
 .site-menu .jt-glass-bg{filter:none;opacity:.18}
 .site-menu .menu-links a{font-weight:700}
-.site-menu,.site-menu .menu-links{touch-action:pan-y}
-.site-menu.swipe-closing{pointer-events:none}
+.site-menu .menu-group-label{font-weight:600}
 /* Reduced transparency still wins on the panel after this pass. */
 @media (prefers-reduced-transparency:reduce){
 body .site-header .site-menu.glass-panel,html.lg-refract body .site-header .site-menu.glass-panel{background:#fff!important;-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
 .site-menu .jt-glass-bg{display:none!important}
 }
+
+/* Dock swipe and player dot pass, 2026-10-11 (owner correction and order): the
+   swipe right collapse belongs to the BOTTOM DOCK, not the menu; the menu has
+   no gesture handling at all. A rightward swipe shrinks the dock into a small
+   liquid glass dot at the bottom right; tapping the dot restores the dock. The
+   dot is plain site glass (white translucent, neutral border, backdrop blur),
+   never red. When the minimized music player icon is on screen, the dot lifts
+   above it (icon bottom 92px + height 54px + 12px margin) so they never
+   overlap. The dock glass recipe itself is untouched. The music player
+   collapse control leaves the glossy yellow orb behind for the same liquid
+   glass and moves up and out of the player's top right corner so neither its
+   visible disc nor its hit area covers the next track button. */
+.mobile-dock{touch-action:pan-y}
+.mobile-dock.dock-hidden{display:none!important}
+.dock-dot{position:fixed;right:16px;bottom:max(16px,env(safe-area-inset-bottom));z-index:36;width:48px;height:48px;border-radius:50%;border:1px solid rgba(17,17,20,.14);background:rgba(255,255,255,.62);-webkit-backdrop-filter:blur(14px) saturate(1.1);backdrop-filter:blur(14px) saturate(1.1);box-shadow:0 10px 28px rgba(60,58,52,.18),inset 0 1px 0 rgba(255,255,255,.7);color:#111114;display:grid;place-items:center;padding:0;cursor:pointer}
+.dock-dot[hidden]{display:none}
+body:has(#music-player-mini:not([hidden])) .dock-dot{bottom:calc(158px + env(safe-area-inset-bottom))}
+#music-collapse.player-collapse-fixed{position:fixed;z-index:38;width:40px;height:40px;min-width:40px;min-height:40px;border-radius:50%;background:transparent;border:0;color:#111114;display:grid;place-items:center;padding:0;cursor:pointer}
+#music-collapse.player-collapse-fixed[hidden]{display:none}
+#music-collapse.player-collapse-fixed::before{content:"";position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:20px;height:20px;border-radius:50%;background:rgba(255,255,255,.55);border:1px solid rgba(17,17,20,.14);-webkit-backdrop-filter:blur(10px) saturate(1.1);backdrop-filter:blur(10px) saturate(1.1);box-shadow:0 4px 14px rgba(60,58,52,.18),inset 0 1px 0 rgba(255,255,255,.75)}
+#music-collapse.player-collapse-fixed svg{position:relative;z-index:1;width:10px;height:10px;color:#111114}
