@@ -546,3 +546,9 @@ body:has(#music-player-mini:not([hidden])) .dock-dot{bottom:calc(158px + env(saf
 #music-collapse.player-collapse-fixed[hidden]{display:none}
 #music-collapse.player-collapse-fixed::before{content:"";position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:20px;height:20px;border-radius:50%;background:rgba(255,255,255,.55);border:1px solid rgba(17,17,20,.14);-webkit-backdrop-filter:blur(10px) saturate(1.1);backdrop-filter:blur(10px) saturate(1.1);box-shadow:0 4px 14px rgba(60,58,52,.18),inset 0 1px 0 rgba(255,255,255,.75)}
 #music-collapse.player-collapse-fixed svg{position:relative;z-index:1;width:10px;height:10px;color:#111114}
+
+/* Media page panel padding. Additive rule for app-pages.css, mirroring how
+   .app-page.about and .app-page.community carry their own panel padding.
+   Ships together with media.html; nothing else in app-pages.css changes. */
+.app-page.media>div.glass-panel{padding:30px 24px}
+@media (min-width:900px){.app-page.media>div.glass-panel{padding:36px 40px}}
