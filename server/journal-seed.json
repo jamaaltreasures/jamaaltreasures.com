@@ -1,5 +1,299 @@
 [
  {
+  "slug": "google-amie-chatbot-interviewed-98-patients",
+  "title": "Before the Doctor Walks In, an AI Has Already Interviewed the Patient",
+  "excerpt": "Google tested its medical chatbot AMIE with 98 real patients ahead of urgent care visits, and the final diagnosis landed on the AI's list of possibilities 90 percent of the time. The Neuron also flagged Utah pilots that move AI closer to approving prescriptions.",
+  "seoDescription": "Google's AMIE chatbot interviewed 98 patients before urgent care visits, and Utah is piloting AI prescription refills, via The Neuron, October 11, 2026.",
+  "category": "ai-filmmaking",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-12T11:12:48.000Z",
+  "updatedAt": "2026-10-12T11:12:48.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/google-amie-chatbot-interviewed-98-patients-hero.webp",
+   "alt": "Google Research diagram of a patient consulting AMIE, Google's diagnostic AI, in a chat based consultation study",
+   "subject": "Google AMIE diagnostic AI consultation study diagram",
+   "kind": "photo",
+   "sourceUrl": "https://www.theneuron.ai",
+   "credit": "Image: Google Research. Story source: The Neuron, October 11, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Ninety eight patients talked to the chatbot first",
+    "paragraphs": [
+     "Google tested its medical AI, AMIE, with 98 real patients ahead of urgent care appointments, according to The Neuron's October 11 Sunday edition. Patients described their symptoms over text, AMIE asked follow up questions, and the doctor received the full conversation plus a summary before walking in. The idea is simple: let the AI collect the story so the human can start with the story already told.",
+     "It is worth naming what AMIE did not do. It did not diagnose anyone on its own or decide treatment. It interviewed, organized, and summarized: the same first ten minutes a nurse or an intake form usually owns, only conversational and instant.",
+     "The results were strong for a first contact tool. Google says the doctor's final diagnosis appeared on AMIE's list of possible diagnoses 90 percent of the time. A physician monitored every single chat and could step in at any moment. Supervisors spotted one hallucination and added clinical information in five conversations, and no chat triggered the study's preset stopping rule."
+    ]
+   },
+   {
+    "heading": "Utah is testing how much further AI can go",
+    "paragraphs": [
+     "The same edition pointed to Utah, where approved healthcare AI pilots stretch the role further. Review loosens step by step, and only with state approval at each stage:"
+    ],
+    "bullets": [
+     "August AI's planned pilot could let AI approve a 90 day refill of certain existing, non controlled medications at the same dose, with review moving to after delivery",
+     "Nolla Health's acne pilot is already active, with two physicians reviewing every prescription at the start",
+     "Expect Fitness won approval for a pelvic floor care pilot that could ease toward spot checks for lower risk cases",
+     "Healthleap scans hospital records to flag malnutrition risk for dietitians, and Teladoc's SoloScribe drafts clinical notes during visits"
+    ]
+   },
+   {
+    "heading": "The pattern matters more than the hospital",
+    "paragraphs": [
+     "Strip away the medical setting and the pattern is one every service business will recognize. The AI handles the intake interview, the structured first conversation that collects the story before the expert arrives. Creative work runs on the same shape: the discovery call before a shoot, the brief before a design, the questions before a quote. Whoever builds a good intake agent owns the first impression of the business.",
+     "Honesty is the hidden variable in all of this. Patients may tell a chatbot things they would soften for a human, which can help. They may also rush, joke, or leave out the embarrassing detail that actually matters, which can hurt. The supervision model in this trial is the bridge between those two risks: AI speed, with a clinician close enough to catch the story going sideways.",
+     "The Neuron's own caution is the part to keep. The trial had no comparison group, and Utah's pilots only loosen human review step by step, with approval at each stage. That is the right order for our studio too: let AI prepare the work, keep a human checking anything that leaves the building, and widen the leash only after the misses are counted."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Google let patients talk to an AI before seeing a doctor (October 11, 2026)",
+    "url": "https://www.theneuron.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "ai-ugc-ad",
+   "landing-page"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 150,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See how we put AI to work for clients",
+   "url": "/ai-films-ads"
+  }
+ },
+ {
+  "slug": "claude-excel-cleanup-messy-report",
+  "title": "Claude Can Clean Up Your Messy Spreadsheet Now. Here Is the Safe Way to Let It.",
+  "excerpt": "The Rundown AI's October 9 training guide uses the Claude add in inside Excel to clean a messy sales export, fix a wrong total, and build a report that updates itself, with checks at every step so the numbers stay honest.",
+  "seoDescription": "The Rundown AI's guide to cleaning a messy Excel report with Claude, safely, step by step, from October 9, 2026.",
+  "category": "ai-filmmaking",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-12T11:10:48.000Z",
+  "updatedAt": "2026-10-12T11:10:48.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/claude-excel-cleanup-messy-report-hero.webp",
+   "alt": "Anthropic's Claude for Excel sidebar reviewing a cleaned up financial spreadsheet with its edits listed",
+   "subject": "Spreadsheet cleanup with Claude in Excel",
+   "kind": "photo",
+   "sourceUrl": "https://www.therundown.ai",
+   "credit": "Image: Anthropic (official Claude for Excel screenshot). Story source: The Rundown AI, October 9, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Start with a copy, and let Claude audit before it touches anything",
+    "paragraphs": [
+     "Every business has one: the spreadsheet that started clean and slowly turned into a swamp of duplicate rows, missing details, and a total nobody fully trusts. The Rundown AI's October 9 training session tackles exactly that file, using the official Claude add in for Excel to clean a messy sales export and turn it into a monthly report.",
+     "The guide's example is a sales export, but the same mess lives everywhere: booking sheets, inventory counts, content calendars, and client lists all drift the same way when more than one person touches them.",
+     "The workflow starts the way any careful editor would. Install the add in, open a copy of the workbook, and tell Claude what each row means and which orders count. Before changing a single cell, ask it to hunt for duplicate rows, missing details, and formula mistakes, so the problems get listed before they get fixed."
+    ]
+   },
+   {
+    "heading": "The five steps, in order",
+    "paragraphs": [
+     "Here is the sequence the guide teaches, in the order it teaches it:"
+    ],
+    "bullets": [
+     "Install the official Claude add in and open a copy of your workbook, keeping the original untouched",
+     "Explain what each row means and which orders count, then ask Claude to find duplicates, gaps, and formula errors first",
+     "Approve every fix on a separate sheet and ask for a written record of each change, including any rows left out",
+     "Build the monthly report with formulas and a chart, then check the order count, refunds, and sales total against the source rows",
+     "Add one test order to confirm the report and chart update, remove it, and verify the original totals return before saving"
+    ]
+   },
+   {
+    "heading": "The rule transfers to every AI task we run",
+    "paragraphs": [
+     "The pro tip from the guide deserves to be framed on a wall: a spreadsheet can show a wrong total without showing an error. Ask Claude to explain which rows it counted, then check a few yourself.",
+     "Working on a copy sounds paranoid until the first time an AI confidently fixes the wrong column. The separate approval sheet is the undo button with a paper trail, and it turns a risky automation into a review task any careful person can run.",
+     "Nothing in this workflow is really about Excel. It is a template for handing any messy job to AI without losing the thread: work on a copy, audit before editing, approve changes on a separate layer, keep a record, and test that the system responds the way you expect before you trust it. That is exactly how we treat AI inside client work at this studio, from sorting footage to drafting copy. The tool is fast. The discipline around the tool is what makes the speed safe to use."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: AI Training, clean up a messy Excel report with Claude (October 9, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "business-website",
+   "ai-ugc-ad"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 150,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See our business websites and growth work",
+   "url": "/prices"
+  }
+ },
+ {
+  "slug": "nano-banana-product-photo-three-ads",
+  "title": "Turn One Product Photo Into Three Matching Ads With Nano Banana",
+  "excerpt": "The Rundown AI's October 12 training guide uses Nano Banana 2.1 inside Google Flow to turn a single product photo into a matching set of campaign images, changing layouts and formats while keeping the product itself untouched.",
+  "seoDescription": "Use Nano Banana 2.1 in Google Flow to turn one product photo into three matching ads, via The Rundown AI, October 12, 2026.",
+  "category": "ai-filmmaking",
+  "serviceId": "ai-ugc-ad",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-12T11:08:48.000Z",
+  "updatedAt": "2026-10-12T11:08:48.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/nano-banana-product-photo-three-ads-hero.webp",
+   "alt": "Google's official Gemini 2.5 Flash Image demo: the same two people kept consistent across a matching set of trading card designs",
+   "subject": "Gemini 2.5 Flash Image (Nano Banana) consistency demo, matching trading cards",
+   "kind": "photo",
+   "sourceUrl": "https://www.therundown.ai",
+   "credit": "Image: Google (official Gemini 2.5 Flash Image demo). Story source: The Rundown AI, October 12, 2026"
+  },
+  "sections": [
+   {
+    "heading": "One photo, a whole campaign set",
+    "paragraphs": [
+     "Brands usually need the same product shot three ways: square for the feed, portrait for stories, wide for banners. The Rundown AI's October 12 training session shows a faster route, using Nano Banana 2.1 inside Google Flow to build all three from one clean product photo, with the same product, light, and style carried across every version.",
+     "Matching sets are where AI image tools usually fall apart. A model can make one beautiful product shot, then quietly redesign the product when you ask for another angle. This guide is built around preventing that drift: references stay open, changes stay small, and every output gets compared back to the original.",
+     "The workflow starts with discipline. Open Google Flow, choose Nano Banana 2.1 in the standard image controls, and add a clear product photo. Check the usage cost before generating, then make one square image with a simple background and room for text. Before approving anything, compare the product against your original photo, because the whole set inherits whatever the first image gets wrong."
+    ]
+   },
+   {
+    "heading": "Change one thing at a time",
+    "paragraphs": [
+     "The middle of the workflow is restraint. Small, single changes keep the product honest while the layouts multiply:"
+    ],
+    "bullets": [
+     "Generate one square image with a simple background and space for a headline, then compare it closely with the original photo",
+     "Change one small detail, such as a cloth's color, and confirm the product and the rest of the image stayed put",
+     "Use the original photo and the approved image as references for the portrait and wide versions, changing only the layout",
+     "Add a short headline and check every word before downloading",
+     "Open the finished files and review product details, crop, and text one last time before using them"
+    ]
+   },
+   {
+    "heading": "Where this fits in a real client workflow",
+    "paragraphs": [
+     "The guide's pro tip is the one professionals forget: keep a text free copy of every image. When you need exact brand fonts and logos, add them in your usual design tool instead of asking the model to spell.",
+     "For a small brand, the economics are the headline. One afternoon with one good photo can fill a launch calendar that used to need a studio day, a stylist, and a week of retouching. The brands that win with this will not be the ones generating the most images. They will be the ones with the strictest approval step.",
+     "This is the same math behind the AI ad work we sell. A product photo that used to anchor a single post can now anchor a week of placements, which is why AI UGC ads and brand spots have become practical for small businesses instead of only for big campaigns. The tool does the layout labor. The human still does the judgment: approving the product's details, protecting the brand's look, and catching the one wrong letter AI loves to hide in a headline."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: AI Training, turn a product photo into three matching ads (October 12, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "ai-ugc-ad",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book an AI UGC ad",
+   "price": 300,
+   "serviceId": "ai-ugc-ad"
+  },
+  "nextClick": {
+   "label": "See our AI films and ads",
+   "url": "/ai-films-ads"
+  }
+ },
+ {
+  "slug": "teen-founder-persona-privacy-wearable",
+  "title": "He Built a $30 Million App as a Teen. His Next Bet Is a Wearable That Can Switch Off.",
+  "excerpt": "Nineteen year old Zach Yadegari sold his calorie tracking app Cal AI to MyFitnessPal after it passed $30 million in annual revenue, The Hustle reported on October 9. He has now raised $10 million for Persona, a privacy first wearable.",
+  "seoDescription": "Teen founder Zach Yadegari sold Cal AI after $30 million in revenue and raised $10 million for Persona, via The Hustle, October 9, 2026.",
+  "category": "brand-growth",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-12T11:06:48.000Z",
+  "updatedAt": "2026-10-12T11:06:48.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/teen-founder-persona-privacy-wearable-hero.webp",
+   "alt": "The Persona wearable band lineup in six finishes on a dark background, official product photo from Persona",
+   "subject": "Persona wearable band in six finishes",
+   "kind": "photo",
+   "sourceUrl": "https://thehustle.co",
+   "credit": "Photo: Persona. Story source: The Hustle, October 9, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A sophomore year most founders never have",
+    "paragraphs": [
+     "Zach Yadegari is nineteen. This year he sold Cal AI, the calorie tracking app he built, to MyFitnessPal after the app passed $30 million in annual revenue, and he has already raised $10 million for his next company, according to The Hustle's October 9 edition. Most founders twice his age never see either milestone once.",
+     "For scale, remember where Cal AI played: calorie tracking, one of the most crowded corners of the app store, against incumbents with decade old brands and every distribution advantage. A teenager took share there with a camera and a simpler promise.",
+     "The new venture is Persona, a $180 wristband with a privacy pitch at its center. Where most wearables listen constantly, Persona can be turned on and off, so the wearer decides when the device pays attention. Same category, opposite default."
+    ]
+   },
+   {
+    "heading": "Why the off switch is the whole product",
+    "paragraphs": [
+     "Privacy is also a timing play. Every always on device now ships into a market that has read a decade of stories about recordings, leaks, and assistants that heard too much. A visible off switch turns that accumulated anxiety into the sales pitch.",
+     "Notice the pattern between the two companies. Both take a crowded category and win on one clear, demonstrable difference:"
+    ],
+    "bullets": [
+     "Cal AI rode a simple promise: point your phone at a meal and let AI count the calories",
+     "The app passed $30 million in annual revenue before MyFitnessPal acquired it earlier this year",
+     "Persona raised $10 million to build a $180 wearable band built around privacy",
+     "Its defining feature is control: the device can be switched off instead of always listening"
+    ]
+   },
+   {
+    "heading": "The lesson for anyone building in public",
+    "paragraphs": [
+     "Young founders get dismissed as lucky until the second act lands. Yadegari's real skill is not the code. It is choosing the single friction everyone in the category complains about and building the product that deletes it, then saying that difference in one sentence anyone can repeat.",
+     "There is one more layer worth stealing: the second company launches with an audience already watching. A founder who has sold one company does not need to convince the market he can start. He needs the market paying attention when he ships, and the story itself does that recruiting for free.",
+     "That is a playbook a creator with no funding can copy tonight. List the three complaints your audience repeats about your niche. Pick the one you can visibly fix. Build the fix, name it plainly, and let the difference do the marketing. The audience for a clear difference is always bigger than the audience for a slightly better sameness."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle: News Flash, Zach Yadegari raises $10m for Persona wearable (October 9, 2026)",
+    "url": "https://thehustle.co"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 150,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See our business websites and growth work",
+   "url": "/prices"
+  }
+ },
+ {
   "slug": "ai-virtual-cell-biohub-billion-bet",
   "title": "The Next AI Moonshot Is a Virtual Human Cell, and It Now Has $1.8 Billion Behind It",
   "excerpt": "Mark Zuckerberg and Priscilla Chan's Biohub has grown its virtual biology effort from $500 million to a $1.8 billion push with the U.S. government, Google DeepMind, Meta, and Isomorphic Labs, all chasing AI that can simulate a living cell.",
