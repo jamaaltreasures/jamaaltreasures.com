@@ -7,6 +7,7 @@ export const businessSchema = {
   description: 'Florida event coverage company. Two shooters, one photographer and one videographer, capture events across Florida and deliver the full recap within two days. The company is led by creative director Jamaal Treasures, whose directed music videos have passed five million views.',
   areaServed: { '@type': 'State', name: 'Florida' },
   telephone: '+19412949274', email: 'jamaaltreasures@gmail.com',
+  sameAs: ['https://www.instagram.com/jamaaltreasures/', 'https://www.youtube.com/@cimtexpro5593', 'https://whop.com/@jamaaltreasure'],
   image: origin + '/assets/jamaal-portrait-900.webp',
   contactPoint: { '@type': 'ContactPoint', contactType: 'project inquiries', url: origin + '/contact' }
 };
