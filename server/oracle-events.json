@@ -5086,5 +5086,58 @@
     "alt": "The Biggest Caribbean Halloween Linkup Napa Vybes flyer, Napa Vybes Restaurant and Lounge Orlando",
     "imageKey": "event-flyers/333-biggest-caribbean-halloween-linkup-napa-vybes.jpg",
     "endDate": "2026-11-01"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "2026 Classic Weekend Drunk N Love RnB Concert",
+    "date": "NOVEMBER 20, 9 PM TO 2 AM",
+    "headliners": "Case, H Town, Slim of 112",
+    "venue": "Xperience Live Event Center, Orlando",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/2026-classic-weekend-drunk-n-love-rnb-concert-tickets-1998337404972",
+    "flyerUrl": "https://www.eventbrite.com/e/2026-classic-weekend-drunk-n-love-rnb-concert-tickets-1998337404972",
+    "image": "/events/flyer/334-classic-weekend-drunk-n-love-rnb-concert.jpg",
+    "alt": "2026 Classic Weekend Drunk N Love RnB Concert flyer with Case, H Town and Slim of 112 in Orlando",
+    "imageKey": "event-flyers/334-classic-weekend-drunk-n-love-rnb-concert.jpg",
+    "endDate": "2026-11-21"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Soul Train Cruise Fall 2026",
+    "date": "NOVEMBER 7 TO 14",
+    "headliners": "Johnny Gill, En Vogue, The Temptations, El DeBarge, The Whispers, Lalah Hathaway, The Commodores",
+    "venue": "Port of Fort Lauderdale, Fort Lauderdale",
+    "categories": [
+      "Music",
+      "Culture"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://fall.soultraincruise.com/johnnygill",
+    "flyerUrl": "https://fall.soultraincruise.com/johnnygill",
+    "image": "/events/flyer/335-soul-train-cruise-fall-2026.jpg",
+    "alt": "Soul Train Cruise Fall 2026 flyer sailing from Fort Lauderdale with Johnny Gill and En Vogue",
+    "imageKey": "event-flyers/335-soul-train-cruise-fall-2026.jpg",
+    "endDate": "2026-11-14"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "The Grand Tasting",
+    "date": "JANUARY 23, 12 PM",
+    "headliners": "",
+    "venue": "Las Olas Oceanside Park, Fort Lauderdale",
+    "categories": [
+      "Food"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/the-grand-tasting-tickets-1981955593533",
+    "flyerUrl": "https://vlfoodwine.com/events/",
+    "image": "/events/flyer/336-the-grand-tasting.jpg",
+    "alt": "The Grand Tasting at Visit Lauderdale Food and Wine Festival at Las Olas Oceanside Park in Fort Lauderdale",
+    "imageKey": "event-flyers/336-the-grand-tasting.jpg",
+    "endDate": "2027-01-23"
   }
 ]
