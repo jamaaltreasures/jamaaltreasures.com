@@ -2,6 +2,83 @@
   "artist": "Oracle Gemini",
   "tracks": [
     {
+      "id": "1d3c3d49f6bb7851d0d0",
+      "title": "MIDAS (feat. AngelMayCry)",
+      "artist": "Oracle Gemini",
+      "album": "MIDAS (feat. AngelMayCry) - Single",
+      "year": "1998",
+      "track": 1,
+      "duration": 152.63,
+      "cover": "assets/music-covers/5bd9b6eebf796d9f.webp",
+      "audio": "1d3c3d49f6bb7851d0d0.m4a"
+    },
+    {
+      "id": "ef17da67662031f37646",
+      "title": "Away From Here",
+      "artist": "Oracle Gemini",
+      "album": "Away From Here - Single",
+      "year": "2024",
+      "track": 1,
+      "duration": 190.96,
+      "cover": "assets/music-covers/d24b3a3aca97bd27.webp",
+      "audio": "ef17da67662031f37646.m4a"
+    },
+    {
+      "id": "22be80912a51f66f3654",
+      "title": "Inner Soul Key",
+      "artist": "Oracle Gemini",
+      "album": "Inner Soul Key - Single",
+      "year": "2022",
+      "track": 1,
+      "duration": 245.83,
+      "cover": "assets/music-covers/6dbd68a8b5df78bb.webp",
+      "audio": "22be80912a51f66f3654.m4a"
+    },
+    {
+      "id": "913b8ff112aa1c65ac26",
+      "title": "It's Recess",
+      "artist": "Oracle Gemini",
+      "album": "It's Recess - Single",
+      "year": "2023",
+      "track": 1,
+      "duration": 160.36,
+      "cover": "assets/music-covers/110d9ff72a3bbe20.webp",
+      "audio": "913b8ff112aa1c65ac26.m4a"
+    },
+    {
+      "id": "662195fcf81ffe907d60",
+      "title": "TOOK A RISK",
+      "artist": "Oracle Gemini",
+      "album": "TOOK A RISK - Single",
+      "year": "2024",
+      "track": 1,
+      "duration": 169.02,
+      "cover": "assets/music-covers/5b22c6c1e5315831.webp",
+      "audio": "662195fcf81ffe907d60.m4a"
+    },
+    {
+      "id": "3c46f78907206a1dc036",
+      "title": "Blackedout",
+      "artist": "Oracle Gemini",
+      "album": "Blackedout - Single",
+      "year": "2024",
+      "track": 1,
+      "duration": 173.13,
+      "cover": "assets/music-covers/5a5a76fafa2cccbf.webp",
+      "audio": "3c46f78907206a1dc036.m4a"
+    },
+    {
+      "id": "98268919b85dbeaded4a",
+      "title": "Red Pill",
+      "artist": "Oracle Gemini",
+      "album": "Red Pill - Single",
+      "year": "2023",
+      "track": 1,
+      "duration": 133.82,
+      "cover": "assets/music-covers/07d06c3663bb72b7.webp",
+      "audio": "98268919b85dbeaded4a.m4a"
+    },
+    {
       "id": "1bf1cabc7f1b80608b83",
       "title": "THE FIRE",
       "artist": "Oracle Gemini",
@@ -79,17 +156,6 @@
       "audio": "05463cdff821f33dc0e6.m4a"
     },
     {
-      "id": "662195fcf81ffe907d60",
-      "title": "TOOK A RISK",
-      "artist": "Oracle Gemini",
-      "album": "TOOK A RISK - Single",
-      "year": "2024",
-      "track": 1,
-      "duration": 169.02,
-      "cover": "assets/music-covers/5b22c6c1e5315831.webp",
-      "audio": "662195fcf81ffe907d60.m4a"
-    },
-    {
       "id": "da74fcb6b054a1259d87",
       "title": "Stop Calling",
       "artist": "Oracle Gemini, 1Mod",
@@ -156,28 +222,6 @@
       "audio": "d32d5a9702a3766e82fa.m4a"
     },
     {
-      "id": "3c46f78907206a1dc036",
-      "title": "Blackedout",
-      "artist": "Oracle Gemini",
-      "album": "Blackedout - Single",
-      "year": "2024",
-      "track": 1,
-      "duration": 173.13,
-      "cover": "assets/music-covers/5a5a76fafa2cccbf.webp",
-      "audio": "3c46f78907206a1dc036.m4a"
-    },
-    {
-      "id": "ef17da67662031f37646",
-      "title": "Away From Here",
-      "artist": "Oracle Gemini",
-      "album": "Away From Here - Single",
-      "year": "2024",
-      "track": 1,
-      "duration": 190.96,
-      "cover": "assets/music-covers/d24b3a3aca97bd27.webp",
-      "audio": "ef17da67662031f37646.m4a"
-    },
-    {
       "id": "ba4d6c86b81592279221",
       "title": "LU5T LE4SH (feat. Oracle Gemini)",
       "artist": "v1d",
@@ -209,17 +253,6 @@
       "duration": 192.17,
       "cover": "assets/music-covers/fce71ee6a1d30093.webp",
       "audio": "a9c9175ef0443de0f20d.m4a"
-    },
-    {
-      "id": "98268919b85dbeaded4a",
-      "title": "Red Pill",
-      "artist": "Oracle Gemini",
-      "album": "Red Pill - Single",
-      "year": "2023",
-      "track": 1,
-      "duration": 133.82,
-      "cover": "assets/music-covers/07d06c3663bb72b7.webp",
-      "audio": "98268919b85dbeaded4a.m4a"
     },
     {
       "id": "bdb48552d5e48b49481c",
@@ -297,17 +330,6 @@
       "duration": 198.9,
       "cover": "assets/music-covers/6e37f6e5af42349a.webp",
       "audio": "c7f8285ed78a9e7614f3.m4a"
-    },
-    {
-      "id": "913b8ff112aa1c65ac26",
-      "title": "It's Recess",
-      "artist": "Oracle Gemini",
-      "album": "It's Recess - Single",
-      "year": "2023",
-      "track": 1,
-      "duration": 160.36,
-      "cover": "assets/music-covers/110d9ff72a3bbe20.webp",
-      "audio": "913b8ff112aa1c65ac26.m4a"
     },
     {
       "id": "39a4ccf32ebaf531f06d",
@@ -585,17 +607,6 @@
       "audio": "b6050167ced33aed9a5c.m4a"
     },
     {
-      "id": "22be80912a51f66f3654",
-      "title": "Inner Soul Key",
-      "artist": "Oracle Gemini",
-      "album": "Inner Soul Key - Single",
-      "year": "2022",
-      "track": 1,
-      "duration": 245.83,
-      "cover": "assets/music-covers/6dbd68a8b5df78bb.webp",
-      "audio": "22be80912a51f66f3654.m4a"
-    },
-    {
       "id": "839697cbe84bce4518df",
       "title": "5d Tv",
       "artist": "Oracle Gemini",
@@ -869,17 +880,6 @@
       "duration": 151.67,
       "cover": "assets/music-covers/84947b9076bee695.webp",
       "audio": "cf6c51749a5dcbae7bd1.m4a"
-    },
-    {
-      "id": "1d3c3d49f6bb7851d0d0",
-      "title": "MIDAS (feat. AngelMayCry)",
-      "artist": "Oracle Gemini",
-      "album": "MIDAS (feat. AngelMayCry) - Single",
-      "year": "1998",
-      "track": 1,
-      "duration": 152.63,
-      "cover": "assets/music-covers/5bd9b6eebf796d9f.webp",
-      "audio": "1d3c3d49f6bb7851d0d0.m4a"
     },
     {
       "id": "1d8665f2a82b90ad4bb2",
