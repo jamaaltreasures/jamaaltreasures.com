@@ -390,6 +390,18 @@ body{overflow-x:clip}
 .install-badge{display:inline-flex;align-items:center;gap:9px;background:rgba(255,255,255,.62);-webkit-backdrop-filter:blur(14px) saturate(1.1);backdrop-filter:blur(14px) saturate(1.1);border:1px solid rgba(17,17,20,.22);border-radius:999px;padding:11px 18px;cursor:pointer;color:var(--ink);font-family:BarlowCondensed,ManropeB,"Arial Narrow",sans-serif;-webkit-tap-highlight-color:transparent;box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 2px 8px rgba(60,58,52,.10)}
 .install-apple{width:19px;height:19px;fill:var(--ink);flex:none}
 .install-label{display:block;font-size:19px;font-weight:600;letter-spacing:.04em;line-height:1;white-space:nowrap}
+/* Desktop: the three opening controls read as one matched system with the
+   search field and the Book button: same 640 column edges, same 58px
+   height, same 14px radius language, one Barlow Condensed voice at
+   21px/600, on a 12px spacing beat. Mobile (below 760px) is untouched. */
+@media(min-width:760px){
+ .install-row{max-width:640px;margin:12px auto 0}
+ .install-badge{width:100%;justify-content:center;height:58px;min-height:58px;border-radius:14px;padding:14px 18px}
+ .install-apple{width:21px;height:21px}
+ .install-label{font-size:21px;letter-spacing:.05em}
+ .searchwrap{margin-top:12px}
+ #eventsearch{font-size:21px}
+}
 .install-card{position:fixed;left:50%;bottom:16px;transform:translateX(-50%);width:min(342px,calc(100vw - 28px));z-index:95;background:rgba(255,255,255,.8);-webkit-backdrop-filter:blur(16px) saturate(170%);backdrop-filter:blur(16px) saturate(170%);border:1px solid rgba(255,255,255,.7);border-radius:22px;padding:20px 20px 16px;text-align:center;color:#111114;box-shadow:0 18px 44px rgba(17,17,20,.22)}
 .install-card[hidden]{display:none}
 .install-x{position:absolute;top:8px;right:8px;width:30px;height:30px;border:0;border-radius:999px;background:rgba(17,17,20,.06);color:#111114;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0}
