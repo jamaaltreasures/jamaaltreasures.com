@@ -212,3 +212,18 @@
 })();
 
 document.addEventListener('click',e=>{const b=e.target.closest('[data-event-filter]');if(!b)return;const section=b.closest('.events-guide');section.querySelectorAll('[data-event-filter]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));section.querySelectorAll('[data-event-category]').forEach(c=>c.hidden=b.dataset.eventFilter!=='All'&&c.dataset.eventCategory!==b.dataset.eventFilter)});
+
+// The Treasure Chest carousel: dots track the snap scroller and jump to slides.
+document.querySelectorAll('.chest-carousel').forEach(carousel=>{
+ const track=carousel.querySelector('.chest-carousel-track');
+ const slides=[...carousel.querySelectorAll('.chest-slide')];
+ const dots=[...carousel.querySelectorAll('.chest-dot')];
+ if(!track||slides.length<2||dots.length!==slides.length)return;
+ const reduced=matchMedia('(prefers-reduced-motion: reduce)');
+ const pos=i=>slides[i].getBoundingClientRect().left-track.getBoundingClientRect().left+track.scrollLeft;
+ let tick=false;
+ const sync=()=>{const left=track.scrollLeft;let best=0,bd=Infinity;slides.forEach((s,i)=>{const d=Math.abs(pos(i)-left);if(d<bd){bd=d;best=i}});dots.forEach((d,j)=>d.setAttribute('aria-current',String(j===best)));tick=false};
+ track.addEventListener('scroll',()=>{if(!tick){tick=true;requestAnimationFrame(sync)}},{passive:true});
+ dots.forEach((d,i)=>d.addEventListener('click',()=>track.scrollTo({left:pos(i),behavior:reduced.matches?'auto':'smooth'})));
+ sync();
+});

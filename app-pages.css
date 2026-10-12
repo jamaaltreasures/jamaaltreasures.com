@@ -553,3 +553,16 @@ body:has(#music-player-mini:not([hidden])) .dock-dot{bottom:calc(158px + env(saf
    Ships together with media.html; nothing else in app-pages.css changes. */
 .app-page.media>div.glass-panel{padding:30px 24px}
 @media (min-width:900px){.app-page.media>div.glass-panel{padding:36px 40px}}
+
+/* The Treasure Chest slide carousel (2026-10-12, Jamaal's order): a native
+   scroll snap track inside the community intro. Real touch swipe, dots under
+   it tracking position, no autoplay, and the page never scrolls sideways. */
+.chest-carousel{margin-top:28px;max-width:100%}
+.chest-carousel-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;overscroll-behavior-x:contain;scrollbar-width:none;-webkit-overflow-scrolling:touch;border-radius:24px}
+.chest-carousel-track::-webkit-scrollbar{display:none}
+.chest-slide{flex:0 0 100%;margin:0;scroll-snap-align:start;scroll-snap-stop:always}
+.chest-slide img{display:block;width:100%;height:auto;border-radius:24px}
+.chest-carousel-dots{display:flex;justify-content:center;margin-top:10px}
+.chest-dot{position:relative;width:28px;height:28px;padding:0;border:0;background:none;cursor:pointer}
+.chest-dot::after{content:"";position:absolute;inset:0;margin:auto;width:9px;height:9px;border-radius:50%;background:#11111438;transition:background .18s ease,transform .18s ease}
+.chest-dot[aria-current="true"]::after{background:#A7192F;transform:scale(1.3)}
