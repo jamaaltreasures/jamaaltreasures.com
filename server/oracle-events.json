@@ -5070,5 +5070,40 @@
   "alt": "Jay Wheeler La Voz Favorita Tour Miami event flyer",
   "imageKey": "event-flyers/318-jay-wheeler-la-voz-favorita-tour-miami.jpg",
   "endDate": "2027-03-11"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Tyla: The A*POP World Tour, Tampa",
+  "date": "DECEMBER 5, 8 PM",
+  "headliners": "Tyla",
+  "venue": "Yuengling Center, Tampa",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/tyla-tickets/artist/798720",
+  "flyerUrl": "https://www.officialcharts.com/sites/default/files/2026-07/Tyla-2026_Global-Dates_2160x2160.jpg",
+  "image": "/events/flyer/319-tyla-apop-world-tour-tampa.jpg",
+  "alt": "Tyla The A*POP World Tour Tampa event flyer",
+  "imageKey": "event-flyers/319-tyla-apop-world-tour-tampa.jpg",
+  "endDate": "2026-12-05"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "John Summit: CTRL ESCAPE Tour, Miami",
+  "date": "NOVEMBER 20 AND 21, 8 PM",
+  "headliners": "John Summit",
+  "venue": "Kaseya Center, Miami",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/john-summit-tickets/artist/2730221?venueId=106601",
+  "flyerUrl": "https://consequence.net/wp-content/uploads/2026/05/john-summit-2026-ctrl-escape-tour-poster.jpg",
+  "image": "/events/flyer/320-john-summit-ctrl-escape-tour-miami.jpg",
+  "alt": "John Summit CTRL ESCAPE Tour Miami event flyer",
+  "imageKey": "event-flyers/320-john-summit-ctrl-escape-tour-miami.jpg",
+  "endDate": "2026-11-21"
  }
 ]
