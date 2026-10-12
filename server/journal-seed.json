@@ -1,196 +1,773 @@
 [
  {
-  "category": "ai-filmmaking",
-  "cta": {
-   "currency": "USD",
-   "label": "Get an AI Video Ad",
-   "price": 300,
-   "serviceId": "ai-ugc-ad"
-  },
-  "excerpt": "Claude can now turn your live numbers into a dashboard and your report into an editable animated explainer, then hand it to Adobe for a pro finish. Here is why that changes client work.",
-  "format": "explainer",
+  "slug": "tampa-bay-week-in-pictures",
+  "title": "Tampa Bay's Week in Pictures: Best of the Bay, a Michelin Chef, and a Landmark Reopening",
+  "excerpt": "Creative Loafing's Week in Pictures is out, led by its gallery from the Best of the Bay Party 2026. The same email brought a Michelin starred chef's new room in North Hyde Park and the Tampa Theatre reopening kickoff. Three snapshots of a city that stays out late, all from one inbox.",
+  "seoDescription": "Creative Loafing's Week in Pictures covers the Best of the Bay Party 2026, V Modern Italian opening in North Hyde Park, and the Tampa Theatre reopening kickoff. The Tampa Bay week in one post.",
+  "category": "events",
+  "serviceId": "photography",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-12T10:24:03.000Z",
+  "updatedAt": "2026-10-12T10:24:03.000Z",
+  "readingMinutes": 2,
   "image": {
-   "alt": "Bright clean workspace showing a live chart transforming into an animated explainer on screen, red accent details, light editorial style",
-   "credit": "Jamaal Treasures editorial",
+   "src": "/assets/editorial/tampa-bay-week-in-pictures-hero.webp",
+   "alt": "The Tampa Theatre's vintage marquee letter board, photographed up close",
+   "subject": "Tampa Theatre marquee letters",
    "kind": "photo",
-   "sourceUrl": "https://jamaaltreasures.com/blog/claude-motion-dashboards-adobe-handoff",
-   "src": "/assets/editorial/claude-motion-dashboards-hero.webp",
-   "subject": "Claude Motion animated explainer and live dashboard"
+   "sourceUrl": "https://www.cltampa.com",
+   "credit": "Image from Creative Loafing Tampa Bay email, October 11, 2026"
   },
-  "kind": "guide",
-  "nextClick": {
-   "label": "Read The Neuron",
-   "url": "https://www.theneurondaily.com"
-  },
-  "publishedAt": "2026-10-09T23:23:00.000Z",
-  "readingMinutes": 4,
-  "relatedServiceIds": [
-   "brand-film",
-   "meta-ads"
-  ],
   "sections": [
    {
-    "heading": "From answer to finished work",
+    "heading": "The party where Tampa Bay hands out its own awards",
     "paragraphs": [
-     "Anthropic launched two beta tools this week that move Claude past answering questions. Claude Dashboards connects to company data in systems like Salesforce and Snowflake and builds charts that update as the numbers change. Ask why sales dropped and Claude can build a live view of the answer instead of describing it.",
-     "Claude Motion does the creative half. It turns a report, a chart, or an idea into a short animation, and it generates code instead of AI video footage. Every word, every number, and every transition stays editable. Anyone who has regenerated a whole video to fix one typo knows why that matters.",
-     "Claude Docs, Slides, and Design are also out of beta now and available on all plans, including Free. Dashboards is in beta on paid plans, and Motion is in beta on Team and Enterprise."
-    ],
-    "sourceRefs": [
-     "neuron-claude-motion",
-     "rundown-claude-dashboards"
+     "Best of the Bay is Creative Loafing's annual celebration of the region's favorites, the restaurants, bars, artists, shops, and characters its readers argue about all year. The party puts the winners and the people who voted for them in the same room, and Creative Loafing's photographers work that room the way they always do: close, candid, and everywhere at once.",
+     "The October 11 email led with the Week in Pictures gallery from the 2026 party, published on their site for anyone who wants the full set. A gallery like that does quiet work for a scene. It proves the night happened, shows who carried it, and gives every small business in the frame a photograph worth stealing for their own walls and feeds. A Best of the Bay nod already moves real business, because readers chose it. The pictures extend the win all year."
     ]
    },
    {
-    "bullets": [
-     "Turn a client report into an animated explainer, fix the wording yourself, then polish it in Adobe before it ships.",
-     "Build a sponsor or event recap that updates from live numbers, so the recap you show a partner is never stale.",
-     "Prototype an ad concept in Motion in the morning and finish the real cut in Premiere the same day."
-    ],
-    "heading": "The Adobe handoff is the real story for creators",
-    "image": {
-     "alt": "Bright timeline graphic showing an animated explainer moving from Claude into Adobe Firefly Video Editor for final polish",
-     "caption": "Start in Motion, finish in a pro editor. The handoff is the workflow.",
-     "src": "/assets/editorial/claude-motion-dashboards-adobe-handoff-inline-1.webp"
-    },
+    "heading": "A Michelin starred chef lands in North Hyde Park",
     "paragraphs": [
-     "Here is the part filmmakers and editors should notice. Click Send to Adobe and a Motion animation opens directly in Firefly Video Editor, where you can rearrange clips, adjust pacing, color, and audio, add real footage, or generate new clips. Adobe also has a Claude plugin with more than 80 creative and productivity tools across Photoshop, Premiere, Acrobat, and Adobe Express.",
-     "That workflow matches how good creative work has always been made. Start fast with AI, then bring in pro tools when you need precision. The model drafts, you direct. Recognition first: Anthropic and Adobe are respecting the craft here by keeping the work editable instead of locking you into whatever the model spit out."
+     "The same email carried news of V Modern Italian opening in North Hyde Park, led by a Michelin starred chef. Tampa Bay's dining map keeps stretching into neighborhoods that used to watch the openings happen somewhere else, and a name with that kind of resume choosing Hyde Park says plenty about where the city's food energy is moving.",
+     "The dining room photographed for the announcement makes its own argument: moody, green, and built around a tree rising through the middle of the room. Rooms like that are designed to be photographed, and in this city, they will be."
     ],
-    "sourceRefs": [
-     "neuron-claude-motion"
-    ]
+    "image": {
+     "src": "/assets/editorial/tampa-bay-week-in-pictures-inline-1.webp",
+     "alt": "The dining room at V Modern Italian in Tampa"
+    }
    },
    {
-    "heading": "Ask for a decision, not a chart",
-    "image": {
-     "alt": "Simple bright checklist for building a decision dashboard, with the decision written at the top",
-     "caption": "Write the decision first. The right chart builds itself from there.",
-     "src": "/assets/editorial/claude-motion-dashboards-adobe-handoff-inline-2.webp"
-    },
+    "heading": "And the Tampa Theatre is back in the conversation",
     "paragraphs": [
-     "The Neuron shared a skill worth stealing word for word in spirit. A dashboard is only useful when it helps you decide something, otherwise you just made a prettier spreadsheet. Start with the decision, name your data sources, and ask Claude to show the definition behind each metric, the query that produced it, and what could make the result misleading.",
-     "My take for founders and creators is simple. Pretty charts are easy. Trustworthy ones your client can actually use are the benchmark. If the numbers cannot be checked and the animation cannot be corrected without starting over, it is not finished work yet. Used right, this stack saves the boring hours and puts your judgment exactly where it belongs, on the final call.",
-     "Want an animated explainer or an AI video ad built this way for your brand? My AI video ad service is 300 dollars, with clear wording, a clear call to action, and a finished file you can actually edit and reuse."
-    ],
-    "sourceRefs": [
-     "neuron-claude-motion"
+     "Creative Loafing's things to do roundup for October 8 to 15 included the Tampa Theatre reopening kickoff, a line that will make longtime Tampa residents sit up. The 1926 movie palace is one of the city's true landmarks, and its marquee letters, photographed here up close, are as Tampa as a photograph gets.",
+     "Put the three items together and you have the local week in one email: an awards party celebrating the present, a chef raising the ceiling, and a landmark reopening its doors. Our Event Radar tracks the same Tampa Bay calendar, and this fall is not short on nights worth dressing for."
     ]
    }
   ],
-  "seoDescription": "Claude Dashboards builds live charts from your company data and Claude Motion creates editable animated explainers you can send to Adobe. What creators and founders should do with both.",
-  "serviceId": "ai-ugc-ad",
-  "slug": "claude-motion-dashboards-adobe-handoff",
   "sources": [
    {
-    "id": "neuron-claude-motion",
-    "title": "The Neuron: New Claude Dashboards use your live data (Oct 9, 2026)",
-    "url": "https://www.theneurondaily.com"
-   },
-   {
-    "id": "rundown-claude-dashboards",
-    "title": "The Rundown AI: Anthropic launched Claude Dashboards and Motion (Oct 9, 2026)",
-    "url": "https://www.therundown.ai"
+    "id": "creative-loafing-tampa-bay",
+    "title": "Creative Loafing Tampa Bay: The Week in Pictures, Best of the Bay Party 2026 and more (October 11, 2026)",
+    "url": "https://www.cltampa.com"
    }
   ],
-  "title": "Claude Builds the Presentation Now: Motion, Dashboards, and the Adobe Handoff",
-  "updatedAt": "2026-10-09T23:23:00.000Z"
- },
- {
-  "category": "brand-growth",
+  "relatedServiceIds": [
+   "photography",
+   "event-coverage"
+  ],
   "cta": {
    "currency": "USD",
-   "label": "Get a Brand Film",
+   "label": "Book photography",
+   "price": 350,
+   "serviceId": "photography"
+  },
+  "nextClick": {
+   "label": "See what is on the Event Radar",
+   "url": "/events"
+  }
+ },
+ {
+  "slug": "gatik-driverless-delivery-trucks",
+  "title": "Nobody Is Driving That Delivery Truck",
+  "excerpt": "Gatik's trucks run delivery routes between distribution centers and stores with nobody in the cab. No driver, no safety observer. The Hustle traced how a startup founded in 2017 picked one narrow, repeatable slice of trucking, landed Walmart as its first big customer, and raised 114.5 million dollars doing it.",
+  "seoDescription": "Gatik runs driverless delivery trucks on middle mile routes for retailers like Walmart. The Hustle traces its rise, its 114.5 million dollars in funding, and the safety at scale fight ahead.",
+  "category": "brand-growth",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-12T10:27:03.000Z",
+  "updatedAt": "2026-10-12T10:27:03.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/gatik-driverless-delivery-trucks-hero.webp",
+   "alt": "A white semi truck driving on a highway at dusk",
+   "subject": "Highway delivery truck at dusk",
+   "kind": "photo",
+   "sourceUrl": "https://thehustle.co",
+   "credit": "Image from The Hustle newsletter, October 9, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Fully driverless means fully driverless",
+    "paragraphs": [
+     "The Hustle opened its Big Idea with the question every driver asks the first time a Gatik truck rolls past: who is driving that thing? The company's answer is a quote worth reading twice. Fully driverless means exactly that. There is no driver and no safety observer in the vehicle.",
+     "Gatik is an autonomous shipping company, and it picked its battlefield carefully. It does not chase cross country freight or your neighborhood doorstep. It runs the middle mile: short, repeatable business to business routes between distribution centers, fulfillment centers, and stores, in urban, semi urban, and highway settings. The trucks alert remote help when they need it. The routes are the same, day after day, which is exactly the kind of problem automation solves first."
+    ]
+   },
+   {
+    "heading": "How Gatik got here",
+    "paragraphs": [
+     "The Hustle laid out the climb from its 2017 founding, and the pattern is a niche picked early and defended well."
+    ],
+    "bullets": [
+     "Replacing a driver cost retailers and grocers more than 12,000 dollars in 2025, according to the National Private Truck Council, which makes the economics of autonomy hard to ignore",
+     "Gatik raised a 4.5 million dollar seed round, then landed Walmart as its first big customer",
+     "A 25 million dollar Series A followed, then an 85 million dollar Series B led by Koch, for 114.5 million dollars raised in total",
+     "The company ran what it calls the world's first driverless middle mile deliveries for Walmart",
+     "Operations have since expanded beyond the United States into Texas routes and Canada"
+    ]
+   },
+   {
+    "heading": "The hard part is no longer the driving",
+    "paragraphs": [
+     "Asked about its biggest hurdle, Gatik pointed to scale: holding the same safety standard across more vehicles, more routes, and more customer networks, while working with regulators and lawmakers at every level of government. The technology demonstrated itself. The permission to run it everywhere, and the consistency to deserve that permission, is the actual product now.",
+     "That shift is worth noticing for any business watching automation approach its own industry. The first wins come from the most repeatable routes. The long fight is trust: from regulators, from customers, and from everyone sharing the road with a truck that has an empty cab."
+    ]
+   },
+   {
+    "heading": "The niche lesson hiding in the truck story",
+    "paragraphs": [
+     "Gatik did not try to automate trucking. It automated one slice of trucking so specific that it could be made boring: fixed routes, business customers, freight that runs on schedules. Depth in a narrow lane built the track record, the funding, and the expansion. Most small businesses will never ship a driverless truck, but the strategy translates whole: pick the repeatable slice, own it completely, and let range come later."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle: Who's driving this thing? (October 9, 2026)",
+    "url": "https://thehustle.co"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 150,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See our business websites and growth work",
+   "url": "/prices"
+  }
+ },
+ {
+  "slug": "hollywood-tech-founder-movies",
+  "title": "Hollywood Turned Tech Founders Into Its Favorite Movie Characters",
+  "excerpt": "Sixteen years after The Social Network, Hollywood is back for Big Tech, all at once. This fall brings a Facebook reckoning with Jeremy Strong as Mark Zuckerberg, a four hour Elon Musk documentary, a Sam Bankman Fried limited series, and Andrew Garfield playing Sam Altman. The founders became characters because the audience already knows the story.",
+  "seoDescription": "Hollywood's fall slate is full of tech founder films: Zuckerberg, Musk, Holmes, Bankman Fried, and Altman. Morning Brew breaks down the wave, the distrust behind it, and the studio politics.",
+  "category": "ai-filmmaking",
+  "serviceId": "brand-film",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-12T10:30:03.000Z",
+  "updatedAt": "2026-10-12T10:30:03.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/hollywood-tech-founder-movies-hero.webp",
+   "alt": "A still from The Social Reckoning, the new film about Facebook starring Jeremy Strong as Mark Zuckerberg",
+   "subject": "Film still from The Social Reckoning",
+   "kind": "photo",
+   "sourceUrl": "https://www.morningbrew.com",
+   "credit": "Image from Morning Brew newsletter, October 9, 2026. Columbia Pictures"
+  },
+  "sections": [
+   {
+    "heading": "Zuck is just the tip of the iceberg",
+    "paragraphs": [
+     "The Social Reckoning opened in theaters the day Morning Brew published its October 9 edition. Aaron Sorkin's follow up to The Social Network puts Jeremy Strong in the hoodie as Mark Zuckerberg and covers 2019 to 2021, the years Facebook rode what the Brew calls the algorithmic tiger of engagement and extremism, until a whistleblower helped land Zuckerberg in front of Congress.",
+     "What makes this season different is the pileup. Hollywood is not releasing one tech film. It is releasing a genre, all in the same few months, and the subjects are the most famous founders alive."
+    ]
+   },
+   {
+    "heading": "The fall lineup, founder by founder",
+    "paragraphs": [
+     "Morning Brew's roll call reads like a most wanted board for the tech era."
+    ],
+    "bullets": [
+     "The Social Reckoning: Jeremy Strong plays Mark Zuckerberg in Aaron Sorkin's Facebook film covering 2019 to 2021",
+     "Musk: Alex Gibney's four hour documentary on Elon Musk, in select theaters the same day",
+     "Nathan Fielder's documentary on disgraced Theranos founder Elizabeth Holmes arrives the following week",
+     "The Altruists: a Netflix limited series on former crypto king Sam Bankman Fried, launching next month",
+     "Artificial: Andrew Garfield stars as OpenAI chief Sam Altman, in theaters this Christmas",
+     "Cupertino: a new CBS drama where underdog lawyers take on fictionalized Silicon Valley companies and billionaires"
+    ]
+   },
+   {
+    "heading": "Why founders, and why now",
+    "paragraphs": [
+     "The Brew points to the audience math. A recent CNBC and Generation Labs poll found Americans aged 18 to 34 overwhelmingly distrust some of Big Tech's biggest names to act responsibly on AI, and many hold negative views of data centers and of what AI will do to their careers. Studios are meeting viewers where they already are: suspicious of the platforms, fluent in the lore, and ready to watch the powerful explain themselves, even in fiction.",
+     "There is also a storyteller's reason. A founder saga arrives with the marketing prebuilt. Everyone already has an opinion about Zuckerberg, Musk, and Altman before the trailer drops. In an era when original films struggle to get noticed, a familiar face in the center of the poster is the closest thing to a franchise that real life offers."
+    ]
+   },
+   {
+    "heading": "Even the business behind the films is a plot point",
+    "paragraphs": [
+     "Morning Brew notes that the wave is also revealing the power it depicts. Amazon MGM chose to sell Artificial to another studio after striking a business deal with Altman's OpenAI. On X, ads for the Musk documentary were reportedly blocked. The companies being dramatized can still reach into the distribution of the drama, which may be the most honest review any of these films will get.",
+     "For filmmakers, the takeaway is simpler. The culture is processing technology through story now, not through keynotes. If you work in video, the audience for smart, well made films about the tools reshaping their lives has never been larger, or more ready."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Hollywood reckons with Big Tech (October 9, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-film",
+   "signature-film"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a brand film",
    "price": 750,
    "serviceId": "brand-film"
   },
-  "excerpt": "A wave of personal AI agents just launched and one tester ran them all. His four best routines take under an hour to set up, and the event follow up one alone is worth stealing.",
-  "format": "quick-guide",
-  "image": {
-   "alt": "Bright phone screen showing a personal AI agent sorting morning mentions and follow up reminders, light editorial style, red accent details",
-   "credit": "Jamaal Treasures editorial",
-   "kind": "photo",
-   "sourceUrl": "https://jamaaltreasures.com/blog/personal-ai-agents-four-routines",
-   "src": "/assets/editorial/personal-ai-agents-routines-hero.webp",
-   "subject": "Personal AI agent routines on a phone"
-  },
-  "kind": "guide",
   "nextClick": {
-   "label": "Read The Rundown AI",
-   "url": "https://www.therundown.ai"
+   "label": "See the films and ads we produce",
+   "url": "/ai-films-ads"
+  }
+ },
+ {
+  "slug": "walmart-warehouse-robots-still-learning",
+  "title": "Walmart Spent Billions on Warehouse Robots. They Still Struggle With Dog Food.",
+  "excerpt": "Walmart has spent billions over a decade trying to fully automate the warehouses that feed its 5,200 stores. The progress is real: most stores now receive some automated freight. So is the catch. Electric bills triple, about 5 percent of the robots are broken at any given time, and the machines still cannot handle the big bags of dog food.",
+  "seoDescription": "Walmart spent billions automating 200 warehouses, per Morning Brew and the Wall Street Journal. Power bills tripled, robots still break, and dog food still needs humans. Here is the real state of play.",
+  "category": "brand-growth",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-12T10:33:03.000Z",
+  "updatedAt": "2026-10-12T10:33:03.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/walmart-warehouse-robots-still-learning-hero.webp",
+   "alt": "A warehouse floor with forklifts moving tall stacks of palletized goods",
+   "subject": "Warehouse floor with forklifts and pallets",
+   "kind": "photo",
+   "sourceUrl": "https://www.morningbrew.com",
+   "credit": "Image from Morning Brew newsletter, October 10, 2026. Walmart"
   },
-  "publishedAt": "2026-10-09T23:23:00.000Z",
-  "readingMinutes": 4,
-  "relatedServiceIds": [
-   "ai-ugc-ad",
-   "meta-ads"
-  ],
   "sections": [
    {
-    "heading": "Every platform just shipped a personal agent",
+    "heading": "The dream: nobody touches the product until the shelf",
     "paragraphs": [
-     "The Rundown AI tested the new wave of personal AI agents all at once: Meta Muse, SpaceXAI GrokBot, OpenAI Dots, Hermes, OpenClaw, and the newly launched Hark Pro. Most of them do similar things, but the tester said GrokBot stood out for personal use because it feels seamless on the phone and has live access to X, which is a real advantage for anyone who needs to monitor what people are saying right now.",
-     "Forget the platform war for a second. The useful part is not which agent won. It is the routines, and every one of them can be set up in under an hour."
-    ],
-    "sourceRefs": [
-     "rundown-personal-agents"
+     "In Walmart's perfect world, Morning Brew reports, a worker would not touch a product until it arrived at the store already organized on a pallet, ready to slide straight onto the shelf. The company has spent billions over the last decade chasing that picture across the 200 supply chain buildings that feed its 5,200 stores, racing Amazon, which passed Walmart as the biggest company in the world by 2025 sales.",
+     "Retrofitting a supply chain designed in the 1980s is the hard part. This is not a new building drawn around robots. It is an old machine being rebuilt while it runs, at national scale, every day."
     ]
    },
    {
+    "heading": "What the robots cost, in power and in patience",
+    "paragraphs": [
+     "A Wall Street Journal report covered by Morning Brew lays out the friction in plain numbers."
+    ],
     "bullets": [
-     "Every morning, the agent finds real AI use cases shared on X and filters out the hype threads, so research time starts with signal instead of noise.",
-     "It catches every mention of your brand on X, labels each one, and pings your team in Slack to respond while the conversation is still warm.",
-     "Every four hours, it listens for people searching for and reviewing newsletters like yours, so you learn exactly what your audience is asking for.",
-     "Each morning, it reads your phone contacts and reminds you to follow up with the new people you met in person."
-    ],
-    "heading": "Four routines worth stealing today",
-    "image": {
-     "alt": "Simple bright list of four agent routines with time estimates for setup",
-     "caption": "Four routines, each under an hour to set up.",
-     "src": "/assets/editorial/personal-ai-agents-four-routines-inline-1.webp"
-    },
-    "paragraphs": [
-     "Here they are, in the order I would set them up:"
-    ],
-    "sourceRefs": [
-     "rundown-personal-agents"
+     "Automated grocery facilities can run electric bills above 800,000 dollars a month, compared with about 250,000 dollars for a manual warehouse",
+     "Roughly 5 percent of the warehouse robots are being repaired at any given time, improved from 10 percent last year, according to robotics partner Symbotic",
+     "The robots still cannot lift the biggest, heaviest items, including large bags of dog food",
+     "Walmart missed the automation targets it had set for January of this year, then nearly caught up by August",
+     "More than 65 percent of stores now receive some automated freight, and over half of online order goods move through automated systems"
     ]
    },
    {
-    "heading": "Why the follow up routine is gold for event people",
-    "image": {
-     "alt": "Bright calendar and contacts view with follow up reminders after a live event",
-     "caption": "The follow up is where event relationships turn into clients.",
-     "src": "/assets/editorial/personal-ai-agents-four-routines-inline-2.webp"
-    },
+    "heading": "Automation did not fail. It compounded.",
     "paragraphs": [
-     "That last routine is the one I felt in my chest. I meet a lot of people at events. Organizers, artists, sponsors, vendors. The money is rarely in the first conversation. It is in the follow up that most people never send because the next day gets busy.",
-     "An agent that wakes up, looks at who you met, and puts the follow ups in front of you turns a vague intention into a daily habit. That is Repetition, one of the values I run this business on, working exactly as it should. Pair it with mention monitoring and you have a simple system: hear what the market is saying, respond fast, and never let a real relationship go cold.",
-     "My honest take: do not try to automate your whole life this weekend. Pick one routine, the one closest to revenue, run it for a week, and check its work like you would check any new hire. Trust is earned by the output, not promised by the launch post.",
-     "Want help building content systems that turn event relationships into clients? My brand film service is 750 dollars and it starts with exactly this kind of clear, consistent follow through."
-    ],
-    "sourceRefs": [
-     "goal-internal"
+     "It would be easy to read those numbers as a punchline about robots, and that reading misses the story. A system that moves more than half of a retail giant's online goods, while 5 percent of its machines sit in repair, is not a failed experiment. It is an expensive adolescence. The failure rate halved in a year. The targets slipped by months and then nearly landed. That is what real automation looks like inside a business that cannot pause to install it.",
+     "The dog food detail matters for the same reason. Automation eats the repeatable middle of a job first: standard boxes, standard weights, standard routes. The odd, heavy, awkward edge cases stay human longest. Planning a business around automation means knowing which part of your own work is the standard box and which part is the dog food."
+    ]
+   },
+   {
+    "heading": "The lesson for smaller operators",
+    "paragraphs": [
+     "Walmart can absorb a decade of billions and a warehouse power bill that triples. A small business cannot. What it can copy is the order of operations: automate the highest volume, most repeatable step first, measure what breaks, and let the savings fund the next step. The companies that get hurt are the ones that buy the full robot future up front, then discover their edge cases were the business all along."
     ]
    }
   ],
-  "seoDescription": "Personal AI agents from Meta, OpenAI, and SpaceXAI are here. Four routines from a hands on test, including mention monitoring and event follow ups creators can set up in under an hour.",
-  "serviceId": "brand-film",
-  "slug": "personal-ai-agents-four-routines",
   "sources": [
    {
-    "id": "rundown-personal-agents",
-    "title": "The Rundown AI: I tested every new personal AI agent, Rowan's Corner (Oct 9, 2026)",
-    "url": "https://www.therundown.ai"
-   },
-   {
-    "id": "goal-internal",
-    "title": "Give AI the Goal, Not the Recipe",
-    "url": "https://jamaaltreasures.com/blog/give-ai-the-goal-not-the-recipe"
+    "id": "morning-brew",
+    "title": "Morning Brew: Robots can't do all of Walmart's heavy lifting yet (October 10, 2026)",
+    "url": "https://www.morningbrew.com"
    }
   ],
-  "title": "The Personal Agent Era Is Here: Four Routines Every Creator Should Steal",
-  "updatedAt": "2026-10-09T23:23:00.000Z"
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "business-website",
+   "meta-ads"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 150,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See our business websites and growth work",
+   "url": "/prices"
+  }
+ },
+ {
+  "slug": "youtube-horror-creators-studio-deals",
+  "title": "Hollywood Is Finding Its Next Horror Directors on YouTube",
+  "excerpt": "Two filmmakers in their twenties posted horror stories to the internet, then watched them become two of the biggest movies of the year. Studios noticed. Now Hollywood is bidding on YouTube shorts and creepypasta, and the path from a bedroom upload to a studio deal is shorter than it has ever been.",
+  "seoDescription": "Backrooms and Obsession started as internet horror and became two of the biggest films of the year. Morning Brew explains how studios now scout YouTube and creepypasta for directors.",
+  "category": "ai-filmmaking",
+  "serviceId": "brand-film",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-12T10:36:03.000Z",
+  "updatedAt": "2026-10-12T10:36:03.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/youtube-horror-creators-studio-deals-hero.webp",
+   "alt": "A still from Backrooms, the A24 film that began as a short posted online by Kane Parsons",
+   "subject": "Still from the film Backrooms by A24",
+   "kind": "photo",
+   "sourceUrl": "https://www.morningbrew.com",
+   "credit": "Image from Morning Brew newsletter, October 11, 2026. A24"
+  },
+  "sections": [
+   {
+    "heading": "The scariest pipeline in Hollywood starts on a phone",
+    "paragraphs": [
+     "Morning Brew devoted its October 11 edition to the business of horror, and one story in it should be taped above every young filmmaker's desk. Kane Parsons posted a short film inspired by an eerie photo of an empty room that had been circulating in creepypasta circles, the corners of the internet where users build horror fiction together. Four years later, his feature version, Backrooms, grossed 400 million dollars worldwide on a budget of roughly 10 million, with A24 behind it.",
+     "He was not alone. Curry Barker, another longtime YouTube filmmaker, made Obsession for under 1 million dollars. It became the first original movie of the 2020s to pass 500 million dollars at the box office, according to The Wrap, and the first wide release horror film to earn more in its second weekend than its first, which means audiences kept recruiting new audiences."
+    ]
+   },
+   {
+    "heading": "The deals followed fast",
+    "paragraphs": [
+     "Studios are not buying these filmmakers a lottery ticket. They are buying proof. A short that travels the internet on its own has already passed the test marketing departments spend millions trying to fake: strangers chose to watch it, share it, and ask for more."
+    ],
+    "bullets": [
+     "Backrooms grew from an online short into an A24 feature that grossed 400 million dollars on about a 10 million dollar budget",
+     "Obsession cost under 1 million dollars to make and passed 500 million dollars worldwide",
+     "Less than two months after Backrooms opened, Puck reported A24 offered Parsons a three year deal worth 65 million dollars for whatever he makes next",
+     "Weeks after Obsession hit theaters, Barker signed an eight figure deal with Universal and Blumhouse Atomic Monster, per The Hollywood Reporter",
+     "At least five more horror films based on YouTube shorts and creepypasta are now in development, with names like Spielberg, Jordan Peele, Warner Bros., and Lionsgate attached"
+    ],
+    "image": {
+     "src": "/assets/editorial/youtube-horror-creators-studio-deals-inline-1.webp",
+     "alt": "A still from the horror film Barbarian"
+    }
+   },
+   {
+    "heading": "Horror is the genre where small still wins",
+    "paragraphs": [
+     "The economics explain why horror is where this door opened. Morning Brew notes that based on data from 1996 to 2016, horror had the highest likelihood of profit of any genre, with over half of all horror films making at least a dollar, because the budgets stay low enough for a hit to return many times its cost. Paranormal Activity made 193 million dollars on 15 thousand. Barbarian grossed ten times its 4.5 million dollar budget. Smile turned 17 million into 217 million and earned two sequels.",
+     "Fans show up in downturns, in pandemics, at drive ins, wherever a screen glows. A genre that forgiving lets a studio take a chance on a 25 year old with a camera and a strange idea, because the downside is a small budget and the upside is a franchise."
+    ]
+   },
+   {
+    "heading": "What this means if you make things",
+    "paragraphs": [
+     "The lesson is not that every short goes to A24. It is that the internet is now the audition room, and the work itself is the pitch. Parsons and Barker spent years posting before anyone called. Mark Fischbach, with 39 million YouTube subscribers, saw his low budget horror film pass 50 million dollars after fans petitioned their own local theaters to screen it. The audience was built before the movie existed.",
+     "Shoot the short. Post the short. Let a finished, frightening thing do the introducing, and keep the rights and the receipts when the phone rings."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Hollywood's new scare factory is the internet (October 11, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-film",
+   "signature-film",
+   "music-video"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a brand film",
+   "price": 750,
+   "serviceId": "brand-film"
+  },
+  "nextClick": {
+   "label": "See the films and ads we produce",
+   "url": "/ai-films-ads"
+  }
+ },
+ {
+  "slug": "check-your-ai-summary-against-the-source",
+  "title": "Your AI Summary Added That. Here Is How to Catch It.",
+  "excerpt": "Ask AI to summarize an article and it will quietly upgrade the facts. A test becomes a launch. A plan becomes a product. The Neuron shared a checking workflow that puts every claim in the summary next to the exact words in the source, with a label for what the source said, what the AI inferred, and what it invented.",
+  "seoDescription": "AI summaries quietly strengthen facts. The Neuron shared a prompt workflow that labels every claim as stated, interpretation, or unsupported, with the source passage beside it. Here is how to run it.",
+  "category": "ai-workflows",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-12T10:39:03.000Z",
+  "updatedAt": "2026-10-12T10:39:03.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/check-your-ai-summary-against-the-source-hero.webp",
+   "alt": "The Neuron Sunday Special illustration, a cat reading a newspaper on a purple couch",
+   "subject": "The Neuron newsletter illustration",
+   "kind": "photo",
+   "sourceUrl": "https://www.theneuron.ai",
+   "credit": "Illustration from The Neuron newsletter, October 11, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The summary sounded right. It just was not true.",
+    "paragraphs": [
+     "The Neuron opened its AI Skill of the Day with a small, familiar failure. You hand AI an article about a tool being tested. The summary comes back saying the tool is available now. Somewhere between reading and writing, a test became a launch, and nothing in the summary warns you that the ground moved.",
+     "This is the most common way AI output goes wrong in real work. The summary is fluent, the structure is clean, and the one sentence that matters has been quietly strengthened. If you publish it, quote it in a pitch, or build a plan on it, the error is now yours."
+    ]
+   },
+   {
+    "heading": "The checking workflow, step by step",
+    "paragraphs": [
+     "The fix is not to stop using summaries. It is to audit them the way an editor audits a quote. The Neuron prompt does the audit in one pass."
+    ],
+    "bullets": [
+     "Paste the source text and the AI summary under separate headings so the checker can compare them directly",
+     "Ask for every claim in the summary to be listed one by one, with the exact source passage that supports it, or a note that no supporting passage exists",
+     "Have each claim labeled: STATED when the source says it, INTERPRETATION when it is a conclusion drawn from the source, or UNSUPPORTED when the evidence is missing or contradicts it",
+     "Ask for any wording that makes a claim stronger or more certain than the source, and for suggested corrections on unsupported claims",
+     "Spot check the quoted passages yourself afterward, because AI can mislabel its own work"
+    ]
+   },
+   {
+    "heading": "Why creators should care about claim labels",
+    "paragraphs": [
+     "A creator lives on borrowed facts: product claims from a client, stats for a pitch deck, a date in a caption, a quote in a voiceover. Each one passes through tools that love to smooth and strengthen. An interpretation is not a lie, and the workflow treats it fairly: keep supported claims, label useful interpretations as interpretations, and correct or remove the unsupported ones before they reach an audience.",
+     "There is a second lesson hiding in the last step. The checker is also AI, and The Neuron says plainly to verify its quotes yourself. Trust in this stack is layered: the source checks the summary, the prompt checks the source, and a human checks the prompt. Remove the human layer and the whole chain is only as honest as its weakest summary."
+    ]
+   },
+   {
+    "heading": "A habit worth installing",
+    "paragraphs": [
+     "Run this check on anything that will leave your desk with your name on it: client summaries, research notes, grant and application answers, sponsor talking points. It takes one extra prompt and a few minutes of reading. In exchange, the strongest claims in your work are the ones you can point to, line by line, when someone asks where you got them."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: AI Skill of the Day, spot what AI added to your summary (October 11, 2026)",
+    "url": "https://www.theneuron.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "ai-ugc-ad",
+   "landing-page"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 150,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See how we check AI work before it ships",
+   "url": "/ai-films-ads"
+  }
+ },
+ {
+  "slug": "atomic-machines-ai-factory",
+  "title": "This AI Factory Builds Tiny Machines Straight From Code",
+  "excerpt": "Jeff Holden helped create Amazon Prime and ran Uber's self driving program. His new company, Atomic Machines, just came out of six years of stealth with 250 million dollars and an AI guided factory that builds tiny working machines straight from a digital design. The Rundown AI called it prompt to product manufacturing, and the first product is already aimed at AI data centers.",
+  "seoDescription": "Atomic Machines emerged from stealth with 250 million dollars and an AI factory that compiles digital designs into tiny machines, per The Rundown AI. Meet the Matter Compiler and PrimeSwitch.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-12T10:42:03.000Z",
+  "updatedAt": "2026-10-12T10:42:03.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/atomic-machines-ai-factory-hero.webp",
+   "alt": "An Atomic Machines device photographed under blue light, a fingertip scale machine built from a digital design",
+   "subject": "Atomic Machines hardware",
+   "kind": "photo",
+   "sourceUrl": "https://www.therundown.ai",
+   "credit": "Image from The Rundown AI newsletter, October 12, 2026. Atomic Machines"
+  },
+  "sections": [
+   {
+    "heading": "Six years quiet, then a factory that prints machines",
+    "paragraphs": [
+     "Atomic Machines, a California startup led by former Uber self driving chief Jeff Holden, has emerged from stealth after six years with 250 million dollars raised, according to The Rundown AI. Holden is not a first timer borrowing credibility. He helped create Amazon Prime before running one of the most watched autonomy programs in the world. His new claim is bigger than both: an AI guided factory that turns digital designs into tiny, working machines, on the way to what he calls universal command of matter.",
+     "The comparison he draws is with the 3D printer, and he draws it sharply. A printer alters the shape of an object. When the code changes in his system, the factory builds a whole new device, without retooling the line. He calls the system a Matter Compiler, software language for a machine shop: describe the device, compile it into matter."
+    ]
+   },
+   {
+    "heading": "How the Matter Compiler works",
+    "paragraphs": [
+     "The Rundown's details describe a loop, not a printer: design, build, verify, learn, repeat."
+    ],
+    "bullets": [
+     "The factory checks every production step before a part moves on, instead of inspecting finished devices at the end",
+     "Each run feeds the AI fresh data on which materials actually work, so the system learns manufacturing, not just the design",
+     "The focus is moving parts too small to see without a microscope: tiny pumps, motors, and gears that chip factories cannot produce",
+     "For now the company builds only its own products, with humans in the loop",
+     "The long term idea is that virtually anyone with a concept could turn it into a real device"
+    ]
+   },
+   {
+    "heading": "The first product is aimed at AI itself",
+    "paragraphs": [
+     "Atomic's first machine is called PrimeSwitch, a fingertip sized power switch built for AI server farms. The company says it is faster than traditional breakers and more efficient than silicon. There is a pleasing recursion in that: the infrastructure of the AI boom needs better tiny hardware, and an AI guided factory is now making it.",
+     "It is also a smart first market. Data centers buy performance by the rack and feel every inefficiency as a power bill. A small switch that is measurably faster and leaner does not need a manifesto to sell. It needs a spec sheet and a purchase order."
+    ]
+   },
+   {
+    "heading": "Vibe coding grows a body",
+    "paragraphs": [
+     "The Rundown framed the story with the phrase that explains why it leads the issue: prompt to product manufacturing. Software already went through this door. Describe an app in plain words and receive working code. Atomic is betting hardware follows, that the distance between an idea and a physical device collapses the same way, one verified step at a time.",
+     "The honest caveat sits in the company's own plan: humans stay in the loop, and the factory makes Atomic's products, not yours. The anyone with a concept future is a direction, not a storefront. But every platform shift starts as one company's internal advantage, and 250 million dollars says serious people think this one escapes the building."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Atomic Machines' AI turns code into tiny machines (October 12, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "business-website",
+   "brand-film"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 150,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See the films and ads we produce",
+   "url": "/ai-films-ads"
+  }
+ },
+ {
+  "slug": "nba-smart-ball-chips-player-data",
+  "title": "The NBA Is Putting Computer Chips Inside Basketballs",
+  "excerpt": "The NBA is working to put microchip sensors inside its basketballs as soon as next year. The smart ball weighs about a gram more, tracks movement and trajectory, and could settle who touched it last. It could also become a training product fans buy, and that is where the players start asking hard questions about their own data.",
+  "seoDescription": "The NBA plans microchip sensors inside basketballs as soon as next year, per Morning Brew. The smart ball tracks trajectory for officials and training, and raises a player data ownership fight.",
+  "category": "brand-growth",
+  "serviceId": "event-coverage",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-12T10:45:03.000Z",
+  "updatedAt": "2026-10-12T10:45:03.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/nba-smart-ball-chips-player-data-hero.webp",
+   "alt": "NBA Commissioner Adam Silver, who described the smart ball plan to CNBC",
+   "subject": "NBA Commissioner Adam Silver",
+   "kind": "photo",
+   "sourceUrl": "https://www.morningbrew.com",
+   "credit": "Image from Morning Brew newsletter, October 12, 2026. Arturo Holmes, Getty Images"
+  },
+  "sections": [
+   {
+    "heading": "The ball is about to start reporting back",
+    "paragraphs": [
+     "Commissioner Adam Silver told CNBC that the NBA is working to put microchip sensors into its basketballs as soon as next year, according to Morning Brew. The chips weigh about 1 gram each, light enough that the league has already run them through developmental, summer, and preseason games without players noticing a difference.",
+     "A ball that senses its own movement and changes in trajectory gives officials something they have never had: evidence. The clearest early use is the oldest argument in basketball, who touched it last before it went out of bounds. Instead of three camera angles and a guess, the ball itself can testify."
+    ]
+   },
+   {
+    "heading": "What the chip actually does",
+    "paragraphs": [
+     "Silver is not only selling accuracy for officials. He thinks the smart ball can become a product regular players buy to study their own game."
+    ],
+    "bullets": [
+     "Each chip weighs roughly 1 gram and has been tested in developmental, summer, and preseason games",
+     "Players reportedly could not tell the difference between a chipped ball and a regular one",
+     "The sensors track movement and trajectory, which can help officials rule on last touch calls",
+     "Silver sees a consumer version that lets players break down their own shooting mechanics and on court habits",
+     "Soccer leagues are testing chipped balls as well, and the NFL has used RFID tags in footballs for years to measure speed and rotation"
+    ]
+   },
+   {
+    "heading": "The data question follows the ball everywhere",
+    "paragraphs": [
+     "The NBA has been here before. During the pandemic bubble season, the league used Oura rings to track player health. More recently it has experimented with wrist wearables for officials talking to the replay center. Players, though, have raised a concern that will sound familiar to anyone whose job is measured for a living.",
+     "Silver himself named it: if a team can see a player slowing down, that information could surface in bargaining. Performance data is a gift when you control it and leverage when someone else does. The same chip that helps a young player rebuild a jump shot could follow a veteran into a contract negotiation."
+    ]
+   },
+   {
+    "heading": "Why this story is bigger than basketball",
+    "paragraphs": [
+     "Every sport is becoming a data business that also plays games. The leagues get officiating help and new products to sell. Broadcasters get richer stories. The open question is ownership: who holds the numbers a body produces at work, and who gets to use them, and when. Expect that argument, not the chip, to decide how fast the smart ball actually arrives."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: The NBA wants to keep a closer eye on the ball (October 12, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "event-coverage",
+   "photography"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book event coverage",
+   "price": 450,
+   "serviceId": "event-coverage"
+  },
+  "nextClick": {
+   "label": "See what is on the Event Radar",
+   "url": "/events"
+  }
+ },
+ {
+  "slug": "orlando-beer-festival-2026-lake-eola",
+  "title": "Orlando Beer Festival Returns to Lake Eola Park on November 14",
+  "excerpt": "The Orlando Beer Festival is back for its 11th year at Lake Eola Park on Saturday, November 14, with more than 200 drinks to sample, live music and DJs, local food vendors, and early entry tiers for people who plan ahead. Orlando Weekly's email also carried a National Pizza and Beer Day deal: 5 dollars off tickets with the code PIZZA through Sunday, before prices rise on October 18.",
+  "seoDescription": "The 11th annual Orlando Beer Festival returns to Lake Eola Park on Saturday, November 14, 2026, with 200 plus drinks, live music, and VIP early entry. Prices rise October 18, per Orlando Weekly.",
+  "category": "events",
+  "serviceId": "event-coverage",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-12T10:48:03.000Z",
+  "updatedAt": "2026-10-12T10:48:03.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/orlando-beer-festival-2026-lake-eola-hero.webp",
+   "alt": "Orlando Beer Festival artwork showing guests toasting with sample glasses, dated Saturday, November 14, 2026 at Lake Eola Park",
+   "subject": "Orlando Beer Festival 2026 artwork",
+   "kind": "photo",
+   "sourceUrl": "https://www.orlandoweekly.com",
+   "credit": "Image from Orlando Weekly email, October 9, 2026"
+  },
+  "sections": [
+   {
+    "heading": "One ticket, a whole lot of fall fun",
+    "paragraphs": [
+     "The 11th annual Orlando Beer Festival takes over Lake Eola Park on Saturday, November 14, and the pitch is simple: one ticket, a lakefront park, and a lineup built for a full day outside. Orlando Weekly, which puts on the festival, shared the details in its October 9 email.",
+     "The tasting lineup runs past 200 drinks across craft beer, cocktails, seltzers, and ciders, so the plan is pacing, not rushing. Live music and DJs run through the day, local food vendors handle the eating, and the grounds carry giant games, local vendors, and the kind of photo spots that fill a camera roll by sunset. Dogs are welcome, which tells you exactly what kind of afternoon this is meant to be."
+    ]
+   },
+   {
+    "heading": "The tiers, explained without the brochure voice",
+    "paragraphs": [
+     "Three ways in, and the difference between them is mostly time and elbow room."
+    ],
+    "bullets": [
+     "More than 200 drinks to sample, spanning craft beer, cocktails, seltzers, and ciders",
+     "Live music and DJs, local food vendors, giant games, and local vendor booths",
+     "VIP entry opens two hours early, with a private area, seating, private restrooms, complimentary bites, exclusive tastings, a limited edition festival tee, and a commemorative glass",
+     "GA Plus entry opens one hour early, ahead of the general crowd, with access to the same tasting stations",
+     "Prices rise on October 18, so the cheapest version of this day is the one bought early"
+    ],
+    "image": {
+     "src": "/assets/editorial/orlando-beer-festival-2026-lake-eola-inline-1.webp",
+     "alt": "Festival goers sampling beer at the Orlando Beer Festival"
+    }
+   },
+   {
+    "heading": "The pizza deal in the email",
+    "paragraphs": [
+     "The email itself was built around a holiday pairing nobody argues with. For National Pizza and Beer Day, Orlando Weekly offered 5 dollars off tickets with the code PIZZA, running through Sunday, October 11. If that window has closed by the time you read this, the second deadline still stands: prices go up October 18, and the festival's own advice is to get the crew together and lock plans in before they do.",
+     "November in Orlando is built for this. The heat has let go, the lake is showing off, and a Saturday with 200 things to taste is the kind of plan that organizes a friend group by itself. We cover festivals across Florida for a living, and the ones that last eleven years usually share a trait: they give people a reason to come back with more people than last time."
+    ],
+    "image": {
+     "src": "/assets/editorial/orlando-beer-festival-2026-lake-eola-inline-2.webp",
+     "alt": "Orlando Beer Festival at Lake Eola Park"
+    }
+   }
+  ],
+  "sources": [
+   {
+    "id": "orlando-weekly",
+    "title": "Orlando Weekly: Pizza plus Beer equals 5 dollars off Beer Fest tickets (October 9, 2026)",
+    "url": "https://www.orlandoweekly.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "event-coverage",
+   "photography"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book event coverage",
+   "price": 450,
+   "serviceId": "event-coverage"
+  },
+  "nextClick": {
+   "label": "See what is on the Event Radar",
+   "url": "/events"
+  }
+ },
+ {
+  "slug": "art-fair-tampa-2026-convention-center",
+  "title": "Art Fair Tampa Takes Over the Convention Center October 15 to 18",
+  "excerpt": "Art Fair Tampa runs October 15 to 18 at the Tampa Convention Center, with hundreds of artists from across the country, a VIP opening night on October 15, and free admission Friday through Sunday. Creative Loafing Tampa Bay carried the invitation, and it is aimed at first time buyers as much as seasoned collectors.",
+  "seoDescription": "Art Fair Tampa runs October 15 to 18, 2026 at the Tampa Convention Center, with a VIP opening night and free admission Friday through Sunday, per Creative Loafing Tampa Bay.",
+  "category": "events",
+  "serviceId": "event-coverage",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-12T10:51:03.000Z",
+  "updatedAt": "2026-10-12T10:51:03.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/art-fair-tampa-2026-convention-center-hero.webp",
+   "alt": "Two visitors looking at colorful paintings inside an artist booth at Art Fair Tampa",
+   "subject": "Art Fair Tampa artist booth",
+   "kind": "photo",
+   "sourceUrl": "https://www.cltampa.com",
+   "credit": "Image from Creative Loafing Tampa Bay email, October 9, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Four days, hundreds of artists, one roof",
+    "paragraphs": [
+     "Art Fair Tampa takes over the Tampa Convention Center from October 15 to 18, bringing together hundreds of artists from across the country for four days of painting, sculpture, photography, mixed media, and everything that refuses a single label. Creative Loafing Tampa Bay carried the announcement in its October 9 email with a simple invitation: be a part of art.",
+     "The fair is built for two audiences at once. Collectors and galleries come ready to invest in original work. Everyone else comes to walk, look, and find the one piece that will not leave their head on the drive home. A fair this size serves both because the artists themselves are standing there, ready to talk about how the work was made."
+    ]
+   },
+   {
+    "heading": "The nights and days, in order",
+    "paragraphs": [
+     "Creative Loafing's email kept the details refreshingly plain, so here they are the same way."
+    ],
+    "bullets": [
+     "VIP opening night is Thursday, October 15, with first access to the collection before public hours",
+     "Opening night includes a complimentary welcome glass of bubbly or wine, live music, and artist demonstrations",
+     "Admission from Friday, October 16 through Sunday, October 18 is completely free",
+     "Exhibiting artists work across painting, sculpture, photography, and mixed media",
+     "The venue is the Tampa Convention Center, on the downtown waterfront"
+    ]
+   },
+   {
+    "heading": "Why the free days are the real invitation",
+    "paragraphs": [
+     "Plenty of art events accidentally talk only to people who already buy art. This one priced its public days at zero, which changes who walks in: families downtown for the day, students, new homeowners with one bare wall and a budget, and Tampa Bay locals who would never call themselves collectors. Some of them will leave with a print. A few will leave with an original and a story about meeting the person who made it.",
+     "That is how a scene grows its next decade of buyers, and it is the same reason we point our Event Radar at weekends like this one. If you go, go on a free day, take your time on the second lap, and ask one artist how a piece was made. The answer is usually the best free thing at the fair."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "creative-loafing-tampa-bay",
+    "title": "Creative Loafing Tampa Bay: Art Fair Tampa, Oct 15 to 18, Be a Part of Art (October 9, 2026)",
+    "url": "https://www.cltampa.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "event-coverage",
+   "photography"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book event coverage",
+   "price": 450,
+   "serviceId": "event-coverage"
+  },
+  "nextClick": {
+   "label": "See what is on the Event Radar",
+   "url": "/events"
+  }
  },
  {
   "category": "ai-filmmaking",
@@ -2062,7 +2639,7 @@
   "checkedAt": "2026-10-07",
   "cta": {
    "currency": "USD",
-   "label": "Get creative direction \u00b7 $150",
+   "label": "Get creative direction · $150",
    "price": 150,
    "scope": "Review your website, social presence or creative project and leave with practical next steps. No session duration is specified.",
    "serviceId": "creative-direction-session",
@@ -2115,7 +2692,7 @@
    {
     "heading": "Your next move",
     "paragraphs": [
-     "Open Manychat\u2019s official setup guide below. After launch, compare delivered messages with link clicks instead of treating every comment as a customer. Want help connecting the post, message and landing page? Book Jamaal\u2019s $150 Creative Direction Session for a focused review and practical next steps."
+     "Open Manychat’s official setup guide below. After launch, compare delivered messages with link clicks instead of treating every comment as a customer. Want help connecting the post, message and landing page? Book Jamaal’s $150 Creative Direction Session for a focused review and practical next steps."
     ]
    }
   ],
@@ -2158,7 +2735,7 @@
   "checkedAt": "2026-10-07",
   "cta": {
    "currency": "USD",
-   "label": "Get creative direction \u00b7 $150",
+   "label": "Get creative direction · $150",
    "price": 150,
    "scope": "Review your website, social presence or creative project and leave with practical next steps. No session duration is specified.",
    "serviceId": "creative-direction-session",
@@ -2175,7 +2752,7 @@
   "kind": "guide",
   "nextClick": {
    "external": true,
-   "label": "Explore Edits on Meta\u2019s official site",
+   "label": "Explore Edits on Meta’s official site",
    "url": "https://about.fb.com/news/2025/04/introducing-edits-streamlined-video-creation-app/"
   },
   "publishedAt": "2026-10-07T04:41:09.393485Z",
@@ -2212,7 +2789,7 @@
    {
     "heading": "Your next move",
     "paragraphs": [
-     "Read Meta\u2019s Edits overview below and try one short test clip. Want a second pair of eyes on your footage, message and posting workflow? Jamaal\u2019s $150 Creative Direction Session helps you choose practical improvements for your social content."
+     "Read Meta’s Edits overview below and try one short test clip. Want a second pair of eyes on your footage, message and posting workflow? Jamaal’s $150 Creative Direction Session helps you choose practical improvements for your social content."
     ]
    }
   ],
@@ -2256,7 +2833,7 @@
   "checkedAt": "2026-10-07",
   "cta": {
    "currency": "USD",
-   "label": "Get creative direction \u00b7 $150",
+   "label": "Get creative direction · $150",
    "price": 150,
    "scope": "Review your website, social presence or creative project and leave with practical next steps. No session duration is specified.",
    "serviceId": "creative-direction-session",
@@ -2277,7 +2854,7 @@
   "kind": "guide",
   "nextClick": {
    "external": true,
-   "label": "Read CapCut\u2019s official export guide",
+   "label": "Read CapCut’s official export guide",
    "url": "https://www.capcut.com/help/export-videos-in-capcut"
   },
   "publishedAt": "2026-10-07T04:41:09.393485Z",
@@ -2325,7 +2902,7 @@
      "src": "/assets/editorial/capcut-export-check-before-posting-inline-2.webp"
     },
     "paragraphs": [
-     "Use CapCut\u2019s export guide below; options vary by device and app version. Bring a troublesome clip or release plan to Jamaal\u2019s $150 Creative Direction Session for clear feedback and next steps."
+     "Use CapCut’s export guide below; options vary by device and app version. Bring a troublesome clip or release plan to Jamaal’s $150 Creative Direction Session for clear feedback and next steps."
     ]
    }
   ],
@@ -2374,7 +2951,7 @@
   "checkedAt": "2026-10-07",
   "cta": {
    "currency": "USD",
-   "label": "Get creative direction \u00b7 $150",
+   "label": "Get creative direction · $150",
    "price": 150,
    "scope": "Review your website, social presence or creative project and leave with practical next steps. No session duration is specified.",
    "serviceId": "creative-direction-session",
@@ -2391,7 +2968,7 @@
   "kind": "guide",
   "nextClick": {
    "external": true,
-   "label": "Open HeyGen\u2019s script guide",
+   "label": "Open HeyGen’s script guide",
    "url": "https://help.heygen.com/en/articles/11381771-how-to-write-scripts-in-the-ai-studio"
   },
   "publishedAt": "2026-10-07T04:41:09.393485Z",
@@ -2411,9 +2988,9 @@
    },
    {
     "bullets": [
-     "Write three simple parts: the viewer\u2019s problem, the useful explanation and one next action. Split longer material into scenes so each section makes one point.",
+     "Write three simple parts: the viewer’s problem, the useful explanation and one next action. Split longer material into scenes so each section makes one point.",
      "Preview the script aloud in AI Studio. Adjust pauses and correct pronunciation for names, numbers and brand terms. Check repeated words in every scene; a correction to one instance may not update the rest.",
-     "Review the generated picture and sound together. Check timing, visible text and the closing link. If creating a video based Digital Twin of a real person, that person must provide HeyGen\u2019s required consent recording."
+     "Review the generated picture and sound together. Check timing, visible text and the closing link. If creating a video based Digital Twin of a real person, that person must provide HeyGen’s required consent recording."
     ],
     "heading": "Try this",
     "paragraphs": [
@@ -2427,7 +3004,7 @@
    {
     "heading": "Your next move",
     "paragraphs": [
-     "Follow the official script guide below. Need help shaping the message or choosing between an AI presenter and another video format? Jamaal\u2019s $150 Creative Direction Session gives you a focused creative review and practical next steps."
+     "Follow the official script guide below. Need help shaping the message or choosing between an AI presenter and another video format? Jamaal’s $150 Creative Direction Session gives you a focused creative review and practical next steps."
     ]
    }
   ],
@@ -2449,7 +3026,7 @@
     "id": "heygen-consent",
     "sourceUpdatedAt": "2026-04-23",
     "status": "Read official help article.",
-    "supports": "Video-based Digital Twin creation requires the depicted person\u2019s own consent recording.",
+    "supports": "Video-based Digital Twin creation requires the depicted person’s own consent recording.",
     "title": "HeyGen: Recording your consent video",
     "url": "https://help.heygen.com/en/articles/12092609-recording-your-consent-video"
    }
@@ -2470,7 +3047,7 @@
   "checkedAt": "2026-10-07",
   "cta": {
    "currency": "USD",
-   "label": "Get creative direction \u00b7 $150",
+   "label": "Get creative direction · $150",
    "price": 150,
    "scope": "Review your website, social presence or creative project and leave with practical next steps. No session duration is specified.",
    "serviceId": "creative-direction-session",
@@ -2482,7 +3059,7 @@
    "evergreen": true,
    "firsthandTested": false
   },
-  "excerpt": "Use Meta\u2019s business agent for a focused draft and review workflow, with clear limits on publishing, messages and spending.",
+  "excerpt": "Use Meta’s business agent for a focused draft and review workflow, with clear limits on publishing, messages and spending.",
   "format": "quick-guide",
   "kind": "guide",
   "nextClick": {
@@ -2500,7 +3077,7 @@
    {
     "heading": "Why it helps",
     "paragraphs": [
-     "Meta\u2019s Muse for Small Business is an AI agent with business tools, including connections to Facebook, Instagram and Meta ads. It is broader than a Facebook feature. For a creator or small brand, a useful first task is turning scattered ideas into a content plan you can inspect."
+     "Meta’s Muse for Small Business is an AI agent with business tools, including connections to Facebook, Instagram and Meta ads. It is broader than a Facebook feature. For a creator or small brand, a useful first task is turning scattered ideas into a content plan you can inspect."
     ],
     "sourceRefs": [
      "muse-announcement",
@@ -2525,11 +3102,11 @@
    {
     "heading": "Your next move",
     "paragraphs": [
-     "Explore the official Muse for Small Business page below. Want a human creative review before putting the plan into action? Book Jamaal\u2019s $150 Creative Direction Session to review your website, social presence or creative project and choose clear next steps."
+     "Explore the official Muse for Small Business page below. Want a human creative review before putting the plan into action? Book Jamaal’s $150 Creative Direction Session to review your website, social presence or creative project and choose clear next steps."
     ]
    }
   ],
-  "seoDescription": "Use Meta\u2019s business agent for a focused draft and review workflow, with clear limits on publishing, messages and spending.",
+  "seoDescription": "Use Meta’s business agent for a focused draft and review workflow, with clear limits on publishing, messages and spending.",
   "serviceId": "creative-direction-session",
   "slug": "muse-for-small-business-review-a-content-plan",
   "sources": [
@@ -2555,7 +3132,7 @@
     "checkedAt": "2026-10-07",
     "id": "muse-safety",
     "sourcePublishedAt": "2026-09-08",
-    "status": "Read official technical explanation reached through Meta\u2019s security.muse.ai link.",
+    "status": "Read official technical explanation reached through Meta’s security.muse.ai link.",
     "supports": "Scoped connector permissions, human review controls and explicit acknowledgement that agents can make mistakes.",
     "title": "Meta AI Research: How We Built Safety Into Muse",
     "url": "https://research.meta.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse"
@@ -2676,7 +3253,7 @@
     "heading": "What BeatViz announced",
     "paragraphs": [
      "BeatViz announced AI Director on October 3, 2026. Its company release describes a conversational workflow that plans scenes, generates visuals and edits a full song into a music video. Creators can develop a concept and revise details through chat.",
-     "These are vendor descriptions, supported by the company\u2019s product page. This article is not an independent product test or a claim that the tool will suit every track."
+     "These are vendor descriptions, supported by the company’s product page. This article is not an independent product test or a claim that the tool will suit every track."
     ]
    },
    {
@@ -2699,7 +3276,7 @@
      "src": "/assets/editorial/beatviz-ai-director-full-song-workflows-inline-2.webp"
     },
     "paragraphs": [
-     "Jamaal\u2019s Viral AI Music Video Reels are $80. The separate filmed music video service is $650. Viral is the reel\u2019s service name, not a promise of views.",
+     "Jamaal’s Viral AI Music Video Reels are $80. The separate filmed music video service is $650. Viral is the reel’s service name, not a promise of views.",
      "Explore the matching offer and send your track, chosen section and release date. Confirm duration, format and deliverables before production."
     ]
    }
@@ -2764,7 +3341,7 @@
      "src": "/assets/editorial/plan-your-music-video-shoot-inline-2.webp"
     },
     "paragraphs": [
-     "Jamaal\u2019s filmed Music Videos package is a flat $650. It includes creative direction, a shoot plan, one edited and color graded music video, an HD delivery file and two revision rounds.",
+     "Jamaal’s filmed Music Videos package is a flat $650. It includes creative direction, a shoot plan, one edited and color graded music video, an HD delivery file and two revision rounds.",
      "Editing typically takes 1 to 2 days after the shoot and receipt of the final track and agreed assets. Allow up to 2 weeks when busy. Share your deadline and extra production needs, then explore the portfolio and send your idea. Filmed videos are separate from AI reels."
     ]
    }
@@ -2800,7 +3377,7 @@
    {
     "heading": "Choose what your release needs",
     "paragraphs": [
-     "A full music video can introduce your performance and tell the song\u2019s story. A short AI reel can give one hook an imagined visual world. Choose the format around the job, not the newest tool.",
+     "A full music video can introduce your performance and tell the song’s story. A short AI reel can give one hook an imagined visual world. Choose the format around the job, not the newest tool.",
      "Use genuine footage when you need to document a real event or performance. Generated scenes should not be presented as proof of something that happened."
     ]
    },
@@ -2873,7 +3450,7 @@
     },
     "paragraphs": [
      "DistroKid calls for JPG artwork in RGB color space. It recommends a square 3000 by 3000 pixel image, with a minimum of 1000 by 1000. Enlarging a small image cannot restore detail that was never there.",
-     "Its guidance excludes URLs, QR codes, prices, streaming service logos and social platform logos. It also warns against poor quality imagery and duplicate artwork across releases. Recheck your actual distributor\u2019s requirements before submission; a design is not a guarantee of acceptance."
+     "Its guidance excludes URLs, QR codes, prices, streaming service logos and social platform logos. It also warns against poor quality imagery and duplicate artwork across releases. Recheck your actual distributor’s requirements before submission; a design is not a guarantee of acceptance."
     ]
    },
    {
@@ -2884,8 +3461,8 @@
      "src": "/assets/editorial/cover-art-checklist-for-your-next-single-inline-2.webp"
     },
     "paragraphs": [
-     "Use the approved cover\u2019s colors and visual idea to connect your social posts, reels and video direction. Each format still needs its own composition.",
-     "Jamaal\u2019s Cover Art service is $50. Send your track, exact release text, references and deadline. Agree the scope and final files before work begins, then check every name and letter before approval."
+     "Use the approved cover’s colors and visual idea to connect your social posts, reels and video direction. Each format still needs its own composition.",
+     "Jamaal’s Cover Art service is $50. Send your track, exact release text, references and deadline. Agree the scope and final files before work begins, then check every name and letter before approval."
     ]
    }
   ],
@@ -2944,8 +3521,8 @@
      "src": "/assets/editorial/plan-event-video-coverage-florida-inline-2.webp"
     },
     "paragraphs": [
-     "Jamaal\u2019s $450 Event Coverage includes up to two hours of Florida filming, one edited 60 to 90 second highlight video, three vertical social clips and two revision rounds. Editing typically takes 1 to 2 days after the event and receipt of agreed assets. Allow up to 2 weeks when busy.",
-     "Longer coverage and travel outside the agreed area are quoted before booking. This is Jamaal\u2019s package, not a statewide standard rate. Send your date, venue, schedule and intended use so the coverage matches what matters."
+     "Jamaal’s $450 Event Coverage includes up to two hours of Florida filming, one edited 60 to 90 second highlight video, three vertical social clips and two revision rounds. Editing typically takes 1 to 2 days after the event and receipt of agreed assets. Allow up to 2 weeks when busy.",
+     "Longer coverage and travel outside the agreed area are quoted before booking. This is Jamaal’s package, not a statewide standard rate. Send your date, venue, schedule and intended use so the coverage matches what matters."
     ]
    }
   ],
@@ -2991,7 +3568,7 @@
      "src": "/assets/editorial/connect-brand-video-to-a-clear-next-step-inline-1.webp"
     },
     "paragraphs": [
-     "Jamaal\u2019s $500 Brand Spot includes a 30 second cinematic AI video, concept, script, chosen delivery format and two revision rounds. Delivery is within 14 days of the approved brief and required assets; editing typically takes 1 to 2 days once footage is ready.",
+     "Jamaal’s $500 Brand Spot includes a 30 second cinematic AI video, concept, script, chosen delivery format and two revision rounds. Delivery is within 14 days of the approved brief and required assets; editing typically takes 1 to 2 days once footage is ready.",
      "The separate $400 Landing Page includes one responsive page using supplied copy and images, a contact form and key links, mobile checks, launch setup and two revision rounds. Delivery is within 14 days of receiving content and required access. Domain and hosting fees are separate.",
      "Keep deliverables and practical answers near the action. Test the form or exact checkout destination on a phone and with a keyboard."
     ]
