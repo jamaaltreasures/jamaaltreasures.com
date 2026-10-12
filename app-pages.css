@@ -566,3 +566,12 @@ body:has(#music-player-mini:not([hidden])) .dock-dot{bottom:calc(158px + env(saf
 .chest-dot{position:relative;width:28px;height:28px;padding:0;border:0;background:none;cursor:pointer}
 .chest-dot::after{content:"";position:absolute;inset:0;margin:auto;width:9px;height:9px;border-radius:50%;background:#11111438;transition:background .18s ease,transform .18s ease}
 .chest-dot[aria-current="true"]::after{background:#A7192F;transform:scale(1.3)}
+
+/* Work reel spacing fix (2026-10-12): the film track is a flex row, so its height was set by the tallest card. One long title wrapped to seven lines and stretched the row to 729px while a typical card is 502px, leaving a 227px dead band under nearly every card. Titles now clamp to two lines, cards stretch to one uniform height inside the row, and the controls stack below sits tighter. */
+#work .film-info h3{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;text-wrap:wrap}
+#work .film-track{align-items:stretch}
+#work .film-slide{display:flex;flex-direction:column}
+#work .film-info{flex:1 1 auto}
+#work .carousel-controls{margin-top:14px;gap:10px}
+#work .carousel-hint{margin-top:12px}
+#work .page-next{margin-top:18px}
