@@ -245,7 +245,8 @@ if(bookCard&&(location.hash==='#book-coverage'||bookSubjectParam))setBook(true,t
 })();
 </script>
  <style>
- :root{color-scheme:light;--black:#FAF7F2;--panel:#ffffff;--panel2:#F1EDE6;--red:#A7192F;--silver:#111114;--muted:#6E6A63;--line:rgba(17,17,20,.09);--radius:18px}html{overflow-x:clip}*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}body{margin:0;background:var(--black);color:var(--silver);font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text",Inter,Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5}a{color:inherit;text-decoration:none}.site-header{position:sticky;top:0;z-index:50;background:transparent;backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:1px solid transparent}.bar{display:flex;align-items:center;justify-content:space-between;padding:14px 16px;max-width:640px;margin:0 auto}.brand{font-weight:800;letter-spacing:.06em;font-size:15px}.brand span{color:var(--red)}.nav{display:flex;gap:18px;font-size:14px;color:var(--silver);font-weight:600}.nav a.active{color:var(--silver);font-weight:800}.wrap{max-width:640px;margin:0 auto;padding:0 16px 80px}.hero{padding:34px 0 10px}.kicker{font-size:12px;letter-spacing:.18em;color:var(--red);font-weight:700;margin-bottom:8px}.radarline{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);font-weight:700;margin:0 0 12px}.radarline span{color:var(--red)}.hero h1{font-size:32px;line-height:1.15;margin:0 0 10px;font-weight:800}.grad{color:var(--red)}.sub{color:var(--muted);font-size:15px;margin:0 0 18px}.carousel{position:relative;margin:10px -16px 0}
+ :root{color-scheme:light;--black:#FAF7F2;--panel:#ffffff;--panel2:#F1EDE6;--red:#A7192F;--silver:#111114;--muted:#6E6A63;--line:rgba(17,17,20,.09);--radius:18px}html{overflow-x:clip}*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}body{margin:0;background:var(--black);color:var(--silver);font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text",Inter,Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5}a{color:inherit;text-decoration:none}.site-header{position:sticky;top:0;z-index:50;background:rgba(244,240,232,.9);backdrop-filter:blur(18px) saturate(1.06);-webkit-backdrop-filter:blur(18px) saturate(1.06);border-bottom:1px solid rgba(17,17,20,.18);box-shadow:inset 0 -1px 0 rgba(255,255,255,.35),0 8px 30px rgba(17,17,20,.06)}
+@media(prefers-reduced-transparency:reduce){.site-header{background:#F4F0E8;backdrop-filter:none;-webkit-backdrop-filter:none}}.bar{display:flex;align-items:center;justify-content:space-between;padding:14px 16px;max-width:640px;margin:0 auto}.brand{font-weight:800;letter-spacing:.06em;font-size:15px}.brand span{color:var(--red)}.nav{display:flex;gap:18px;font-size:14px;color:var(--silver);font-weight:600}.nav a.active{color:var(--silver);font-weight:800}.wrap{max-width:640px;margin:0 auto;padding:0 16px 80px}.hero{padding:34px 0 10px}.kicker{font-size:12px;letter-spacing:.18em;color:var(--red);font-weight:700;margin-bottom:8px}.radarline{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);font-weight:700;margin:0 0 12px}.radarline span{color:var(--red)}.hero h1{font-size:32px;line-height:1.15;margin:0 0 10px;font-weight:800}.grad{color:var(--red)}.sub{color:var(--muted);font-size:15px;margin:0 0 18px}.carousel{position:relative;margin:10px -16px 0}
 .carviewport{display:flex;overflow-x:auto;padding:6px 16px 22px;scrollbar-width:none;-webkit-overflow-scrolling:touch;cursor:grab}
 .carviewport::-webkit-scrollbar{display:none}
 .carviewport:active{cursor:grabbing}
@@ -322,9 +323,11 @@ if(bookCard&&(location.hash==='#book-coverage'||bookSubjectParam))setBook(true,t
    on this page, the white threw it off). Stronger gray definition, frosted
    base, live displacement in Chromium. Non displacement engines stay on
    the frost with the gray border system: the baked frames are marble
-   baked, so they are deliberately not used here. The header above is
-   fully transparent so the page base shows straight through; nav rides
-   in sharp ink. */
+   baked, so they are deliberately not used here. The header carries
+   Jamaal's 2026-10-12 cream liquid glass: a translucent bar tinted to
+   the wordmark chip (#F4F0E8) with blur and a defined bottom border, so
+   scrolled content passes under it without clashing; nav rides in
+   sharp ink. */
 .chip,.achip{border-color:rgba(17,17,20,.22);box-shadow:inset 0 1px 0 rgba(255,255,255,.45),inset 0 -1px 2px rgba(17,17,20,.08),0 2px 8px rgba(60,58,52,.10)}
 .chip:active,.achip:active{background:#A7192F!important;color:#fff!important}.chip.on,.achip.on{border-color:#A7192F;box-shadow:inset 0 1px 0 rgba(255,255,255,.25),0 2px 8px rgba(17,17,20,.16)}
 @media(prefers-reduced-motion:no-preference) and (prefers-reduced-transparency:no-preference){
