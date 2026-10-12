@@ -9,7 +9,7 @@ export const businessSchema = {
   telephone: '+19412949274', email: 'jamaaltreasures@gmail.com',
   sameAs: ['https://www.instagram.com/jamaaltreasures/', 'https://www.youtube.com/@cimtexpro5593', 'https://whop.com/@jamaaltreasure'],
   logo: origin + '/assets/jamaal-key-logo.jpg',
-  image: origin + '/assets/jamaal-portrait-900.webp',
+  image: origin + '/assets/og-logo.jpg',
   contactPoint: { '@type': 'ContactPoint', contactType: 'project inquiries', url: origin + '/contact' }
 };
 
