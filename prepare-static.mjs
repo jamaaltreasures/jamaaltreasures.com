@@ -30,3 +30,4 @@ const bundleBytes=readdirSync(out,{recursive:true}).reduce((total,file)=>{const 
 if(bundleBytes>255*1024*1024)throw new Error('Static output is too close to the 256 MiB release package limit.');
 console.log('Static bundle bytes:',bundleBytes);
 console.log('Static production bundle ready. YouTube previews load on visibility; THE REALM FINAL streams on demand. Fonts and carousel are local.');
+
