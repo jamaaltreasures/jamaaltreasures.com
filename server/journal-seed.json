@@ -1,5 +1,70 @@
 [
  {
+  "slug": "universal-stardust-racers-lawsuit-orlando",
+  "title": "A Mother Says Her 9 Year Old Was Permanently Injured on Stardust Racers. Now Universal Is Being Sued.",
+  "excerpt": "A mother is suing Universal over injuries she says her 9 year old son suffered on Stardust Racers at Epic Universe. According to Orlando Weekly, she says the boy sustained trauma to his head and face on October 13, 2025, about a month after another rider was fatally injured on the same coaster.",
+  "seoDescription": "A mother is suing Universal, saying her 9 year old son suffered permanent head and face trauma on Stardust Racers at Epic Universe in October 2025, per Orlando Weekly. Here is what is known.",
+  "category": "events",
+  "serviceId": "event-coverage",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-12T10:58:05.000Z",
+  "updatedAt": "2026-10-12T10:58:05.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/universal-stardust-racers-lawsuit-orlando-hero.webp",
+   "alt": "The Stardust Racers roller coaster at Universal Epic Universe in Orlando",
+   "subject": "Stardust Racers roller coaster at Epic Universe",
+   "kind": "photo",
+   "sourceUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/stardust-racers",
+   "credit": "Photo: Universal Orlando Resort (official Stardust Racers image). Story source: Orlando Weekly, October 9, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The claim, as reported",
+    "paragraphs": [
+     "Orlando Weekly led its October 9 Daily Weekly with the lawsuit and summarized the allegation plainly. A woman says her 9 year old son was permanently injured riding Stardust Racers, the marquee dueling coaster at Universal Epic Universe. She says he sustained trauma to his head and face during the ride on October 13, 2025, and she is suing Universal over it.",
+     "A lawsuit is a set of claims, not a verdict, and the details beyond that summary belong to the court filing and to Universal's response. What can be said today, and what Orlando Weekly reported, is that a family is asking a court to decide that a flagship ride at Orlando's newest theme park left a child with lasting injuries."
+    ]
+   },
+   {
+    "heading": "The shadow of September",
+    "paragraphs": [
+     "The date in the mother's account is what gives this filing its weight. The ride she describes took place about a month after Kevin Rodriguez Zavala was fatally injured while riding the same coaster, a death that drew national attention to Epic Universe months after the park's celebrated opening.",
+     "Two serious incidents tied to one attraction, in the public telling, change the questions around it. The first asks what happened on a single ride. The second asks what was known, what was checked, and what was changed in between. Those are the questions a lawsuit is built to force into the open, where statements are sworn and documents have to be produced."
+    ]
+   },
+   {
+    "heading": "Why Orlando watches this closely",
+    "paragraphs": [
+     "Orlando runs on days like the ones Epic Universe sells. The park is the region's biggest new draw, and its rides are ridden by millions of guests, including a large share of children the same age as the boy in this filing. Local coverage treats a story like this one as civic news, not entertainment news, because the region's economy and its families board the same trains.",
+     "Expect the case to move slowly and the statements to stay short. In the meantime, the filing itself is the news: a parent, a date, a ride, and an injury she says will not heal, now placed in front of a judge. We will follow what Orlando Weekly reports as it develops."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "orlando-weekly",
+    "title": "Orlando Weekly: Universal sued for 9 year old's permanent injuries (October 9, 2026)",
+    "url": "https://www.orlandoweekly.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "event-coverage",
+   "photography"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book event coverage",
+   "price": 450,
+   "serviceId": "event-coverage"
+  },
+  "nextClick": {
+   "label": "See what is on the Event Radar",
+   "url": "/events"
+  }
+ },
+ {
   "slug": "tampa-bay-week-in-pictures",
   "title": "Tampa Bay's Week in Pictures: Best of the Bay, a Michelin Chef, and a Landmark Reopening",
   "excerpt": "Creative Loafing's Week in Pictures is out, led by its gallery from the Best of the Bay Party 2026. The same email brought a Michelin starred chef's new room in North Hyde Park and the Tampa Theatre reopening kickoff. Three snapshots of a city that stays out late, all from one inbox.",
