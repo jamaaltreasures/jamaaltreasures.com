@@ -5105,5 +5105,93 @@
   "alt": "John Summit CTRL ESCAPE Tour Miami event flyer",
   "imageKey": "event-flyers/320-john-summit-ctrl-escape-tour-miami.jpg",
   "endDate": "2026-11-21"
+ },
+ {
+  "section": "NEXT WEEK",
+  "title": "Jacquees and DeJ Loaf: Slow Jamz Only Homecoming Edition",
+  "date": "OCTOBER 18, 8 PM TO 1 AM",
+  "headliners": "Jacquees, DeJ Loaf, TK Kravitz",
+  "venue": "Vinyl Music Hall, Pensacola",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://allevents.in/pensacola/jacquees-dej-loaf-w-tk-kravitz/200030679473551",
+  "flyerUrl": "https://allevents.in/pensacola/jacquees-dej-loaf-w-tk-kravitz/200030679473551",
+  "image": "/events/flyer/321-jacquees-and-dej-loaf-slow-jamz-only.jpg",
+  "alt": "Jacquees and DeJ Loaf Slow Jamz Only Homecoming Edition flyer, Vinyl Music Hall Pensacola",
+  "imageKey": "event-flyers/321-jacquees-and-dej-loaf-slow-jamz-only.jpg",
+  "endDate": "2026-10-19"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Carnival Cooler Fete",
+  "date": "NOVEMBER 7, 4 PM TO 10 PM",
+  "headliners": "",
+  "venue": "SUN n FUN Lakeland Airpark, Lakeland",
+  "categories": [
+   "Culture",
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/carnival-cooler-fete-tickets-1992070489459",
+  "flyerUrl": "https://www.eventbrite.com/e/carnival-cooler-fete-tickets-1992070489459",
+  "image": "/events/flyer/322-carnival-cooler-fete.jpg",
+  "alt": "Carnival Cooler Fete flyer, SUN n FUN Lakeland Airpark Lakeland",
+  "imageKey": "event-flyers/322-carnival-cooler-fete.jpg",
+  "endDate": "2026-11-07"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "2nd Annual Downtown Palm Beach Gardens Art Festival",
+  "date": "NOVEMBER 7, 11 AM TO 8 PM AND NOVEMBER 8, 10 AM TO 5 PM",
+  "headliners": "",
+  "venue": "Downtown Palm Beach Gardens, Palm Beach Gardens",
+  "categories": [
+   "Arts"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://www.artfestival.com/festivals/downtown-palm-beach-gardens-art-festival",
+  "flyerUrl": "https://www.artfestival.com/festivals/downtown-palm-beach-gardens-art-festival",
+  "image": "/events/flyer/323-downtown-palm-beach-gardens-art-festival.jpg",
+  "alt": "2nd Annual Downtown Palm Beach Gardens Art Festival flyer, 11701 Lake Victoria Gardens Ave Palm Beach Gardens",
+  "imageKey": "event-flyers/323-downtown-palm-beach-gardens-art-festival.jpg",
+  "endDate": "2026-11-08"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "26th Annual Downtown Delray Beach Art Festival on 4th",
+  "date": "DECEMBER 5 TO 6, 10 AM TO 5 PM",
+  "headliners": "",
+  "venue": "NE 4th Avenue and E Atlantic Avenue, Delray Beach",
+  "categories": [
+   "Arts"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://www.artfestival.com/festivals/downtown-delray-beach-art-festival",
+  "flyerUrl": "https://www.artfestival.com/festivals/downtown-delray-beach-art-festival",
+  "image": "/events/flyer/324-downtown-delray-beach-art-festival-on-4th.jpg",
+  "alt": "26th Annual Downtown Delray Beach Art Festival on 4th flyer, NE 4th Avenue and E Atlantic Avenue Delray Beach",
+  "imageKey": "event-flyers/324-downtown-delray-beach-art-festival-on-4th.jpg",
+  "endDate": "2026-12-06"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Eudēmonia Summit",
+  "date": "NOVEMBER 5 TO 8",
+  "headliners": "",
+  "venue": "Palm Beach County Convention Center, West Palm Beach",
+  "categories": [
+   "Wellness"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eudemonia.net/",
+  "flyerUrl": "https://www.eudemonia.net/",
+  "image": "/events/flyer/325-eudemonia-summit.jpg",
+  "alt": "Eudēmonia Summit flyer, Palm Beach County Convention Center West Palm Beach",
+  "imageKey": "event-flyers/325-eudemonia-summit.jpg",
+  "endDate": "2026-11-08"
  }
 ]
