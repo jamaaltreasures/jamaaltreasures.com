@@ -5063,5 +5063,24 @@
     "alt": "Palm Beach Business Trade Expo flyer, Hilton Palm Beach Airport Hotel West Palm Beach",
     "imageKey": "event-flyers/337-palm-beach-business-trade-expo.jpg",
     "endDate": "2026-11-12"
+  },
+  {
+    "section": "LATER IN OCTOBER",
+    "title": "Seoul Dalbam Night Market",
+    "date": "OCTOBER 24, 3 PM TO 9 PM",
+    "headliners": "",
+    "venue": "Avalon Park, Orlando",
+    "categories": [
+      "Food",
+      "Culture",
+      "Community"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/seoul-dalbam-night-market-tickets-1993139143833",
+    "flyerUrl": "https://www.eventbrite.com/e/seoul-dalbam-night-market-tickets-1993139143833",
+    "image": "/events/flyer/338-seoul-dalbam-night-market.jpg",
+    "alt": "Seoul Dalbam Night Market flyer for Avalon Park in Orlando on October 24",
+    "imageKey": "event-flyers/338-seoul-dalbam-night-market.jpg",
+    "endDate": "2026-10-24"
   }
 ]
