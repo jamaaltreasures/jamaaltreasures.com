@@ -1,5 +1,341 @@
 [
  {
+  "slug": "calendar-invite-phishing-scams",
+  "title": "A Stranger Can Book a Scam Right Onto Your Calendar",
+  "excerpt": "Calendar invite phishing jumped about 33,000 percent in a few months, and people who take booking calls from strangers are prime targets. Morning Brew breaks down the three ways the scam works and the settings worth checking today.",
+  "seoDescription": "Calendar invite phishing is surging, and it targets people who book calls with strangers. How the scam works, why AI agents make it worse, and how to stop it.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-13T12:04:38.000Z",
+  "updatedAt": "2026-10-13T12:04:38.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/calendar-invite-phishing-scams-hero.webp",
+   "alt": "Close up of a calendar app icon on a smartphone home screen",
+   "subject": "Calendar app icon on a phone",
+   "kind": "photo",
+   "sourceUrl": "https://www.morningbrew.com",
+   "credit": "Image: Stockcam / Getty Images via Morning Brew, October 13, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The meeting you never agreed to",
+    "paragraphs": [
+     "Check your calendar for a meeting you do not recognize and you may be looking at the newest phishing play in the book. Morning Brew reports that incidents of calendar invite phishing, built on the .ics files that power calendar invites, rose about 33,000 percent between May and September, according to the cybersecurity firm Sublime.",
+     "The format is the trick. A normal phishing email has to survive your spam filter and then persuade you to open an attachment. A calendar invite skips both steps. It lands on the calendar you trust, it looks like business, and the dangerous part is simply a link sitting inside a meeting you never asked for."
+    ]
+   },
+   {
+    "heading": "Three ways the invite tries to get you",
+    "paragraphs": [
+     "Sublime counts three main methods, and each one starts with that link inside the meeting:"
+    ],
+    "bullets": [
+     "The link opens a form that asks for your login credentials, dressed up to look like a service you already use",
+     "The link prompts a malware download onto your laptop",
+     "The link leads to a meeting with a scammer posing as someone you have reason to trust, like a worker at another company or a potential client"
+    ]
+   },
+   {
+    "heading": "Why people who book strangers get hit first",
+    "paragraphs": [
+     "Morning Brew notes that professionals who often meet with strangers, like salespeople and recruiters, are common targets. Put creators and service businesses in that same bucket. If your living depends on discovery calls, booking pages, and first meetings with people who found you online, a strange name on your calendar is not unusual. It is Tuesday.",
+     "There is a newer wrinkle. Sublime found that some of these invites are arriving because AI agents accept invitations on a worker behalf. The assistant that was supposed to save you time can also wave a scam straight past the front door, politely, at scale, while you are busy doing the actual work."
+    ]
+   },
+   {
+    "heading": "A five minute calendar hygiene check",
+    "paragraphs": [
+     "The fixes are boring, free, and worth doing before your next booking call:"
+    ],
+    "bullets": [
+     "Check your calendar settings and stop invites from being added automatically before you respond, a step Consumer Affairs recommends",
+     "Treat every link inside an invite like a link inside a cold email, and inspect where it goes before you tap",
+     "Never type login credentials into a page a calendar link sent you to; open the service directly instead",
+     "When a new client books you, confirm the meeting through a channel you already trust, like the email thread or DM where the conversation started",
+     "If an AI agent manages your calendar, set a clear rule that invites from unknown senders get flagged for you, not accepted"
+    ]
+   },
+   {
+    "heading": "The takeaway for small teams",
+    "paragraphs": [
+     "None of this means closing your booking page or vetting every inquiry like a bank loan. It means remembering that your calendar is now an inbox, with the same scams and the same need for a two second pause. The businesses that take meetings for a living cannot afford to treat every invite as friendly. Look first, click second, and let the mystery meeting stay a mystery."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: The latest phishing scam is targeting your calendar (October 13, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "brand-identity"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "wealthiest-americans-are-over-75",
+  "title": "Americans Over 75 Are Now the Wealthiest Age Group in the Country",
+  "excerpt": "New Federal Reserve data says families headed by someone 75 or older are now the richest in America, while wealth fell for families under 35. For Florida businesses, the customer holding the budget may not be who your ads assume.",
+  "seoDescription": "Federal Reserve data shows Americans over 75 are now the wealthiest age group, with median net worth near $505,000. What that means for Florida businesses.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-13T12:02:38.000Z",
+  "updatedAt": "2026-10-13T12:02:38.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/wealthiest-americans-are-over-75-hero.webp",
+   "alt": "An older person hands counting a stack of one hundred dollar bills",
+   "subject": "Older hands counting cash",
+   "kind": "photo",
+   "sourceUrl": "https://www.morningbrew.com",
+   "credit": "Image: Krisanapong Detraphiphat / Getty Images via Morning Brew, October 13, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The richest seat at the table just changed",
+    "paragraphs": [
+     "The wealthiest age group in America is no longer the peak earning executive in his fifties. Morning Brew reports that families headed by someone aged 75 or older are now the richest in the country, according to the Federal Reserve Survey of Consumer Finances released last week.",
+     "The survey runs every three years, and the headline numbers tell a split story. Median family net worth, adjusted for inflation, rose just 2 percent to $215,900 between 2022 and 2025. Under that calm surface, older households pulled away and younger ones slipped backward."
+    ]
+   },
+   {
+    "heading": "The numbers behind the flip",
+    "paragraphs": [
+     "The gap is wide, and it is growing:"
+    ],
+    "bullets": [
+     "Wealth for the 75 and older group rose 37 percent, while wealth for families under 35 fell 23 percent",
+     "Median net worth for the 75 and older group reached about $505,000, up from $367,000 in 2022",
+     "Their mean net worth grew 10 percent to $1.96 million",
+     "Almost 20 percent of all families reported a late loan payment in the last year, up from 12.2 percent in 2022"
+    ]
+   },
+   {
+    "heading": "Why the boomers are OK",
+    "paragraphs": [
+     "The Fed measures wealth as assets like stocks and home equity, minus debts like mortgages. NYU economics professor Edward Wolff told the Wall Street Journal that the old pattern, where retirees steadily spent down their savings, has completely reversed. Many older Americans bought homes and stocks years ago, held them, and watched the values climb. Time in the market did the heavy lifting.",
+     "Morning Brew also points to recent research suggesting older Americans may be propping up consumer spending. While plenty of families are struggling with debt and inflation, the spending that keeps restaurants, venues, and local services busy is increasingly coming from the generation with the paid off house and the long held portfolio."
+    ]
+   },
+   {
+    "heading": "What this means if you sell anything in Florida",
+    "paragraphs": [
+     "Florida makes this data personal. Few states concentrate older, asset rich residents like this one, and few local businesses can afford to market as if every buyer is 28 and scrolling at midnight. The person who can comfortably book the venue, the photography team, the caterer, or the premium service is often the grandparent, not the grandkid.",
+     "The practical moves are simple. Keep a real phone number visible and answer it. Make prices and next steps easy to read without pinching and zooming. Do not hide the good offer behind a trend that only makes sense to people raised on the app. Trust, clarity, and a human voice close this customer. Flash does not."
+    ]
+   },
+   {
+    "heading": "The long game hiding in the data",
+    "paragraphs": [
+     "There is a lesson for younger creators and founders too, and it is not glamorous. The 75 and older group did not win the wealth race with one lucky year. They bought assets early, held them through ugly markets, and let decades compound. Content libraries, catalogs, and a business with real equity work the same way. Build things that keep value while you sleep, and give them time."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Getting older is paying off for Americans (October 13, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "brand-identity"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "factory-built-homes-housing-fix",
+  "title": "Factory Built Homes Are Getting a Second Look as Housing Costs Bite",
+  "excerpt": "They build 30 to 50 percent faster, waste up to 90 percent less material, and can cost far less than site built houses. The Hustle explains the three kinds of factory built homes and the housing bill that could give them a push.",
+  "seoDescription": "Factory built homes are faster and cheaper to build, and a bipartisan housing act could cut their costs further. The three types, the numbers, and the Florida angle.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-13T12:00:38.000Z",
+  "updatedAt": "2026-10-13T12:00:38.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/factory-built-homes-housing-fix-hero.webp",
+   "alt": "A bright blue Boxabl Casita factory built home with a pink front door, installed on a lot",
+   "subject": "Boxabl Casita factory built home",
+   "kind": "photo",
+   "sourceUrl": "https://thehustle.co",
+   "credit": "Image: Boxabl (Casita, official product photo). Story source: The Hustle, October 13, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Some assembly required, again",
+    "paragraphs": [
+     "A century ago, Americans ordered entire houses from a Sears catalog and assembled them on their own land. The Hustle reports that the modern version of that idea, factory built housing, is being looked at again as one of the few realistic answers to the affordable housing crunch, with reporting from Marketplace.",
+     "The stigma is the first thing to update. Factory built no longer automatically means flimsy. The industry now covers a quality ladder, and knowing which rung you are buying matters more than the label."
+    ]
+   },
+   {
+    "heading": "Three kinds of factory built homes",
+    "paragraphs": [
+     "The Hustle breaks the category into three, and the differences decide financing, value, and where the home can go:"
+    ],
+    "bullets": [
+     "Mobile homes were built before 1976 and before modern federal safety standards, sit on a chassis with wheels, are titled like vehicles, and tend to depreciate",
+     "Manufactured homes are built after 1976 to strict federal standards, can sit on a permanent foundation, can appreciate, and have more financing options",
+     "Modular homes are built in enclosed sections to city and state codes, assembled on a permanent foundation, and can be financed with a traditional mortgage"
+    ]
+   },
+   {
+    "heading": "Why builders and buyers are paying attention",
+    "paragraphs": [
+     "Companies like RISE Modular, Clayton, and Boxabl now ship homes and apartments with cabinets, trim, toilets, and appliances already installed. Per The Hustle, factory built homes can go up 30 to 50 percent faster than on site construction, generate up to 90 percent less material waste, and run anywhere from 10 to 60 percent cheaper, based on 2023 figures.",
+     "The market is still small next to its history. About 100,000 manufactured homes sold in 2025, far below the postwar peaks of 579,000 in 1973 and 373,000 in 1998, two eras when factory built housing dramatically widened homeownership."
+    ]
+   },
+   {
+    "heading": "The housing bill that could move the needle",
+    "paragraphs": [
+     "The bipartisan 21st Century ROAD to Housing Act encourages factory built housing without writing checks to developers. It would remove the requirement for a permanent steel chassis under manufactured homes, a change estimated to cut $5,000 to $10,000 in cost, and it recommends ending the exclusionary zoning that lets many towns quietly ban these homes outright. It also includes provisions to widen financing options.",
+     "For Florida, where land, insurance, and construction costs stack up fast, that combination matters. A state full of manufactured home communities, retirees on fixed budgets, and workers priced out of the counties they serve is exactly where faster, cheaper, code built housing gets tested first. Watch the zoning fights. That is where this story will be won or lost."
+    ]
+   },
+   {
+    "heading": "The takeaway",
+    "paragraphs": [
+     "Factory built housing is a reminder that innovation is not always an app. Sometimes it is a house built indoors, out of the rain, on a line that wastes less and finishes sooner. If the financing and zoning barriers fall, expect builders, content creators in the real estate space, and a lot of Florida buyers to meet at the factory door."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle: Home, sweet factory built home (October 13, 2026)",
+    "url": "https://thehustle.co"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "floridarama-relics-and-lore-st-pete",
+  "title": "FloridaRAMA Turns Halloween Into an Immersive Art Mystery in St. Petersburg",
+  "excerpt": "Relics and Lore, a Radley Experience, turns 1,000 square feet of FloridaRAMA in St. Petersburg into a Victorian Gothic world built for discovery, not jump scares. It is open now and recommended for ages 13 and up.",
+  "seoDescription": "FloridaRAMA in St. Petersburg opens Relics and Lore, a Radley Experience, an immersive Halloween art installation by Cody Meacham. Dates, address, and what to expect.",
+  "category": "events",
+  "serviceId": "event-coverage",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-13T11:58:38.000Z",
+  "updatedAt": "2026-10-13T11:58:38.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/floridarama-relics-and-lore-st-pete-hero.webp",
+   "alt": "Relics and Lore key art showing a pale hand with blue nails over a Gothic arch at FloridaRAMA",
+   "subject": "Relics and Lore at FloridaRAMA",
+   "kind": "photo",
+   "sourceUrl": "https://www.cltampa.com",
+   "credit": "Image: FloridaRAMA, Relics and Lore key art via Creative Loafing Tampa Bay sponsored newsletter, October 12, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A haunted house that is not a haunted house",
+    "paragraphs": [
+     "St. Petersburg already has one of the most unusual art spaces in Florida, and this Halloween it leans all the way into the strange. Creative Loafing Tampa Bay reports that FloridaRAMA has opened Relics and Lore: A Radley Experience, an immersive installation that transforms 1,000 square feet of the space into a paranormal world for the Halloween season. It is open now and recommended for ages 13 and up.",
+     "The name will ring a bell for local art fans. Radley House was a cult favorite, and artist Cody Meacham brings it back in a new form, blending Victorian Gothic atmosphere, theatrical effects, and dense visual storytelling."
+    ]
+   },
+   {
+    "heading": "Built for discovery, not jump scares",
+    "paragraphs": [
+     "Meacham is clear about what this is not. There is no conveyor belt of jump scares and no actor chasing you down a hallway. In his words, it is an immersive art experience designed to create a sense of mystery and discovery. Guests are meant to walk in curious, encounter the unexpected, and leave still wondering what exactly they experienced.",
+     "The installation sits where immersive art, theatrical production, paranormal attraction, and visual storytelling meet. It rewards people who slow down and look closely, because the details are the show. That is a different promise than most October attractions make, and for anyone bored of the standard haunted house script, it is the whole appeal."
+    ]
+   },
+   {
+    "heading": "It will keep changing through the season",
+    "paragraphs": [
+     "One visit may not be the full story. The experience is designed to unfold over the course of the season, with surprise holiday evolutions and additional programming planned later in the year. FloridaRAMA has built its reputation on exactly this kind of locally created, visually rich world building, the kind of place where every room gives photographers and casual visitors something worth sharing.",
+     "For Tampa Bay, it is also a useful signal. Audiences are showing up for experiences they can walk through, photograph, and talk about afterward, not just stages they watch from a seat. Artists and venues building for discovery are building for how people actually spend a night out now."
+    ]
+   },
+   {
+    "heading": "Plan your visit",
+    "paragraphs": [
+     "The practical details, so you can put it on the calendar:"
+    ],
+    "bullets": [
+     "What: Relics and Lore, A Radley Experience, presented by Cody Meacham",
+     "Where: FloridaRAMA, 2606 Fairfield Ave S, St. Petersburg, FL 33712",
+     "Who: Recommended for ages 13 and up",
+     "When: Open now for the Halloween season, with more programming planned later in the year"
+    ]
+   },
+   {
+    "heading": "Why we are watching it",
+    "paragraphs": [
+     "Immersive art is one of the strongest live experience formats in Florida right now, and St. Petersburg keeps proving it. If you go, take your time, look closer than the crowd does, and let the room tell its story. And if you spot us out there with cameras, that is the job: Florida events like this one are what the Event Radar was built to find."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "creative-loafing-tampa-bay",
+    "title": "Creative Loafing Tampa Bay: FloridaRAMA Unveils Relics and Lore, A Radley Experience, for the Halloween Season (October 12, 2026)",
+    "url": "https://www.cltampa.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "event-coverage",
+   "photography"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book event coverage",
+   "price": 450,
+   "serviceId": "event-coverage"
+  },
+  "nextClick": {
+   "label": "See what is on the Event Radar",
+   "url": "/events"
+  }
+ },
+ {
   "slug": "meta-muse-wonder-priced-like-opus",
   "title": "Meta's Muse Wonder Is Here, and It Costs Exactly What Opus Costs",
   "excerpt": "Meta's first frontier models are built for agents that remember you and keep working the problem. The Neuron's October 13 edition breaks down the scores, the Opus level price, and the training setting hiding in Muse Code.",
