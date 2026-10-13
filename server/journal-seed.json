@@ -1,5 +1,373 @@
 [
  {
+  "slug": "meta-muse-wonder-priced-like-opus",
+  "title": "Meta's Muse Wonder Is Here, and It Costs Exactly What Opus Costs",
+  "excerpt": "Meta's first frontier models are built for agents that remember you and keep working the problem. The Neuron's October 13 edition breaks down the scores, the Opus level price, and the training setting hiding in Muse Code.",
+  "seoDescription": "Meta's Muse Wonder and Wonder Full are agent models with memory, priced exactly like Claude Opus. The scores, the access split, and the setting to check first.",
+  "category": "ai-filmmaking",
+  "serviceId": "ai-ugc-ad",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-13T10:53:57.000Z",
+  "updatedAt": "2026-10-13T10:53:57.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/meta-muse-wonder-priced-like-opus-hero.webp",
+   "alt": "A Meta Superintelligence Labs presenter speaking during the Muse Wonder launch video, with bookshelves behind him",
+   "subject": "Meta Muse Wonder launch presentation",
+   "kind": "photo",
+   "sourceUrl": "https://www.theneurondaily.com/p/meta-s-muse-wonder-is-here-priced-like-opus-ee30",
+   "credit": "Image: Meta (Muse Wonder launch video still via TechCrunch). Story source: The Neuron, October 13, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Built for agents, not one shot answers",
+    "paragraphs": [
+     "Meta released Muse Wonder and Muse Wonder Full, the company's first frontier models, built to do multi step work for you instead of answering once and stopping. Think planning a schedule, working through a claim, or juggling the rules of a wedding seating chart until every guest fits.",
+     "The pitch rests on two features. Active Memory keeps context about you across conversations, so you stop explaining your budget, your lease, or your project at the start of every new chat. Active Focus keeps an agent pushing toward the goal when it hits a wall, tries another route, and asks you before anything consequential happens."
+    ]
+   },
+   {
+    "heading": "Second place at first place prices",
+    "paragraphs": [
+     "On Meta's own scorecard, Wonder Full finishes ahead of Claude Opus 5.5, Fable 5.1, and GPT 6 Astra on 7 of 14 rows, mostly long software projects and legal agent tasks. On the independent Artificial Analysis index, the order flips: Opus 5.5 scores 58, Wonder Full 56, GPT 6 Astra 53, and the standard Wonder 52.",
+     "The price is the story. Wonder costs $4 per million input tokens and $20 per million output tokens, the same as Opus 5.5, the model that outscores it. Sonnet 5.5 costs half as much and also scores higher. One launch day test made the point in a funnier way: a developer set Wonder loose on Pokemon Red, and after roughly 792 turns and about $96, the agent was still wandering Viridian Forest without a gym badge. That is one run, not a benchmark, but persistence without progress is exactly what Active Focus promises to prevent."
+    ]
+   },
+   {
+    "heading": "Where you can actually get it",
+    "paragraphs": [
+     "Access is split, and the split matters if you are budgeting for production work:"
+    ],
+    "bullets": [
+     "Muse Wonder is live on Meta's Model API and inside Muse Code, Meta's terminal app",
+     "Muse Wonder Full is only sold inside Muse Code plans at $50 and $200 per month, never by the token",
+     "The Muse app is coming later, subscribers first",
+     "Neither model ships downloadable weights, and the open weights Meta promised for Muse Spark still have not arrived"
+    ]
+   },
+   {
+    "heading": "Check one setting before you paste client work",
+    "paragraphs": [
+     "A model that remembers you is only as safe as what the company does with that memory. VentureBeat reports that Muse Code defaults to a Contributor mode that lets Meta train on what you submit. You can switch it off, but the change only covers future submissions. The API does not train on your content.",
+     "For creators and studios, the takeaway is practical. Agent memory could end the daily ritual of briefing your tools on every project from zero, and an agent that keeps working a hard problem is worth real money on production tasks. Just route client documents through the API, read the training setting before your first session, and grade Meta's chart against the independent index before you move any budget."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Meta's Muse Wonder is here, priced like Opus (October 13, 2026)",
+    "url": "https://www.theneurondaily.com/p/meta-s-muse-wonder-is-here-priced-like-opus-ee30"
+   }
+  ],
+  "relatedServiceIds": [
+   "ai-ugc-ad",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book an AI UGC ad",
+   "price": 300,
+   "serviceId": "ai-ugc-ad"
+  },
+  "nextClick": {
+   "label": "See our AI films and ads",
+   "url": "/ai-films-ads"
+  }
+ },
+ {
+  "slug": "meta-watermelon-frontier-race",
+  "title": "Meta's Watermelon Just Grew Into a Frontier Model",
+  "excerpt": "The Rundown AI's October 13 edition covers Muse Wonder Full landing at number two in the independent rankings, the end of Meta's open era, and Karpathy's sharp funnel of AI access.",
+  "seoDescription": "Meta's Watermelon became Muse Wonder Full, now number two on the independent intelligence index. What the frontier race means for creators.",
+  "category": "ai-filmmaking",
+  "serviceId": "brand-film",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-13T10:51:57.000Z",
+  "updatedAt": "2026-10-13T10:51:57.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/meta-watermelon-frontier-race-hero.webp",
+   "alt": "An editorial illustration of a balance scale weighing a locked trophy against two AI robot models, a picture of price against performance",
+   "subject": "Price versus performance in frontier AI models, editorial illustration",
+   "kind": "photo",
+   "sourceUrl": "https://www.therundown.ai",
+   "credit": "Illustration: Gabriel Anhaia via DEV Community. Story source: The Rundown AI, October 13, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The codename was fruit. The launch is serious.",
+    "paragraphs": [
+     "Meta Superintelligence Labs released Muse Wonder and Muse Wonder Full, the models the industry watched ripen for months under the codename Watermelon. A year ago Meta was not in the frontier conversation. Today its larger model sits at number two in the Artificial Analysis intelligence rankings, behind only Anthropic's Opus 5.5.",
+     "The gap behind it matters as much as the rank. Gemini 4 Argon, GPT 6 Astra, and Claude Fable 5.1 all score 53 on the index. Wonder Full scores 56, three points clear of that pack, and it passes Opus 5.5 and Astra at legal work, long coding projects, and memory tasks, while Opus still leads on health and computer use."
+    ]
+   },
+   {
+    "heading": "The open era ended quietly",
+    "paragraphs": [
+     "Both Wonder models are closed. For the company that built its AI reputation on open Llama releases, that is a real turn. Wonder Full is limited to Muse Code plans at $50 or $200 per month, and the standard model lives on Meta's API and is rolling out to paid Muse app subscribers.",
+     "Alexandr Wang said API prices would sit meaningfully below OpenAI and Anthropic's top models. The standard Wonder lands at the same $4 and $20 per million tokens as Opus 5.5, so creators should budget by the independent scores, not the launch quotes. What rivals cannot copy quickly is everything around the model: the data centers, the billions of users already inside Meta's apps, and a consumer agent app ready to carry the model into daily life."
+    ]
+   },
+   {
+    "heading": "Karpathy's sharp funnel explains the moment",
+    "paragraphs": [
+     "OpenAI cofounder Andrej Karpathy describes AI access as a sharp funnel. At the narrow end, roughly 5,000 people inside the labs work with the true frontier, running agent swarms for weeks and attacking open math problems. At the wide end sit nearly 6 billion people who have barely touched AI, plus one to two billion who use free chatbots for quick answers.",
+     "Karpathy calls it the weirdness of the moment: most people still underestimate what these systems can do, while a small group feels the curve going vertical. For creators, that gap is the opportunity. Your clients are mostly at the wide end of the funnel. The studios and brands that learn frontier tools now will be the ones explaining, and selling, the difference."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Meta's Watermelon ripens into a frontier model (October 13, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-film",
+   "meta-ads"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Get a Brand Film",
+   "price": 750,
+   "serviceId": "brand-film"
+  },
+  "nextClick": {
+   "label": "Read The Rundown AI",
+   "url": "https://www.therundown.ai"
+  }
+ },
+ {
+  "slug": "frontline-optics-million-dollar-annoyance-fix",
+  "title": "He Sold $1 Million of Sunglasses by Fixing One Annoyance",
+  "excerpt": "The Hustle Blower's October 13 story follows firefighter Mike Ettenberg, who built Frontline Optics around the moment his customers wreck their sunglasses, and passed $1 million in sales.",
+  "seoDescription": "Frontline Optics passed $1 million in sales selling sunglasses to first responders. The replacement promise and small creator playbook behind it.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-13T10:49:57.000Z",
+  "updatedAt": "2026-10-13T10:49:57.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/frontline-optics-million-dollar-annoyance-fix-hero.webp",
+   "alt": "Frontline Optics Pomona sunglasses in olive green with polarized brown lenses on a white background",
+   "subject": "Frontline Optics Pomona sunglasses",
+   "kind": "photo",
+   "sourceUrl": "https://thehustleblower.com",
+   "credit": "Image: Frontline Optics (Pomona sunglasses product photo). Story source: The Hustle Blower, October 13, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Ask what happened to the last pair",
+    "paragraphs": [
+     "Mike Ettenberg was a firefighter who liked wearing good sunglasses and hated buying the next pair. Getting ready for calls left expensive glasses scratched, crushed, or gone, and every replacement came out of his own pocket. His company, Frontline Optics, was built for first responders living the same expensive loop.",
+     "The opening was not a new product category. These customers already wore sunglasses, already spent real money on them, and already knew exactly what annoyed them. Mike's research question writes itself: what happened to the last pair? The answers are stories about breakage and loss, and every story tells you what the offer has to fix."
+    ]
+   },
+   {
+    "heading": "Three hundred pairs before an empire",
+    "paragraphs": [
+     "Frontline launched in July 2021 with $5,000 of savings, 300 pairs, a website, and a trademark. The first six months produced $8,182 in sales. That sounds modest until you read it correctly: strangers were paying a company they had never heard of, which is the only proof a young brand actually needs.",
+     "Instead of marketing to everyone with eyes, Mike shrank the audience to the people whose working day he understood from the inside. Early growth came from organic posts, first responder hashtags, and word of mouth inside the community he knew firsthand."
+    ]
+   },
+   {
+    "heading": "Small creators carried the exact customers",
+    "paragraphs": [
+     "Frontline gave glasses to first responder creators with roughly 3,000 to 5,000 followers in exchange for content, and the relationships that produced orders grew into affiliate partnerships. The ambassador program now pays a 10 percent commission on tracked referral sales to community members with more than 1,000 followers.",
+     "A small creator whose audience shares one job can be worth more than a celebrity with a crowd of spectators. The tracking code keeps everyone honest: compliments are cheap, orders are evidence."
+    ]
+   },
+   {
+    "heading": "The promise that assumes life will happen",
+    "paragraphs": [
+     "The cleverest part of the offer is the replacement program. A pair lost or destroyed in the line of duty earns one replacement for a $19.99 processing fee, with clear boundaries that keep the promise affordable. It answers the hesitation behind the purchase: am I about to pay for the same mistake twice?",
+     "The math can be gentle. If a replacement costs a business $24 to supply and the customer pays $20 of it, a 10 percent claim rate spreads the rest across every sale at about 40 cents each. Mike also tells the other side honestly: his Black Friday advertising push lost money. The lesson of the million is not a channel. It is a product built around the customer's worst afternoon, priced so the promise survives contact with reality."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle Blower: He sold $1M by fixing one annoyance (October 13, 2026)",
+    "url": "https://thehustleblower.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "brand-identity"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "laundry-lady-8-6-million-laundry-business",
+  "title": "Her Laundry Side Hustle Now Brings In 8.6 Million a Year",
+  "excerpt": "The Hustle Blower's October 12 story follows Susan Toft, whose Gold Coast laundry service grew from her own home into a contractor network bringing in 8.6 million Australian dollars a year.",
+  "seoDescription": "The Laundry Lady turned home laundry into 8.6 million Australian dollars a year. The recurring revenue and contractor model behind the growth.",
+  "category": "brand-growth",
+  "serviceId": "business-website",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-13T10:47:57.000Z",
+  "updatedAt": "2026-10-13T10:47:57.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/laundry-lady-8-6-million-laundry-business-hero.webp",
+   "alt": "The Laundry Lady booking app shown on phones beside a laundry partner holding a basket of folded washing",
+   "subject": "The Laundry Lady app and laundry partner",
+   "kind": "photo",
+   "sourceUrl": "https://thehustleblower.com",
+   "credit": "Image: The Laundry Lady (booking app graphic). Story source: The Hustle Blower, October 12, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The machines were already in people's homes",
+    "paragraphs": [
+     "Susan Toft started The Laundry Lady on Australia's Gold Coast in 2012 with a washing machine, a vehicle, and a household problem that keeps coming back. By the financial year reported in August 2025, the business was bringing in 8.6 million Australian dollars in annual revenue. It is now a network of contractors who collect laundry, wash it in their own homes, and deliver it back, usually the next day.",
+     "Susan began as both sides of the market at once: a working mother who wanted help with the pile and work that fit around her child. At first she collected and washed everything herself, which is the honest version of most big revenue headlines."
+    ]
+   },
+   {
+    "heading": "People pay to delete a sequence, not a chore",
+    "paragraphs": [
+     "The obvious objection is that every customer already owns a washing machine. Owning the equipment is not the same as wanting the job. Laundry hides its labor in the interruptions: sort it, start it, remember it, move it, dry it, fold it, put it away, then find another basket. The Laundry Lady sells the whole sequence disappearing. A bag leaves, and a finished chore comes back.",
+     "The same opening appeared in small businesses. Salons and hairdressers generate towels, gowns, and uniforms every day, too much to enjoy washing and too little to justify an industrial laundry contract. Serving that awkward middle size, with collection times arranged around the working day, became a second market."
+    ]
+   },
+   {
+    "heading": "Pricing that protects the trip",
+    "paragraphs": [
+     "The price list shows the operating discipline underneath the friendly brand:"
+    ],
+    "bullets": [
+     "A standard five kilogram wash, dry, and fold load is listed at 30.25 Australian dollars",
+     "Pickup and delivery adds 14.50 Australian dollars",
+     "A 70 dollar minimum per service protects the two journeys every order requires",
+     "More than 80 percent of customers book weekly or fortnightly, and 95 percent have used the service more than once"
+    ]
+   },
+   {
+    "heading": "Growth meant handing the work to other people's homes",
+    "paragraphs": [
+     "Susan's constraint was never demand. It was her own hours. Contractors arrived through personal connections and Gumtree ads, a 5,000 dollar grant in 2016 funded online booking and the first group of partners, and the company later built its own platform, TimeBoss, after years on an adapted off the shelf system.",
+     "Television helped both sides of the marketplace. After Susan appeared on Shark Tank Australia in 2023 and received a one million dollar investment offer, contractor applications rose about fivefold. She is equally open that cash flow stayed hard while revenue climbed. A recurring booking is worth more than a follower count, and a network built on other people's spare rooms can grow without a warehouse, as long as the promise survives every handoff."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle Blower: Her side hustle just made 8.6M!? (October 12, 2026)",
+    "url": "https://thehustleblower.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "business-website",
+   "landing-page"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Get a business website",
+   "price": 900,
+   "serviceId": "business-website"
+  },
+  "nextClick": {
+   "label": "See website pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "black-friday-prospecting-budget-check",
+  "title": "Before Black Friday, Check Whether Your Ads Are Chasing Old Customers",
+  "excerpt": "DTC's October 13 edition reads the early October shopping signals and shares Pilothouse's four step check for keeping prospecting spend aimed at new customers before Black Friday.",
+  "seoDescription": "Shoppers spent $9.86 billion in early October. Run Pilothouse's four step prospecting check before Black Friday so your ads find new customers.",
+  "category": "brand-growth",
+  "serviceId": "meta-ads",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-13T10:45:57.000Z",
+  "updatedAt": "2026-10-13T10:45:57.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/black-friday-prospecting-budget-check-hero.webp",
+   "alt": "Meta Ads Manager audience segments breakdown showing new audience spend of $15,542.06 against $4.89 for existing customers",
+   "subject": "Meta Ads Manager audience segments breakdown",
+   "kind": "photo",
+   "sourceUrl": "https://www.directtoconsumer.co",
+   "credit": "Image: DTC / Pilothouse (Meta Ads Manager audience segments screenshot). Story source: DTC, October 13, 2026"
+  },
+  "sections": [
+   {
+    "heading": "October already graded your November",
+    "paragraphs": [
+     "United States shoppers spent $9.86 billion online during Amazon's Prime Big Deal Days on October 6 and 7, up 8.5 percent from last year, across all online retail. Mobile drove 52 percent of that spending and grew 12.8 percent, so the first prep task is unglamorous: run your own checkout on a phone, start to finish, this week.",
+     "Gift buying has clearly started. Against average September levels, toy sales rose 158 percent, electronics 85 percent, and personal care 73 percent, while headphones and speakers jumped 300 percent. The deepest discounts topped out near 20 percent, and buy now pay later orders reached $692.3 million, appearing in 6 percent of orders but 7 percent of dollars. Adobe expects pay later spending to pass one billion dollars on Cyber Monday, so make the option visible on your higher priced products now."
+    ]
+   },
+   {
+    "heading": "The four step prospecting check",
+    "paragraphs": [
+     "Meta's delivery system looks for people likely to purchase, and that includes people who already bought from you. Every prospecting dollar that lands on an old customer during Black Friday is a dollar that never met someone new. Pilothouse's Meta team runs this check before the rush:"
+    ],
+    "bullets": [
+     "Tell Meta who your customers are: upload a current purchaser list, build a purchase event website audience, and sync purchaser audiences from Shopify or Klaviyo",
+     "Set the campaign to acquire new customers, then confirm the exclusions underneath match the audiences you just defined",
+     "If your pixel leans toward warm audiences, run a manual prospecting campaign that also excludes social engagers and website visitors at the ad set level",
+     "Review the audience segments breakdown weekly: in Pilothouse's example, new audiences took $15,542 of about $16,855 in spend while existing customers took $4.89"
+    ]
+   },
+   {
+    "heading": "Judge prospecting by its own benchmark",
+    "paragraphs": [
+     "In that same example, a new customer cost $72.63 against $38.44 for an engaged one. Prospecting will always look more expensive on the dashboard. The question is whether the cost of a genuinely new customer is one your margins can accept, so compare it against store side new customer data instead of against the warm audience number."
+    ]
+   },
+   {
+    "heading": "Extra hours: let the agents gather, you decide",
+    "paragraphs": [
+     "The same issue of DTC describes Pilothouse creative strategist Braydon's AI workflow, which saved him about 5.5 hours in one week. Agents sweep Pinterest, the Meta Ad Library, and Motion for UGC, static creative, and inspiration, then return a swipe file for his review. He picks the ideas worth pursuing, and Claude, loaded with account context, drafts the detailed tickets for designers.",
+     "That division of labor is the Black Friday lesson in one line. Machines are excellent at gathering and drafting. Humans keep the judgment: which customers the budget should chase, which discount the margin can survive, and which idea deserves a designer. Set the checks up in October, while there is still time to fix what they find."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "dtc",
+    "title": "DTC: Old customers, early shoppers, extra hours (October 13, 2026)",
+    "url": "https://www.directtoconsumer.co"
+   }
+  ],
+  "relatedServiceIds": [
+   "meta-ads",
+   "ai-ugc-ad"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Plan my campaign",
+   "price": 1500,
+   "serviceId": "meta-ads"
+  },
+  "nextClick": {
+   "label": "See ads pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "google-amie-chatbot-interviewed-98-patients",
   "title": "Before the Doctor Walks In, an AI Has Already Interviewed the Patient",
   "excerpt": "Google tested its medical chatbot AMIE with 98 real patients ahead of urgent care visits, and the final diagnosis landed on the AI's list of possibilities 90 percent of the time. The Neuron also flagged Utah pilots that move AI closer to approving prescriptions.",
