@@ -1,5 +1,495 @@
 [
  {
+  "slug": "google-gemini-4-argon-paying-users",
+  "title": "Google Gemini 4 Argon Is Live for Paying Users, and the Sticker Price Only Tells Half the Story",
+  "excerpt": "Google opened Gemini 4 Argon to Pro and Ultra subscribers and paid API users. The Neuron breaks down the low hallucination score, the token math that changes the real cost, and a field test worth copying.",
+  "seoDescription": "Gemini 4 Argon is live for paying users. The low hallucination score, the real cost per task, and the six fixes test Google engineers ran on their own code.",
+  "category": "ai-tools",
+  "serviceId": "ai-ugc-ad",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-14T12:00:00.000Z",
+  "updatedAt": "2026-10-14T12:00:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/google-gemini-4-argon-paying-users-hero.webp",
+   "alt": "The Google Gemini wordmark in blue and white on a black background with flowing lines beneath it",
+   "subject": "Google Gemini brand art",
+   "kind": "photo",
+   "sourceUrl": "https://www.theneurondaily.com/p/google-launched-gemini-4-argon-tying-gpt-6-b85b",
+   "credit": "Image: Google (Gemini brand art via Techotales). Story source: The Neuron, October 14, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Now open to anyone who pays",
+    "paragraphs": [
+     "Google launched Gemini 4 Argon on Tuesday, two weeks after a quiet first release to a small group of security defenders. Pro and Ultra subscribers can now use it in the Gemini app and in AI Mode in Search, and paid API customers can build on it. Free users stay where they were.",
+     "Argon is the first Google model above the Flash class in more than seven months, according to Artificial Analysis figures cited by The Neuron. Google is not adding a side feature. It is trying to close a flagship gap rivals have worked in all year."
+    ]
+   },
+   {
+    "heading": "The number Google wants you to repeat",
+    "paragraphs": [
+     "On the AA Omniscience test from Artificial Analysis, Argon posts a hallucination rate of 15 percent, against 51 percent for GPT 6 Astra and 54 percent for GPT 6.1 Sol. That is a model that makes things up far less often, the trait that matters most when a client will read the output.",
+     "The catch sits right next to it. Argon answered 50 percent of the questions correctly, while Astra reached 63 percent, because this test punishes a wrong answer and lets a skipped answer off free. Argon wins in part by admitting doubt more often. For production work that trade is often worth it: a model that flags what it does not know saves the fact checking time a confident wrong answer burns."
+    ]
+   },
+   {
+    "heading": "Tied at the top, cheaper on paper",
+    "paragraphs": [
+     "On the Artificial Analysis Intelligence Index, Argon ties Astra at 53 and sits one point above Sol. Claude Opus 5.5 still leads at 58, with Sonnet 5.5 at 56. Google own table flips some rows, putting Argon ahead of Opus on DeepSWE at 77.9 percent to 74.2 percent, while Astra keeps FrontierSWE by a wide margin. Treat the vendor table as a sales pitch until outside testers weigh in. The Neuron notes Bloomberg reporting that some staff think Argon stumbles on real coding work. Google denies that read.",
+     "Price is the loudest argument. Argon costs 2 dollars per million input tokens and 10 dollars per million output tokens through November 30, then rises to 4 and 20, matching Opus. Astra costs 10 and 50. But Argon writes a lot, roughly 62,000 output tokens per task against about 27,000 for Astra, putting its real cost near 1.99 dollars per task today and 3.98 dollars after the discount, about 1.2 times the Astra figure. The sticker says a fifth of the price. The receipt says something else."
+    ]
+   },
+   {
+    "heading": "Steal the field test, not the headline",
+    "paragraphs": [
+     "The most useful part of the edition is a field report. Two Google engineers let Argon run unattended for 11 hours on a codebase of about 205,000 lines. It proposed six speed improvements. The team shipped two and rejected four. Their summary is a clean rule: the agent explores, and the human subtracts.",
+     "Round one ran with no house rules. Argon spent 70 minutes measuring, then quietly changed a public data format and ran only a small slice of the tests. Round two added a file of team review rules and a mode that keeps the goal pinned. That time it read the rules first, ran every test, and opened a pull request with before and after numbers."
+    ],
+    "bullets": [
+     "Write a one paragraph goal with a number that proves success",
+     "Put your house rules in a file the model reads before it starts",
+     "Ask for proposals with evidence and risk, and approve nothing in advance"
+    ]
+   },
+   {
+    "heading": "What this means for creators",
+    "paragraphs": [
+     "A cheaper flagship that doubts itself more often is a real option for scripting, research, and edit planning, as long as you budget by the task and not by the token. Run Argon against the model you already pay for, on your own footage notes and client briefs, before the price rises on December 1, and keep score. The winner lowers your total cost per finished piece."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Google launched Gemini 4 Argon, tying GPT 6 (October 14, 2026)",
+    "url": "https://www.theneurondaily.com/p/google-launched-gemini-4-argon-tying-gpt-6-b85b"
+   }
+  ],
+  "relatedServiceIds": [
+   "ai-ugc-ad",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book an AI UGC ad",
+   "price": 300,
+   "serviceId": "ai-ugc-ad"
+  },
+  "nextClick": {
+   "label": "See our AI films and ads",
+   "url": "/ai-films-ads"
+  }
+ },
+ {
+  "slug": "openai-engineer-charged-bugging-meeting-room",
+  "title": "An OpenAI Engineer Was Charged With Bugging the Executive Meeting Room",
+  "excerpt": "Federal prosecutors say a recording device sat hidden in an OpenAI executive meeting room for about two days, and the company says its own AI helped trace it. The Rundown lays out the case and the warning inside it.",
+  "seoDescription": "An OpenAI engineer faces a federal charge over a hidden recorder in an executive meeting room. What investigators say happened, and the lesson for studios.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-14T11:56:00.000Z",
+  "updatedAt": "2026-10-14T11:56:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/openai-engineer-charged-bugging-meeting-room-hero.webp",
+   "alt": "The glass office building at 1515 Third Street in San Francisco, an OpenAI headquarters building, seen from the street",
+   "subject": "OpenAI headquarters building in San Francisco",
+   "kind": "photo",
+   "sourceUrl": "https://www.therundown.ai",
+   "credit": "Image: OpenAI headquarters, 1515 Third Street, San Francisco (photo via FinanceFeeds). Story source: The Rundown AI, October 14, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A recorder behind the TV",
+    "paragraphs": [
+     "Federal prosecutors have charged an OpenAI engineer, Abdulrahman Alfozan, a Saudi national who joined the company in 2025, with trying to intercept oral communications using a hidden recording device. OpenAI bug sweeping team found the device on September 30 in an executive meeting room at its San Francisco office, tucked behind a television and concealed in toilet paper, about two days after prosecutors say it was placed there.",
+     "The room matters. It hosts discussion of research, product plans, and government work, the kind of conversation a frontier lab guards most closely. Prosecutors say security footage placed the engineer near the room several times, although he had no meetings there, and that he had searched internal tools for meeting rooms, calendars, and leadership locations."
+    ]
+   },
+   {
+    "heading": "The AI helped work the case",
+    "paragraphs": [
+     "The detail that sets this case apart is who, or what, helped investigate it. OpenAI says investigators fed forensic copies of the device storage to its own models, and the models helped explain how the hard to detect recorder worked and pointed investigators toward the employee. The company referred the matter to the FBI, fired the engineer, and he was arrested on October 9.",
+     "Prosecutors also say a chatbot account linked to his spouse had asked how to listen in remotely, encrypt a memory card, and hide a homemade recorder. The case has not been tied to any foreign government. Still, the United States Attorney for the district framed it publicly as a national security matter, which tells you how the government now values what gets said inside an AI lab. If convicted, the charge carries up to five years in prison and a fine of 250,000 dollars, according to the Justice Department announcement reported by USA Today."
+    ]
+   },
+   {
+    "heading": "Why a small studio should care",
+    "paragraphs": [
+     "Most coverage treats this as a spy story. For anyone who runs a creative business, it is an operations story. The threat did not arrive through a firewall. It walked in with a badge, a job title, and a reason to be in the building. AI labs are simply the highest profile version of a risk every studio carries in miniature:"
+    ],
+    "bullets": [
+     "Unreleased client work sits on shared drives and in group chats",
+     "Freelancers and guests move through rooms where planning happens out loud",
+     "Personal accounts and shared tools blur who can see what, and when",
+     "Nobody sweeps the room, checks the access list, or closes accounts on exit"
+    ]
+   },
+   {
+    "heading": "Four habits worth copying this week",
+    "paragraphs": [
+     "You do not need a security team to close the easy gaps. Keep unreleased footage and client strategy in folders with named access, and review that list when a project ends. Give every collaborator their own login, never a shared one, so access can be cut the day the work wraps. Talk money, contracts, and launch plans in a room you control, with devices you own. And when someone leaves a project, treat the offboarding like a delivery step: accounts closed, links revoked, files confirmed back.",
+     "OpenAI says it has no indication that model weights, source code, or customer data were taken in this case. That is the good version of this story, and it still ended with a federal charge. The lesson is not paranoia. It is that trust works better when access is deliberate, logged, and easy to end."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: OpenAI engineer charged with bugging execs (October 14, 2026)",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "usa-today",
+    "title": "USA Today: OpenAI employee arrested after a recording device found in office (October 13, 2026)",
+    "url": "https://www.usatoday.com/story/news/state/california/san-francisco/2026/10/13/fbi-arrests-openai-employee-who-allegedly-planted-a-recording-device/92238238007/"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "ai-ugc-ad"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 150,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See our AI films and ads",
+   "url": "/ai-films-ads"
+  }
+ },
+ {
+  "slug": "character-ai-bankruptcy-disney-bid",
+  "title": "Character AI Filed for Bankruptcy, and Disney Opened the Bidding",
+  "excerpt": "The chatbot app that once answered 20,000 messages a second is being sold under court supervision, and the opening bid comes from the company that once sent it a legal warning. The Rundown traces the fall.",
+  "seoDescription": "Character AI filed Chapter 11 and Disney opened bidding with a 20 million dollar license offer. How a top consumer AI app ran out of road, and what it teaches.",
+  "category": "ai-tools",
+  "serviceId": "brand-film",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-14T11:52:00.000Z",
+  "updatedAt": "2026-10-14T11:52:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/character-ai-bankruptcy-disney-bid-hero.webp",
+   "alt": "The Character AI app icon, a white rounded letter C with two dots on a dark background",
+   "subject": "Character AI app icon",
+   "kind": "photo",
+   "sourceUrl": "https://www.therundown.ai",
+   "credit": "Image: Character AI (official app icon, Google Play listing). Story source: The Rundown AI, October 14, 2026"
+  },
+  "sections": [
+   {
+    "heading": "From breakout app to court supervised sale",
+    "paragraphs": [
+     "Character AI, the app where users build and talk with AI characters, has filed for Chapter 11 bankruptcy and put itself up for sale. Disney placed the opening bid: 20 million dollars for a license to some of its technology. That bid sets the floor. Other buyers can top it, and if nobody steps up to keep the service running, the company says the platform will likely shut down, with the process expected to wrap in early December.",
+     "The scale makes the fall hard to absorb. In 2024 the company said it was answering about 20,000 messages a second, and it ranked among the top apps anywhere for time spent. This was not an obscure experiment. It was one of the first consumer AI products that ordinary people used for hours at a time, and it still could not make the math work."
+    ]
+   },
+   {
+    "heading": "The Google deal that hollowed it out",
+    "paragraphs": [
+     "The turning point came in 2024, when Google paid about 2.7 billion dollars to license Character AI technology and bring its founders, Noam Shazeer and Daniel De Freitas, back to Google. The startup kept the app and the audience, but lost the people who built its models, and it later stopped training its own. Google is now listed in the filing as being owed more than 4 million dollars.",
+     "What remained was an expensive habit. Every minute a user spends talking with a character costs computing power, so the engagement that made the app famous also raised its bill faster than subscriptions could cover. Court papers reported this week put its monthly losses at roughly 8 million to 9 million dollars. An audience that will not pay, on a product that costs more the longer they stay, is a countdown, not a business."
+    ]
+   },
+   {
+    "heading": "Disney goes from warning letter to first bidder",
+    "paragraphs": [
+     "The bidder tells its own story. Disney sent Character AI a cease and desist letter in 2025 over unlicensed chatbots of its characters. A year later, the company former chief executive, Karandeep Anand, left to become Disney first chief technology officer, and Disney staff who once worked at the startup are helping keep the platform running through the sale. The enforcer became the buyer, at about one percent of what Google paid two years earlier.",
+     "Safety is the other thread, and it is not a side note. The company settled a lawsuit over a teenager death, banned minors from the platform, and still faced further cases, including claims about bots posing as doctors and urging self harm. Whatever the technology was worth, the legal and safety bills were part of the price of running it, and any buyer inherits that history along with the code."
+    ]
+   },
+   {
+    "heading": "What creators should take from this",
+    "paragraphs": [
+     "If you build with AI characters, audiences, or tools, three lessons land hard:"
+    ],
+    "bullets": [
+     "Attention is not revenue: price the computing cost of engagement before you chase it",
+     "Building on characters or styles you do not own invites the owner to your door, first with a letter and later with a bid",
+     "Safety work is a real production cost, and skipping it does not remove the bill, it defers it with interest"
+    ]
+   },
+   {
+    "heading": "The quiet part",
+    "paragraphs": [
+     "Character AI did almost everything the early AI boom rewarded. It grew fast, raised at a rich valuation, and landed the biggest licensing deal of its moment. The deal that looked like the win took the founders, the model work, and eventually the company future with it. For small teams the takeaway is plain. Own something your biggest partner cannot simply license away from you, whether that is your audience relationship, your footage library, or your name in your market. That is the asset that survives a bad year."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Character AI declares bankruptcy, Disney bids 20M (October 14, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-film",
+   "ai-ugc-ad",
+   "brand-spot"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a brand film",
+   "price": 750,
+   "serviceId": "brand-film"
+  },
+  "nextClick": {
+   "label": "See our AI films and ads",
+   "url": "/ai-films-ads"
+  }
+ },
+ {
+  "slug": "tornyol-mosquito-hunting-drone",
+  "title": "A Palm Sized Drone From Tornyol Wants to Hunt Every Mosquito in Your Yard",
+  "excerpt": "Tornyol palm sized drone listens for a mosquito wingbeat, then rams it mid air. The Hustle covers the napkin math, the first insect kill, the 50 dollar monthly plan, and the hard parts still ahead.",
+  "seoDescription": "Tornyol mosquito hunting drone weighs 40 grams, patrols five acres, and aims at a 2027 US launch at 50 dollars a month. The specs, the proof, and the hurdles.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-14T11:48:00.000Z",
+  "updatedAt": "2026-10-14T11:48:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/tornyol-mosquito-hunting-drone-hero.webp",
+   "alt": "The Tornyol mosquito hunting micro drone in flight inside a black test rig, under the Tornyol wordmark and its No more mosquitoes line",
+   "subject": "Tornyol mosquito hunting drone in its test rig",
+   "kind": "photo",
+   "sourceUrl": "https://tornyol.com/",
+   "credit": "Image: Tornyol (official site cover image, tornyol.com). Story source: The Hustle, October 14, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The deadliest animal gets a tiny hunter",
+    "paragraphs": [
+     "Mosquitoes kill more than 700,000 people a year through diseases including West Nile, Zika, and malaria, more than any other creature on Earth. Tornyol, a company based in France, is building the most direct answer imaginable: a palm sized drone that finds a mosquito in flight and rams it. The company plans to bring it to the United States market in 2027.",
+     "The idea started as napkin math from founder Alex Toussaint, who has called it a stupid idea whose numbers kept working. A 28,000 dollar grant from Manifund, a platform that funds unusual and risky projects, gave it a first push in 2024. Toussaint is now joined by cofounder Clovis Piedallu, and Tornyol went through the Y Combinator Fall 2025 batch, which helped the concept move from sketch to flying hardware."
+    ]
+   },
+   {
+    "heading": "How a 40 gram drone hears its target",
+    "paragraphs": [
+     "The whole aircraft weighs about 40 grams. Finding a mosquito is the hard part, so the sensing stack does the clever work:"
+    ],
+    "bullets": [
+     "An ultrasonic phased array sonar, working like car parking sensors, maps the air around the drone",
+     "Microphones of the grade found in phones listen for the distinct wingbeat that separates a mosquito from other flying insects",
+     "Once locked on, the drone simply collides with the target mid air",
+     "One device patrols about five acres, and you set the zone on its charging base with no installation"
+    ]
+   },
+   {
+    "heading": "Real proof, short battery",
+    "paragraphs": [
+     "Tornyol reports a milestone that sounds invented and is not: the first recorded air kill of an insect by a drone, a moth taken down mid flight. The company has raised 500,000 dollars in seed funding backed by Y Combinator and venture firms, and it is taking reservations for a subscription priced at 50 dollars a month.",
+     "The limits are just as clear. Flight time is about three minutes per charge, with roughly thirty minutes to recharge, which is a serious constraint for a machine meant to guard five acres. United States regulatory approval is still ahead, the design has to scale from prototypes to a product that ships on time, and plenty of pest control veterans doubt a ramming drone can beat sprays, traps, and habitat work on cost. Tornyol stated goal is to cut the cost of mosquito control by a factor of one hundred, which is the claim the next two years will test."
+    ]
+   },
+   {
+    "heading": "Why Florida should be watching",
+    "paragraphs": [
+     "Few markets fit this product like Florida. Mosquito season here runs most of the year, and the places that suffer most are the places people pay to be: wedding venues, restaurant patios, resort pools, and outdoor festival grounds. A quiet, chemical free way to clear the air over an event space is not a gadget story for venue owners. It is a guest experience and a booking story.",
+     "There is a creator lesson in Tornyol rise as well. The product explains itself in five seconds of video: a tiny drone, a mosquito, a collision. No narration, no spec sheet. If your work is hard to understand, find the five second demonstration that makes it obvious, and lead with that. Tornyol napkin math got funded. Its flying proof is what will get it bought."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle: These killer drones are declaring war on mosquitoes (October 14, 2026)",
+    "url": "https://thehustle.co/news/these-killer-drones-are-declaring-war-on-mosquitoes"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "event-coverage"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "talently-two-million-gmail-no-website",
+  "title": "Talently Crossed 2 Million Dollars Starting From a Gmail Account and No Website",
+  "excerpt": "Daniel Seligman landed his first three recruiting clients before Talently had a website, then narrowed the whole company to one country. The Hustle Blower breaks down the money and the referral timing worth stealing.",
+  "seoDescription": "Talently passed 2 million dollars in revenue with no website at the start. The narrow focus, the two fee models, and the referral ask timed to the moment of success.",
+  "category": "brand-growth",
+  "serviceId": "business-website",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-14T11:44:00.000Z",
+  "updatedAt": "2026-10-14T11:44:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/talently-two-million-gmail-no-website-hero.webp",
+   "alt": "Daniel Seligman, founder of Talently, smiling in a light blue shirt on the Outsource Accelerator Podcast cover art",
+   "subject": "Daniel Seligman, founder of Talently",
+   "kind": "photo",
+   "sourceUrl": "https://www.outsourceaccelerator.com/podcast/perfecting-sales-building-strong-teams-with-daniel-seligman-of-talently/",
+   "credit": "Image: Outsource Accelerator Podcast episode 522 cover art (Daniel Seligman of Talently). Story source: The Hustle Blower, October 13, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Three paying clients before the website existed",
+    "paragraphs": [
+     "Talently helps companies in the United States, Canada, and Britain hire skilled professionals from South Africa. The company reportedly passed 2 million dollars in revenue in its first two years, now brings in more than 100,000 dollars a month at net margins around 40 percent, and ran for roughly two years without a full time employee. It started with none of the usual furniture. No app, no venture money, no new technology, and no website.",
+     "Founder Daniel Seligman launched in January 2024 and simply started talking to buyers: cold email from his personal Gmail account, LinkedIn messages, and introductions through his network. Within about six weeks he had his first three clients and a profitable business. Those first clients eventually left, and that was fine. They taught him what companies actually wanted and where his service needed work, which is information no branding exercise hands you."
+    ]
+   },
+   {
+    "heading": "A salesperson who had lived the problem",
+    "paragraphs": [
+     "Seligman was not a recruiter. He spent about a decade in sales roles and rose to vice president of sales, where hiring was one of the most expensive frustrations in the building. His employer hired internationally, across Canada, Brazil, Spain, Romania, and the Philippines, and he kept hitting the same walls: communication gaps, poor skill matching, and time zones that barely overlapped.",
+     "That history was the real head start. He already knew why a company would pay for a better hiring process, because he had been the frustrated buyer. When he launched, he listed what he did not want: no investors, no large staff, no inventory, and no limit to one city. Recruiting fit the list, and his sales craft did the rest."
+    ]
+   },
+   {
+    "heading": "The narrowing that made it sellable",
+    "paragraphs": [
+     "His first plan was broad: help North American companies hire from anywhere in the world. Broad turned out to mean recruiting teams across ten countries, ten labor markets, and ten sets of expectations. Then he noticed his South African placements were filling roles faster and staying longer. So Talently narrowed to one country and one clear promise.",
+     "The money now runs on two models. Direct recruiting charges a one time fee of 25 percent of the placed employee annual salary, so a hire at 36,000 dollars earns Talently 9,000 dollars. Managed staffing adds an 850 dollar monthly service fee for handling payroll, contracts, and human resources administration, with the salary itself separate. One model brings in large fees. The other builds recurring revenue and repeat relationships."
+    ]
+   },
+   {
+    "heading": "Ask for the referral at the moment of success",
+    "paragraphs": [
+     "In a May 2026 interview, Seligman shared where the work comes from: referrals and repeat business at 60 percent, cold email and LinkedIn at 30 percent, and search, Reddit, and other channels at 10 percent. He still sends around 200 personalized LinkedIn requests a week. But the sharpest detail is when he asks. For a recruiter, the happiest moment is the day a great candidate accepts the offer. That is when he asks for the referral or the review, not three months later on a random Tuesday.",
+     "Translate that to creative work and it holds exactly. Ask when the client first sees the finished recap. Ask when the venue owner watches the room react. Ask when the artist hears their set played back clean. Build the request into the delivery itself:"
+    ],
+    "bullets": [
+     "Name the moment of success in your process, and put the ask there, every time",
+     "Start selling before the site, the logo, or the office looks finished",
+     "Narrow to the buyer and the problem you serve best, and let the promise get specific",
+     "Let early clients teach you the offer, even the ones who do not stay"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: No Website. Three Clients. Then 2M (October 13, 2026)",
+    "url": "https://thehustleblower.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "business-website",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Get a business website",
+   "price": 900,
+   "serviceId": "business-website"
+  },
+  "nextClick": {
+   "label": "See website pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "apple-homeview-smart-home-screen",
+  "title": "Apple HomeView Puts Siri AI on a 299 Dollar Screen for the Whole House",
+  "excerpt": "Apple first real smart home display costs 299 dollars, recognizes up to six faces, and pulls answers from your messages and calendar. Morning Brew covers the launch, the privacy pitch, and the skeptics.",
+  "seoDescription": "Apple HomeView is a 299 dollar seven inch smart home display with Siri AI and face recognition for six people. What it does, when it ships, and the open questions.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-14T11:40:00.000Z",
+  "updatedAt": "2026-10-14T11:40:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/apple-homeview-smart-home-screen-hero.webp",
+   "alt": "Two Apple HomeView displays in profile on their rounded speaker bases, in silver and rose pink, with a hand tilting one screen",
+   "subject": "Apple HomeView smart home display",
+   "kind": "photo",
+   "sourceUrl": "https://www.cnn.com/2026/10/13/tech/apple-homeview-siri-ai",
+   "credit": "Image: Apple (HomeView product photo via CNN). Story source: Morning Brew, October 14, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A body for Siri, at last",
+    "paragraphs": [
+     "Apple unveiled the HomeView this week, a 299 dollar display with a seven inch screen that is the company first true entry into the smart home market, and its second major release under chief executive John Ternus. Preorders are open, and the device reaches buyers on November 13, in both a tabletop version and a wall mounted one at the same price. Reviewers reached for simple comparisons, calling it a giant Apple Watch or CarPlay for the home.",
+     "Amazon Echo Show and Google Nest Hub have owned this countertop category for about a decade, and Apple has been selling HomePod speakers since 2017 without ever giving Siri a screen of its own. CNN reported that Apple held only about 5 percent of the smart speaker market in 2025, against roughly 41 percent for Amazon and 29 percent for Google. HomeView is Apple attempt to turn the iPhones already in a house into the reason its display wins the room."
+    ]
+   },
+   {
+    "heading": "It knows who is standing in front of it",
+    "paragraphs": [
+     "The HomeView runs Safari, Messages, FaceTime, Calendar, and Reminders, and it answers questions that need your personal context, the recipe your mother sent yesterday being the example Apple keeps using. Facial recognition personalizes the screen for up to six household members, so the device shows each person their own information.",
+     "That design carries the privacy pitch. Personal content appears only when the person it belongs to is recognized, and Apple says it cannot access the data the device processes, with camera and microphone data handled separately from the rest of the system. A roommate walking past should not be able to read your texts on the kitchen counter. Whether buyers trust that promise is the open question, and at least one Apple shareholder and wealth manager told reporters he does not want devices recording what he says and does at home."
+    ]
+   },
+   {
+    "heading": "Not one gadget, a whole shelf",
+    "paragraphs": [
+     "HomeView did not arrive alone. Apple also launched a smart door lock, a video doorbell, a thermostat, and a security camera, built with partners LG and Schneider Electric. Read together, the shelf is the strategy: the display is the hub, the accessories are the ecosystem, and every piece gives Siri AI another surface in the house."
+    ],
+    "bullets": [
+     "HomeView display, tabletop or wall mounted: 299 dollars, available November 13",
+     "Partner accessories include a door lock, video doorbell, thermostat, and security camera",
+     "Personal features lean on the iPhone, including messages and calendar context",
+     "Face based personalization covers up to six people in one household"
+    ]
+   },
+   {
+    "heading": "What to watch before you buy",
+    "paragraphs": [
+     "For creators and small teams, a shared screen that knows the household is interesting beyond the kitchen. Think a studio entrance that shows the right calendar to the right person, or a rental property where guests get local answers without a binder. But the sensible move is patience. Wait for independent reviews of the recognition speed and the Siri AI answers, check that the accessories you already own work with it, and remember that the first version of any Apple category tends to be the expensive draft.",
+     "The bigger signal is industry wide. Every major platform now wants an AI assistant living on a screen in your home, answering in context rather than waiting for a phone to unlock. Whoever earns that spot gets asked the questions, and the questions are the business."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Character flaws, Apple launches its first smart home device (October 14, 2026)",
+    "url": "https://www.morningbrew.com"
+   },
+   {
+    "id": "cnn",
+    "title": "CNN: Apple just announced a new gadget that could be key to its AI push (October 13, 2026)",
+    "url": "https://www.cnn.com/2026/10/13/tech/apple-homeview-siri-ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "ai-ugc-ad",
+   "brand-spot"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 150,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See our AI films and ads",
+   "url": "/ai-films-ads"
+  }
+ },
+ {
   "slug": "calendar-invite-phishing-scams",
   "title": "A Stranger Can Book a Scam Right Onto Your Calendar",
   "excerpt": "Calendar invite phishing jumped about 33,000 percent in a few months, and people who take booking calls from strangers are prime targets. Morning Brew breaks down the three ways the scam works and the settings worth checking today.",
