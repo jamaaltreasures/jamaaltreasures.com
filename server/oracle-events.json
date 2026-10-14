@@ -1474,23 +1474,6 @@
     "endDate": "2026-11-16"
   },
   {
-    "section": "NEXT WEEK",
-    "title": "KATSEYE: The WildWorld Tour",
-    "date": "OCTOBER 13, 8 PM",
-    "headliners": "KATSEYE",
-    "venue": "Kaseya Center, Miami",
-    "categories": [
-      "Music"
-    ],
-    "detailsLabel": "Get Tickets",
-    "detailsUrl": "https://www.kaseyacenter.com/events/category/concerts",
-    "flyerUrl": "https://www.thefader.com/2026/05/13/katseye-wildworld-tour-dates-how-to-buy-tickets-details",
-    "image": "/events/flyer/132-katseye-wildworld-tour-miami.jpg",
-    "alt": "KATSEYE The WildWorld Tour official tour poster with Miami date",
-    "imageKey": "event-flyers/132-katseye-wildworld-tour-miami.jpg",
-    "endDate": "2026-10-13"
-  },
-  {
     "section": "NOVEMBER",
     "title": "14th Annual Tampa Bay Veg Fest",
     "date": "NOVEMBER 14, 11 AM TO 5 PM",
@@ -2847,25 +2830,6 @@
     "alt": "Small Business Marketplace flyer, Miramar Cultural Center Miramar",
     "imageKey": "event-flyers/208-small-business-marketplace-miramar.jpg",
     "endDate": "2026-11-22"
-  },
-  {
-    "section": "NEXT WEEK",
-    "title": "Finale Miami Carnival Last Lap",
-    "date": "OCTOBER 12, 10 PM TO 4 AM",
-    "headliners": "",
-    "venue": "Blackbird Ordinary, Miami",
-    "categories": [
-      "Culture",
-      "Music",
-      "Nightlife"
-    ],
-    "detailsLabel": "Get Tickets",
-    "detailsUrl": "https://www.eventbrite.com/e/finale-miami-miami-carnival-last-lap-tickets-1998026687608",
-    "flyerUrl": "https://www.eventbrite.com/e/finale-miami-miami-carnival-last-lap-tickets-1998026687608",
-    "image": "/events/flyer/210-finale-miami-carnival-last-lap.jpg",
-    "alt": "Finale Miami Carnival Last Lap flyer, Blackbird Ordinary Miami",
-    "imageKey": "event-flyers/210-finale-miami-carnival-last-lap.jpg",
-    "endDate": "2026-10-13"
   },
   {
     "section": "HALLOWEEN",
