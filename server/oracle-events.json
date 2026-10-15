@@ -5581,5 +5581,41 @@
     "alt": "Its Just A Damn Day Party Classic Weekend flyer for Sunday November 22 at Cosmo Lounge in downtown Orlando",
     "imageKey": "event-flyers/372-its-just-a-damn-day-party.jpg",
     "endDate": "2026-11-22"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Carlo Vieux Live in Concert",
+    "date": "DECEMBER 12, 10 PM TO 4 AM",
+    "headliners": "Carlo Vieux, K9",
+    "venue": "Kemistry Nightclub, Fort Lauderdale",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/carlo-vieux-live-in-concert-miami-dec-12-tickets-2003012413047",
+    "flyerUrl": "https://www.eventbrite.com/e/carlo-vieux-live-in-concert-miami-dec-12-tickets-2003012413047",
+    "image": "/events/flyer/373-carlo-vieux-live-in-concert.jpg",
+    "alt": "Carlo Vieux live in concert flyer for Saturday December 12 at Kemistry in Fort Lauderdale",
+    "imageKey": "event-flyers/373-carlo-vieux-live-in-concert.jpg",
+    "endDate": "2026-12-13"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "DJ Fresh: The R&B Tour Concert Afterparty",
+    "date": "DECEMBER 3, 9 PM TO 11:30 PM",
+    "headliners": "DJ Fresh",
+    "venue": "Puttery, Miami",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/dj-fresh-the-rb-tour-concert-afterparty-tickets-2003071432576",
+    "flyerUrl": "https://www.eventbrite.com/e/dj-fresh-the-rb-tour-concert-afterparty-tickets-2003071432576",
+    "image": "/events/flyer/374-dj-fresh-rb-tour-afterparty.jpg",
+    "alt": "DJ Fresh R&B Tour concert afterparty flyer for Thursday December 3 at Puttery Miami",
+    "imageKey": "event-flyers/374-dj-fresh-rb-tour-afterparty.jpg",
+    "endDate": "2026-12-03"
   }
 ]
