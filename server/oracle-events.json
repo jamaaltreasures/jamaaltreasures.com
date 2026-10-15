@@ -5688,5 +5688,41 @@
     "alt": "Tropic Invasion music art and Halloween festival flyer for October 17 in Jacksonville with Tropidelic live",
     "imageKey": "event-flyers/378-tropic-invasion-jacksonville.jpg",
     "endDate": "2026-10-17"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "FITCE 2026: 11th Annual Florida International Trade and Cultural Expo",
+    "date": "NOVEMBER 18 TO 19, 7 AM TO 8 PM",
+    "headliners": "",
+    "venue": "Broward County Convention Center, Fort Lauderdale",
+    "categories": [
+      "Business",
+      "Culture"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/fitce-2026-11th-annual-florida-international-trade-cultural-expo-tickets-1993919882042",
+    "flyerUrl": "https://www.eventbrite.com/e/fitce-2026-11th-annual-florida-international-trade-cultural-expo-tickets-1993919882042",
+    "image": "/events/flyer/379-fitce-2026-fort-lauderdale.jpg",
+    "alt": "FITCE 2026 flyer for November 18 to 19 at Broward County Convention Center in Fort Lauderdale",
+    "imageKey": "event-flyers/379-fitce-2026-fort-lauderdale.jpg",
+    "endDate": "2026-11-19"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "I LOVE R&B PARTY, Jacksonville",
+    "date": "NOVEMBER 28, 8 PM",
+    "headliners": "I LOVE R&B Party, presented by Concert Crave",
+    "venue": "Jack Rabbits, Jacksonville",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/i-love-rb-party-jacksonville-fl-tickets-2002812931392",
+    "flyerUrl": "https://www.eventbrite.com/e/i-love-rb-party-jacksonville-fl-tickets-2002812931392",
+    "image": "/events/flyer/380-i-love-rnb-party-jacksonville.jpg",
+    "alt": "I LOVE R&B PARTY Jacksonville event flyer",
+    "imageKey": "event-flyers/380-i-love-rnb-party-jacksonville.jpg",
+    "endDate": "2026-11-29"
   }
 ]
