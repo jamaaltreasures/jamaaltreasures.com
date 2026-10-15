@@ -5724,5 +5724,39 @@
     "alt": "I LOVE R&B PARTY Jacksonville event flyer",
     "imageKey": "event-flyers/380-i-love-rnb-party-jacksonville.jpg",
     "endDate": "2026-11-29"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "17th Annual Riverwalk Stone Crab & Seafood Festival",
+    "date": "JANUARY 9, 11 AM TO 4 PM",
+    "headliners": "",
+    "venue": "Esplanade Park, Fort Lauderdale",
+    "categories": [
+      "Food"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/17th-annual-riverwalk-stone-crab-seafood-festival-tickets-1997605739541",
+    "flyerUrl": "https://www.eventbrite.com/e/17th-annual-riverwalk-stone-crab-seafood-festival-tickets-1997605739541",
+    "image": "/events/flyer/381-riverwalk-stone-crab-seafood-festival.jpg",
+    "alt": "17th Annual Riverwalk Stone Crab and Seafood Festival flyer, Esplanade Park Fort Lauderdale",
+    "imageKey": "event-flyers/381-riverwalk-stone-crab-seafood-festival.jpg",
+    "endDate": "2027-01-09"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Suncoast's Largest Food Truck Festival 10",
+    "date": "NOVEMBER 14, 11 AM TO 9 PM",
+    "headliners": "",
+    "venue": "The Mall at University Town Center, Sarasota",
+    "categories": [
+      "Food"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/suncoasts-largest-food-truck-festival-10-tickets-1998446925551",
+    "flyerUrl": "https://www.eventbrite.com/e/suncoasts-largest-food-truck-festival-10-tickets-1998446925551",
+    "image": "/events/flyer/382-suncoast-largest-food-truck-festival.jpg",
+    "alt": "Suncoast's Largest Food Truck Festival 10 flyer, The Mall at University Town Center Sarasota",
+    "imageKey": "event-flyers/382-suncoast-largest-food-truck-festival.jpg",
+    "endDate": "2026-11-14"
   }
 ]
