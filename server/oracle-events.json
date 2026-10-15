@@ -5634,5 +5634,41 @@
     "alt": "CHROMA 2026 art exhibition flyer for Wednesday December 2 at Lucid Art Gallery in Miami",
     "imageKey": "event-flyers/375-chroma-2026.jpg",
     "endDate": "2026-12-02"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Super Girl Festival Jacksonville Beach",
+    "date": "NOVEMBER 7 TO 8, 11 AM TO 9 PM",
+    "headliners": "Switchfoot, Lupe Fiasco, B.o.B, Gym Class Heroes, Hello Sister",
+    "venue": "Seawalk Pavilion, Jacksonville Beach",
+    "categories": [
+      "Music",
+      "Wellness",
+      "Arts"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/super-girl-festival-jacksonville-beach-tickets-1993623504569",
+    "flyerUrl": "https://www.eventbrite.com/e/super-girl-festival-jacksonville-beach-tickets-1993623504569",
+    "image": "/events/flyer/376-super-girl-festival-jacksonville-beach.jpg",
+    "alt": "Super Girl Festival Jacksonville Beach event flyer",
+    "imageKey": "event-flyers/376-super-girl-festival-jacksonville-beach.jpg",
+    "endDate": "2026-11-08"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Gente de Zona: Isla Viva Tour",
+    "date": "DECEMBER 11, 8 PM",
+    "headliners": "Gente de Zona",
+    "venue": "Kaseya Center, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.kaseyacenter.com/events/detail/gente-de-zona",
+    "flyerUrl": "https://www.nevarezpr.com/2026/08/04/gente-de-zona-to-bring-their-isla-viva-tour-to-miamis-kaseya-center-on-december-11-following-a-historic-2025-sold-out/",
+    "image": "/events/flyer/377-gente-de-zona-isla-viva-tour.jpg",
+    "alt": "Gente de Zona Isla Viva Tour official poster for Kaseya Center Miami on December 11",
+    "imageKey": "event-flyers/377-gente-de-zona-isla-viva-tour.jpg",
+    "endDate": "2026-12-11"
   }
 ]
