@@ -5758,5 +5758,73 @@
     "alt": "Suncoast's Largest Food Truck Festival 10 flyer, The Mall at University Town Center Sarasota",
     "imageKey": "event-flyers/382-suncoast-largest-food-truck-festival.jpg",
     "endDate": "2026-11-14"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "25th Annual Galbani Feast of Little Italy",
+    "date": "NOVEMBER 6 TO 8",
+    "headliners": "",
+    "venue": "Abacoa Town Center, Jupiter",
+    "categories": [
+      "Food"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/25th-annual-galbani-feast-of-little-italy-tickets-1990897003531",
+    "flyerUrl": "https://www.eventbrite.com/e/25th-annual-galbani-feast-of-little-italy-tickets-1990897003531",
+    "image": "/events/flyer/383-galbani-feast-of-little-italy.jpg",
+    "alt": "25th Annual Galbani Feast of Little Italy flyer, Abacoa Town Center Jupiter",
+    "imageKey": "event-flyers/383-galbani-feast-of-little-italy.jpg",
+    "endDate": "2026-11-08"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jimmy Eat World: 25 Years of Bleed American, Tampa",
+    "date": "NOVEMBER 14, 7 PM",
+    "headliners": "Jimmy Eat World, Hot Mulligan, Teen Jesus and the Jean Teasers",
+    "venue": "MIDFLORIDA Credit Union Amphitheatre, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/midflorida-credit-union-amphitheatre-at-the-tickets-tampa/venue/107257",
+    "flyerUrl": "https://www.brooklynvegan.com/jimmy-eat-world-announce-bleed-american-tour-with-sunny-day-real-estate-get-up-kids-hey-mercedes-more/",
+    "image": "/events/flyer/384-jimmy-eat-world-tampa.jpg",
+    "alt": "Jimmy Eat World 25 Years of Bleed American tour poster, MIDFLORIDA Credit Union Amphitheatre Tampa",
+    "imageKey": "event-flyers/384-jimmy-eat-world-tampa.jpg",
+    "endDate": "2026-11-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Beartooth: Pure Ecstasy Tour, St. Augustine",
+    "date": "DECEMBER 4, 6 PM",
+    "headliners": "Beartooth, Don Broco, Magnolia Park, Windwaker",
+    "venue": "St. Augustine Amphitheatre, St. Augustine",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.jambase.com/show/beartooth-the-st-augustine-amphitheatre-the-amp-20261204",
+    "flyerUrl": "https://loudwire.com/beartooth-2026-us-tour-dates/",
+    "image": "/events/flyer/385-beartooth-st-augustine.jpg",
+    "alt": "Beartooth Pure Ecstasy tour poster, St. Augustine Amphitheatre St. Augustine",
+    "imageKey": "event-flyers/385-beartooth-st-augustine.jpg",
+    "endDate": "2026-12-04"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Beartooth: Pure Ecstasy Tour, Fort Lauderdale",
+    "date": "DECEMBER 5, 6:30 PM",
+    "headliners": "Beartooth, Don Broco, Magnolia Park, Windwaker",
+    "venue": "FTL War Memorial, Fort Lauderdale",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.jambase.com/show/beartooth-ftl-war-memorial-20261205",
+    "flyerUrl": "https://loudwire.com/beartooth-2026-us-tour-dates/",
+    "image": "/events/flyer/386-beartooth-fort-lauderdale.jpg",
+    "alt": "Beartooth Pure Ecstasy tour poster, FTL War Memorial Fort Lauderdale",
+    "imageKey": "event-flyers/386-beartooth-fort-lauderdale.jpg",
+    "endDate": "2026-12-05"
   }
 ]
