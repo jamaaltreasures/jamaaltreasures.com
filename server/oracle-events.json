@@ -1302,23 +1302,6 @@
     "endDate": "2026-11-28"
   },
   {
-    "section": "NOVEMBER",
-    "title": "Don Omar: The Last King World Tour, Miami",
-    "date": "DECEMBER 6, 8 PM",
-    "headliners": "Don Omar",
-    "venue": "Kaseya Center, Miami",
-    "categories": [
-      "Music"
-    ],
-    "detailsLabel": "Get Tickets",
-    "detailsUrl": "https://seatgeek.com/don-omar-tickets/miami-florida-kaseya-center-2026-12-06-8-pm/concert/18752139",
-    "flyerUrl": "https://seatgeek.com/don-omar-tickets/miami-florida-kaseya-center-2026-12-06-8-pm/concert/18752139",
-    "image": "/events/flyer/125-don-omar-the-last-king-world-tour.jpg",
-    "alt": "Don Omar The Last King World Tour poster",
-    "imageKey": "event-flyers/125-don-omar-the-last-king-world-tour.jpg",
-    "endDate": "2026-12-06"
-  },
-  {
     "section": "LATER IN OCTOBER",
     "title": "Prof: Good Time Boy Tour with Grieves, Fort Lauderdale",
     "date": "OCTOBER 29, 7 PM",
@@ -5408,5 +5391,141 @@
     "alt": "Hans Zimmer Live The Next Level World Tour 2027 poster",
     "imageKey": "event-flyers/353-hans-zimmer-live-next-level.jpg",
     "endDate": "2027-03-13"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Rawayana: ¿Dónde es el After? World Tour, Orlando",
+    "date": "DECEMBER 3, 8 PM",
+    "headliners": "Rawayana",
+    "venue": "Kia Center, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.jambase.com/show/rawayana-kia-center-20261203",
+    "flyerUrl": "https://www.kaseyacenter.com/assets/img/596_Rawayana-53bd22227b.jpg",
+    "image": "/events/flyer/354-rawayana-orlando-dec3.jpg",
+    "alt": "Rawayana Donde es el After World Tour 2026 poster",
+    "imageKey": "event-flyers/354-rawayana-orlando-dec3.jpg",
+    "endDate": "2026-12-03"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Rawayana: ¿Dónde es el After? World Tour, Miami Night 3",
+    "date": "DECEMBER 6, 8 PM",
+    "headliners": "Rawayana",
+    "venue": "Kaseya Center, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.kaseyacenter.com/events/detail/rawayana",
+    "flyerUrl": "https://www.kaseyacenter.com/assets/img/596_Rawayana-53bd22227b.jpg",
+    "image": "/events/flyer/355-rawayana-miami-night3.jpg",
+    "alt": "Rawayana Donde es el After World Tour 2026 poster",
+    "imageKey": "event-flyers/355-rawayana-miami-night3.jpg",
+    "endDate": "2026-12-06"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Ryan Castro Presents: Los Chorros Con Richy Tour, Miami",
+    "date": "DECEMBER 19, 8:30 PM",
+    "headliners": "Ryan Castro",
+    "venue": "Kaseya Center, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.jambase.com/show/ryan-castro-kaseya-center-20261219",
+    "flyerUrl": "https://www.kaseyacenter.com/assets/img/596_ryan-castro-2026-f2693bac83.jpg",
+    "image": "/events/flyer/356-ryan-castro-miami.jpg",
+    "alt": "Ryan Castro Los Chorros Con Richy Tour poster, Se Busca Richy artwork",
+    "imageKey": "event-flyers/356-ryan-castro-miami.jpg",
+    "endDate": "2026-12-19"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Pablo Alborán: Global Tour KM0, Miami",
+    "date": "FEBRUARY 6, 8 PM",
+    "headliners": "Pablo Alborán",
+    "venue": "Kaseya Center, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.kaseyacenter.com/news/detail/pablo-alboran-announces-his-global-tour-km0-coming-to-kaseya-center",
+    "flyerUrl": "https://www.kaseyacenter.com/assets/img/596_Pablo-Alboran-2027-8b2f0c852c.jpg",
+    "image": "/events/flyer/357-pablo-alboran-miami.jpg",
+    "alt": "Pablo Alboran Global Tour KM0 poster",
+    "imageKey": "event-flyers/357-pablo-alboran-miami.jpg",
+    "endDate": "2027-02-06"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Pablo Alborán: Global Tour KM0, Orlando",
+    "date": "FEBRUARY 7, 7 PM",
+    "headliners": "Pablo Alborán",
+    "venue": "Kia Center, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://themusicuniverse.com/pablo-alboran-announces-2027-north-american-global-tour-km0/",
+    "flyerUrl": "https://www.kaseyacenter.com/assets/img/596_Pablo-Alboran-2027-8b2f0c852c.jpg",
+    "image": "/events/flyer/358-pablo-alboran-orlando.jpg",
+    "alt": "Pablo Alboran Global Tour KM0 poster",
+    "imageKey": "event-flyers/358-pablo-alboran-orlando.jpg",
+    "endDate": "2027-02-07"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Hans Zimmer Live: The Next Level, Tampa",
+    "date": "MARCH 14, 7:30 PM",
+    "headliners": "Hans Zimmer",
+    "venue": "Benchmark International Arena, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.jambase.com/venue/benchmark-international-arena-tampa-fl",
+    "flyerUrl": "https://www.kaseyacenter.com/assets/img/596_Hans-Zimmer-live-2027-bc47ae71cf.jpg",
+    "image": "/events/flyer/359-hans-zimmer-tampa.jpg",
+    "alt": "Hans Zimmer Live The Next Level World Tour 2027 poster",
+    "imageKey": "event-flyers/359-hans-zimmer-tampa.jpg",
+    "endDate": "2027-03-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Trans-Siberian Orchestra: The Ghosts of Christmas Eve, Sunrise",
+    "date": "DECEMBER 18, 7 PM",
+    "headliners": "Trans-Siberian Orchestra",
+    "venue": "Amerant Bank Arena, Sunrise",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/fla-live-arena-boletos-sunrise/venue/107150?page=1",
+    "flyerUrl": "https://bravewords.com/wp-content/uploads/2026/09/tsotourposter926-750x422.jpg",
+    "image": "/events/flyer/351-trans-siberian-orchestra-ghosts-of-christmas-eve.jpg",
+    "alt": "Trans-Siberian Orchestra The Ghosts of Christmas Eve poster",
+    "imageKey": "event-flyers/351-trans-siberian-orchestra-ghosts-of-christmas-eve.jpg",
+    "endDate": "2026-12-18"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Trans-Siberian Orchestra: The Ghosts of Christmas Eve, Jacksonville",
+    "date": "DECEMBER 17, 7 PM",
+    "headliners": "Trans-Siberian Orchestra",
+    "venue": "VyStar Veterans Memorial Arena, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/fla-live-arena-boletos-sunrise/venue/107150?page=1",
+    "flyerUrl": "https://bravewords.com/wp-content/uploads/2026/09/tsotourposter926-750x422.jpg",
+    "image": "/events/flyer/351-trans-siberian-orchestra-ghosts-of-christmas-eve.jpg",
+    "alt": "Trans-Siberian Orchestra The Ghosts of Christmas Eve poster",
+    "imageKey": "event-flyers/351-trans-siberian-orchestra-ghosts-of-christmas-eve.jpg",
+    "endDate": "2026-12-17"
   }
 ]
