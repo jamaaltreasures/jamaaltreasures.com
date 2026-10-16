@@ -31,7 +31,7 @@ ${offers.services.map(s=>`* ${s.name}: $${s.price}${s.recurring?' per month':''}
 
 Business name: Jamaal Treasures.
 Service area: Florida.
-Email: jamaaltreasures@gmail.com
+Email: media@jamaaltreasures.com
 Phone: +1 941 294 9274
 Booking: https://jamaaltreasures.com/contact
 Event coverage inquiry: https://jamaaltreasures.com/contact?project=event-coverage
