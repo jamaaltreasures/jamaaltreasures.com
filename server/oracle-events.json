@@ -6306,5 +6306,73 @@
     "alt": "DaBaby Jacksonville event flyer",
     "imageKey": "event-flyers/415-dababy-jacksonville.jpg",
     "endDate": "2026-11-28"
+  },
+  {
+    "section": "LATER IN OCTOBER",
+    "title": "Disney Wine and Dine Half Marathon Weekend",
+    "date": "OCTOBER 22 TO 25",
+    "headliners": "",
+    "venue": "Walt Disney World Resort, Orlando",
+    "categories": [
+      "Wellness"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://www.disneyfoodblog.com/disney-wine-and-dine-half-marathon-weekend/",
+    "flyerUrl": "https://www.disneyfoodblog.com/disney-wine-and-dine-half-marathon-weekend/",
+    "image": "/events/flyer/416-disney-wine-and-dine-half-marathon-weekend.jpg",
+    "alt": "Disney Wine and Dine Half Marathon Weekend 2026 event graphic",
+    "imageKey": "event-flyers/416-disney-wine-and-dine-half-marathon-weekend.jpg",
+    "endDate": "2026-10-25"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "EPCOT International Festival of the Arts 2027",
+    "date": "JANUARY 15 TO MARCH 1, 2027",
+    "headliners": "",
+    "venue": "EPCOT, Orlando",
+    "categories": [
+      "Arts"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://blogmickey.com/2026/09/2027-epcot-festival-of-the-arts-dates-details-new-sponsor-announced/",
+    "flyerUrl": "https://blogmickey.com/2026/09/2027-epcot-festival-of-the-arts-dates-details-new-sponsor-announced/",
+    "image": "/events/flyer/417-epcot-international-festival-of-the-arts.jpg",
+    "alt": "EPCOT International Festival of the Arts event flyer",
+    "imageKey": "event-flyers/417-epcot-international-festival-of-the-arts.jpg",
+    "endDate": "2027-03-01"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "Gasparilla Pirate Fest",
+    "date": "JANUARY 30, 10 AM TO 8 PM",
+    "headliners": "",
+    "venue": "Bayshore Boulevard, Tampa",
+    "categories": [
+      "Arts"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.visittampabay.com/tampa-events/gasparilla-season/gasparilla-pirate-fest/",
+    "flyerUrl": "https://www.visittampabay.com/tampa-events/gasparilla-season/gasparilla-pirate-fest/",
+    "image": "/events/flyer/418-gasparilla-pirate-fest.jpg",
+    "alt": "Gasparilla Pirate Fest pirate ship invasion in Tampa",
+    "imageKey": "event-flyers/418-gasparilla-pirate-fest.jpg",
+    "endDate": "2027-01-30"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "Florida Strawberry Festival",
+    "date": "MARCH 4 TO 14, 2027",
+    "headliners": "",
+    "venue": "Florida Strawberry Festival Fairgrounds, Plant City",
+    "categories": [
+      "Arts"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.floridarambler.com/central-florida-getaways/florida-strawberry-festival/",
+    "flyerUrl": "https://www.floridarambler.com/central-florida-getaways/florida-strawberry-festival/",
+    "image": "/events/flyer/419-florida-strawberry-festival.jpg",
+    "alt": "Florida Strawberry Festival midway in Plant City",
+    "imageKey": "event-flyers/419-florida-strawberry-festival.jpg",
+    "endDate": "2027-03-14"
   }
 ]
