@@ -5826,5 +5826,73 @@
     "alt": "Beartooth Pure Ecstasy tour poster, FTL War Memorial Fort Lauderdale",
     "imageKey": "event-flyers/386-beartooth-fort-lauderdale.jpg",
     "endDate": "2026-12-05"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "MICO: IN:BETWEEN Tour, Jacksonville",
+    "date": "FEBRUARY 23, 8 PM",
+    "headliners": "MICO",
+    "venue": "FIVE, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.jambase.com/show/mico-five-20270223",
+    "flyerUrl": "https://www.antimusic.com/p/26/p1010mico_announces_inbetween_global_headline_tour.shtml",
+    "image": "/events/flyer/387-mico-jacksonville.jpg",
+    "alt": "MICO IN:BETWEEN Tour poster, FIVE Jacksonville",
+    "imageKey": "event-flyers/387-mico-jacksonville.jpg",
+    "endDate": "2027-02-23"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "MICO: IN:BETWEEN Tour, Fort Lauderdale",
+    "date": "FEBRUARY 25, 7 PM",
+    "headliners": "MICO",
+    "venue": "Revolution Live, Fort Lauderdale",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/mico-tickets/artist/3000734?page=1",
+    "flyerUrl": "https://www.antimusic.com/p/26/p1010mico_announces_inbetween_global_headline_tour.shtml",
+    "image": "/events/flyer/388-mico-fort-lauderdale.jpg",
+    "alt": "MICO IN:BETWEEN Tour poster, Revolution Live Fort Lauderdale",
+    "imageKey": "event-flyers/388-mico-fort-lauderdale.jpg",
+    "endDate": "2027-02-25"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "MICO: IN:BETWEEN Tour, St. Petersburg",
+    "date": "FEBRUARY 26, 7 PM",
+    "headliners": "MICO",
+    "venue": "Jannus Live, St. Petersburg",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/mico-tickets/artist/3000734?page=1",
+    "flyerUrl": "https://www.antimusic.com/p/26/p1010mico_announces_inbetween_global_headline_tour.shtml",
+    "image": "/events/flyer/389-mico-st-petersburg.jpg",
+    "alt": "MICO IN:BETWEEN Tour poster, Jannus Live St. Petersburg",
+    "imageKey": "event-flyers/389-mico-st-petersburg.jpg",
+    "endDate": "2027-02-26"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "MICO: IN:BETWEEN Tour, Orlando",
+    "date": "FEBRUARY 27, 7 PM",
+    "headliners": "MICO",
+    "venue": "House of Blues, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/mico-tickets/artist/3000734?page=1",
+    "flyerUrl": "https://www.antimusic.com/p/26/p1010mico_announces_inbetween_global_headline_tour.shtml",
+    "image": "/events/flyer/390-mico-orlando.jpg",
+    "alt": "MICO IN:BETWEEN Tour poster, House of Blues Orlando",
+    "imageKey": "event-flyers/390-mico-orlando.jpg",
+    "endDate": "2027-02-27"
   }
 ]
