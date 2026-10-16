@@ -6,7 +6,7 @@ export const businessSchema = {
   '@id': origin + '/#business', name: 'Jamaal Treasures', url: origin + '/',
   description: 'Florida event coverage company. Two shooters, one photographer and one videographer, capture events across Florida and deliver the full recap within two days. The company is led by creative director Jamaal Treasures, whose directed music videos have passed five million views.',
   areaServed: { '@type': 'State', name: 'Florida' },
-  telephone: '+19412949274', email: 'jamaaltreasures@gmail.com',
+  telephone: '+19412949274', email: 'media@jamaaltreasures.com',
   sameAs: ['https://www.instagram.com/jamaaltreasures/', 'https://www.youtube.com/@cimtexpro5593', 'https://whop.com/@jamaaltreasure'],
   logo: origin + '/assets/jamaal-key-logo.jpg',
   image: origin + '/assets/og-logo.jpg',
