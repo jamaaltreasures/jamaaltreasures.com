@@ -6051,5 +6051,39 @@
     "alt": "USA TODAY Wine and Food Experience flyer, Paradise Coast Sports Complex Naples",
     "imageKey": "event-flyers/400-usa-today-wine-food-experience-naples.jpg",
     "endDate": "2026-11-14"
+  },
+  {
+    "section": "LATER IN OCTOBER",
+    "title": "CeCe Winans: Come Worship Tour, Pensacola",
+    "date": "OCTOBER 22, 7 PM",
+    "headliners": "CeCe Winans, Charity Gayle, Red Worship, Terrian",
+    "venue": "Pensacola Bay Center, Pensacola",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.pensacolabaycenter.com/events/detail/cece-winans-come-worship",
+    "flyerUrl": "https://www.pensacolabaycenter.com/events/detail/cece-winans-come-worship",
+    "image": "/events/flyer/401-cece-winans-come-worship-tour-pensacola.jpg",
+    "alt": "CeCe Winans: Come Worship Tour Pensacola event flyer",
+    "imageKey": "event-flyers/401-cece-winans-come-worship-tour-pensacola.jpg",
+    "endDate": "2026-10-22"
+  },
+  {
+    "section": "LATER IN OCTOBER",
+    "title": "CeCe Winans: Come Worship Tour, Orlando",
+    "date": "OCTOBER 27, 7 PM",
+    "headliners": "CeCe Winans, Charity Gayle, Red Worship, Terrian",
+    "venue": "Addition Financial Arena, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/cece-winans-come-worship-tour-orlando-florida-10-27-2026/event/22006453997A37D4",
+    "flyerUrl": "https://www.additionfiarena.com/events/detail/cece-winans",
+    "image": "/events/flyer/402-cece-winans-come-worship-tour-orlando.jpg",
+    "alt": "CeCe Winans: Come Worship Tour Orlando event flyer",
+    "imageKey": "event-flyers/402-cece-winans-come-worship-tour-orlando.jpg",
+    "endDate": "2026-10-27"
   }
 ]
