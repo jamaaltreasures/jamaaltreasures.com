@@ -6085,5 +6085,22 @@
     "alt": "CeCe Winans: Come Worship Tour Orlando event flyer",
     "imageKey": "event-flyers/402-cece-winans-come-worship-tour-orlando.jpg",
     "endDate": "2026-10-27"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "Publix Run to the Arts 5K",
+    "date": "FEBRUARY 7, 2027",
+    "headliners": "",
+    "venue": "Downtown Fort Myers Riverfront, Fort Myers",
+    "categories": [
+      "Wellness"
+    ],
+    "detailsLabel": "Register",
+    "detailsUrl": "https://runtothearts.com",
+    "flyerUrl": "https://artfestfortmyers.com/",
+    "image": "/events/flyer/403-publix-run-to-the-arts-5k.jpg",
+    "alt": "Publix Run to the Arts 5K flyer for ArtFest Fort Myers, February 7, 2027",
+    "imageKey": "event-flyers/403-publix-run-to-the-arts-5k.jpg",
+    "endDate": "2027-02-07"
   }
 ]
