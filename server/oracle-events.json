@@ -6255,5 +6255,56 @@
     "alt": "Womens Council of NAREB Goal Setting 2027 Edition flyer for a goal planning session at Brooks Realty Group in Tampa",
     "imageKey": "event-flyers/412-womens-council-nareb-goal-setting.jpg",
     "endDate": "2026-10-20"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "John Legend: An Evening of Songs and Stories, Fort Lauderdale",
+    "date": "MARCH 6, 6:30 PM",
+    "headliners": "John Legend",
+    "venue": "Au Rene Theater at Broward Center, Fort Lauderdale",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.browardcenter.org/events/detail/2027-annual-celebration",
+    "flyerUrl": "https://www.browardcenter.org/events/detail/2027-annual-celebration",
+    "image": "/events/flyer/413-john-legend-fort-lauderdale.jpg",
+    "alt": "John Legend An Evening of Songs and Stories Fort Lauderdale event flyer",
+    "imageKey": "event-flyers/413-john-legend-fort-lauderdale.jpg",
+    "endDate": "2027-03-06"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "John Legend: An Evening of Songs and Stories, St. Augustine",
+    "date": "MARCH 7, 7:30 PM",
+    "headliners": "John Legend",
+    "venue": "The St. Augustine Amphitheatre, St. Augustine",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.axs.com/events/1660237/-tickets",
+    "flyerUrl": "https://www.axs.com/events/1660237/-tickets",
+    "image": "/events/flyer/414-john-legend-st-augustine.jpg",
+    "alt": "John Legend An Evening of Songs and Stories St. Augustine event flyer",
+    "imageKey": "event-flyers/414-john-legend-st-augustine.jpg",
+    "endDate": "2027-03-07"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "DaBaby, Jacksonville",
+    "date": "NOVEMBER 28, 8 PM",
+    "headliners": "DaBaby",
+    "venue": "VyStar Veterans Memorial Arena, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.jambase.com/show/dababy-vystar-veterans-memorial-arena-20261128",
+    "flyerUrl": "https://www.jambase.com/show/dababy-vystar-veterans-memorial-arena-20261128",
+    "image": "/events/flyer/415-dababy-jacksonville.jpg",
+    "alt": "DaBaby Jacksonville event flyer",
+    "imageKey": "event-flyers/415-dababy-jacksonville.jpg",
+    "endDate": "2026-11-28"
   }
 ]
