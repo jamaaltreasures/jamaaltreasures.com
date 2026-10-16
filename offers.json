@@ -2,48 +2,6 @@
   "currency": "USD",
   "services": [
     {
-      "id": "music-video",
-      "category": "music",
-      "name": "Music Videos",
-      "price": 650,
-      "icon": "work",
-      "summary": "Give your song a visual world of its own. Filmed on location, directed and edited by the studio.",
-      "deliverables": [
-        "Creative direction and a shoot plan built around your song",
-        "One finished music video with editing and color grading",
-        "A ready to upload HD file and 2 revision rounds"
-      ],
-      "time": "Editing typically takes 1 to 2 days after the shoot and receipt of the final track and agreed assets. Allow up to 2 weeks during busy periods.",
-      "cta": "Book my music video",
-      "idealFor": "Independent artists and musicians ready to give a finished song a full filmed visual.",
-      "description": "Give your song a visual world of its own. Filmed on location, directed and edited by the studio.\n\nPerfect for: Independent artists and musicians ready to give a finished song a full filmed visual.\n\nWhat you get:\n• Creative direction and a shoot plan built around your song\n• One finished music video with editing and color grading\n• A ready to upload HD file and 2 revision rounds\n\nTurnaround: Editing typically takes 1 to 2 days after the shoot and receipt of the final track and agreed assets. Allow up to 2 weeks during busy periods.",
-      "catalogImage": "jamaal-treasures-star-wordmark.png",
-      "squareItemId": "ELD5LG2UF2HZN4L2DU54OPHZ",
-      "checkoutUrl": "https://square.link/u/dvrncixa",
-      "checkoutType": "catalog-item"
-    },
-    {
-      "id": "artist-recap",
-      "category": "music",
-      "name": "Artist Recap Videos",
-      "price": 250,
-      "icon": "work",
-      "summary": "Let your online fans feel the show. Turn your live performance into a recap that brings them into the crowd.",
-      "deliverables": [
-        "A performance recap shaped around your show and creative brief",
-        "An edited video ready to share with your fans"
-      ],
-      "time": "Editing typically takes 1 to 2 days after the show and receipt of the agreed assets. Allow up to 2 weeks during busy periods.",
-      "note": "We confirm the filming plan, coverage window and final format before payment.",
-      "cta": "Plan my artist recap",
-      "idealFor": "Artists performing at shows who want to show their energy and talent, and let online fans experience being in the crowd.",
-      "description": "Let your online fans feel the show. Turn your live performance into a recap that brings them into the crowd.\n\nPerfect for: Artists performing at shows who want to show their energy and talent, and let online fans experience being in the crowd.\n\nWhat you get:\n• A performance recap shaped around your show and creative brief\n• An edited video ready to share with your fans\n\nTurnaround: Editing typically takes 1 to 2 days after the show and receipt of the agreed assets. Allow up to 2 weeks during busy periods.\n\nWe confirm the filming plan, coverage window and final format before payment.",
-      "catalogImage": "jamaal-treasures-star-wordmark.png",
-      "squareItemId": "G2EF36OCOYDVNZE2EPDKPTNC",
-      "checkoutUrl": "https://square.link/u/U8zcNGiR",
-      "checkoutType": "catalog-item"
-    },
-    {
       "id": "event-coverage",
       "category": "events",
       "name": "Event Coverage",
@@ -84,6 +42,48 @@
       "description": "Expedited delivery for your event coverage. Your full recap delivered the same night or the next day. Add this to the Event Coverage package.\n\nPerfect for: Event Coverage clients who want the recap live the same night or the next day, while the event is still being talked about.\n\nWhat you get:\n• Your full photo and video recap delivered the same night or the next day\n• Priority editing ahead of the standard two day delivery\n\nTurnaround: Your full recap is delivered the same night or the next day when Expedited Delivery is added to Event Coverage.\n\nExpedited Delivery is booked as an add on to the Event Coverage package.",
       "catalogImage": "jamaal-treasures-star-wordmark.png",
       "checkoutUrl": "https://square.link/u/jfh3fGsU",
+      "checkoutType": "catalog-item"
+    },
+    {
+      "id": "music-video",
+      "category": "music",
+      "name": "Music Videos",
+      "price": 650,
+      "icon": "work",
+      "summary": "Give your song a visual world of its own. Filmed on location, directed and edited by the studio.",
+      "deliverables": [
+        "Creative direction and a shoot plan built around your song",
+        "One finished music video with editing and color grading",
+        "A ready to upload HD file and 2 revision rounds"
+      ],
+      "time": "Editing typically takes 1 to 2 days after the shoot and receipt of the final track and agreed assets. Allow up to 2 weeks during busy periods.",
+      "cta": "Book my music video",
+      "idealFor": "Independent artists and musicians ready to give a finished song a full filmed visual.",
+      "description": "Give your song a visual world of its own. Filmed on location, directed and edited by the studio.\n\nPerfect for: Independent artists and musicians ready to give a finished song a full filmed visual.\n\nWhat you get:\n• Creative direction and a shoot plan built around your song\n• One finished music video with editing and color grading\n• A ready to upload HD file and 2 revision rounds\n\nTurnaround: Editing typically takes 1 to 2 days after the shoot and receipt of the final track and agreed assets. Allow up to 2 weeks during busy periods.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "ELD5LG2UF2HZN4L2DU54OPHZ",
+      "checkoutUrl": "https://square.link/u/dvrncixa",
+      "checkoutType": "catalog-item"
+    },
+    {
+      "id": "artist-recap",
+      "category": "music",
+      "name": "Artist Recap Videos",
+      "price": 250,
+      "icon": "work",
+      "summary": "Let your online fans feel the show. Turn your live performance into a recap that brings them into the crowd.",
+      "deliverables": [
+        "A performance recap shaped around your show and creative brief",
+        "An edited video ready to share with your fans"
+      ],
+      "time": "Editing typically takes 1 to 2 days after the show and receipt of the agreed assets. Allow up to 2 weeks during busy periods.",
+      "note": "We confirm the filming plan, coverage window and final format before payment.",
+      "cta": "Plan my artist recap",
+      "idealFor": "Artists performing at shows who want to show their energy and talent, and let online fans experience being in the crowd.",
+      "description": "Let your online fans feel the show. Turn your live performance into a recap that brings them into the crowd.\n\nPerfect for: Artists performing at shows who want to show their energy and talent, and let online fans experience being in the crowd.\n\nWhat you get:\n• A performance recap shaped around your show and creative brief\n• An edited video ready to share with your fans\n\nTurnaround: Editing typically takes 1 to 2 days after the show and receipt of the agreed assets. Allow up to 2 weeks during busy periods.\n\nWe confirm the filming plan, coverage window and final format before payment.",
+      "catalogImage": "jamaal-treasures-star-wordmark.png",
+      "squareItemId": "G2EF36OCOYDVNZE2EPDKPTNC",
+      "checkoutUrl": "https://square.link/u/U8zcNGiR",
       "checkoutType": "catalog-item"
     },
     {
