@@ -6197,12 +6197,29 @@
     "categories": [
       "Music"
     ],
-    "detailsLabel": "Details",
-    "detailsUrl": "https://www.gottagoorlando.com/post/fantasia-anthony-hamilton-october-london-bring-the-love-of-soul-tour-to-orlando-in-2027",
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://ticketmaster.com/fantasia-tickets/artist/1438797",
     "flyerUrl": "https://www.gottagoorlando.com/post/fantasia-anthony-hamilton-october-london-bring-the-love-of-soul-tour-to-orlando-in-2027",
     "image": "/events/flyer/409-fantasia-love-of-soul-tour-orlando.jpg",
     "alt": "Fantasia The Love of Soul Tour poster, Addition Financial Arena Orlando",
     "imageKey": "event-flyers/409-fantasia-love-of-soul-tour-orlando.jpg",
     "endDate": "2027-03-27"
+  },
+  {
+    "section": "LATER IN OCTOBER",
+    "title": "EsDeeKid: Council House Rat Tour, Fort Lauderdale",
+    "date": "OCTOBER 21, 8 PM",
+    "headliners": "EsDeeKid, Rico Ace",
+    "venue": "Revolution Live, Fort Lauderdale",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.jointherevolution.net/concerts/esdeekid-council-house-rat-tour/",
+    "flyerUrl": "https://www.jointherevolution.net/concerts/esdeekid-council-house-rat-tour/",
+    "image": "/events/flyer/410-esdeekid-council-house-rat-tour-fort-lauderdale.jpg",
+    "alt": "EsDeeKid Council House Rat Tour Fort Lauderdale event flyer",
+    "imageKey": "event-flyers/410-esdeekid-council-house-rat-tour-fort-lauderdale.jpg",
+    "endDate": "2026-10-21"
   }
 ]
