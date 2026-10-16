@@ -120,3 +120,7 @@ body svg.ph-icon,body svg.ph-icon use{fill:currentColor}
 
 /* Homepage audit fix: services strip is one full width list of two rows */
 .home-services{grid-template-columns:1fr}
+
+/* Reorganized footer on standalone pages that do not load app-pages.css (the privacy page), 2026-10-16: same grouped footer, tidy wrapped rows. Scoped to the privacy page only. */
+body:has(>main.privacy-page) footer>div{flex-wrap:wrap}
+body:has(>main.privacy-page) footer nav a{display:inline-block;margin:0 12px 8px 0}
