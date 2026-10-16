@@ -89,6 +89,9 @@ img{max-width:100%; display:block}
 @media(min-width:920px){ .heroGrid{grid-template-columns:1.05fr .95fr; gap:56px} }
 .heroPhoto{margin:0; background:var(--glass); border:1px solid var(--glassBorder); backdrop-filter:blur(16px); -webkit-backdrop-filter:blur(16px); border-radius:var(--radiusLg); box-shadow:var(--glassShadow); padding:14px}
 .heroPhoto img{width:100%; aspect-ratio:3/2; object-fit:cover; border-radius:20px}
+.heroPhone{margin:0; background:var(--glass); border:1px solid var(--glassBorder); backdrop-filter:blur(16px); -webkit-backdrop-filter:blur(16px); border-radius:var(--radiusLg); box-shadow:var(--glassShadow); padding:14px}
+.heroPhone img{width:100%; height:auto; border-radius:20px}
+.heroPhotoBelow{margin-top:38px}
 .heroBelow{padding:34px 0 6px}
 .heroNote{margin:10px 0 0; font-size:21px; color:var(--muted)}
 .eyebrow{
@@ -259,7 +262,12 @@ footer{padding:36px 0 48px; border-top:1px solid var(--line2)}
           <a class="btn btnGhost" href="#broker">See it for brokers</a>
         </div>
       </div>
-      <figure class="heroPhoto">
+      <figure class="heroPhone">
+        <img src="/assets/ufyp-phone-example.jpg" alt="A broker adds a new listing to her website from her phone and the system confirms it is live" width="1125" height="1688">
+      </figure>
+    </div>
+    <div class="wrap">
+      <figure class="heroPhoto heroPhotoBelow">
         <img src="/assets/ufyp-hero-broker.jpg" alt="Real estate broker in a navy blazer standing in front of a modern home, looking at her phone" width="1125" height="750">
       </figure>
     </div>
