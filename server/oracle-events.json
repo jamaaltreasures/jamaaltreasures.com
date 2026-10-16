@@ -6136,5 +6136,56 @@
     "alt": "American Sand Sculpting Championship flyer, Fort Myers Beach",
     "imageKey": "event-flyers/405-american-sand-sculpting-championship.jpg",
     "endDate": "2026-11-23"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "K. Michelle: Jesus & Whiskey, Orlando",
+    "date": "NOVEMBER 29, 7 PM",
+    "headliners": "K. Michelle",
+    "venue": "House of Blues, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/discover/orlando?categoryId=KZFzniwnSyZfZ7v7nJ&classificationId=KnvZfZ7vAee",
+    "flyerUrl": "https://www.gottagoorlando.com/post/k-michelle-is-coming-to-orlando-on-nov-29-to-celebrate-debut-country-album-jesus-whiskey",
+    "image": "/events/flyer/406-k-michelle-jesus-and-whiskey-orlando.jpg",
+    "alt": "K. Michelle Jesus and Whiskey poster, House of Blues Orlando",
+    "imageKey": "event-flyers/406-k-michelle-jesus-and-whiskey-orlando.jpg",
+    "endDate": "2026-11-29"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Montell Fish: The Nest Tour, Orlando",
+    "date": "DECEMBER 5, 8 PM",
+    "headliners": "Montell Fish",
+    "venue": "House of Blues, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/discover/orlando?categoryId=KZFzniwnSyZfZ7v7nJ&classificationId=KnvZfZ7vAee",
+    "flyerUrl": "https://www.gottagoorlando.com/post/montell-fish-is-bringing-the-nest-tour-to-house-of-blues-orlando-on-december-5",
+    "image": "/events/flyer/407-montell-fish-the-nest-tour-orlando.jpg",
+    "alt": "Montell Fish The Nest Tour poster, House of Blues Orlando",
+    "imageKey": "event-flyers/407-montell-fish-the-nest-tour-orlando.jpg",
+    "endDate": "2026-12-05"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Lyfe Jennings, Orlando",
+    "date": "DECEMBER 19, 7 PM",
+    "headliners": "Lyfe Jennings",
+    "venue": "House of Blues, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.jambase.com/show/lyfe-jennings-house-of-blues-20261219",
+    "flyerUrl": "https://www.jambase.com/show/lyfe-jennings-house-of-blues-20261219",
+    "image": "/events/flyer/408-lyfe-jennings-orlando.jpg",
+    "alt": "Lyfe Jennings poster, House of Blues Orlando",
+    "imageKey": "event-flyers/408-lyfe-jennings-orlando.jpg",
+    "endDate": "2026-12-19"
   }
 ]
