@@ -6102,5 +6102,39 @@
     "alt": "Publix Run to the Arts 5K flyer for ArtFest Fort Myers, February 7, 2027",
     "imageKey": "event-flyers/403-publix-run-to-the-arts-5k.jpg",
     "endDate": "2027-02-07"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "FLO: Therapy At The Club Tour, Orlando",
+    "date": "FEBRUARY 9, 7 PM",
+    "headliners": "FLO",
+    "venue": "House of Blues, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.livenation.com/venue/KovZpaFIme/house-of-blues-orlando-events",
+    "flyerUrl": "https://www.gottagoorlando.com/post/flo-announces-2027-therapy-at-the-club-tour-including-a-stop-in-orlando-on-feb-9",
+    "image": "/events/flyer/404-flo-therapy-at-the-club-tour-orlando.jpg",
+    "alt": "FLO Therapy At The Club Tour poster, House of Blues Orlando",
+    "imageKey": "event-flyers/404-flo-therapy-at-the-club-tour-orlando.jpg",
+    "endDate": "2027-02-09"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "36th Annual American Sand Sculpting Championship",
+    "date": "NOVEMBER 19 TO 23, 10 AM TO 5 PM",
+    "headliners": "",
+    "venue": "DiamondHead Beach Resort, Fort Myers Beach",
+    "categories": [
+      "Arts"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.fmbsandsculpting.com/",
+    "flyerUrl": "https://www.fmbsandsculpting.com/",
+    "image": "/events/flyer/405-american-sand-sculpting-championship.jpg",
+    "alt": "American Sand Sculpting Championship flyer, Fort Myers Beach",
+    "imageKey": "event-flyers/405-american-sand-sculpting-championship.jpg",
+    "endDate": "2026-11-23"
   }
 ]
