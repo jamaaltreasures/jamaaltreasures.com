@@ -5965,5 +5965,91 @@
     "alt": "Jacksonville PorchFest 2026 poster for the free music festival in Historic Springfield Jacksonville on Saturday November 7",
     "imageKey": "event-flyers/395-jacksonville-porchfest.jpg",
     "endDate": "2026-11-07"
+  },
+  {
+    "section": "LATER IN OCTOBER",
+    "title": "Yung Gravy: The Joyrider Tour, Fort Lauderdale",
+    "date": "OCTOBER 22, 7 PM",
+    "headliners": "Yung Gravy",
+    "venue": "Revolution Live, Fort Lauderdale",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.livenation.com/artist/K8vZ917pl40/yung-gravy-events",
+    "flyerUrl": "https://www.livenation.com/artist/K8vZ917pl40/yung-gravy-events",
+    "image": "/events/flyer/396-yung-gravy-joyrider-tour-fort-lauderdale.jpg",
+    "alt": "Yung Gravy The Joyrider Tour flyer, Revolution Live Fort Lauderdale",
+    "imageKey": "event-flyers/396-yung-gravy-joyrider-tour-fort-lauderdale.jpg",
+    "endDate": "2026-10-22"
+  },
+  {
+    "section": "LATER IN OCTOBER",
+    "title": "Yung Gravy: The Joyrider Tour, Orlando",
+    "date": "OCTOBER 23, 7 PM",
+    "headliners": "Yung Gravy",
+    "venue": "House of Blues, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.jambase.com/show/yung-gravy-house-of-blues-20261023",
+    "flyerUrl": "https://www.jambase.com/show/yung-gravy-house-of-blues-20261023",
+    "image": "/events/flyer/397-yung-gravy-joyrider-tour-orlando.jpg",
+    "alt": "Yung Gravy The Joyrider Tour flyer, House of Blues Orlando",
+    "imageKey": "event-flyers/397-yung-gravy-joyrider-tour-orlando.jpg",
+    "endDate": "2026-10-23"
+  },
+  {
+    "section": "LATER IN OCTOBER",
+    "title": "Yung Gravy: The Joyrider Tour, St. Petersburg",
+    "date": "OCTOBER 25, 7 PM",
+    "headliners": "Yung Gravy",
+    "venue": "Jannus Live, St. Petersburg",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.livenation.com/artist/K8vZ917pl40/yung-gravy-events",
+    "flyerUrl": "https://www.livenation.com/artist/K8vZ917pl40/yung-gravy-events",
+    "image": "/events/flyer/398-yung-gravy-joyrider-tour-st-petersburg.jpg",
+    "alt": "Yung Gravy The Joyrider Tour flyer, Jannus Live St. Petersburg",
+    "imageKey": "event-flyers/398-yung-gravy-joyrider-tour-st-petersburg.jpg",
+    "endDate": "2026-10-25"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "8Ball and MJG, Bun B and The Renaissance Orchestra, Jacksonville",
+    "date": "NOVEMBER 7, 8 PM",
+    "headliners": "8Ball and MJG, Bun B, The Renaissance Orchestra",
+    "venue": "Moran Theater at Jacksonville Center for the Performing Arts, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.jambase.com/show/8ball-mjg-moran-theater-at-jacksonville-center-for-the-performing-arts-20261107",
+    "flyerUrl": "https://www.jambase.com/show/8ball-mjg-moran-theater-at-jacksonville-center-for-the-performing-arts-20261107",
+    "image": "/events/flyer/399-8ball-mjg-bun-b-jacksonville.jpg",
+    "alt": "8Ball and MJG with Bun B and The Renaissance Orchestra flyer, Moran Theater Jacksonville",
+    "imageKey": "event-flyers/399-8ball-mjg-bun-b-jacksonville.jpg",
+    "endDate": "2026-11-07"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "USA TODAY Wine and Food Experience, Naples",
+    "date": "NOVEMBER 14, 12 PM TO 4 PM",
+    "headliners": "",
+    "venue": "Paradise Coast Sports Complex, Naples",
+    "categories": [
+      "Food",
+      "Arts"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://ventures.enmotive.com/events/register/usa-today-wine-food-experience-naples-fl-2026",
+    "flyerUrl": "https://ventures.enmotive.com/events/register/usa-today-wine-food-experience-naples-fl-2026",
+    "image": "/events/flyer/400-usa-today-wine-food-experience-naples.jpg",
+    "alt": "USA TODAY Wine and Food Experience flyer, Paradise Coast Sports Complex Naples",
+    "imageKey": "event-flyers/400-usa-today-wine-food-experience-naples.jpg",
+    "endDate": "2026-11-14"
   }
 ]
