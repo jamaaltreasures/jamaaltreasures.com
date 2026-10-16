@@ -5946,5 +5946,24 @@
     "alt": "Power Ball 2026 flyer for Big Boogie Bday Bash at Xperience Live in Orlando on November 21",
     "imageKey": "event-flyers/394-power-ball-big-boogie-bday-bash.jpg",
     "endDate": "2026-11-22"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jacksonville PorchFest",
+    "date": "NOVEMBER 7, 12 PM TO 8 PM",
+    "headliners": "",
+    "venue": "Historic Springfield, Jacksonville",
+    "categories": [
+      "Music",
+      "Arts",
+      "Food"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://www.jacksonvilleporchfest.org/what-is-jacksonville-porchfest/",
+    "flyerUrl": "https://www.jacksonvilleporchfest.org/what-is-jacksonville-porchfest/",
+    "image": "/events/flyer/395-jacksonville-porchfest.jpg",
+    "alt": "Jacksonville PorchFest 2026 poster for the free music festival in Historic Springfield Jacksonville on Saturday November 7",
+    "imageKey": "event-flyers/395-jacksonville-porchfest.jpg",
+    "endDate": "2026-11-07"
   }
 ]
