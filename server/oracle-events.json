@@ -6221,5 +6221,22 @@
     "alt": "EsDeeKid Council House Rat Tour Fort Lauderdale event flyer",
     "imageKey": "event-flyers/410-esdeekid-council-house-rat-tour-fort-lauderdale.jpg",
     "endDate": "2026-10-21"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Great Gulfcoast Arts Festival",
+    "date": "NOVEMBER 6 TO 8",
+    "headliners": "",
+    "venue": "Seville Square, Pensacola",
+    "categories": [
+      "Arts"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://www.ggaf.org/",
+    "flyerUrl": "https://www.ggaf.org/page/festival-poster",
+    "image": "/events/flyer/411-great-gulfcoast-arts-festival.jpg",
+    "alt": "Great Gulfcoast Arts Festival 2026 poster showing a pelican carrying a paintbrush over the water at sunset",
+    "imageKey": "event-flyers/411-great-gulfcoast-arts-festival.jpg",
+    "endDate": "2026-11-08"
   }
 ]
