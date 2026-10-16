@@ -194,7 +194,7 @@
   const block=document.querySelector('#selected-checkout'),select=document.querySelector('#project-type');
   if(!block||!select)return;
   const catalog=JSON.parse(document.querySelector('#payment-catalog')?.textContent||'{}'),offer=catalog[select.value],link=document.querySelector('#selected-pay-now');
-  const fields=document.querySelector('#collaboration-fields'),isCollaboration=offer?.id==='song-collaboration';if(fields){fields.hidden=!isCollaboration;fields.disabled=!isCollaboration;if(isCollaboration){const budget=document.querySelector('[name="budget"]');if(!budget.value)budget.value='$50'}}const eventFields=document.querySelector('#event-fields'),isEventCoverage=offer?.id==='event-coverage';if(eventFields){eventFields.hidden=!isEventCoverage;eventFields.disabled=!isEventCoverage;}
+const eventFields=document.querySelector('#event-fields'),isEventCoverage=offer?.id==='event-coverage';if(eventFields){eventFields.hidden=!isEventCoverage;eventFields.disabled=!isEventCoverage;}
   block.hidden=!offer;
   if(!offer){link.href='/prices';link.removeAttribute('data-offer');return}
   link.href=offer.url;link.dataset.offer=offer.id;
@@ -203,11 +203,6 @@
   requestAnimationFrame(()=>window.JTGlassOptics?.schedule());
  }
  document.querySelector('#project-type')?.addEventListener('change',syncCheckout);
- const collaboration=document.querySelector('#collaboration-dialog');let collaborationOpener;
- function closeCollaboration(){collaboration.close();document.body.classList.remove('collaboration-open');const url=new URL(location.href);url.searchParams.delete('collaborate');history.replaceState({},'',url.pathname+url.search);(collaborationOpener?.isConnected?collaborationOpener:document.querySelector('.music-collaboration .button'))?.focus({preventScroll:true})}
- document.addEventListener('pagechange',event=>{const requested=event.detail.page==='music'&&new URL(location.href).searchParams.get('collaborate')==='1';if(requested&&!collaboration.open){collaborationOpener=document.activeElement;collaboration.showModal();document.body.classList.add('collaboration-open');document.querySelector('#close-collaboration').focus()}else if(!requested&&collaboration.open){collaboration.close();document.body.classList.remove('collaboration-open')}});
- document.querySelector('#close-collaboration').addEventListener('click',closeCollaboration);collaboration.addEventListener('cancel',event=>{event.preventDefault();closeCollaboration()});collaboration.addEventListener('click',event=>{if(event.target===collaboration){const r=collaboration.getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)closeCollaboration()}});
- document.querySelector('#collaboration-path').addEventListener('change',event=>{document.querySelector('#collaboration-audio').required=event.target.value==='feature'});
  const header=document.querySelector('.site-header');let scrollTick=false;const syncHeader=()=>{header?.classList.toggle('header-scrolled',scrollY>24);scrollTick=false};addEventListener('scroll',()=>{if(!scrollTick){scrollTick=true;requestAnimationFrame(syncHeader)}},{passive:true});syncHeader();window.JTPages={render,resolve};render();
 })();
 
