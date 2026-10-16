@@ -253,3 +253,15 @@ body .site-header .site-menu.glass-panel{border-radius:28px;background:linear-gr
 .site-menu .menu-links{padding:10px}.site-menu .menu-links a{border-radius:17px;margin:3px 0;text-shadow:0 2px 3px #000}.site-menu .menu-links a:hover{background:#d9a5ef22}
 body .site-header :is(.nav-quote,.menu-toggle) *,body .mobile-dock a *,body .site-menu a *{filter:none!important;text-shadow:0 2px 3px #000}
 }
+
+/* Mobile footer organization, 2026-10-16 (owner order: center the footer bottom half on phones, compact and even): on mobile every footer row centers, the Explore and Contact labels take their own centered line, and both chip groups wrap in balanced centered rows. Desktop layout is unchanged, and the dock and music player clearances are untouched. */
+@media(max-width:700px){
+footer{justify-content:center;text-align:center}
+footer .footer-top{justify-content:center}
+footer .footer-cta{justify-content:center}
+footer .footer-explore,footer>div.footer-contact{justify-content:center}
+footer .footer-explore-label{flex:1 1 100%;text-align:center;margin:0}
+footer>p.footer-copy{text-align:center}
+footer>.footer-affiliate{align-items:center;text-align:center}
+footer>.footer-affiliate small{margin-inline:auto}
+}
