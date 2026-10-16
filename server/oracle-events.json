@@ -1081,23 +1081,6 @@
   },
   {
     "section": "NEXT WEEK",
-    "title": "Hurricane Wisdom: Weathering The World Tour, Tampa",
-    "date": "OCTOBER 15, 8 PM",
-    "headliners": "Hurricane Wisdom",
-    "venue": "District 8, Tampa",
-    "categories": [
-      "Music"
-    ],
-    "detailsLabel": "Get Tickets",
-    "detailsUrl": "https://www.eventbrite.com/e/hurricane-wisdom-weathering-the-world-tickets-1997506200818",
-    "flyerUrl": "https://www.instagram.com/p/DRKuUB5kTUM/",
-    "image": "/events/flyer/120-hurricane-wisdom-weathering-the-world-tour.jpg",
-    "alt": "Hurricane Wisdom Weathering The World Tour poster",
-    "imageKey": "event-flyers/120-hurricane-wisdom-weathering-the-world-tour.jpg",
-    "endDate": "2026-10-15"
-  },
-  {
-    "section": "NEXT WEEK",
     "title": "Hurricane Wisdom: Weathering The World Tour, Miami",
     "date": "OCTOBER 16, 8 PM TO 12 AM",
     "headliners": "Hurricane Wisdom",
@@ -5911,5 +5894,57 @@
     "alt": "The Hondo Rodeo Fest flyer for February 26 to 28 at Raymond James Stadium in Tampa",
     "imageKey": "event-flyers/391-hondo-rodeo-fest.jpg",
     "endDate": "2027-02-28"
+  },
+  {
+    "section": "NEXT WEEK",
+    "title": "Knocked Loose and Denzel Curry: The Hive Mind Tour, Orlando",
+    "date": "OCTOBER 16, 7 PM",
+    "headliners": "Knocked Loose, Denzel Curry, Superheaven, Boundaries",
+    "venue": "Orlando Amphitheater, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.jambase.com/show/knocked-loose-orlando-amphitheater-at-the-central-florida-fairgrounds-20261016",
+    "flyerUrl": "https://envertmedia.com/knocked-loose-denzel-curry-2026-the-hive-mind-tour-dates/",
+    "image": "/events/flyer/392-knocked-loose-denzel-curry-hive-mind-tour-orlando.jpg",
+    "alt": "Knocked Loose and Denzel Curry Hive Mind Tour poster, Orlando Amphitheater Orlando",
+    "imageKey": "event-flyers/392-knocked-loose-denzel-curry-hive-mind-tour-orlando.jpg",
+    "endDate": "2026-10-16"
+  },
+  {
+    "section": "NEXT WEEK",
+    "title": "Knocked Loose and Denzel Curry: The Hive Mind Tour, Fort Lauderdale",
+    "date": "OCTOBER 17, 7 PM",
+    "headliners": "Knocked Loose, Denzel Curry, Superheaven, Boundaries",
+    "venue": "FTL War Memorial, Fort Lauderdale",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.jambase.com/show/knocked-loose-ftl-war-memorial-20261017",
+    "flyerUrl": "https://envertmedia.com/knocked-loose-denzel-curry-2026-the-hive-mind-tour-dates/",
+    "image": "/events/flyer/393-knocked-loose-denzel-curry-hive-mind-tour-fort-lauderdale.jpg",
+    "alt": "Knocked Loose and Denzel Curry Hive Mind Tour poster, FTL War Memorial Fort Lauderdale",
+    "imageKey": "event-flyers/393-knocked-loose-denzel-curry-hive-mind-tour-fort-lauderdale.jpg",
+    "endDate": "2026-10-17"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Power Ball 2026: Big Boogie Bday Bash",
+    "date": "NOVEMBER 21, 10 PM TO 3 AM",
+    "headliners": "Big Boogie, Natalie Nunn, Trigga 500K, 730 Turk, Bally Baby, Ball Greezy, 1st Ladie",
+    "venue": "Xperience Live Event Center, Orlando",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/2026-classic-weekend-power-ball-natalie-nunn-more-tickets-1992174748300",
+    "flyerUrl": "https://dmeparty.com/",
+    "image": "/events/flyer/394-power-ball-big-boogie-bday-bash.jpg",
+    "alt": "Power Ball 2026 flyer for Big Boogie Bday Bash at Xperience Live in Orlando on November 21",
+    "imageKey": "event-flyers/394-power-ball-big-boogie-bday-bash.jpg",
+    "endDate": "2026-11-22"
   }
 ]
