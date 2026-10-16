@@ -6374,5 +6374,141 @@
     "alt": "Florida Strawberry Festival midway in Plant City",
     "imageKey": "event-flyers/419-florida-strawberry-festival.jpg",
     "endDate": "2027-03-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Yebba: Jean Tour, Orlando",
+    "date": "NOVEMBER 15, 7 PM",
+    "headliners": "Yebba",
+    "venue": "House of Blues Orlando, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/yebba-tickets/artist/2855092",
+    "flyerUrl": "https://www.ticketmaster.com/yebba-tickets/artist/2855092",
+    "image": "/events/flyer/420-yebba-orlando.jpg",
+    "alt": "Yebba Jean Tour live at House of Blues Orlando on November 15 2026",
+    "imageKey": "event-flyers/420-yebba-orlando.jpg",
+    "endDate": "2026-11-15"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Yebba: Jean Tour, Miami Beach",
+    "date": "NOVEMBER 16, 8 PM",
+    "headliners": "Yebba",
+    "venue": "The Fillmore Miami Beach at Jackie Gleason Theater, Miami Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/yebba-tickets/artist/2855092",
+    "flyerUrl": "https://www.ticketmaster.com/yebba-tickets/artist/2855092",
+    "image": "/events/flyer/421-yebba-miami-beach.jpg",
+    "alt": "Yebba Jean Tour live at The Fillmore Miami Beach on November 16 2026",
+    "imageKey": "event-flyers/421-yebba-miami-beach.jpg",
+    "endDate": "2026-11-16"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jodeci: 35th Anniversary Tour of Forever My Lady, Jacksonville",
+    "date": "DECEMBER 15, 8 PM",
+    "headliners": "Jodeci",
+    "venue": "Florida Theatre Jacksonville, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://floridatheatre.showare.com/eventperformances.asp?evt=1671",
+    "flyerUrl": "https://thatgrapejuice.net/2026/09/jodeci-announce-forever-my-lady-35th-anniversary-tour-see-the-dates/",
+    "image": "/events/flyer/423-jodeci-jacksonville.jpg",
+    "alt": "Jodeci 35th Anniversary Tour of Forever My Lady live at Florida Theatre Jacksonville on December 15 2026",
+    "imageKey": "event-flyers/423-jodeci-jacksonville.jpg",
+    "endDate": "2026-12-15"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jodeci: 35th Anniversary Tour of Forever My Lady, Miami Beach",
+    "date": "DECEMBER 16, 8 PM",
+    "headliners": "Jodeci",
+    "venue": "The Fillmore Miami Beach at Jackie Gleason Theater, Miami Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.jambase.com/venue/the-fillmore-miami-beach-at-the-jackie-gleason-theater",
+    "flyerUrl": "https://thatgrapejuice.net/2026/09/jodeci-announce-forever-my-lady-35th-anniversary-tour-see-the-dates/",
+    "image": "/events/flyer/424-jodeci-miami-beach.jpg",
+    "alt": "Jodeci 35th Anniversary Tour of Forever My Lady live at The Fillmore Miami Beach on December 16 2026",
+    "imageKey": "event-flyers/424-jodeci-miami-beach.jpg",
+    "endDate": "2026-12-16"
+  },
+  {
+    "section": "LATER IN OCTOBER",
+    "title": "Leon Bridges Presents: Happiness Anytime, Miami",
+    "date": "OCTOBER 28, 7 PM",
+    "headliners": "Leon Bridges",
+    "venue": "ZeyZey Miami, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/leon-bridges-tickets/artist/2075742",
+    "flyerUrl": "https://www.ticketmaster.com/leon-bridges-tickets/artist/2075742",
+    "image": "/events/flyer/425-leon-bridges-miami.jpg",
+    "alt": "Leon Bridges Presents Happiness Anytime live at ZeyZey Miami on October 28 2026",
+    "imageKey": "event-flyers/425-leon-bridges-miami.jpg",
+    "endDate": "2026-10-28"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "The Feast: An Evening of Italian Culture and Flavor",
+    "date": "JANUARY 21, 7 PM",
+    "headliners": "",
+    "venue": "Las Olas Intracoastal Promenade Park, Fort Lauderdale",
+    "categories": [
+      "Food"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.vlfoodwine.com/the-feast/",
+    "flyerUrl": "https://vlfoodwine.com/events/",
+    "image": "/events/flyer/430-the-feast.jpg",
+    "alt": "The Feast Italian food and wine celebration hosted by Chef Rino Cerbone in Fort Lauderdale",
+    "imageKey": "event-flyers/430-the-feast.jpg",
+    "endDate": "2027-01-21"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "BBQ at the Beach",
+    "date": "JANUARY 22, 7 PM",
+    "headliners": "",
+    "venue": "Las Olas Intracoastal Promenade Park, Fort Lauderdale",
+    "categories": [
+      "Food"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.vlfoodwine.com/bbq-at-the-beach/",
+    "flyerUrl": "https://vlfoodwine.com/events/",
+    "image": "/events/flyer/431-bbq-at-the-beach.jpg",
+    "alt": "BBQ at the Beach smoke and fire tasting hosted by Chef Jason Smith in Fort Lauderdale",
+    "imageKey": "event-flyers/431-bbq-at-the-beach.jpg",
+    "endDate": "2027-01-22"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "Beachside Brunch",
+    "date": "JANUARY 24, 1 PM",
+    "headliners": "",
+    "venue": "Las Olas Oceanside Park, Fort Lauderdale",
+    "categories": [
+      "Food"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.vlfoodwine.com/beachside-brunch/",
+    "flyerUrl": "https://vlfoodwine.com/events/",
+    "image": "/events/flyer/432-beachside-brunch.jpg",
+    "alt": "Beachside Brunch hosted by Chef Nancy Fuller at Las Olas Oceanside Park in Fort Lauderdale",
+    "imageKey": "event-flyers/432-beachside-brunch.jpg",
+    "endDate": "2027-01-24"
   }
 ]
