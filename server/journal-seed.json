@@ -1,5 +1,415 @@
 [
  {
+  "slug": "indie-flea-st-pete-14th-anniversary",
+  "title": "Indie Flea Returns to St. Petersburg for Its 14th Anniversary With 180 Vendors",
+  "excerpt": "Tampa Bays favorite flea market opens its new season Saturday, October 17 at Campbell Park in St. Petersburg. Creative Loafing Tampa Bay reports 180 curated vendors, vintage collectors, artists, makers, designers, and local food for its 14th anniversary Grand Opening.",
+  "seoDescription": "Indie Flea returns Saturday, October 17 at Campbell Park in St. Petersburg with 180 curated vendors for its 14th anniversary Grand Opening. What to expect.",
+  "category": "events",
+  "serviceId": "event-coverage",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-17T12:20:00.000Z",
+  "updatedAt": "2026-10-17T12:20:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/indie-flea-st-pete-14th-anniversary-hero.webp",
+   "alt": "A crowded Indie Flea market hall with shoppers browsing clothing racks, art stalls, and maker booths under string lights in front of a stage",
+   "subject": "Indie Flea market crowd browsing vendor stalls",
+   "kind": "photo",
+   "sourceUrl": "https://theindieflea.com",
+   "credit": "Image: Indie Flea market crowd via Indie Flea. Story source: Creative Loafing Tampa Bay, October 16, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Fourteen years of shopping small, back on Saturday",
+    "paragraphs": [
+     "Indie Flea returns this Saturday, October 17, to Campbell Park in St. Petersburg for its 14th anniversary Grand Opening, according to Creative Loafing Tampa Bay. The market is bringing 180 curated vendors for the occasion, which is a serious footprint for a community market and a clear sign of how durable this format has become in Tampa Bay.",
+     "Creative Loafing describes Indie Flea as Tampa Bays favorite flea market, known for exceptional curation and vibrant community experiences. Fourteen years in, that reputation is the product. Shoppers trust that a Saturday at Indie Flea will be worth the trip before they know a single vendor name, and that kind of trust takes years of consistent selection to build."
+    ]
+   },
+   {
+    "heading": "What you will find among the 180 vendors",
+    "paragraphs": [
+     "The lineup brings together the regions most sought after vintage collectors, artists, makers, designers, and independent brands. Expect an incredible selection of antiques and vintage treasures, with clothing, art, home goods, and one of a kind pieces that reward slow browsing.",
+     "The announcement also makes a point of the day beyond the shopping:"
+    ],
+    "bullets": [
+     "180 curated vendors across vintage, art, design, and independent brands",
+     "Local food and beverage vendors picked for a family picnic on the grounds",
+     "A 14th anniversary Grand Opening that opens the new market season at Campbell Park in St. Petersburg"
+    ]
+   },
+   {
+    "heading": "Why markets like this matter to Florida creators",
+    "paragraphs": [
+     "A market at this scale is a working showcase for the local creative economy. Makers test products face to face with buyers, vintage sellers move pieces that would sit unseen online, and food vendors build the followings that carry them into their next location. For photographers and videographers, a crowd this colorful is also a portfolio day hiding in plain sight, with real people, real products, and real Florida light.",
+     "If you run a small brand in Tampa Bay, walking a market like Indie Flea is research you cannot get from a feed. Watch which booths hold a crowd, which displays stop people mid step, and which makers turn a browser into a buyer in under a minute. That is merchandising, storytelling, and pricing feedback happening live, all in one afternoon."
+    ]
+   },
+   {
+    "heading": "Plan the trip",
+    "paragraphs": [
+     "Head to Campbell Park in St. Petersburg on Saturday, October 17, and give yourself time to browse slowly and stay for a picnic with your family, as the organizers suggest. Markets reward early arrivals for the best vintage finds and patient walkers for the small booths tucked between the big ones.",
+     "And if you are an organizer building something similar, study the formula: tight curation, a consistent home, food that keeps people on site, and a community that treats the date as a ritual. Fourteen years of Saturdays is not an accident. It is what happens when an event keeps its standard high enough that showing up stays an easy decision."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "creative-loafing-tampa-bay",
+    "title": "Creative Loafing Tampa Bay: Indie Flea is back this Saturday (October 16, 2026)",
+    "url": "https://www.cltampa.com"
+   },
+   {
+    "id": "indie-flea",
+    "title": "Indie Flea: St. Pete Indie Flea",
+    "url": "https://theindieflea.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "event-coverage",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Cover my event",
+   "price": 2000,
+   "serviceId": "event-coverage"
+  },
+  "nextClick": {
+   "label": "See event coverage",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "artful-agenda-planner-275k-month",
+  "title": "A Baby Shower Idea Became Artful Agenda at 275K a Month",
+  "excerpt": "Katy Allen wanted a paper planner that could talk to a digital calendar. The Hustle Blower tells how she built a private group before the app, survived a developer disaster, and grew Artful Agenda to 275,000 dollars a month in gross revenue.",
+  "seoDescription": "Artful Agenda grew from a baby shower conversation to 275K a month in gross revenue. The audience first playbook, the developer lesson, and the small pilot to copy.",
+  "category": "brand-growth",
+  "serviceId": "business-website",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-17T12:16:00.000Z",
+  "updatedAt": "2026-10-17T12:16:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/artful-agenda-planner-275k-month-hero.webp",
+   "alt": "A tablet showing the Artful Agenda digital planner open to a colorful weekly calendar view with events, priorities, goals, and meal plans",
+   "subject": "Artful Agenda digital planner weekly view",
+   "kind": "photo",
+   "sourceUrl": "https://artfulagenda.com",
+   "credit": "Image: Artful Agenda planner on a tablet via Artful Agenda. Story source: The Hustle Blower, October 16, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The problem was a planner that could not sync",
+    "paragraphs": [
+     "In Nashville in 2016, Katy Allen was raising young children, supporting a husband who traveled for work, and running a sales organization of more than 2,000 childrens book consultants. She loved beautiful paper planners, but her paper planner could not talk to her husbands digital calendar, and tools like Google Calendar synced appointments without giving her the planner experience she wanted.",
+     "At her daughters baby shower, a friend said she wished for a digital version of a beautiful paper agenda, and the light went on. One friend agreeing proves nothing on its own, but it told Katy the problem might live in other households too. She decided to find out properly before she built anything expensive."
+    ]
+   },
+   {
+    "heading": "She built the crowd before she built the app",
+    "paragraphs": [
+     "Katy was not a software developer, so in 2017 she found people who understood software, sought business advice, and started learning. Her smartest move, though, involved no technology at all. She opened a private Facebook group for people who wanted a better digital planner, and she showed them mockups, features, designs, and pricing ideas.",
+     "Instead of guessing, she asked. The group became a research department that cost nothing, and when Artful Agenda finally launched, early testers from that group turned into paying subscribers. She was not collecting followers. She was recruiting future customers and product advisers at the same time, which is the kind of marketing any small team can copy."
+    ]
+   },
+   {
+    "heading": "A developer disaster, then a long climb",
+    "paragraphs": [
+     "The hard chapter came with her first development company. By Katys account, the developers spent her budget while finishing only about half the app. She paid what was required to obtain the existing code, found a new team, and negotiated a fixed price arrangement with a local designer to get the product finished.",
+     "At launch the app brought in roughly 1,000 to 2,000 dollars a month, real money that still did not make the business profitable after development, support, and operating costs. Katy kept building and later invested in paid advertising, becoming profitable after about six months of ads. By June 2025 she reported far bigger numbers:"
+    ],
+    "bullets": [
+     "About 275,000 dollars in average monthly gross revenue",
+     "About 3.5 million dollars in annual gross revenue",
+     "All of it from a subscription product built around a problem she personally understood, with figures that are founder reported and not audited profit"
+    ]
+   },
+   {
+    "heading": "Copy the order of operations, not the software bill",
+    "paragraphs": [
+     "The Hustle Blower argues for reversing the usual sequence. Pick one specific group of people, talk to 20 of them about the task they hate, the copying between tools, and the mistakes that cost them time or money, and ask whether they have ever paid to make the problem go away. A complaint is not a market. A past payment is evidence of one.",
+     "Then sketch the fix with a mockup, a spreadsheet, or a template, and offer a small paid pilot you can deliver by hand. Twenty people paying 12 dollars is only 240 dollars, but it proves more than 500 likes ever will. Photographers juggling shoots, tutors juggling students, and event organizers juggling deadlines all live inside scheduling chaos every week. The audience first playbook works in Florida creative businesses exactly as well as it worked for a planner in Nashville."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: A Baby Shower Led to 275K a Month (October 16, 2026)",
+    "url": "https://thehustleblower.com"
+   },
+   {
+    "id": "artful-agenda",
+    "title": "Artful Agenda: The stylish digital calendar",
+    "url": "https://artfulagenda.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "business-website",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Build my website",
+   "price": 1500,
+   "serviceId": "business-website"
+  },
+  "nextClick": {
+   "label": "See website pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "yardsale-ski-poles-220k",
+  "title": "Yardsale Made 220K in Three Months Selling Ski Poles Skiers Already Owned",
+  "excerpt": "Cristina Ashbaugh found that 90 percent of skiers could not name their pole brand. The Hustle Blower tells how Yardsale turned that indifference into magnetic poles, 100K in first month sales, and a Shark Tank deal.",
+  "seoDescription": "Yardsale ski poles did 220K in three months by fixing a forgotten accessory. The research question, the tape and magnets prototype, and the test to copy.",
+  "category": "brand-growth",
+  "serviceId": "business-website",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-17T12:12:00.000Z",
+  "updatedAt": "2026-10-17T12:12:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/yardsale-ski-poles-220k-hero.webp",
+   "alt": "A skier in leather gloves holding two red Yardsale ski poles clicked together by their magnetic handles, with the Yardsale name printed on the shafts",
+   "subject": "Yardsale magnetic ski poles held together",
+   "kind": "photo",
+   "sourceUrl": "https://www.gearpatrol.com/outdoors/yardsale-magnetic-ski-poles/",
+   "credit": "Image: Yardsale magnetic ski pole handles photo via Gear Patrol. Story source: The Hustle Blower, October 17, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Nobody could name the brand they already bought",
+    "paragraphs": [
+     "Cristina Ashbaugh loved skiing but thought poles were inconvenient and boring, so in 2023 she started asking skiers two simple questions: what brand are your poles, and what feature do you like about them. In her informal research, 90 percent could not name the brand and 95 percent could not name a single thing they liked.",
+     "Ski shops told her the same story from the other side of the counter. Customers mostly chose poles by color, and salespeople had little to say about real differences. The category had customers, distribution, and money moving through it. What it did not have was affection, and that gap became the whole business case for Yardsale."
+    ]
+   },
+   {
+    "heading": "The first prototype was tape and magnets",
+    "paragraphs": [
+     "Cristina teamed up with Kelly McGee, a former Apple product designer who had also started a medical device company. Their first experiment was delightfully plain: they taped magnets onto existing ski poles to see whether the poles would click together and become easier to carry through a parking lot in ski boots.",
+     "The click worked, and the improvement took about one second to understand. Turning that trick into a real product took serious work: hidden magnets in handles and baskets, modular parts, interchangeable colors, prototypes, factory meetings, tooling, and testing. The idea was easy to explain. Building it properly was not, and the founders are clear eyed about that difference."
+    ]
+   },
+   {
+    "heading": "Sales arrived before the television cameras did",
+    "paragraphs": [
+     "In a January 2025 interview with Entrepreneur, Cristina reported 100,000 dollars in sales in the first month, 220,000 dollars in the first three months, and 300,000 dollars in the first year, which included a four month ski season. Those are founder reported sales, not audited profit, and the company carried inventory, manufacturing, fulfillment, and marketing costs.",
+     "Cristina described working her day job and then packing orders in Kellys basement at night, and after about ten days the founders decided the business deserved their full attention. Yardsale appeared on Shark Tank in November 2024 and reached an on air deal with guest investor Kendra Scott, but the early sales had already happened. The show amplified demand. It did not create the reason customers wanted the product."
+    ]
+   },
+   {
+    "heading": "Steal the forgotten accessory test, not the product",
+    "paragraphs": [
+     "The Hustle Blower suggests hunting for the forgotten accessory in any hobby or trade: the small item people buy because they need it, never because they love it. List ten supporting products around an activity you know, then interview 20 real users about brand, annoyances, alternatives tried, and how they actually use the item.",
+     "Follow that with five retailers, instructors, or technicians, and ask what gets returned, what complaints repeat, and what customers improvise for themselves. If users and sellers name the same annoyance, a rough prototype built for about 150 dollars can test whether people understand it, use it, and ask the only question that counts: can I buy one. For creators, the same lens applies to the small frustrations inside a shoot day, an edit, or a booking process. Boring problems with a visible fix are often the best businesses in the room."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: They Made 220K From Ski Poles (October 17, 2026)",
+    "url": "https://thehustleblower.com"
+   },
+   {
+    "id": "gear-patrol",
+    "title": "Gear Patrol: Yardsale magnetic ski poles (January 2025)",
+    "url": "https://www.gearpatrol.com/outdoors/yardsale-magnetic-ski-poles/"
+   }
+  ],
+  "relatedServiceIds": [
+   "business-website",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Build my website",
+   "price": 1500,
+   "serviceId": "business-website"
+  },
+  "nextClick": {
+   "label": "See website pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "elizabeth-holmes-documentary-oscars",
+  "title": "The Elizabeth Holmes Documentary That Could Make Oscars History",
+  "excerpt": "Nathan Fielder and Lance Oppenheim followed Elizabeth Holmes in the weeks before she reported to prison. Morning Brew reports the A24 film opened to a 99 percent critics score and could become the first documentary ever nominated for best picture.",
+  "seoDescription": "You Can See Everything, the Nathan Fielder film about Elizabeth Holmes, opened to a 99 percent critics score. Why it could make Oscars history for documentaries.",
+  "category": "ai-filmmaking",
+  "serviceId": "brand-film",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-17T12:08:00.000Z",
+  "updatedAt": "2026-10-17T12:08:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/elizabeth-holmes-documentary-oscars-hero.webp",
+   "alt": "Elizabeth Holmes in close up, smiling as she speaks with Nathan Fielder, whose back is to the camera, in a still from You Can See Everything",
+   "subject": "Elizabeth Holmes in You Can See Everything",
+   "kind": "photo",
+   "sourceUrl": "https://theplaylist.net/nathan-fielder-elizabeth-holmes-you-can-see-everything-teaser-20260906/",
+   "credit": "Image: Still from You Can See Everything via A24 and The Playlist. Story source: Morning Brew, October 17, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A secret film about the final weeks of freedom",
+    "paragraphs": [
+     "You Can See Everything follows Theranos founder Elizabeth Holmes in the weeks leading up to her incarceration, and it was made in near total secrecy. The three hour A24 film comes from comedian Nathan Fielder, working with co director Lance Oppenheim, and Morning Brew reports it hit theaters yesterday to a 99 percent critics rating on Rotten Tomatoes.",
+     "The Guardian called it more shocking, twistier, thornier, and more revealing than billed. That response matters because the project could easily have played as a stunt. Instead, critics are treating it as a serious portrait of a person who built a fraud on confidence, filmed by a performer whose whole career studies how people perform."
+    ]
+   },
+   {
+    "heading": "Not a rescue mission, a study of a character",
+    "paragraphs": [
+     "Morning Brew stresses that this film is not Fielder trying to save a failed business, which is the engine of much of his earlier work. He spends time living alongside Holmes and her partner, Billy Evans, in the days before her imprisonment, trying to understand her elusive character. He ends up as the last person she hugs before she is driven away to begin her 11 year sentence.",
+     "The details around the edges are revealing on their own:"
+    ],
+    "bullets": [
+     "Evans tries, without success, to negotiate a cut of the film proceeds for Holmes",
+     "Evans admits he does not run some posts on Holmes social account by her first while she is in prison",
+     "After Holmes reports to prison, Fielder brings in Amanda Seyfried, who won an Emmy playing Holmes in The Dropout, to reenact his odd conversations with her"
+    ]
+   },
+   {
+    "heading": "Why the Oscars talk is not just hype",
+    "paragraphs": [
+     "Hollywood watchers quoted by Morning Brew say the buzz and the critical response could make this the first documentary ever nominated for best picture in the nearly 100 year history of the award. Documentaries have won major honors for decades, but the top category has stayed closed to them. A nomination would redraw what the industry thinks a documentary can be.",
+     "The path here is worth studying for any filmmaker. The film was kept under wraps until a trailer arrived last month showing an unblinking Holmes assuring Fielder of her honesty. Secrecy, timing, and one unforgettable image did the marketing work that a long campaign usually buys."
+    ]
+   },
+   {
+    "heading": "What documentary makers in Florida can learn",
+    "paragraphs": [
+     "Access is the whole game in documentary work, and access is earned with patience and trust, not with a bigger camera. Fielder got scenes nobody else could get because he stayed present for the small days, not only the dramatic ones. Event filmmakers and brand storytellers work the same muscle every time they follow a founder, an artist, or a team through a real process.",
+     "The second lesson is restraint in the reveal. This team held its footage, finished its film, and let one strong trailer open the conversation. If you are sitting on powerful footage right now, resist posting it in pieces. Build the finished piece, choose the single scene that proves its value, and let that scene carry the launch."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Elizabeth Holmes doc could make Oscars history (October 17, 2026)",
+    "url": "https://www.morningbrew.com"
+   },
+   {
+    "id": "the-playlist",
+    "title": "The Playlist: Nathan Fielder and Elizabeth Holmes documentary teaser (September 6, 2026)",
+    "url": "https://theplaylist.net/nathan-fielder-elizabeth-holmes-you-can-see-everything-teaser-20260906/"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-film",
+   "signature-film",
+   "music-video"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Tell my brand story",
+   "price": 2500,
+   "serviceId": "brand-film"
+  },
+  "nextClick": {
+   "label": "See the films and ads we produce",
+   "url": "/ai-films-ads"
+  }
+ },
+ {
+  "slug": "kfc-switches-pepsi-to-coke",
+  "title": "KFC Ends 40 Years With Pepsi and Switches to Coca Cola",
+  "excerpt": "After 40 years serving Pepsi products in its US restaurants, KFC is switching to Coca Cola starting in January. Morning Brew explains the cola wars math, the fall from first to fifth, and what a beverage menu can do for a comeback.",
+  "seoDescription": "KFC is switching from Pepsi to Coca Cola after 40 years, starting in January. The market share math, the comeback logic, and the brand lesson inside.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-17T12:04:00.000Z",
+  "updatedAt": "2026-10-17T12:04:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/kfc-switches-pepsi-to-coke-hero.webp",
+   "alt": "A red and white KFC sign with the Colonel Sanders portrait mounted on the glass front of a restaurant building",
+   "subject": "KFC restaurant sign",
+   "kind": "photo",
+   "sourceUrl": "https://www.shefinds.com",
+   "credit": "Image: KFC restaurant sign photo via SheFinds. Story source: Morning Brew, October 17, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A 40 year pairing comes off the menu",
+    "paragraphs": [
+     "KFC said this week that its US restaurants will switch from PepsiCo products to Coca Cola starting in January, ending a pairing that has lasted about 40 years. Morning Brew frames the move as a real loss for Pepsi in the long running cola wars, and as one piece of a larger comeback attempt by the chicken chain.",
+     "The history makes the split sting. Pepsi bought KFC in 1986 and owned the chain for more than a decade, then spun off its restaurant businesses, including Taco Bell and Pizza Hut, in 1997 into the company that later became Yum Brands. Pepsi kept pouring the drinks long after the ownership ended. Now the fountain belongs to the rival."
+    ]
+   },
+   {
+    "heading": "Why a chicken chain cares this much about soda",
+    "paragraphs": [
+     "KFC US President Catherine Tan Gillespie told employees and franchisees, in a letter obtained by CNBC, that Coke products will help the chain innovate, meet changing tastes, and give customers more reasons to choose KFC. Morning Brew points to younger customers in particular, who want inventive and customizable drinks such as refreshers and dirty sodas.",
+     "The need is plain in the rankings. KFC has fallen from first in US sales in 2012 to fifth overall in 2026, according to research firm Technomic. A chain in that position does not change a 40 year supplier for novelty. It changes because every part of the menu has to pull customers back in, including the cup in the drive thru window."
+    ]
+   },
+   {
+    "heading": "The cola wars scoreboard right now",
+    "paragraphs": [
+     "Morning Brew lays out a tough stretch for Pepsi before this news even landed:"
+    ],
+    "bullets": [
+     "Coke holds about 44 percent of the US carbonated soda market, compared with about 26 percent for Pepsi, per Circana",
+     "Pepsi stock is down double digits in the past year, and healthier habits plus GLP 1 drugs have hurt its North American salty snack business",
+     "Coke has recently won Culvers, Arbys, Panda Express, Marriott hotels, and the Costco food court away from Pepsi",
+     "Pepsi is not empty handed: it took Subway from Coke last year, and it will keep supplying KFC restaurants in multiple overseas markets"
+    ]
+   },
+   {
+    "heading": "What smaller brands should steal from this story",
+    "paragraphs": [
+     "The lesson is not about soda. It is about auditing the familiar parts of your offer that nobody has questioned in years. KFC treated its drink menu as a growth lever, not a tradition. Independent restaurants, venues, and creators can do the same audit on their own menus, merch tables, booking pages, and content formats.",
+     "Ask which parts of your business customers actually choose you for, and which parts are just habit left over from an older version of the brand. Then put your energy, your photos, and your video behind the parts that give people a fresh reason to come back. A comeback rarely starts with a total reinvention. It usually starts with one visible change that tells the market the brand is awake again."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: The colonel says KF see ya later to Pepsi (October 17, 2026)",
+    "url": "https://www.morningbrew.com/stories/the-colonel-says-kf-see-ya-later-to-pepsi"
+   },
+   {
+    "id": "reuters",
+    "title": "Reuters: KFC to sign Coca Cola on as beverage partner, ditching PepsiCo (October 15, 2026)",
+    "url": "https://www.reuters.com/business/kfc-sign-coca-cola-beverage-partner-ditching-pepsico-wsj-reports-2026-10-15/"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "meta-ads",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "cleanlots-700k-parking-lot-business",
   "title": "He Turned 200 Dollars Into a 700,000 Dollar Parking Lot Business",
   "excerpt": "Brian Winch built Cleanlots by picking up litter in shopping plaza parking lots, starting with about 200 dollars in 1981. The Hustle Blower explains the property manager decision and the recurring fee engine.",
