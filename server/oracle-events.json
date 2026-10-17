@@ -6510,5 +6510,57 @@
     "alt": "Beachside Brunch hosted by Chef Nancy Fuller at Las Olas Oceanside Park in Fort Lauderdale",
     "imageKey": "event-flyers/432-beachside-brunch.jpg",
     "endDate": "2027-01-24"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "James Hype and HILLS at Club Space",
+    "date": "NOVEMBER 13, 11 PM",
+    "headliners": "James Hype, HILLS, Danyelino, Alezsandro, Monoky",
+    "venue": "Club Space, Miami",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://dice.fm/event/6ac681e6ede6160001275006",
+    "flyerUrl": "https://dice.fm/event/6ac681e6ede6160001275006",
+    "image": "/events/flyer/434-james-hype-hills-club-space.jpg",
+    "alt": "James Hype and HILLS poster for Club Space Miami on Friday November 13 2026 with Danyelino, Alezsandro and Monoky",
+    "imageKey": "event-flyers/434-james-hype-hills-club-space.jpg",
+    "endDate": "2026-11-14"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "Picnic in the Park",
+    "date": "JANUARY 24, 12 PM TO 4 PM",
+    "headliners": "",
+    "venue": "Las Olas Oceanside Park, Fort Lauderdale",
+    "categories": [
+      "Food"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/picnic-in-the-park-presented-by-joe-dimaggio-childrens-hospital-tickets-1997452420961",
+    "flyerUrl": "https://vlfoodwine.com/events/",
+    "image": "/events/flyer/450-picnic-in-the-park.jpg",
+    "alt": "Picnic in the Park free family food festival at Las Olas Oceanside Park in Fort Lauderdale",
+    "imageKey": "event-flyers/450-picnic-in-the-park.jpg",
+    "endDate": "2027-01-24"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "ArtiGras Fine Arts Festival",
+    "date": "FEBRUARY 6 TO 7, 10 AM TO 5 PM",
+    "headliners": "",
+    "venue": "Gardens North County District Park, Palm Beach Gardens",
+    "categories": [
+      "Arts"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.squadup.com/hosts/5475153/events",
+    "flyerUrl": "https://www.artigras.org",
+    "image": "/events/flyer/451-artigras-fine-arts-festival.jpg",
+    "alt": "ArtiGras Fine Arts Festival February 6 and 7 2027 at Gardens North County District Park in Palm Beach Gardens",
+    "imageKey": "event-flyers/451-artigras-fine-arts-festival.jpg",
+    "endDate": "2027-02-07"
   }
 ]
