@@ -6580,5 +6580,41 @@
     "alt": "Snoop Dogg live performance flyer for E11EVEN Miami on Friday December 11 2026",
     "imageKey": "event-flyers/452-snoop-dogg-at-e11even.jpg",
     "endDate": "2026-12-12"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "Sarasota Seafood and Music Festival",
+    "date": "JANUARY 8 TO 10",
+    "headliners": "",
+    "venue": "Sarasota Fairgrounds, Sarasota",
+    "categories": [
+      "Food",
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.paragonfestivals.com/festival/sarasota-seafood-music-festival-2027/",
+    "flyerUrl": "https://www.paragonfestivals.com/festival/sarasota-seafood-music-festival-2027/",
+    "image": "/events/flyer/453-sarasota-seafood-and-music-festival.jpg",
+    "alt": "Sarasota Seafood and Music Festival key art with a mahi mahi at the Sarasota Fairgrounds",
+    "imageKey": "event-flyers/453-sarasota-seafood-and-music-festival.jpg",
+    "endDate": "2027-01-10"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "Punta Gorda Seafood and Music Festival",
+    "date": "JANUARY 15 TO 17",
+    "headliners": "",
+    "venue": "Laishley Park, Punta Gorda",
+    "categories": [
+      "Food",
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.paragonfestivals.com/festival/punta-gorda-seafood-music-festival-2027/",
+    "flyerUrl": "https://www.paragonfestivals.com/festival/punta-gorda-seafood-music-festival-2027/",
+    "image": "/events/flyer/454-punta-gorda-seafood-and-music-festival.jpg",
+    "alt": "Punta Gorda Seafood and Music Festival key art with a redfish at Laishley Park in Punta Gorda",
+    "imageKey": "event-flyers/454-punta-gorda-seafood-and-music-festival.jpg",
+    "endDate": "2027-01-17"
   }
 ]
