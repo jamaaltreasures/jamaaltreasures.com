@@ -6584,5 +6584,23 @@
     "alt": "Forever Growncoming party flyer featuring K. Michelle at Venue 1872 in Tallahassee",
     "imageKey": "event-flyers/459-forever-growncoming-k-michelle.jpg",
     "endDate": "2026-10-24"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "St. Pete Country Fest",
+    "date": "NOVEMBER 20 TO 22, 1 PM TO 10 PM",
+    "headliners": "Riley Green, Bailey Zimmerman, Koe Wetzel, Tucker Wetmore, Stephen Wilson Jr., Warren Zeiders, Dylan Gossett, ERNEST, Cameron Whitcomb, Chase Matthew, Corey Kent, Charles Wesley Godwin, Evan Honer",
+    "venue": "Vinoy Park, St. Petersburg",
+    "categories": [
+      "Music",
+      "Culture"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://stpetecountryfest.com",
+    "flyerUrl": "https://stpetecountryfest.com",
+    "image": "/events/flyer/460-st-pete-country-fest.jpg",
+    "alt": "St. Pete Country Fest flyer with Riley Green, Bailey Zimmerman and Koe Wetzel at Vinoy Park in St. Petersburg",
+    "imageKey": "event-flyers/460-st-pete-country-fest.jpg",
+    "endDate": "2026-11-22"
   }
 ]
