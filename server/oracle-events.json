@@ -6530,5 +6530,59 @@
     "alt": "Gorgon City at The Ritz Ybor event flyer",
     "imageKey": "event-flyers/456-gorgon-city-at-the-ritz-ybor.jpg",
     "endDate": "2026-12-06"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Holidaze Fest Florida 2026",
+    "date": "NOVEMBER 14 TO 15, 3 PM TO 10 PM",
+    "headliners": "Dirty Heads, Wiz Khalifa, Steel Pulse, Collie Buddz",
+    "venue": "Sunset Cove Amphitheater, Boca Raton",
+    "categories": [
+      "Music",
+      "Culture"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventliveus.com/event/10473/holidaze26",
+    "flyerUrl": "https://reggaeriseup.com/florida/holidaze/?holidaze=new_audience",
+    "image": "/events/flyer/457-holidaze-fest-florida.jpg",
+    "alt": "Holidaze Fest Florida 2026 lineup poster for Sunset Cove Amphitheater in Boca Raton",
+    "imageKey": "event-flyers/457-holidaze-fest-florida.jpg",
+    "endDate": "2026-11-15"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "Reggae Rise Up Florida Festival 2027",
+    "date": "MARCH 11 TO 14, 2027",
+    "headliners": "Slightly Stoopid, The Elovaters, Stick Figure, Dirty Heads",
+    "venue": "Vinoy Park, St. Petersburg",
+    "categories": [
+      "Music",
+      "Culture"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://reggaeriseup.com/florida/",
+    "flyerUrl": "https://reggaeriseup.com/florida/",
+    "image": "/events/flyer/458-reggae-rise-up-florida-festival.jpg",
+    "alt": "Reggae Rise Up Florida Festival 2027 lineup poster for Vinoy Park in St. Petersburg",
+    "imageKey": "event-flyers/458-reggae-rise-up-florida-festival.jpg",
+    "endDate": "2027-03-14"
+  },
+  {
+    "section": "LATER IN OCTOBER",
+    "title": "Forever Growncoming Featuring K. Michelle",
+    "date": "OCTOBER 23, 9 PM TO 2 AM",
+    "headliners": "K. Michelle, DJ Demp, DJ Pretti T",
+    "venue": "Venue 1872, Tallahassee",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/forever-growncoming-featuring-k-michelle-biggest-alumni-party-tickets-1997988399086",
+    "flyerUrl": "https://www.eventbrite.com/e/forever-growncoming-featuring-k-michelle-biggest-alumni-party-tickets-1997988399086",
+    "image": "/events/flyer/459-forever-growncoming-k-michelle.jpg",
+    "alt": "Forever Growncoming party flyer featuring K. Michelle at Venue 1872 in Tallahassee",
+    "imageKey": "event-flyers/459-forever-growncoming-k-michelle.jpg",
+    "endDate": "2026-10-24"
   }
 ]
