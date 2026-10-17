@@ -6638,5 +6638,77 @@
     "alt": "St. Pete BikeFest 2026 schedule flyer with Slaughter and Soul Asylum live in Clearwater",
     "imageKey": "event-flyers/462-st-pete-bikefest.jpg",
     "endDate": "2026-11-22"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "EDCO Pre-Party ft. AFROJACK",
+    "date": "NOVEMBER 5, 9 PM TO 2:30 AM",
+    "headliners": "AFROJACK",
+    "venue": "The Vanguard, Orlando",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/edco-pre-party-ft-afrojack-tickets-2003366452990",
+    "flyerUrl": "https://www.eventbrite.com/e/edco-pre-party-ft-afrojack-tickets-2003366452990",
+    "image": "/events/flyer/463-edco-pre-party-afrojack.jpg",
+    "alt": "EDCO Pre-Party ft. AFROJACK at The Vanguard in Orlando on November 5",
+    "imageKey": "event-flyers/463-edco-pre-party-afrojack.jpg",
+    "endDate": "2026-11-06"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "EDCO After-Party ft. MAU P",
+    "date": "NOVEMBER 6, 10 PM TO 2:30 AM",
+    "headliners": "MAU P",
+    "venue": "The Vanguard, Orlando",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/edco-after-party-ft-mau-p-tickets-2003368577344",
+    "flyerUrl": "https://www.eventbrite.com/e/edco-after-party-ft-mau-p-tickets-2003368577344",
+    "image": "/events/flyer/464-edco-after-party-mau-p.jpg",
+    "alt": "EDCO After-Party ft. MAU P at The Vanguard in Orlando on November 6",
+    "imageKey": "event-flyers/464-edco-after-party-mau-p.jpg",
+    "endDate": "2026-11-07"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "EDCO After-Party ft. Franky Rizardo and Dennis Cruz",
+    "date": "NOVEMBER 7, 10 PM TO 2:30 AM",
+    "headliners": "Dennis Cruz, Franky Rizardo, Kinahau, Matthias",
+    "venue": "The Vanguard, Orlando",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/edco-after-party-ft-franky-rizardo-dennis-cruz-tickets-2003371078826",
+    "flyerUrl": "https://www.eventbrite.com/e/edco-after-party-ft-franky-rizardo-dennis-cruz-tickets-2003371078826",
+    "image": "/events/flyer/465-edco-after-party-franky-rizardo-dennis-cruz.jpg",
+    "alt": "EDCO After-Party ft. Franky Rizardo and Dennis Cruz at The Vanguard in Orlando on November 7",
+    "imageKey": "event-flyers/465-edco-after-party-franky-rizardo-dennis-cruz.jpg",
+    "endDate": "2026-11-08"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "EDCO After-Party ft. SLANDER",
+    "date": "NOVEMBER 8, 10 PM TO 2:30 AM",
+    "headliners": "SLANDER",
+    "venue": "The Vanguard, Orlando",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/edco-after-party-ft-slander-tickets-2003362628551",
+    "flyerUrl": "https://www.eventbrite.com/e/edco-after-party-ft-slander-tickets-2003362628551",
+    "image": "/events/flyer/466-edco-after-party-slander.jpg",
+    "alt": "EDCO After-Party ft. SLANDER at The Vanguard in Orlando on November 8",
+    "imageKey": "event-flyers/466-edco-after-party-slander.jpg",
+    "endDate": "2026-11-09"
   }
 ]
