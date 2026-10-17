@@ -6710,5 +6710,23 @@
     "alt": "EDCO After-Party ft. SLANDER at The Vanguard in Orlando on November 8",
     "imageKey": "event-flyers/466-edco-after-party-slander.jpg",
     "endDate": "2026-11-09"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Ely Oaks at The Vanguard",
+    "date": "FEBRUARY 19, 10 PM TO 2:30 AM",
+    "headliners": "Ely Oaks",
+    "venue": "The Vanguard, Orlando",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/ely-oaks-at-the-vanguard-tickets-2002086588882",
+    "flyerUrl": "https://www.eventbrite.com/e/ely-oaks-at-the-vanguard-tickets-2002086588882",
+    "image": "/events/flyer/467-ely-oaks-at-the-vanguard.jpg",
+    "alt": "Ely Oaks at The Vanguard in Orlando on February 19",
+    "imageKey": "event-flyers/467-ely-oaks-at-the-vanguard.jpg",
+    "endDate": "2027-02-20"
   }
 ]
