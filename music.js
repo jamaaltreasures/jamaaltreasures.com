@@ -232,3 +232,33 @@
  },{passive:true});
  audio.addEventListener('play',syncWave);audio.addEventListener('pause',syncWave);audio.addEventListener('ended',syncWave);
 })();
+
+/* Discography confinement (owner order, 2026-10-17): the music player and its
+   mini button belong to the Discography hub only (Music, Music Videos, The
+   Mind's Eye, Stats, Bio). On every other page they stay hidden, even while a
+   track is loaded; coming back to the hub restores them. Playback wiring above
+   is untouched. */
+(() => {
+ 'use strict';
+ const HUB = new Set(['music', 'work', 'minds-eye', 'stats', 'about']);
+ const player = document.querySelector('#music-player'), mini = document.querySelector('#music-player-mini');
+ if (!player || !mini) return;
+ let confined = false;
+ function apply() {
+  if (HUB.has(document.body.dataset.page)) {
+   if (!confined) return;
+   confined = false;
+   if (document.body.classList.contains('has-music-player') && player.hidden && !document.querySelector('#music-controls-dialog')?.open) player.hidden = false;
+  } else {
+   confined = true;
+   if (!player.hidden) player.hidden = true;
+   if (!mini.hidden) mini.hidden = true;
+  }
+ }
+ document.addEventListener('pagechange', apply);
+ document.addEventListener('pagewillchange', apply);
+ new MutationObserver(apply).observe(player, { attributes: true, attributeFilter: ['hidden'] });
+ new MutationObserver(apply).observe(mini, { attributes: true, attributeFilter: ['hidden'] });
+ new MutationObserver(apply).observe(document.body, { attributes: true, attributeFilter: ['data-page', 'class'] });
+ apply();
+})();

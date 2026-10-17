@@ -622,3 +622,14 @@ footer>.footer-affiliate small{margin-inline:auto}
 .packages-block{margin:26px 0 8px}
 .packages-block .packages-title{margin:0 0 6px;font-size:clamp(28px,4vw,40px);line-height:1.15;color:#111114}
 @media(min-width:760px){.story-steps{grid-template-columns:repeat(3,1fr)}.story-loop{grid-template-columns:repeat(5,1fr)}.story-cards{grid-template-columns:1fr 1fr}.package-grid{grid-template-columns:1fr 1fr}}
+
+/* Discography hub (owner order, 2026-10-17): bottom panel inside the hub views
+   (Music, Music Videos, The Mind's Eye, Stats, Bio) and confinement of the
+   music player to those views only. */
+.disco-panel{margin:36px auto 8px;max-width:760px;padding:10px 14px;border-radius:999px;display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap}
+.disco-panel-label{font-size:11px;letter-spacing:.18em;font-weight:800;text-transform:uppercase;color:#A7192F}
+.disco-panel-links{display:flex;gap:6px;flex-wrap:wrap;justify-content:center}
+.disco-panel-links a{padding:8px 14px;border-radius:999px;font-weight:700;font-size:14px;color:inherit;text-decoration:none}
+.disco-panel-links a[aria-current="page"]{background:#A7192F;color:#fff}
+body:not([data-page="music"]):not([data-page="work"]):not([data-page="minds-eye"]):not([data-page="stats"]):not([data-page="about"]) #music-player,
+body:not([data-page="music"]):not([data-page="work"]):not([data-page="minds-eye"]):not([data-page="stats"]):not([data-page="about"]) #music-player-mini{display:none!important}
