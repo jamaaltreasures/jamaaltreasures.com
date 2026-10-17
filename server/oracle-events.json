@@ -6602,5 +6602,41 @@
     "alt": "St. Pete Country Fest flyer with Riley Green, Bailey Zimmerman and Koe Wetzel at Vinoy Park in St. Petersburg",
     "imageKey": "event-flyers/460-st-pete-country-fest.jpg",
     "endDate": "2026-11-22"
+  },
+  {
+    "section": "LATER IN OCTOBER",
+    "title": "Trop Rock'N Duval",
+    "date": "OCTOBER 28 TO NOVEMBER 1",
+    "headliners": "Will Kimbrough and Friends, Jerry Diaz, Don Middlebrook, Dan McCaughey, Tim Campbell and the Tropical Attitudes",
+    "venue": "Multiple Venues, Key West",
+    "categories": [
+      "Music",
+      "Culture"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://troprockers.com/",
+    "flyerUrl": "https://troprockers.com/",
+    "image": "/events/flyer/461-trop-rockn-duval.jpg",
+    "alt": "Trop Rock'N Duval Key West music festival flyer with a rooster playing guitar on a pirate ship",
+    "imageKey": "event-flyers/461-trop-rockn-duval.jpg",
+    "endDate": "2026-11-01"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "St. Pete BikeFest",
+    "date": "NOVEMBER 19 TO 22",
+    "headliners": "Slaughter, Soul Asylum, Eat Crowe, Scream Machine, 90 Surge",
+    "venue": "OCC Road House & Museum, Clearwater",
+    "categories": [
+      "Music",
+      "Culture"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://www.saintpetebikefest.com/",
+    "flyerUrl": "https://www.saintpetebikefest.com/",
+    "image": "/events/flyer/462-st-pete-bikefest.jpg",
+    "alt": "St. Pete BikeFest 2026 schedule flyer with Slaughter and Soul Asylum live in Clearwater",
+    "imageKey": "event-flyers/462-st-pete-bikefest.jpg",
+    "endDate": "2026-11-22"
   }
 ]
