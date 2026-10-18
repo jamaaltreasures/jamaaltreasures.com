@@ -6858,5 +6858,39 @@
   "alt": "Rockabillaque Florida festival poster, Seminole Casino Hotel Immokalee",
   "imageKey": "event-flyers/495-rockabillaque-florida.jpg",
   "endDate": "2026-11-14"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Nickelback: Everything Under The Sun Tour, Hollywood",
+  "date": "FEBRUARY 26, 6:30 PM",
+  "headliners": "Nickelback, Don Broco",
+  "venue": "Hard Rock Live, Hollywood",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://casino.hardrock.com/hollywood/events/nickelback",
+  "flyerUrl": "https://casino.hardrock.com/hollywood/events/nickelback",
+  "image": "/events/flyer/496-nickelback-hollywood.jpg",
+  "alt": "Nickelback Everything Under The Sun Tour flyer, Hard Rock Live Hollywood",
+  "imageKey": "event-flyers/496-nickelback-hollywood.jpg",
+  "endDate": "2027-02-26"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Rod Stewart, Hollywood",
+  "date": "MARCH 12, 8 PM",
+  "headliners": "Rod Stewart",
+  "venue": "Hard Rock Live, Hollywood",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://casino.hardrock.com/hollywood/events/rod-stewart",
+  "flyerUrl": "https://casino.hardrock.com/hollywood/events/rod-stewart",
+  "image": "/events/flyer/497-rod-stewart-hollywood.jpg",
+  "alt": "Rod Stewart One More Time flyer, Hard Rock Live Hollywood",
+  "imageKey": "event-flyers/497-rod-stewart-hollywood.jpg",
+  "endDate": "2027-03-12"
  }
 ]
