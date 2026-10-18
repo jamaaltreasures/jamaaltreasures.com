@@ -6892,5 +6892,56 @@
   "alt": "Rod Stewart One More Time flyer, Hard Rock Live Hollywood",
   "imageKey": "event-flyers/497-rod-stewart-hollywood.jpg",
   "endDate": "2027-03-12"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Maroon 5, Hollywood",
+  "date": "DECEMBER 28, 8 PM",
+  "headliners": "Maroon 5",
+  "venue": "Hard Rock Live, Hollywood",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://casino.hardrock.com/hollywood/events/maroon-5",
+  "flyerUrl": "https://casino.hardrock.com/hollywood/events/maroon-5",
+  "image": "/events/flyer/498-maroon-5-hollywood.jpg",
+  "alt": "Maroon 5 flyer, Hard Rock Live Hollywood",
+  "imageKey": "event-flyers/498-maroon-5-hollywood.jpg",
+  "endDate": "2026-12-28"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Maroon 5, Hollywood Night 2",
+  "date": "DECEMBER 29, 8 PM",
+  "headliners": "Maroon 5",
+  "venue": "Hard Rock Live, Hollywood",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://casino.hardrock.com/hollywood/events/maroon-5",
+  "flyerUrl": "https://casino.hardrock.com/hollywood/events/maroon-5",
+  "image": "/events/flyer/499-maroon-5-hollywood-night-2.jpg",
+  "alt": "Maroon 5 flyer, Hard Rock Live Hollywood night two",
+  "imageKey": "event-flyers/499-maroon-5-hollywood-night-2.jpg",
+  "endDate": "2026-12-29"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "O.A.R.: Three Decades Tour, Hollywood",
+  "date": "NOVEMBER 13, 6:30 PM",
+  "headliners": "O.A.R., Gavin DeGraw, KT Tunstall",
+  "venue": "Hard Rock Live, Hollywood",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://casino.hardrock.com/hollywood/events/oar",
+  "flyerUrl": "https://casino.hardrock.com/hollywood/events/oar",
+  "image": "/events/flyer/500-oar-hollywood.jpg",
+  "alt": "O.A.R. Three Decades Tour flyer, Hard Rock Live Hollywood",
+  "imageKey": "event-flyers/500-oar-hollywood.jpg",
+  "endDate": "2026-11-13"
  }
 ]
