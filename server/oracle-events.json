@@ -6772,5 +6772,91 @@
   "alt": "Yung Miami and Boston Richey Live Florida Classic Weekend flyer, The Vanguard Orlando",
   "imageKey": "event-flyers/490-yung-miami-boston-richey-florida-classic.jpg",
   "endDate": "2026-11-22"
+ },
+ {
+  "section": "THIS WEEK",
+  "title": "The Doobie Brothers: Walk This Road Tour, Hollywood",
+  "date": "OCTOBER 20, 8 PM",
+  "headliners": "The Doobie Brothers",
+  "venue": "Hard Rock Live, Hollywood",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/event/0D006478A5AE8BB7",
+  "flyerUrl": "https://casino.hardrock.com/hollywood/events/the-doobie-brothers",
+  "image": "/events/flyer/491-doobie-brothers-hollywood.jpg",
+  "alt": "The Doobie Brothers Walk This Road Tour flyer, Hard Rock Live Hollywood",
+  "imageKey": "event-flyers/491-doobie-brothers-hollywood.jpg",
+  "endDate": "2026-10-20"
+ },
+ {
+  "section": "THIS WEEK",
+  "title": "The Doobie Brothers: Walk This Road Tour, Estero",
+  "date": "OCTOBER 21, 8 PM",
+  "headliners": "The Doobie Brothers",
+  "venue": "Hertz Arena, Estero",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://hertzarena.com/events/the-doobie-brothers-walk-this-road-tour/",
+  "flyerUrl": "https://hertzarena.com/events/the-doobie-brothers-walk-this-road-tour/",
+  "image": "/events/flyer/492-doobie-brothers-estero.jpg",
+  "alt": "The Doobie Brothers Walk This Road Tour flyer with October 21 date, Hertz Arena Estero",
+  "imageKey": "event-flyers/492-doobie-brothers-estero.jpg",
+  "endDate": "2026-10-21"
+ },
+ {
+  "section": "THIS WEEK",
+  "title": "Blake Shelton, Hollywood",
+  "date": "OCTOBER 24, 8 PM",
+  "headliners": "Blake Shelton",
+  "venue": "Hard Rock Live, Hollywood",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/blake-shelton-hollywood-florida-10-24-2026/event/0D0064AB9A656C3A",
+  "flyerUrl": "https://casino.hardrock.com/hollywood/events/blake-shelton",
+  "image": "/events/flyer/493-blake-shelton-hollywood.jpg",
+  "alt": "Blake Shelton flyer, Hard Rock Live Hollywood",
+  "imageKey": "event-flyers/493-blake-shelton-hollywood.jpg",
+  "endDate": "2026-10-24"
+ },
+ {
+  "section": "HALLOWEEN",
+  "title": "Grupo Niche: Niche Disco Tour, Hollywood",
+  "date": "OCTOBER 31, 8 PM",
+  "headliners": "Grupo Niche",
+  "venue": "Hard Rock Live, Hollywood",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/event/0D0064B4BA2AC5D3",
+  "flyerUrl": "https://casino.hardrock.com/hollywood/events/grupo-niche",
+  "image": "/events/flyer/494-grupo-niche-hollywood.jpg",
+  "alt": "Grupo Niche Niche Disco Tour flyer, Hard Rock Live Hollywood",
+  "imageKey": "event-flyers/494-grupo-niche-hollywood.jpg",
+  "endDate": "2026-10-31"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Rockabillaque Florida",
+  "date": "NOVEMBER 13 AND NOVEMBER 14, 11 AM TO MIDNIGHT",
+  "headliners": "Shannon and The Clams, Royal Crown Revue meets Gunhild Carling, Les Greene and The Swayzees, Black Joe Lewis and The Honeybears, Deke Dickerson and The Whippersnappers",
+  "venue": "Seminole Casino Hotel, Immokalee",
+  "categories": [
+   "Music",
+   "Arts"
+  ],
+  "detailsLabel": "Event Details",
+  "detailsUrl": "https://www.rockabillaqueflorida.com/",
+  "flyerUrl": "https://www.rockabillaqueflorida.com/",
+  "image": "/events/flyer/495-rockabillaque-florida.jpg",
+  "alt": "Rockabillaque Florida festival poster, Seminole Casino Hotel Immokalee",
+  "imageKey": "event-flyers/495-rockabillaque-florida.jpg",
+  "endDate": "2026-11-14"
  }
 ]
