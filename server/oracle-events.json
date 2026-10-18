@@ -6943,5 +6943,90 @@
   "alt": "O.A.R. Three Decades Tour flyer, Hard Rock Live Hollywood",
   "imageKey": "event-flyers/500-oar-hollywood.jpg",
   "endDate": "2026-11-13"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Greta Van Fleet: Into The Beginning Tour, Tampa",
+  "date": "FEBRUARY 5, 7 PM",
+  "headliners": "Greta Van Fleet, Arc De Soleil, Edgehill",
+  "venue": "Benchmark International Arena, Tampa",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/greta-van-fleet-tickets/artist/1971779",
+  "flyerUrl": "https://news.pollstar.com/2026/10/02/greta-van-fleet-announce-2027-into-the-beginning-north-american-europe-tour/",
+  "image": "/events/flyer/501-greta-van-fleet-tampa.jpg",
+  "alt": "Greta Van Fleet Into The Beginning Tour flyer, Benchmark International Arena Tampa",
+  "imageKey": "event-flyers/501-greta-van-fleet-tampa.jpg",
+  "endDate": "2027-02-05"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Greta Van Fleet: Into The Beginning Tour, Jacksonville",
+  "date": "FEBRUARY 6, 7 PM",
+  "headliners": "Greta Van Fleet, Arc De Soleil, Edgehill",
+  "venue": "VyStar Veterans Memorial Arena, Jacksonville",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/greta-van-fleet-tickets/artist/1971779",
+  "flyerUrl": "https://news.pollstar.com/2026/10/02/greta-van-fleet-announce-2027-into-the-beginning-north-american-europe-tour/",
+  "image": "/events/flyer/502-greta-van-fleet-jacksonville.jpg",
+  "alt": "Greta Van Fleet Into The Beginning Tour flyer, VyStar Veterans Memorial Arena Jacksonville",
+  "imageKey": "event-flyers/502-greta-van-fleet-jacksonville.jpg",
+  "endDate": "2027-02-06"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Hans Zimmer Live, Orlando",
+  "date": "MARCH 11, 7:30 PM",
+  "headliners": "Hans Zimmer",
+  "venue": "Kia Center, Orlando",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/hans-zimmer-tickets/artist/1508961",
+  "flyerUrl": "https://consequence.net/2026/09/hans-zimmer-2027-north-american-tour-dates/",
+  "image": "/events/flyer/503-hans-zimmer-orlando.jpg",
+  "alt": "Hans Zimmer Live The Next Level flyer, Kia Center Orlando",
+  "imageKey": "event-flyers/503-hans-zimmer-orlando.jpg",
+  "endDate": "2027-03-11"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Hans Zimmer Live, Miami",
+  "date": "MARCH 13, 8 PM",
+  "headliners": "Hans Zimmer",
+  "venue": "Kaseya Center, Miami",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/hans-zimmer-tickets/artist/1508961",
+  "flyerUrl": "https://consequence.net/2026/09/hans-zimmer-2027-north-american-tour-dates/",
+  "image": "/events/flyer/504-hans-zimmer-miami.jpg",
+  "alt": "Hans Zimmer Live The Next Level flyer, Kaseya Center Miami",
+  "imageKey": "event-flyers/504-hans-zimmer-miami.jpg",
+  "endDate": "2027-03-13"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Hans Zimmer Live, Tampa",
+  "date": "MARCH 14, 7:30 PM",
+  "headliners": "Hans Zimmer",
+  "venue": "Benchmark International Arena, Tampa",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/hans-zimmer-tickets/artist/1508961",
+  "flyerUrl": "https://consequence.net/2026/09/hans-zimmer-2027-north-american-tour-dates/",
+  "image": "/events/flyer/505-hans-zimmer-tampa.jpg",
+  "alt": "Hans Zimmer Live The Next Level flyer, Benchmark International Arena Tampa",
+  "imageKey": "event-flyers/505-hans-zimmer-tampa.jpg",
+  "endDate": "2027-03-14"
  }
 ]
