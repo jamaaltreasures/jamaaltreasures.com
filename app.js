@@ -15,7 +15,7 @@ function realmPlaying(){return !!realm&&!realm.paused&&!realm.ended;}
 function loadRealmLibrary(){return realmScript ||= new Promise((resolve,reject)=>{const script=document.createElement('script');script.src='assets/vendor/hls-1.7.3.light.min.js';script.onload=resolve;script.onerror=()=>reject(new Error('The player could not load. Please try again.'));document.head.append(script)}).catch(error=>{realmScript=null;throw error});}
 async function prepareRealm(){
  if(realmReady)return;
- if(realm.canPlayType('application/vnd.apple.mpegurl')){realm.src=$('#realm-quality').value==='auto'?realm.dataset.stream:`assets/realm-final/${$('#realm-quality').value}/index.m3u8`;realmReady=true;return;}
+ if(realm.canPlayType('application/vnd.apple.mpegurl')){realm.src=$('#realm-quality').value==='auto'?realm.dataset.stream:`${realm.dataset.stream.replace(/master\.m3u8$/,'')}${$('#realm-quality').value}/index.m3u8`;realmReady=true;return;}
  await loadRealmLibrary();
  if(!Hls.isSupported())throw new Error('This browser cannot play the film. Please use Safari, Chrome, Edge or Firefox.');
  realmHls=new Hls({maxBufferLength:20,backBufferLength:15,capLevelToPlayerSize:false});
@@ -33,7 +33,7 @@ if(realm){
  const syncRealmQuality=()=>{if(realm.videoHeight)$('#realm-quality-state').textContent=(realm.videoHeight>=1080?'Full quality · ':'Playing at ')+realm.videoHeight+'p'+($('#realm-quality').value==='auto'?' · Auto':'')};realm.addEventListener('resize',syncRealmQuality);realm.addEventListener('loadeddata',syncRealmQuality);realm.addEventListener('playing',syncRealmQuality);
  realm.addEventListener('pause',()=>resumeCarousel());
  new IntersectionObserver(entries=>{if(!entries[0].isIntersecting&&!document.fullscreenElement&&!realm.webkitDisplayingFullscreen)realm.pause()},{threshold:0}).observe(realm);
- $('#realm-quality').addEventListener('change',()=>{const value=$('#realm-quality').value;if(!realmReady)return;if(realmHls){realmHls.currentLevel=value==='auto'?-1:realmHls.levels.findIndex(level=>level.height===Number(value));}else{const position=realm.currentTime,playing=!realm.paused;realm.preload='metadata';realm.addEventListener('loadedmetadata',()=>{realm.currentTime=Math.min(position,Number.isFinite(realm.duration)?realm.duration:position);if(playing)realm.play().catch(()=>{});else realm.pause();},{once:true});realm.src=value==='auto'?realm.dataset.stream:`assets/realm-final/${value}/index.m3u8`;realm.load();if(playing)realm.play().catch(()=>{});}});
+ $('#realm-quality').addEventListener('change',()=>{const value=$('#realm-quality').value;if(!realmReady)return;if(realmHls){realmHls.currentLevel=value==='auto'?-1:realmHls.levels.findIndex(level=>level.height===Number(value));}else{const position=realm.currentTime,playing=!realm.paused;realm.preload='metadata';realm.addEventListener('loadedmetadata',()=>{realm.currentTime=Math.min(position,Number.isFinite(realm.duration)?realm.duration:position);if(playing)realm.play().catch(()=>{});else realm.pause();},{once:true});realm.src=value==='auto'?realm.dataset.stream:`${realm.dataset.stream.replace(/master\.m3u8$/,'')}${value}/index.m3u8`;realm.load();if(playing)realm.play().catch(()=>{});}});
 }
 const filmDialog=$('#film-dialog'),carouselRoot=$('.film-carousel');
 const previewSlides=[...document.querySelectorAll('.film-slide')],previewPlayers=new Map();
