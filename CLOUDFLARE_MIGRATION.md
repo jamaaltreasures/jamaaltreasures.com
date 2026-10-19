@@ -108,3 +108,39 @@ publishing/rollback mechanism; this change does not introduce one.
 The existing authenticated Journal publisher can create new R2-backed articles
 without a build, but it refuses an existing slug and gives bundled seed entries
 precedence. It is not an edit path for a shell page or an existing seed article.
+
+### Article first-tap incident (2026-10-19)
+
+Reproduction: open Home, use its Events dock link, then select the featured
+article. Events is embedded in an iframe to preserve the existing music shell.
+The iframe click listener previously called `pushState` for every same-origin
+link, including paths absent from the shell's route table. `resolve()` then
+returned `home`. The browser displayed its already-loaded Home section under
+the article URL without requesting the article. Refresh fetched the correct
+standalone article. Direct `/events` and direct article HTTP checks could not
+exercise this path. The same failure was reproduced in a desktop browser and
+on the owner's real iPhone through iPhone Mirroring.
+
+The iframe now sends destinations outside the loaded shell to top-level native
+navigation. Route lookup uses the complete pathname and has no Home fallback.
+Standalone pages keep their own metadata and use normal links; their empty
+shell cannot intercept navigation. Existing shell routes still preserve music.
+No HTML shell, packed page content, event data, blog seed or prices changed.
+
+Regression tests execute the shipped client script and its iframe click handler.
+The release acceptance flow is Home → dock Events → featured Read the story,
+plus direct Events → article, back, refresh, trailing slash, image/title links,
+and standalone article navigation. A fresh real-iPhone browser session must
+reach the article on the first tap three consecutive times; desktop/UA checks
+are supplementary.
+
+HTML responses expose `X-JT-Deployment`; packed pages also expose
+`X-JT-Snapshot-Key`, and Cloudflare requests expose `X-JT-Request-ID` (CF-Ray).
+For Home, Events and this article, Workers Logs record `page_response` with
+path, status, snapshot, commit, ray and colo until 2026-10-20 23:00 UTC. No
+query strings, cookies, IPs or user agents are added to these custom logs.
+`upstreamCacheStatus` is null when unavailable: the edge can add the final
+`CF-Cache-Status` after the Worker returns, so capture that header in the
+browser/network response when investigating caches. A client-side history
+change produces no document request and therefore no article response log.
+The expiry stops this temporary logging without another deploy.

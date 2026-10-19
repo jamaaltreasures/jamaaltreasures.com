@@ -7,7 +7,7 @@
   },
   "scripts": {
     "build:cloudflare": "node scripts/build-cloudflare.mjs",
-    "test:cloudflare": "node --test qa/cloudflare-auth.test.mjs qa/deployment.test.mjs",
+    "test:cloudflare": "node --test qa/cloudflare-auth.test.mjs qa/deployment.test.mjs qa/client-navigation.test.mjs",
     "verify:snapshots": "node scripts/verify-snapshots.mjs",
     "sync:event-flyers": "node scripts/sync-event-flyers.mjs",
     "install:ci": "node scripts/install-ci.mjs",

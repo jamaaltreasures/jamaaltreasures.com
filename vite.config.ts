@@ -19,6 +19,7 @@ const localBindingConfig = {
   main: directCloudflare ? './build/cloudflare-worker.ts' : './build/sites-worker.ts',
   ...(directCloudflare ? {name: process.env.CLOUDFLARE_WORKER_NAME || 'jamaaltreasures', compatibility_date: '2026-05-15'} : {}),
   compatibility_flags: ["nodejs_compat"],
+  ...(directCloudflare ? {observability: {logs: {enabled: true, head_sampling_rate: 1, invocation_logs: false}}} : {}),
   assets: {
     binding: "ASSETS",
     run_worker_first: false,

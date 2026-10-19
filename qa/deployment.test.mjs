@@ -15,6 +15,7 @@ test('every registered page resolves with and without trailing slash and .html',
     const route = file === 'index.html' ? '' : '/' + file.replace(/\.html$/, '');
     const response = sitePage(request(route || '/'));
     assert.equal(response.status, 200, file);
+    assert.equal(response.headers.get('x-jt-snapshot-key'), file);
     const html = await response.text();
     assert.ok(html.includes(readFileSync(file, 'utf8').match(/<title>.*?<\/title>/)[0]), file);
     for (const variant of [route + '/', '/' + file, '/' + file + '/']) {

@@ -26,7 +26,7 @@ export function createSitePageHandler(snapshot) {
  if(!['GET','HEAD'].includes(request.method))return new Response('Method not allowed',{status:405,headers:{Allow:'GET, HEAD'}});
  let document=key==='index.html'?snapshot[key].replace('</head>',schemaTag(businessSchema)+'</head>'):snapshot[key];
  document=document.replace(/(<article class="offer-card[\s\S]*?id="offer-(ai-music-reels|event-coverage)"[\s\S]*?)(<\/article>)/g,(_,card,id,end)=>`${card}<a class="offer-detail" href="/${id}">See service details</a>${end}`);
- return new Response(request.method==='HEAD'?null:document,{headers:{'Content-Type':'text/html; charset=utf-8','Cache-Control':'public, max-age=0, must-revalidate','X-Content-Type-Options':'nosniff'}});
+ return new Response(request.method==='HEAD'?null:document,{headers:{'Content-Type':'text/html; charset=utf-8','Cache-Control':'public, max-age=0, must-revalidate','X-Content-Type-Options':'nosniff','X-JT-Snapshot-Key':key}});
  };
 }
 export const sitePage=createSitePageHandler(pages);
