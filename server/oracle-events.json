@@ -624,24 +624,6 @@
   "endDate": "2026-11-01"
  },
  {
-  "section": "THIS WEEK",
-  "title": "DaBaby at E11EVEN",
-  "date": "OCTOBER 17",
-  "headliners": "DaBaby",
-  "venue": "E11EVEN Miami, Miami",
-  "categories": [
-   "Music",
-   "Nightlife"
-  ],
-  "detailsLabel": "Get tickets",
-  "detailsUrl": "https://speakeasygo.com/E11EVEN/DABABY-LIVE-AT-E11EVEN?eid=EVE-1O3J8W",
-  "flyerUrl": "https://speakeasygo.com/E11EVEN/DABABY-LIVE-AT-E11EVEN?eid=EVE-1O3J8W",
-  "image": "/events/flyer/106-dababy-e11even.jpg",
-  "alt": "DaBaby flyer, E11EVEN Miami",
-  "imageKey": "event-flyers/106-dababy-e11even.jpg",
-  "endDate": "2026-10-18"
- },
- {
   "section": "HALLOWEEN",
   "title": "DJ Epps Halloween Block Party",
   "date": "OCTOBER 31, 7 PM TO 1 AM",
@@ -697,9 +679,9 @@
  },
  {
   "section": "NOVEMBER",
-  "title": "Victoria Mon\u00e9t: Frequency Of Love Tour, Fort Lauderdale",
+  "title": "Victoria Monét: Frequency Of Love Tour, Fort Lauderdale",
   "date": "NOVEMBER 7, 8 PM",
-  "headliners": "Victoria Mon\u00e9t",
+  "headliners": "Victoria Monét",
   "venue": "War Memorial Auditorium, Fort Lauderdale",
   "categories": [
    "Music",
@@ -709,15 +691,15 @@
   "detailsUrl": "https://www.victoriamonet.co",
   "flyerUrl": "https://www.victoriamonet.co",
   "image": "/events/flyer/108-victoria-monet.jpg",
-  "alt": "Victoria Mon\u00e9t flyer, War Memorial Auditorium Fort Lauderdale",
+  "alt": "Victoria Monét flyer, War Memorial Auditorium Fort Lauderdale",
   "imageKey": "event-flyers/108-victoria-monet.jpg",
   "endDate": "2026-11-07"
  },
  {
   "section": "NOVEMBER",
-  "title": "Victoria Mon\u00e9t: Frequency Of Love Tour, Tampa",
+  "title": "Victoria Monét: Frequency Of Love Tour, Tampa",
   "date": "NOVEMBER 8",
-  "headliners": "Victoria Mon\u00e9t",
+  "headliners": "Victoria Monét",
   "venue": "Yuengling Center, Tampa",
   "categories": [
    "Music",
@@ -727,7 +709,7 @@
   "detailsUrl": "https://www.victoriamonet.co",
   "flyerUrl": "https://www.victoriamonet.co",
   "image": "/events/flyer/108-victoria-monet.jpg",
-  "alt": "Victoria Mon\u00e9t flyer, Yuengling Center Tampa",
+  "alt": "Victoria Monét flyer, Yuengling Center Tampa",
   "imageKey": "event-flyers/108-victoria-monet.jpg",
   "endDate": "2026-11-08"
  },
@@ -1233,7 +1215,7 @@
   "section": "NOVEMBER",
   "title": "Welcome to Jamrock Reggae Cruise",
   "date": "NOVEMBER 11 TO 16",
-  "headliners": "Damian Marley, Stephen Marley, Burning Spear, Sizzla, Capleton, Beenie Man, Protoje, Barrington Levy, Elephant Man, Junior Reid, Lila Ik\u00e9",
+  "headliners": "Damian Marley, Stephen Marley, Burning Spear, Sizzla, Capleton, Beenie Man, Protoje, Barrington Levy, Elephant Man, Junior Reid, Lila Iké",
   "venue": "Norwegian Joy, Miami",
   "categories": [
    "Music",
@@ -1760,23 +1742,6 @@
   "alt": "Teddy Swims The Ugly Tour event flyer",
   "imageKey": "event-flyers/98-teddy-swims-ugly-tour-orlando.jpg",
   "endDate": "2026-10-23"
- },
- {
-  "section": "NEXT WEEK",
-  "title": "$uicideboy$: Grey Day Tour, Sunrise",
-  "date": "OCTOBER 18, 6:30 PM",
-  "headliners": "$uicideboy$",
-  "venue": "Amerant Bank Arena, Sunrise",
-  "categories": [
-   "Music"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://seatgeek.com/uicideboy-tickets",
-  "flyerUrl": "https://vipnation.com/tour/grey-day-tour-2026",
-  "image": "/events/flyer/81-uicideboy-grey-day-tour.jpg",
-  "alt": "$uicideboy$ Grey Day Tour event flyer",
-  "imageKey": "event-flyers/81-uicideboy-grey-day-tour.jpg",
-  "endDate": "2026-10-18"
  },
  {
   "section": "NOVEMBER",
@@ -2312,24 +2277,6 @@
   "endDate": "2026-11-22"
  },
  {
-  "section": "NEXT WEEK",
-  "title": "Lemon Drop and Seafood Festival",
-  "date": "OCTOBER 18, 4 PM TO 9 PM",
-  "headliners": "Gohard Show, Jazzy Jeff, DJ DK, Ian The Icon",
-  "venue": "Wall Street Plaza, Orlando",
-  "categories": [
-   "Food",
-   "Music"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://www.eventbrite.com/e/lemon-drop-seafood-festival-tickets-1996449691771",
-  "flyerUrl": "https://www.eventbrite.com/e/lemon-drop-seafood-festival-tickets-1996449691771",
-  "image": "/events/flyer/196-lemon-drop-seafood-festival.jpg",
-  "alt": "Lemon Drop and Seafood Festival flyer, Wall Street Plaza Orlando",
-  "imageKey": "event-flyers/196-lemon-drop-seafood-festival.jpg",
-  "endDate": "2026-10-18"
- },
- {
   "section": "NOVEMBER",
   "title": "Sarasota Fine Art Show by Hot Works",
   "date": "OCTOBER 31 TO NOVEMBER 1, 10 AM TO 5 PM",
@@ -2382,7 +2329,7 @@
  },
  {
   "section": "NOVEMBER",
-  "title": "Gout\u00e9 Haitian Fritay Festival",
+  "title": "Gouté Haitian Fritay Festival",
   "date": "NOVEMBER 8, 1 PM TO 10 PM",
   "headliners": "",
   "venue": "Wall Street Plaza, Orlando",
@@ -2394,7 +2341,7 @@
   "detailsUrl": "https://www.eventbrite.com/e/goute-orlandos-1-haitian-fritay-festival-2026-tickets-1999502669309",
   "flyerUrl": "https://www.eventbrite.com/e/goute-orlandos-1-haitian-fritay-festival-2026-tickets-1999502669309",
   "image": "/events/flyer/198-goute-haitian-fritay-festival.jpg",
-  "alt": "Gout\u00e9 Haitian Fritay Festival flyer, Wall Street Plaza Orlando",
+  "alt": "Gouté Haitian Fritay Festival flyer, Wall Street Plaza Orlando",
   "imageKey": "event-flyers/198-goute-haitian-fritay-festival.jpg",
   "endDate": "2026-11-08"
  },
@@ -2417,23 +2364,6 @@
   "endDate": "2026-11-01"
  },
  {
-  "section": "NEXT WEEK",
-  "title": "39th Annual Las Olas Art Fair",
-  "date": "OCTOBER 17 TO 18, 10 AM TO 5 PM",
-  "headliners": "",
-  "venue": "East Las Olas Boulevard, Fort Lauderdale",
-  "categories": [
-   "Arts"
-  ],
-  "detailsLabel": "Details",
-  "detailsUrl": "https://www.artfestival.com/festivals/las-olas-art-fair-fort-lauderdale-florida",
-  "flyerUrl": "https://www.artfestival.com/festivals/las-olas-art-fair-fort-lauderdale-florida",
-  "image": "/events/flyer/203-las-olas-art-fair.jpg",
-  "alt": "39th Annual Las Olas Art Fair flyer, East Las Olas Boulevard Fort Lauderdale",
-  "imageKey": "event-flyers/203-las-olas-art-fair.jpg",
-  "endDate": "2026-10-18"
- },
- {
   "section": "NOVEMBER",
   "title": "38th Annual Downtown Venice Art Festival",
   "date": "OCTOBER 31 TO NOVEMBER 1, 10 AM TO 5 PM",
@@ -2449,23 +2379,6 @@
   "alt": "38th Annual Downtown Venice Art Festival flyer, West Venice Avenue Venice",
   "imageKey": "event-flyers/204-downtown-venice-art-festival.jpg",
   "endDate": "2026-11-01"
- },
- {
-  "section": "NEXT WEEK",
-  "title": "30th Anniversary Downtown Sarasota Craft Festival",
-  "date": "OCTOBER 17 TO 18, 10 AM TO 5 PM",
-  "headliners": "",
-  "venue": "Selby Five Points Park, Sarasota",
-  "categories": [
-   "Arts"
-  ],
-  "detailsLabel": "Details",
-  "detailsUrl": "https://www.artfestival.com/festivals/30th-anniversary-downtown-sarasota-craft-festival",
-  "flyerUrl": "https://www.artfestival.com/festivals/30th-anniversary-downtown-sarasota-craft-festival",
-  "image": "/events/flyer/205-downtown-sarasota-craft-festival.jpg",
-  "alt": "30th Anniversary Downtown Sarasota Craft Festival flyer, Selby Five Points Park Sarasota",
-  "imageKey": "event-flyers/205-downtown-sarasota-craft-festival.jpg",
-  "endDate": "2026-10-18"
  },
  {
   "section": "LATER IN OCTOBER",
@@ -2854,24 +2767,6 @@
   "alt": "Soul by The Bay Music Festival event flyer",
   "imageKey": "event-flyers/234-soul-by-the-bay-music-festival.jpg",
   "endDate": "2026-11-29"
- },
- {
-  "section": "NEXT WEEK",
-  "title": "Loud Luxury at LIV Miami",
-  "date": "OCTOBER 17, 11:30 PM",
-  "headliners": "Loud Luxury",
-  "venue": "LIV Nightclub, Miami Beach",
-  "categories": [
-   "Music",
-   "Nightlife"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261017/loud-luxury/",
-  "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261017/loud-luxury/",
-  "image": "/events/flyer/236-loud-luxury-at-liv-miami.jpg",
-  "alt": "Loud Luxury at LIV Miami event flyer",
-  "imageKey": "event-flyers/236-loud-luxury-at-liv-miami.jpg",
-  "endDate": "2026-10-18"
  },
  {
   "section": "LATER IN OCTOBER",
@@ -3267,28 +3162,10 @@
   "endDate": "2026-11-08"
  },
  {
-  "section": "NEXT WEEK",
-  "title": "III Points Satellite at Club Space",
-  "date": "OCTOBER 17, 11 PM",
-  "headliners": "Disco Lines, Four Tet B2B Floating Points B2B Daphni, horsegiirL, Kettama, Marte, MPH, Roddy Lima, VTSS",
-  "venue": "Club Space, Miami",
-  "categories": [
-   "Music",
-   "Nightlife"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://dice.fm/event/ryr85r-satellite-disco-lines-four-tet-b2b-floating-points-b2b-daphni-horsegiirl-kettama-more-17th-oct-club-space-miami-miami-tickets",
-  "flyerUrl": "https://www.clubspace.com/shows/satellite-disco-lines-four-tet-b2b-floating-points-b2b-daphni-horsegiirl-kettama-more-17th-oct-club-space-miami-miami-tickets",
-  "image": "/events/flyer/260-satellite-club-space.jpg",
-  "alt": "III Points Satellite at Club Space event flyer",
-  "imageKey": "event-flyers/260-satellite-club-space.jpg",
-  "endDate": "2026-10-18"
- },
- {
   "section": "NOVEMBER",
   "title": "Teletech at Club Space",
   "date": "NOVEMBER 27, 11 PM",
-  "headliners": "Adri\u00e1n Mills, Benwal, Danyelino, Hannah Laing, Novah, Ultrathem",
+  "headliners": "Adrián Mills, Benwal, Danyelino, Hannah Laing, Novah, Ultrathem",
   "venue": "Club Space, Miami",
   "categories": [
    "Music",
@@ -3789,9 +3666,9 @@
  },
  {
   "section": "LATER IN OCTOBER",
-  "title": "Alt\u00e9go at Palm Tree Club Miami",
+  "title": "Altégo at Palm Tree Club Miami",
   "date": "OCTOBER 24, 4 PM",
-  "headliners": "Alt\u00e9go",
+  "headliners": "Altégo",
   "venue": "Palm Tree Club Miami, North Bay Village",
   "categories": [
    "Music",
@@ -3801,7 +3678,7 @@
   "detailsUrl": "https://posh.vip/e/altego-presented-by-palm-tree-club-miami-copy-1",
   "flyerUrl": "https://posh.vip/e/altego-presented-by-palm-tree-club-miami-copy-1",
   "image": "/events/flyer/294-altego-palm-tree-club-miami.jpg",
-  "alt": "Alt\u00e9go at Palm Tree Club Miami event flyer",
+  "alt": "Altégo at Palm Tree Club Miami event flyer",
   "imageKey": "event-flyers/294-altego-palm-tree-club-miami.jpg",
   "endDate": "2026-10-24"
  },
@@ -4060,24 +3937,6 @@
   "endDate": "2026-11-26"
  },
  {
-  "section": "NEXT WEEK",
-  "title": "Dany Ome and Kevincito El 13 at The Vanguard",
-  "date": "OCTOBER 17, 10 PM",
-  "headliners": "Dany Ome, Kevincito El 13",
-  "venue": "The Vanguard, Orlando",
-  "categories": [
-   "Music",
-   "Nightlife"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://www.ticketmaster.com/event/220065074ABB853A",
-  "flyerUrl": "https://www.thevanguard.live/event/dany-ome-kevencito-at-the-vanguard",
-  "image": "/events/flyer/309-dany-ome-kevincito-vanguard-orlando.jpg",
-  "alt": "Dany Ome and Kevincito El 13 event flyer, The Vanguard Orlando",
-  "imageKey": "event-flyers/309-dany-ome-kevincito-vanguard-orlando.jpg",
-  "endDate": "2026-10-18"
- },
- {
   "section": "LATER IN OCTOBER",
   "title": "Suwannee Hulaween",
   "date": "OCTOBER 22 TO 25",
@@ -4325,7 +4184,7 @@
  },
  {
   "section": "NOVEMBER",
-  "title": "Eud\u0113monia Summit",
+  "title": "Eudēmonia Summit",
   "date": "NOVEMBER 5 TO 8",
   "headliners": "",
   "venue": "Palm Beach County Convention Center, West Palm Beach",
@@ -4336,7 +4195,7 @@
   "detailsUrl": "https://www.eudemonia.net/",
   "flyerUrl": "https://www.eudemonia.net/",
   "image": "/events/flyer/325-eudemonia-summit.jpg",
-  "alt": "Eud\u0113monia Summit flyer, Palm Beach County Convention Center West Palm Beach",
+  "alt": "Eudēmonia Summit flyer, Palm Beach County Convention Center West Palm Beach",
   "imageKey": "event-flyers/325-eudemonia-summit.jpg",
   "endDate": "2026-11-08"
  },
@@ -4665,23 +4524,6 @@
   "endDate": "2026-10-25"
  },
  {
-  "section": "NEXT WEEK",
-  "title": "Tini: FUTTTURA World Tour, Miami",
-  "date": "OCTOBER 18, 8 PM",
-  "headliners": "Tini",
-  "venue": "Kaseya Center, Miami",
-  "categories": [
-   "Music"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://www.ticketmaster.com/event/0D0064B3151133D8",
-  "flyerUrl": "https://www.kaseyacenter.com/assets/img/596_tini-futttura-1387d3632c.jpg",
-  "image": "/events/flyer/344-tini-miami.jpg",
-  "alt": "Tini FUTTTURA World Tour poster",
-  "imageKey": "event-flyers/344-tini-miami.jpg",
-  "endDate": "2026-10-18"
- },
- {
   "section": "LATER IN OCTOBER",
   "title": "Chayanne: Bailemos Otra Vez Tour, Miami",
   "date": "OCTOBER 24, 8 PM",
@@ -4802,7 +4644,7 @@
  },
  {
   "section": "NOVEMBER",
-  "title": "Rawayana: \u00bfD\u00f3nde es el After? World Tour, Miami",
+  "title": "Rawayana: ¿Dónde es el After? World Tour, Miami",
   "date": "DECEMBER 4, 8 PM",
   "headliners": "Rawayana",
   "venue": "Kaseya Center, Miami",
@@ -4813,13 +4655,13 @@
   "detailsUrl": "https://www.ticketmaster.com/event/0D00646CAA719BDC",
   "flyerUrl": "https://www.kaseyacenter.com/assets/img/596_Rawayana-53bd22227b.jpg",
   "image": "/events/flyer/349-rawayana-donde-es-el-after-tour.jpg",
-  "alt": "Rawayana \u00bfD\u00f3nde es el After? World Tour 2026 poster",
+  "alt": "Rawayana ¿Dónde es el After? World Tour 2026 poster",
   "imageKey": "event-flyers/349-rawayana-donde-es-el-after-tour.jpg",
   "endDate": "2026-12-04"
  },
  {
   "section": "NOVEMBER",
-  "title": "Rawayana: \u00bfD\u00f3nde es el After? World Tour, Miami Night 2",
+  "title": "Rawayana: ¿Dónde es el After? World Tour, Miami Night 2",
   "date": "DECEMBER 5, 8 PM",
   "headliners": "Rawayana",
   "venue": "Kaseya Center, Miami",
@@ -4830,7 +4672,7 @@
   "detailsUrl": "https://www.kaseyacenter.com/events/detail/rawayana",
   "flyerUrl": "https://www.kaseyacenter.com/assets/img/596_Rawayana-53bd22227b.jpg",
   "image": "/events/flyer/349-rawayana-donde-es-el-after-tour.jpg",
-  "alt": "Rawayana \u00bfD\u00f3nde es el After? World Tour 2026 poster",
+  "alt": "Rawayana ¿Dónde es el After? World Tour 2026 poster",
   "imageKey": "event-flyers/349-rawayana-donde-es-el-after-tour.jpg",
   "endDate": "2026-12-05"
  },
@@ -4955,7 +4797,7 @@
  },
  {
   "section": "NOVEMBER",
-  "title": "Rawayana: \u00bfD\u00f3nde es el After? World Tour, Orlando",
+  "title": "Rawayana: ¿Dónde es el After? World Tour, Orlando",
   "date": "DECEMBER 3, 8 PM",
   "headliners": "Rawayana",
   "venue": "Kia Center, Orlando",
@@ -4972,7 +4814,7 @@
  },
  {
   "section": "NOVEMBER",
-  "title": "Rawayana: \u00bfD\u00f3nde es el After? World Tour, Miami Night 3",
+  "title": "Rawayana: ¿Dónde es el After? World Tour, Miami Night 3",
   "date": "DECEMBER 6, 8 PM",
   "headliners": "Rawayana",
   "venue": "Kaseya Center, Miami",
@@ -5006,9 +4848,9 @@
  },
  {
   "section": "NOVEMBER",
-  "title": "Pablo Albor\u00e1n: Global Tour KM0, Miami",
+  "title": "Pablo Alborán: Global Tour KM0, Miami",
   "date": "FEBRUARY 6, 8 PM",
-  "headliners": "Pablo Albor\u00e1n",
+  "headliners": "Pablo Alborán",
   "venue": "Kaseya Center, Miami",
   "categories": [
    "Music"
@@ -5023,9 +4865,9 @@
  },
  {
   "section": "NOVEMBER",
-  "title": "Pablo Albor\u00e1n: Global Tour KM0, Orlando",
+  "title": "Pablo Alborán: Global Tour KM0, Orlando",
   "date": "FEBRUARY 7, 7 PM",
-  "headliners": "Pablo Albor\u00e1n",
+  "headliners": "Pablo Alborán",
   "venue": "Kia Center, Orlando",
   "categories": [
    "Music"
