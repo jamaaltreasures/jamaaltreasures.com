@@ -1,1 +1,1 @@
-deploy trigger 2026-10-12T08:00:05Z header-glass recovery
+deploy trigger 2026-10-19T20:40:00Z retrigger for d059008e featured block and judges heading
