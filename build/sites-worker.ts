@@ -13,7 +13,11 @@ export default {
     const url = new URL(request.url);
     const dynamic = /^\/(?:api\/|mcp(?:\/|$)|blog(?:\/|$)|events(?:\/|$)|robots\.txt$|sitemap\.xml$)/.test(url.pathname);
     const assets = (env as Cloudflare.Env & { ASSETS?: { fetch(request: Request): Promise<Response> } }).ASSETS;
-    if (!dynamic && assets && ["GET", "HEAD"].includes(request.method)) return assets.fetch(request);
+    if (!dynamic) {
+      if (!["GET", "HEAD"].includes(request.method)) return new Response('Method not allowed', {status:405, headers:{Allow:'GET, HEAD'}});
+      if (assets) return assets.fetch(request);
+      return new Response('Not found', {status:404});
+    }
     let binding = ctx.props?.CONNECTORS;
     // Local preview emulates the same request-scoped capability. This branch and
     // the auxiliary service binding are absent from production builds.

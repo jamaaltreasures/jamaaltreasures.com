@@ -22,6 +22,7 @@ const localBindingConfig = {
   assets: {
     binding: "ASSETS",
     run_worker_first: false,
+    not_found_handling: 'none' as const,
   },
   d1_databases: d1
     ? [

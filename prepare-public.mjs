@@ -1,10 +1,12 @@
 import {gzipSync} from 'node:zlib';
 import {mkdirSync,copyFileSync,readFileSync,existsSync,statSync,rmSync,readdirSync} from 'node:fs';
 import path from 'node:path';
+import {sitePageFiles} from './server/site-page-files.mjs';
+import {verifySnapshots} from './scripts/verify-snapshots.mjs';
 const out=path.resolve('public');
 rmSync(out,{recursive:true,force:true});
 mkdirSync(path.join(out,'assets'),{recursive:true});
-const pages=['index.html','work.html','music.html','reviews.html','prices.html','stats.html','bio.html','process.html','careers.html','community.html','contact.html','privacy.html','artist-recaps.html','minds-eye.html','media.html','updatefromyourphone.html','dessert-wars-orlando.html'];
+const pages=sitePageFiles;
 const runtime=[...pages,'styles.css','brand.css','app-pages.css','app.js','app-pages.js','music.js','music-listening-clock.js','site-listens.js','inspiration.js','creator-catalog.json','hosted-artist-music.json','creator-libraries.css','glass-optics.js','social-reach.json','videos.json','reach.json','verified-video-reach.json','offers.json','music.json','manifest.webmanifest','journal.css','journal.js','editorial.css','music-queue.js','journal-preserved-styles.css','journal-preserved-app-pages.css','journal-preserved-glass-optics.js'];
 for(const file of runtime) copyFileSync(file,path.join(out,file));
 const realmAssets=readdirSync('assets/realm-final',{recursive:true}).filter(file=>statSync(path.join('assets/realm-final',file)).isFile()).map(file=>'realm-final/'+file);
@@ -43,7 +45,8 @@ writeFileSync('app/site-html.ts','export default '+JSON.stringify(readFileSync('
 // Worker so the canonical-host redirect applies to every page, not only APIs.
 writeFileSync('server/site-pages.json',JSON.stringify(Object.fromEntries(pages.map(file=>[file,readFileSync(file,'utf8')]))));
 // Lossless packaging of repeated application shells; response HTML is unchanged.
-writeFileSync('server/site-pages-packed.mjs','export default '+JSON.stringify(gzipSync(readFileSync('server/site-pages.json'),{level:9}).toString('base64'))+';\n');
+writeFileSync('server/site-pages-packed.mjs','export default '+JSON.stringify(gzipSync(readFileSync('server/site-pages.json'),{level:6}).toString('base64'))+';\n');
+verifySnapshots('HEAD');
 for(const file of pages)rmSync(path.join(out,file));
 // Journal and Events retain their existing shell and presentation. Their content
 // and navigation are maintained independently; do not regenerate from the redesign.
