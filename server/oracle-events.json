@@ -6888,5 +6888,25 @@
   "alt": "Ocala Food and Wine Festival event flyer",
   "imageKey": "event-flyers/506-ocala-food-and-wine-festival.jpg",
   "endDate": "2026-11-08"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "7th Annual Treasure Coast Caribbean Food and Music Festival",
+  "date": "NOVEMBER 7, 2 PM TO 10 PM",
+  "headliners": "Gramps Morgan, Nigel Lewis, Ed Robinson",
+  "venue": "MidFlorida Event Center, Port St. Lucie",
+  "categories": [
+   "Festival",
+   "Food",
+   "Culture",
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/7th-annual-treasure-coast-caribbean-food-music-festival-tickets-1987712546735",
+  "flyerUrl": "https://www.eventbrite.com/e/7th-annual-treasure-coast-caribbean-food-music-festival-tickets-1987712546735",
+  "image": "/events/flyer/507-treasure-coast-caribbean-food-and-music-festival.jpg",
+  "alt": "7th Annual Treasure Coast Caribbean Food and Music Festival event flyer starring Gramps Morgan",
+  "imageKey": "event-flyers/507-treasure-coast-caribbean-food-and-music-festival.jpg",
+  "endDate": "2026-11-07"
  }
 ]
