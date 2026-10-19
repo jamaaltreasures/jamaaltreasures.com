@@ -6926,5 +6926,22 @@
   "alt": "2026 Florida Coffee Festival event flyer",
   "imageKey": "event-flyers/508-florida-coffee-festival.jpg",
   "endDate": "2026-11-15"
+ },
+ {
+  "section": "MAJOR ANNUALS",
+  "title": "Mount Dora Arts Festival",
+  "date": "FEBRUARY 6 TO 7, 2027",
+  "headliners": "",
+  "venue": "Historic Downtown Mount Dora, Mount Dora",
+  "categories": [
+   "Arts"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://mountdoraart.com/mount-dora-arts-festival/",
+  "flyerUrl": "https://mountdoraart.com/mount-dora-arts-festival/",
+  "image": "/events/flyer/509-mount-dora-arts-festival.jpg",
+  "alt": "Mount Dora Arts Festival February 6 and 7 2027 at Historic Downtown Mount Dora",
+  "imageKey": "event-flyers/509-mount-dora-arts-festival.jpg",
+  "endDate": "2027-02-07"
  }
 ]
