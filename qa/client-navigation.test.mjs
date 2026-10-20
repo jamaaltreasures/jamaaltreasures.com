@@ -44,7 +44,7 @@ function fixture({standalone=false,path='/'}={}){
 }
 
 test('Home → embedded Events → article loads the real document without a fake article history entry',()=>{
- for(const path of ['/dessert-wars-orlando','/dessert-wars-orlando/','/dessert-wars-orlando.html']){
+ for(const path of ['/dessert-wars-orlando','/dessert-wars-orlando/','/dessert-wars-orlando.html','/articles','/articles/']){
   const f=fixture(),frame=f.eventsFrame();
   assert.equal(f.click(frame,path).defaultPrevented,true);
   assert.deepEqual(f.assignments,[origin+path]);

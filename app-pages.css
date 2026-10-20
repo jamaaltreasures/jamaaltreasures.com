@@ -633,3 +633,40 @@ footer>.footer-affiliate small{margin-inline:auto}
 .disco-panel-links a[aria-current="page"]{background:#A7192F;color:#fff}
 body:not([data-page="music"]):not([data-page="work"]):not([data-page="minds-eye"]):not([data-page="stats"]):not([data-page="about"]) #music-player,
 body:not([data-page="music"]):not([data-page="work"]):not([data-page="minds-eye"]):not([data-page="stats"]):not([data-page="about"]) #music-player-mini{display:none!important}
+
+/* Reviews live with Discography; retain all original client screenshots. */
+.discography-reviews{margin-top:64px;padding-top:36px;border-top:1px solid #201b1726;scroll-margin-top:110px}
+.discography-reviews .page-title{font-size:clamp(30px,4vw,44px)}
+.discography-reviews-link{display:inline-block;font-size:15px;font-weight:750;color:#a7192f;text-decoration:none;margin:8px 0 12px}
+.discography-reviews-link:hover{text-decoration:underline}
+
+/* Discography: a visual switchboard at the top of each hub view. */
+.app-page>.disco-topbar{grid-column:1/-1;display:block;width:100%;max-width:none;margin:0 0 30px;padding:12px 14px 14px;border-radius:22px;background:linear-gradient(125deg,#fff9,#f8f4edb8);border:1px solid #40121e25;box-shadow:0 8px 28px #35152008}
+.disco-topbar .disco-panel-label{display:flex;align-items:center;gap:7px;font-size:10px;letter-spacing:.14em;margin:0 0 10px 3px}
+.disco-mark{display:inline-grid;place-items:center;width:22px;height:22px;border-radius:50%;background:#a7192f;color:#fff;font-size:15px;letter-spacing:0;transform:rotate(-12deg)}
+.disco-topbar .disco-panel-links{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:7px}
+.disco-topbar .disco-panel-links a{display:flex;align-items:center;justify-content:center;gap:9px;min-height:48px;padding:10px;border-radius:14px;font-size:15px;font-weight:750;background:#ffffff85;border:1px solid #271b1710;transition:transform .18s,background .18s;color:#302929}
+.disco-topbar .disco-panel-links a>.ph-icon{width:22px;height:22px;flex-shrink:0}
+.disco-topbar .disco-panel-links a[aria-current="page"]{color:white;background:#a7192f;box-shadow:0 5px 12px #a7192f24}
+.disco-topbar .disco-panel-links a:hover{transform:translateY(-2px);background:#f1dfe2}
+.disco-topbar .disco-panel-links a[aria-current="page"]:hover{background:#8e1427}
+.disco-topbar .disco-panel-links a:focus-visible,#music-surprise:focus-visible{outline:3px solid #a7192f;outline-offset:3px}
+#music>.section-heading{margin-bottom:8px}#music>.section-heading .page-title{font-size:clamp(36px,5vw,54px);line-height:1.02}#music>.section-heading .eyebrow{font-size:12px;letter-spacing:.09em;margin-bottom:8px}
+#music>.section-subhead{font-size:18px;line-height:1.5;margin:0 0 10px}#music .support-link{font-size:14px;min-height:40px;padding:8px 13px;gap:8px}
+.disco-listen-stat{display:inline-flex;align-items:center;gap:8px;color:#68615d;text-decoration:none;font-size:13px;margin:0 0 18px}.disco-listen-stat strong{font-size:18px;color:#a7192f}.disco-listen-stat .reach-arrow{display:none}
+#music .release-filters{display:flex;gap:6px;padding:5px;width:max-content;max-width:100%;margin:0 0 18px;border-radius:100px}#music .release-filters button{font-size:14px;padding:9px 15px;min-height:40px;border-radius:100px}#music .release-filters button span{font-size:11px}
+#music .music-stage{position:relative;padding:16px 0 20px;border-radius:26px;background:radial-gradient(ellipse at 50% 34%,#e1b4be6b,transparent 66%),#fff8}
+.disco-stage-bar{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:0 20px;font-size:12px;color:#68615d}.disco-stage-bar>span{letter-spacing:.03em}
+#music-surprise{display:inline-flex;align-items:center;gap:7px;border:1px solid #a7192f29;border-radius:100px;padding:8px 12px;font-size:13px;font-weight:750;color:#a7192f;background:#fff9;cursor:pointer}#music-surprise>.ph-icon{width:18px;height:18px}#music-surprise:hover{background:#f1dfe2}
+#music .coverflow{padding-top:26px;padding-bottom:40px}#music .release-info{padding:0 20px}#music .release-info h3{font-size:26px;line-height:1.1;margin:5px 0 8px}#music .release-info .eyebrow{font-size:11px}#music #release-count{font-size:13px;line-height:1.4;margin-bottom:16px}
+#music #play-release{background:#a7192f;color:white;border:1px solid #a7192f;box-shadow:0 6px 18px #a7192f20;font-size:16px;padding:11px 18px;min-height:46px}#music .release-actions{gap:12px}#music .music-library{border-radius:26px}#music .library-heading h3{font-size:24px}#music .library-heading>span{font-size:13px}
+#music .music-library-note{font-size:14px;line-height:1.5}#music .discography-reviews{margin-top:40px;padding-top:28px}#music .reviews-intro{font-size:16px;line-height:1.5;max-width:560px}
+#music .reviews-grid{display:grid;grid-auto-flow:column;grid-auto-columns:calc((100% - 32px)/3);grid-template-columns:none;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;padding:10px 2px 20px;scrollbar-width:thin;overscroll-behavior-x:contain;align-items:start}#music .review-item{scroll-snap-align:start;margin:0;min-width:0}#music .review-image img{width:100%;height:240px;object-fit:contain;background:#fff;border-radius:14px}#music .review-item figcaption{font-size:15px}#music .review-service{font-size:15px}#music .review-platform,#music .review-transcript summary{font-size:14px}
+@media(max-width:700px){.app-page>.disco-topbar{padding:10px;margin-bottom:24px;border-radius:18px}.disco-topbar .disco-panel-label{margin-bottom:9px}.disco-topbar .disco-panel-links{grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}.disco-topbar .disco-panel-links a{font-size:13px;gap:7px;padding:10px 6px;min-height:44px;border-radius:12px}.disco-topbar .disco-panel-links a>.ph-icon{width:20px;height:20px}#music>.section-heading{flex-wrap:nowrap;gap:10px;margin-bottom:8px}#music>.section-heading .page-title{font-size:36px}#music .support-link{font-size:12px;padding:8px;gap:5px;white-space:nowrap}#music>.section-subhead{font-size:18px;line-height:1.5;margin-bottom:8px}#music .release-filters button{font-size:13px;padding:8px 12px}#music .music-stage{--cover:190px;padding-top:14px}#music .coverflow{padding-top:23px;padding-bottom:38px}#music .release-info h3{font-size:24px}#music .reviews-grid{grid-auto-columns:82%;gap:14px}#music .review-image img{height:230px}.disco-stage-bar{padding:0 15px}#music .music-library{padding:18px}#music .reviews-book p{font-size:16px;line-height:1.5}}
+@media(prefers-reduced-motion:reduce){.disco-topbar .disco-panel-links a{transition:none}.disco-topbar .disco-panel-links a:hover{transform:none}}
+#music>.section-heading .eyebrow{display:none}#music>.section-heading .page-title{font-size:clamp(32px,4vw,44px)!important;line-height:1.1;margin:0!important}#music>.section-heading{margin-bottom:8px!important;min-height:44px}#music>.section-subhead{margin-bottom:16px!important;line-height:1.5!important}#music>.disco-topbar{margin-bottom:22px}.disco-listen-stat{margin-top:18px;margin-bottom:0}
+#about:has(>.disco-topbar){padding-top:25px}
+/* Reuse the registered vector icons without repeating their markup in every shell. */
+.disco-topbar .disco-panel-links a::before{content:"";display:block;flex:0 0 22px;width:22px;height:22px;background:currentColor;mask:var(--disco-icon) center/contain no-repeat;-webkit-mask:var(--disco-icon) center/contain no-repeat}
+.disco-topbar a[href="/music"]{--disco-icon:url("assets/phosphor/music-notes.svg")}.disco-topbar a[href="/work"]{--disco-icon:url("assets/phosphor/film-slate.svg")}.disco-topbar a[href="/minds-eye"]{--disco-icon:url("assets/phosphor/eye.svg")}.disco-topbar a[href="/stats"]{--disco-icon:url("assets/phosphor/chart-bar.svg")}.disco-topbar a[href="/bio"]{--disco-icon:url("assets/phosphor/user-circle.svg")}.disco-topbar a[href="/music#testimonials"]{--disco-icon:url("assets/phosphor/chat-circle-text.svg")}
+@media(max-width:700px){.disco-topbar .disco-panel-links a::before{flex-basis:20px;width:20px;height:20px}}

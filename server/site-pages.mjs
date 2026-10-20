@@ -19,6 +19,11 @@ export function createSitePageHandler(snapshot) {
   return new Response(request.method==='HEAD'?null:llmsText(),{headers:{'Content-Type':'text/plain; charset=utf-8','Cache-Control':'public, max-age=300','X-Content-Type-Options':'nosniff'}});
  }
  const key=path==='/'?'index.html':path.slice(1).replace(/\.html$/,'')+'.html';
+ if(key==='reviews.html'){
+  if(!['GET','HEAD'].includes(request.method))return new Response('Method not allowed',{status:405,headers:{Allow:'GET, HEAD'}});
+  const destination=new URL('/music',request.url);destination.search=new URL(request.url).search;destination.hash='testimonials';
+  return new Response(null,{status:308,headers:{Location:destination.href,'Cache-Control':'public, max-age=300'}});
+ }
  if(!knownPages.has(key))return null;
  // A broken release must never let a real page fall through to an asset or
  // framework homepage. The build integrity check normally prevents this.

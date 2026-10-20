@@ -12,6 +12,7 @@ const request = (path, method = 'GET') => new Request('https://jamaaltreasures.c
 
 test('every registered page resolves with and without trailing slash and .html', async () => {
   for (const file of sitePageFiles) {
+    if(file==='reviews.html')continue;
     const route = file === 'index.html' ? '' : '/' + file.replace(/\.html$/, '');
     const response = sitePage(request(route || '/'));
     assert.equal(response.status, 200, file);
@@ -116,4 +117,9 @@ test('a failed flyer sync does not fail the build; page-build failures still do;
   assert.doesNotMatch(preview.stdout, /SYNC_INVOKED/);
   writeFileSync(path.join(root, 'prepare-public.mjs'), 'process.exit(3);');
   assert.equal(run([]).status, 3);
+});
+
+test('legacy Reviews URLs preserve the Discography reviews destination',()=>{
+ for(const path of ['/reviews','/reviews/','/reviews.html','/reviews.html/'])for(const method of ['GET','HEAD']){const response=sitePage(request(path+'?from=old-link',method));assert.equal(response.status,308);assert.equal(response.headers.get('location'),'https://jamaaltreasures.com/music?from=old-link#testimonials')}
+ assert.equal(sitePage(request('/reviews','POST')).status,405);
 });
