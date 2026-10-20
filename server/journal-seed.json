@@ -1,5 +1,446 @@
 [
  {
+  "slug": "mercury-3-diffusion-speed-test",
+  "title": "Mercury 3 Drafts Answers All at Once and It Is Very Fast",
+  "excerpt": "Inception launched Mercury 3, a diffusion language model that drafts many words at once instead of one at a time. The Rundown reports output above 1,000 tokens a second and pricing at 0.20 and 0.70 dollars per million tokens, and The Neuron test of eight runs cost about four cents in total.",
+  "seoDescription": "Mercury 3 diffusion model claims 1,000 plus tokens a second at 0.20 and 0.70 dollars per million tokens. The four cent test kit any creator can copy.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-20T12:20:00.000Z",
+  "updatedAt": "2026-10-20T12:20:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/mercury-3-diffusion-speed-test-hero.webp",
+   "alt": "An Inception chart titled Model Quality versus Model Size showing five Mercury generations from M1 mini to M3, with M3 marked about 8 times faster than GPT 6 Luna in October 2026",
+   "subject": "Mercury generations speed chart",
+   "kind": "photo",
+   "sourceUrl": "https://www.therundown.ai",
+   "credit": "Image: Inception Mercury chart via The Rundown AI. Story source: The Rundown AI, October 20, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A different way to write, not just a faster chip",
+    "paragraphs": [
+     "Most language models write one token at a time, left to right, like a person typing without ever deleting. Inception Mercury 3 works differently. It is a diffusion model, which drafts many words at once and then refines them, more like an editor revising a whole draft than a typist composing a sentence. The Rundown reports that this approach produces output above 1,000 tokens a second.",
+     "Inception says Mercury 3 matches or beats GPT 6 Luna and Claude Haiku 5.5 on its own numbers while running four to eight times faster, and that it is 40 times the size of Mercury 1 while holding the same speed. Pricing is 0.20 dollars per million input tokens and 0.70 dollars per million output tokens. Those quality claims are the company own, and both newsletters treat them that way."
+    ]
+   },
+   {
+    "heading": "Where speed actually changes the product",
+    "paragraphs": [
+     "Mercury will not replace the frontier models people use for hard reasoning, and Inception is not pretending otherwise. Speed wins a different set of jobs, the ones where any lag is visible to a user:"
+    ],
+    "bullets": [
+     "Live tutors that have to answer while a student is still paying attention",
+     "Voice customer support, where a pause feels like a failure",
+     "Web browsing agents that take many small steps in a row",
+     "Any app where a person waits on screen while the model thinks"
+    ]
+   },
+   {
+    "heading": "One tester ran eight trials for about four cents",
+    "paragraphs": [
+     "The Neuron adds the most practical part of the story. Corey Noles ran Mercury 3 through eight API runs, including a constrained science fiction story, a coffee shop math problem, an explain it three ways prompt, a single file dungeon crawler game, a made up NASA mission designed to catch invented facts, and a classic logic puzzle. The whole bill came to about four cents.",
+     "The results were mixed in instructive ways. The math was essentially right, including a 900 dollar daily gross profit figure, and it questioned the problem assumptions. The game code passed a syntax check and 2,000 randomized map checks with no failures. The story ran about 274 words against a 250 word limit, and on the fake NASA mission it flagged the fabrication but added an unrelated error of its own. Fast and cheap did not mean careless, and it did not mean flawless either."
+    ]
+   },
+   {
+    "heading": "Steal the test kit for your own work",
+    "paragraphs": [
+     "The method matters more than the model. Corey advice, as reported by The Neuron, is to test any new model on tasks from your actual work instead of trusting launch charts: one task with strict limits, one math word problem, one coding or building request, and one question built on a fake premise to see whether it invents facts.",
+     "Then grade the misses instead of the vibes. Count the words when a limit was set. Check the arithmetic by hand. Open the code and run it. A model that fails your own test in a way you can see is giving you more information than a benchmark chart from the company selling it."
+    ]
+   },
+   {
+    "heading": "Why creators should care about a speed race",
+    "paragraphs": [
+     "The Rundown notes that OpenAI is pushing speed too, with a Cerebras partnership and an Ultrafast tier for GPT 6 Astra reaching as high as 300 tokens a second. When answers arrive almost instantly and cost almost nothing, the bottleneck in creative work moves. It stops being generation and becomes selection: which draft, which take, which idea is actually good.",
+     "That is good news for people with taste and bad news for people selling raw output by the hour. Try Mercury Chat or OpenRouter with the four cent test above, run it against the tools you already pay for, and let your own work decide. Speed is clearly the next battleground, and small teams that test early will know exactly where the new models fit before their competitors do."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Inception Mercury 3 speeds past rivals (October 20, 2026)",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Test a new AI model on your own work for about four cents (October 20, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-film",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See creative direction pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "anthropic-singularity-jack-clark",
+  "title": "An Anthropic Co Founder Says the Singularity Has Begun",
+  "excerpt": "Jack Clark told the IMF and World Bank annual meetings that the singularity has now begun, The Rundown reports. He pointed to Humanity Last Exam scores rising from 8 percent to 67.7 percent, FrontierMath from 2 percent to 94 percent, and a model with United States GDP at 44 trillion dollars by 2030.",
+  "seoDescription": "Jack Clark told the IMF the singularity has begun, citing exam scores from 8 to 67.7 percent and a 44 trillion dollar GDP model. What creators should make of it.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-20T12:16:00.000Z",
+  "updatedAt": "2026-10-20T12:16:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/anthropic-singularity-jack-clark-hero.webp",
+   "alt": "An IMF presentation slide reading The singularity, when AI systems speed up the pace of overall scientific and technical progress in a way that is hard for humans to comprehend, beside Jack Clark speaking at a podium",
+   "subject": "Jack Clark singularity IMF slide",
+   "kind": "photo",
+   "sourceUrl": "https://www.therundown.ai",
+   "credit": "Image: IMF presentation still via The Rundown AI. Story source: The Rundown AI, October 20, 2026"
+  },
+  "sections": [
+   {
+    "heading": "He said it to the people who run the global economy",
+    "paragraphs": [
+     "Anthropic has spent 2026 warning that AI is moving faster than anyone is ready for. Now one of its co founders has given the moment a name, in front of the most establishment audience imaginable. The Rundown reports that Jack Clark told economists and policymakers at the IMF and World Bank annual meetings that the singularity has now begun.",
+     "His definition, shown on his own slide, is plain: the point when AI systems speed up the pace of overall scientific and technical progress in a way that is hard for humans to comprehend. This was not a podcast hot take. It was a co founder of a leading AI lab saying it on the record to the institutions that manage money and policy for the whole world."
+    ]
+   },
+   {
+    "heading": "The score jumps he used as evidence",
+    "paragraphs": [
+     "Clark pointed to test results that are hard to wave away, even allowing for the fact that benchmarks are an imperfect measure of real ability:"
+    ],
+    "bullets": [
+     "Scores on Humanity Last Exam, a set of expert level questions, rose from 8 percent to 67.7 percent since 2025",
+     "FrontierMath performance improved from 2 percent to 94 percent over the same period",
+     "One Anthropic model puts United States GDP at 44 trillion dollars by 2030 if AI spreads fast, a figure Clark admitted sounds outlandish",
+     "He predicted very disruptive job impacts alongside that growth, and said the world 10 million scientists may soon direct a billion virtual scientists"
+    ]
+   },
+   {
+    "heading": "He also talked about a ceiling on intelligence",
+    "paragraphs": [
+     "The most striking part may be what Clark said about limits. He told the audience that chief executive Dario Amodei has floated limits on AI ceiling of intelligence, and that he believes there is only a small number of years left to act on questions like that. He also urged nations to build labs and robots before they run short.",
+     "Read that carefully. A leader inside one of the top labs is publicly discussing whether the technology should have a cap, while his own company races to build more of it. Whether you find that reassuring or alarming, it tells you the people closest to the work no longer treat runaway progress as a distant thought experiment."
+    ]
+   },
+   {
+    "heading": "Why this matters outside the IMF room",
+    "paragraphs": [
+     "Singularity talk used to live in science fiction and in fringe corners of the internet. When it is delivered at the IMF, it becomes planning input for governments and big employers. Budgets, training programs, and hiring plans get shaped by what leaders in that room believe is coming, whether or not the boldest version arrives on schedule.",
+     "For small studios and creators, the practical translation is less dramatic and more useful. Tools will keep getting better at the draft stage of almost every job: research, first cuts, captions, layouts, and code. The scarce skills move toward judgment, taste, client trust, and finishing work to a standard a person will sign their name to."
+    ]
+   },
+   {
+    "heading": "Hold the claim and the caution at the same time",
+    "paragraphs": [
+     "Clark has every incentive to make his industry sound world changing, and exam scores are not the same thing as scientific discovery in the wild. A healthy reader keeps both facts in view. The claim is promotional, and the trend underneath it is real enough that finance ministers are being briefed on it.",
+     "The useful response is not panic and not dismissal. It is to build your work so that each new wave of capability makes you faster instead of obsolete: own the client relationship, own the final call on quality, and let the machines carry the volume. If Clark is even half right about the pace, that positioning is the safest seat in the room."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Anthropic co founder says the singularity is underway (October 20, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-film",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See creative direction pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "swoop-scoop-dog-yard-400k-business",
+  "title": "He Made 400,000 Dollars in a Record Month Cleaning Dog Yards",
+  "excerpt": "William Milliken co founded Swoop Scoop after a bad experience hiring a dog waste service for his own yard. The Hustle Blower reports more than 2,500 customers at a little over 110 dollars a month, a first month past 400,000 dollars in revenue, and a quarterly billing group 72 percent less likely to cancel.",
+  "seoDescription": "Swoop Scoop passed 2,500 customers at about 110 dollars a month and a record month past 400,000 dollars. The 6 dollar lead, route density, and billing lesson.",
+  "category": "brand-growth",
+  "serviceId": "business-website",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-20T12:12:00.000Z",
+  "updatedAt": "2026-10-20T12:12:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/swoop-scoop-dog-yard-400k-business-hero.webp",
+   "alt": "A smiling woman holding a small fluffy white dog outdoors beside the Swoop Scoop logo on a teal background",
+   "subject": "Swoop Scoop customer holding dog",
+   "kind": "photo",
+   "sourceUrl": "https://swoopscoop.com/spokane/",
+   "credit": "Image: Swoop Scoop customer and dog photo via Swoop Scoop. Story source: The Hustle Blower, October 20, 2026"
+  },
+  "sections": [
+   {
+    "heading": "It started with a pregnant wife and a bad service",
+    "paragraphs": [
+     "In late 2020, William Milliken backyard was full of dog waste, his wife was pregnant, and the dog waste removal service she hired was inconsistent, hard to reach, and confusing on billing. William knew home service marketing, and his friend Levi wanted to start a company but had no specialized trade. They needed something simple and worth paying for again and again.",
+     "So Levi practiced in his own backyard by scattering rocks and timing how long it took to collect them. He did not own a dog. That test answered the key question: how many yards can one person clean in a day? In 2021, their first full year, Swoop Scoop reported more than 260,000 dollars in revenue and more than 300 recurring customers."
+    ]
+   },
+   {
+    "heading": "The winning ad was a bag of waste in the snow",
+    "paragraphs": [
+     "Their first 15 to 20 customers came from door knocking, door hangers, veterinary contacts, and neighborhood groups. Then paid social ads took over, and one of the strongest creatives was disarmingly simple: a photo of a filled waste bag sitting in the snow. For a dog owner staring at a winter worth of surprises in the yard, the message needed no explanation.",
+     "William reported leads at about 6 to 7 dollars each, with roughly one in three or four leads becoming a customer. That implies an ad cost of about 18 to 28 dollars to acquire a customer who pays a little over 110 dollars a month on average. Those are historical figures, not a promise for a new market, and they leave out labor and other costs. Still, a boring service people keep buying makes a small acquisition cost valuable."
+    ]
+   },
+   {
+    "heading": "The real business is subscriptions and routes",
+    "paragraphs": [
+     "A one time 25 dollar cleanup is a job. A customer paying every week, month after month, is a base you can build on. William reported that one technician could service about 125 to 150 recurring customers on tightly organized routes, around 25 to 35 yards a day. Geography is the hidden margin:"
+    ],
+    "bullets": [
+     "At 25 dollars a visit, a dense route finishing three visits an hour grosses about 75 dollars an hour before expenses",
+     "The same visit scattered across town, at 45 minutes per job, grosses about 33 dollars an hour",
+     "Five customers on one street can be worth more than five customers in five neighborhoods",
+     "In a 2026 interview William reported a first month past 400,000 dollars in company revenue, across multiple states and more than 2,500 customers"
+    ]
+   },
+   {
+    "heading": "Quarterly billing customers canceled far less",
+    "paragraphs": [
+     "The most useful detail may be about billing, not waste. William noticed customers paying quarterly were about 72 percent less likely to cancel than customers paying monthly, and nearly 40 percent of customers used quarterly or annual arrangements, sometimes with discounts. A monthly bill asks a customer to decide again every few weeks. A prepaid quarter quietly becomes part of the routine.",
+     "The caution matters: prepaid customers may simply be more committed, so this shows an association, not proof that billing alone caused the loyalty. Money collected upfront is not earned until visits are delivered. Even so, how you charge can matter almost as much as what you sell."
+    ]
+   },
+   {
+    "heading": "What a Florida service owner should copy",
+    "paragraphs": [
+     "Start with one neighborhood, not a whole city. Get the first ten paying customers close together, learn your real travel and cleaning times, and expand into the next neighborhood only after the route makes sense. Turning down a distant customer can feel painful and still be the profitable call.",
+     "William and Levi did not invent a better service. They ran an ordinary one better: show up reliably, communicate clearly, and bill cleanly. In Florida, reliable and boring beats brilliant and flaky almost every time."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: He Made 400K Cleaning Dog Yards (October 20, 2026)",
+    "url": "https://thehustleblower.com"
+   },
+   {
+    "id": "swoop-scoop",
+    "title": "Swoop Scoop: Spokane Pooper Scooper Service",
+    "url": "https://swoopscoop.com/spokane/"
+   }
+  ],
+  "relatedServiceIds": [
+   "business-website",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Build my website",
+   "price": 1500,
+   "serviceId": "business-website"
+  },
+  "nextClick": {
+   "label": "See website pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "pass-the-cam-wedding-cameras-50k",
+  "title": "They Booked 50,000 Dollars Renting Wedding Cameras They Did Not Own",
+  "excerpt": "Felipe Rochi and Rachel Calaj built a basic site for Pass the Cam before they owned a single camera. The Hustle Blower reports more than 50,000 dollars in business volume since May, from packages at 429, 699, and 899 dollars, after a first bride forced a 1,100 dollar shopping trip.",
+  "seoDescription": "Pass the Cam passed 50,000 dollars renting wedding camcorders guests film on, at 429 to 899 dollars. The 1,100 dollar first camera and the logistics lesson.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-20T12:08:00.000Z",
+  "updatedAt": "2026-10-20T12:08:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/pass-the-cam-wedding-cameras-50k-hero.webp",
+   "alt": "A bride in a white wedding dress putting on her shoe in a bright room with tall windows, captured in the soft candid style of a wedding home movie still",
+   "subject": "Wedding camcorder home movie bride still",
+   "kind": "photo",
+   "sourceUrl": "https://www.thewedding.cam/",
+   "credit": "Image: Wedding home movie still via TheWeddingCam, a wedding camcorder rental service. Story source: The Hustle Blower, October 19, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The first customer arrived before the camera did",
+    "paragraphs": [
+     "In April 2026, Felipe Rochi was working in search engine optimization and Rachel Calaj was a contract school psychologist, and they were expecting their first baby. Felipe had already tried a remote jobs newsletter and a small pet product with no breakthrough. Then he noticed people renting camcorders to couples getting married, with guests doing the filming and a service turning the footage into a finished video.",
+     "He did the sensible thing first. He built a basic website, started posting short videos, and tested whether strangers wanted the offer before buying any gear. Then one Friday evening a message arrived: a bride whose videographer had canceled, with her wedding the following weekend. There was one problem. Felipe did not own a camcorder."
+    ]
+   },
+   {
+    "heading": "A 1,100 dollar shopping trip became proof",
+    "paragraphs": [
+     "Felipe went shopping and spent about 1,100 dollars on a Sony 4K camcorder, a memory card, and a warranty. He packed it, shipped it, and when the footage came back he edited the video himself because hiring an editor was not in the budget. The customer was happy, and before May ended two more clients had booked.",
+     "Then the stakes changed. In early June Felipe lost one of his jobs, the day before their baby shower, and Rachel contract had ended in May. A side experiment suddenly had to carry real weight. The couple reported more than 50,000 dollars in business volume since May, and their stated goal is 100 clients by the end of 2026. Business volume is not profit, and the story is careful about that difference."
+    ]
+   },
+   {
+    "heading": "Guests are not a downgrade, they are the feature",
+    "paragraphs": [
+     "A bride does not wake up wanting a camcorder shipped to her house. She wants a wedding video without paying thousands for a full production crew, and without begging friends to send phone clips afterward. Pass the Cam sits in the gap between those two options: a structured way for guests to capture the terrible dancing, the unfiltered speeches, and the moments a professional crew would never think to film.",
+     "The packages show the model plainly:"
+    ],
+    "bullets": [
+     "Starter at 429 dollars, a middle tier at 699 dollars, and Deluxe at 899 dollars",
+     "Higher tiers change the equipment, accessories, and finished video length",
+     "The same camera can be rented again and again, so one purchase becomes a repeating asset",
+     "At an illustrative 699 dollars with assumed costs, the first camera cost could be recovered after roughly three bookings, before marketing and overhead"
+    ]
+   },
+   {
+    "heading": "The real business is logistics, not cameras",
+    "paragraphs": [
+     "A camera booked for a Saturday wedding has to ship early, get used, come back, get inspected, get recharged, and go out again. A camera sitting in a delivery truck earns nothing, one late return can hurt the next couple, and one damaged memory card can threaten footage that can never be shot again. You cannot ask a couple to move their wedding to Tuesday.",
+     "That is why this is a logistics business wearing a wedding dress. Backup equipment, tracking, delivery buffers, clear return instructions, and an editing process that survives peak season matter more than a clever name. Copying the website and buying one camcorder is the easy part. Delivering the promise every time is the business."
+    ]
+   },
+   {
+    "heading": "What Florida creators should steal from this",
+    "paragraphs": [
+     "Felipe reversed the usual order: audience first, inventory second. He posted the concept, got a paying customer, and only then spent the 1,100 dollars. Every finished wedding can also become the next advertisement, with the couple permission, because the product itself produces emotional proof.",
+     "For Florida videographers, the lesson is not to abandon professional work. It is to notice customers who were never going to buy it. A simpler, cheaper offer can serve a different buyer without lowering the premium price. Sometimes removing the professional from part of the process is not a downgrade. Sometimes it is the whole product."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: This Boring Rental Idea Made 50K Plus (October 19, 2026)",
+    "url": "https://thehustleblower.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "business-website",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "cairn-ai-hackers-open-dashboards",
+  "title": "AI Hackers Left Their Own Dashboards Wide Open",
+  "excerpt": "NorForge found more than 20 open control panels for Cairn, an AI hacking tool criminals used against real online stores. The Neuron and The Rundown report about 1,100 projects in one cluster, a roughly 10 percent success estimate, and break ins that cost about 50 dollars in model fees each.",
+  "seoDescription": "Cairn AI agents attacked more than 1,100 sites from open dashboards, NorForge found. Costs near 50 dollars per break in and the boring holes they used.",
+  "category": "ai-tools",
+  "serviceId": "business-website",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-20T12:04:00.000Z",
+  "updatedAt": "2026-10-20T12:04:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/cairn-ai-hackers-open-dashboards-hero.webp",
+   "alt": "A Neuron illustration of a smiling cat with a magnifying glass beside a laptop labeled Agent Control, with an unlocked padlock and the words AI Hackers Left Their Dashboards Wide Open",
+   "subject": "Cairn AI hackers open dashboard illustration",
+   "kind": "photo",
+   "sourceUrl": "https://www.theneurondaily.com",
+   "credit": "Image: Illustration via The Neuron. Story source: The Neuron, October 20, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A team of AI workers sharing one whiteboard",
+    "paragraphs": [
+     "Security startup NorForge found more than 20 control panels for an AI hacking tool called Cairn sitting open on the public internet, with no password needed to read them. The Neuron reports that the panels appear to belong to criminals, and they offer a rare look inside how crooks are now using AI agents to break into real businesses.",
+     "Cairn works like a small crew sharing a whiteboard. A human gives the agents a target and a goal, such as breaking into one online store, and that job becomes a project. The agents post what they learn and what they plan to try next on the shared board, and because the board remembers everything, a single project can keep running for hours or even days."
+    ]
+   },
+   {
+    "heading": "The scale is what should worry site owners",
+    "paragraphs": [
+     "One cluster of 14 panels, driven by instructions written in Chinese, held more than 1,100 attack projects aimed mostly at online stores in the United States, Japan, and Australia. The Rundown puts the same operation at more than 1,200 sites targeted, with one operator appearing to compromise more than 100 companies, including names reported by Reuters and The Verge such as Cummins, Deere, and SharkNinja.",
+     "NorForge estimates about 10 percent of projects hit their goal, and the successful ones in that cluster took just under 23 hours on average from start to finish. A typical attempt cost roughly 5 dollars in model fees once failures are counted, which works out to roughly 50 dollars in model fees per successful break in."
+    ]
+   },
+   {
+    "heading": "They verified at least one break in was real",
+    "paragraphs": [
+     "Skepticism is fair here, because dashboards can exaggerate. NorForge checked one claimed break in at a large hardware parts vendor and found the back door, a hidden page that lets attackers upload files to a site server, still sitting live on the vendor site. That is not a simulation. That is a real hole left open in a real store.",
+     "The exposed panels also leaked the attackers own secrets. Scanning them turned up hundreds of exposed passwords and access keys, and 11 percent were still valid. One group even posted the login for its own staging server. The people threatening company security forgot to lock their own command center."
+    ]
+   },
+   {
+    "heading": "The holes were boring, and that is the point",
+    "paragraphs": [
+     "The agents were not inventing science fiction exploits. Their work list was the boring stuff that site owners have been warned about for years:"
+    ],
+    "bullets": [
+     "Login flaws and pages that skip the login check entirely",
+     "File upload pages that let strangers place code on a server",
+     "Old known holes that stay unpatched while owners stay busy",
+     "Worker names in the panels suggest common coding agents powered by the cheap DeepSeek V4.1 Flash model, though NorForge calls that its reading and not a confirmed fact"
+    ]
+   },
+   {
+    "heading": "What a Florida business should do this week",
+    "paragraphs": [
+     "If you run a website, a store, or a client portal, treat this as a maintenance alarm. Update the site and its plugins, close upload and login holes, change any password that was ever shared loosely, and ask anyone who tests your security how they protect their own AI dashboards. NorForge says even apparently legitimate testing setups were left exposed, which can leak a client secrets.",
+     "Keep the numbers in proportion. NorForge sells tools for containing AI agents, its 10 percent figure is its own estimate, and success varies by group. But the direction is clear: old holes now get found faster, because software can work through more than a thousand projects without getting tired. Boring maintenance just became a real competitive edge."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: AI hackers left the door open (October 20, 2026)",
+    "url": "https://www.theneurondaily.com"
+   },
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: One hacker AI agents break into 100 plus companies (October 20, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "business-website",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Build my website",
+   "price": 1500,
+   "serviceId": "business-website"
+  },
+  "nextClick": {
+   "label": "See website pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "good-baklava-70k-month-concert-bet",
   "title": "Three Trays of Baklava Became a 70,000 Dollar Month",
   "excerpt": "Jacob Komarow tripled his money selling three trays of baklava at a Phish concert on a bet. The Hustle Blower follows Good Baklava to nearly 70,000 dollars in December 2025 sales, under 10,000 dollars the next month, and no regular salary for the founder.",
