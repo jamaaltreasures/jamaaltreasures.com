@@ -6996,5 +6996,41 @@
   "alt": "8Ball and MJG Halloween flyer, Rhythm and Soul Restaurant and Lounge, Lauderhill",
   "imageKey": "event-flyers/511-8ball-mjg-broward-halloween.jpg",
   "endDate": "2026-10-31"
+ },
+ {
+  "section": "THIS WEEK",
+  "title": "Florida Diwali Mela Tampa",
+  "date": "OCTOBER 24, 11 AM TO 9:30 PM",
+  "headliners": "",
+  "venue": "Sickles High School, Tampa",
+  "categories": [
+   "Festival",
+   "Culture"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://floridadiwalimela.com/",
+  "flyerUrl": "https://www.instagram.com/p/DdsbN0akfqL/",
+  "image": "/events/flyer/513-florida-diwali-mela-tampa.jpg",
+  "alt": "Florida Diwali Mela Tampa flyer, Saturday October 24 at Sickles High School Tampa",
+  "imageKey": "event-flyers/513-florida-diwali-mela-tampa.jpg",
+  "endDate": "2026-10-24"
+ },
+ {
+  "section": "MAJOR ANNUALS",
+  "title": "37th Annual India Festival Tampa Bay",
+  "date": "OCTOBER 31, 9 AM TO 10 PM",
+  "headliners": "",
+  "venue": "Florida State Fairgrounds, Tampa",
+  "categories": [
+   "Festival",
+   "Culture"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://indiafesttampa.com/Tickets",
+  "flyerUrl": "https://www.instagram.com/p/DeIFzVnEbRo/",
+  "image": "/events/flyer/514-india-festival-tampa-bay.jpg",
+  "alt": "37th Annual India Festival Tampa Bay flyer, Saturday October 31 at Florida State Fairgrounds Tampa",
+  "imageKey": "event-flyers/514-india-festival-tampa-bay.jpg",
+  "endDate": "2026-10-31"
  }
 ]
