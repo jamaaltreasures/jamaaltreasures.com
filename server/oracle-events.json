@@ -6961,5 +6961,40 @@
   "alt": "URGE Miami Festival flyer, Club M2 Miami, Miami Beach",
   "imageKey": "event-flyers/510-urge-miami-festival.jpg",
   "endDate": "2026-11-30"
+ },
+ {
+  "section": "NEXT WEEK",
+  "title": "Steve Lacy: Oh yeah? Tour, Miami",
+  "date": "OCTOBER 26, 8 PM",
+  "headliners": "Steve Lacy",
+  "venue": "FPL Solar Amphitheater at Bayfront Park, Miami",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/steve-lacy-tickets/artist/2330907",
+  "flyerUrl": "https://concerts.consequence.net/articles/steve-lacy-2026-oh-yeah-north-american-tour",
+  "image": "/events/flyer/512-steve-lacy-miami.jpg",
+  "alt": "Steve Lacy Oh yeah? Tour flyer, FPL Solar Amphitheater at Bayfront Park Miami",
+  "imageKey": "event-flyers/512-steve-lacy-miami.jpg",
+  "endDate": "2026-10-26"
+ },
+ {
+  "section": "HALLOWEEN",
+  "title": "8Ball & MJG in Broward County: Performing Live on Halloween",
+  "date": "OCTOBER 31, 8 PM",
+  "headliners": "8Ball & MJG, DJ Epps, DJ Meat, DJ Slick, DJ Ha",
+  "venue": "Rhythm & Soul Restaurant & Lounge, Lauderhill",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/8ball-mjg-in-broward-county-performing-live-on-halloween-tickets-2002642963012",
+  "flyerUrl": "https://www.eventbrite.com/e/8ball-mjg-in-broward-county-performing-live-on-halloween-tickets-2002642963012",
+  "image": "/events/flyer/511-8ball-mjg-broward-halloween.jpg",
+  "alt": "8Ball and MJG Halloween flyer, Rhythm and Soul Restaurant and Lounge, Lauderhill",
+  "imageKey": "event-flyers/511-8ball-mjg-broward-halloween.jpg",
+  "endDate": "2026-10-31"
  }
 ]
