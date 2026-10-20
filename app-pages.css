@@ -670,3 +670,38 @@ body:not([data-page="music"]):not([data-page="work"]):not([data-page="minds-eye"
 .disco-topbar .disco-panel-links a::before{content:"";display:block;flex:0 0 22px;width:22px;height:22px;background:currentColor;mask:var(--disco-icon) center/contain no-repeat;-webkit-mask:var(--disco-icon) center/contain no-repeat}
 .disco-topbar a[href="/music"]{--disco-icon:url("assets/phosphor/music-notes.svg")}.disco-topbar a[href="/work"]{--disco-icon:url("assets/phosphor/film-slate.svg")}.disco-topbar a[href="/minds-eye"]{--disco-icon:url("assets/phosphor/eye.svg")}.disco-topbar a[href="/stats"]{--disco-icon:url("assets/phosphor/chart-bar.svg")}.disco-topbar a[href="/bio"]{--disco-icon:url("assets/phosphor/user-circle.svg")}.disco-topbar a[href="/music#testimonials"]{--disco-icon:url("assets/phosphor/chat-circle-text.svg")}
 @media(max-width:700px){.disco-topbar .disco-panel-links a::before{flex-basis:20px;width:20px;height:20px}}
+
+/* Centered, high-contrast Stats cards with their original source marks. */
+#stats>.section-heading{justify-content:center;align-items:center;flex-direction:column;text-align:center;gap:8px;margin:32px 0}
+#stats .section-heading .eyebrow{margin-bottom:8px}#stats .stats-date{padding:0;color:#6e6a63}
+#stats .reach-strip{border:0;padding:0;gap:18px;align-items:stretch}
+#stats .reach-strip>div,#stats .reach-strip>div:first-child{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;text-align:center;gap:12px;padding:28px 22px;border:1px solid #11111414;border-radius:26px;background:#fffdf9!important;box-shadow:0 8px 30px #11111406;min-width:0}
+#stats .platform-name{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;margin:0;font-size:18px;font-weight:750;line-height:1.4}
+#stats .platform-name img{display:block;width:60px;height:60px;padding:14px;object-fit:contain;box-sizing:border-box;background:#191414;border-radius:18px;margin:0}
+#stats .platform-name .stats-site-mark{background:#f0e9df;padding:9px}
+#stats .platform-stats>div strong,#stats .platform-stats>div:first-child strong{font-family:BarlowCondensed,Impact,sans-serif;font-size:clamp(76px,8vw,108px);font-weight:650;letter-spacing:-.025em;line-height:1.05;color:#a7192f;margin:3px 0}
+#stats .reach-strip>div>span{max-width:25ch;font-size:18px;line-height:1.55;color:#111114}
+#stats .platform-stats small{max-width:25ch;font-size:18px;line-height:1.5;color:#6e6a63;margin-top:auto}
+#stats .estimate-label{display:flex;flex-direction:column;align-items:center;gap:6px}
+#stats .estimate-label .platform-logo{display:block;width:108px;height:30px;padding:0 8px;object-fit:cover;background:#191414;border-radius:8px;margin:0}
+#stats .reach-evidence{margin:22px auto 0;max-width:820px}#stats .reach-evidence>summary{margin-inline:auto;color:#a7192f;font-weight:700;min-height:44px;padding:12px 20px;border:1px solid #a7192f22;background:#fffdf9}
+#stats .social-breakdown{margin-inline:auto}
+#stats .reach-strip.business-proof{margin-top:32px;grid-template-columns:repeat(4,minmax(0,1fr))}
+#stats .business-proof>div{padding:24px 16px}
+#stats .business-proof strong,#stats .business-proof>div:first-child strong{font-family:BarlowCondensed,Impact,sans-serif;font-size:64px;font-weight:650;letter-spacing:-.025em;line-height:1.05;color:#111114}
+#stats .business-proof .platform-name img{width:48px;height:48px;padding:10px;border-radius:15px}
+#stats .stats-chart{grid-template-columns:1fr;gap:28px;max-width:850px;margin:32px auto 0;padding:32px}
+#stats .stats-chart>div:first-child{text-align:center;max-width:570px;margin-inline:auto}
+#stats .stats-chart h3{font-size:30px}#stats .stat-bar strong{font-weight:800;color:#a7192f}
+#stats .stat-bar i{height:7px;background:#a7192f14}
+@media(max-width:700px){
+ #stats>.section-heading{margin:24px 0}#stats .platform-stats{grid-template-columns:1fr;gap:16px}
+ #stats .reach-strip>div,#stats .reach-strip>div:first-child{padding:25px 20px;gap:10px}
+ #stats .platform-stats>div strong,#stats .platform-stats>div:first-child strong{font-size:90px}
+ #stats .reach-strip.business-proof{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+ #stats .business-proof>div,#stats .business-proof>div:first-child{padding:20px 12px}
+ #stats .business-proof strong,#stats .business-proof>div:first-child strong{font-size:52px}
+ #stats .business-proof>div>span{font-size:18px;line-height:1.45}
+ #stats .stats-chart{padding:24px 18px}#stats .stats-chart h3{font-size:27px}
+ #stats .stat-bar{grid-template-columns:1fr;gap:7px}#stats .stat-bar strong{font-size:23px}
+}
