@@ -2,6 +2,8 @@
 
 ## Persistent user preference
 
+Article pages and the Articles index use no emojis. Keep reading controls as plain crimson “more” / “less” text, without decorative arrow characters.
+
 “Always add the logo, or an image of who we’re speaking about.”
 
 Use each story’s actual subject as its visual: a verified official product logo, a relevant licensed photograph, a credited creator portrait, or the actual release artwork. Retain small Playbook / In Focus labels as editorial context, but never reuse them as the main artwork for unrelated articles.
