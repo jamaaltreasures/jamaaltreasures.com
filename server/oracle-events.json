@@ -7619,5 +7619,57 @@
   "alt": "South Florida Fair crowd photo, South Florida Fairgrounds West Palm Beach",
   "imageKey": "event-flyers/555-south-florida-fair-west-palm-beach.jpg",
   "endDate": "2027-01-31"
+ },
+ {
+  "section": "LATER IN OCTOBER",
+  "title": "Naples International Film Festival",
+  "date": "OCTOBER 22 TO 25",
+  "headliners": "",
+  "venue": "Artis Naples, Naples",
+  "categories": [
+   "Arts"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://artisnaples.org/naples-international-film-festival/2026/opening-night",
+  "flyerUrl": "https://artisnaples.org/naples-international-film-festival/2026/poster",
+  "image": "/events/flyer/556-naples-international-film-festival.jpg",
+  "alt": "Naples International Film Festival official 2026 poster, Artis Naples, Naples",
+  "imageKey": "event-flyers/556-naples-international-film-festival.jpg",
+  "endDate": "2026-10-25"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Wiz Khalifa at E11EVEN",
+  "date": "NOVEMBER 14, 8 PM TO 10 AM",
+  "headliners": "Wiz Khalifa",
+  "venue": "E11EVEN, Miami",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://speakeasygo.com/E11EVEN/WIZ-KHALIFA-AT-E11EVEN?eid=EVE-71RE7K",
+  "flyerUrl": "https://speakeasygo.com/E11EVEN/WIZ-KHALIFA-AT-E11EVEN?eid=EVE-71RE7K",
+  "image": "/events/flyer/558-wiz-khalifa-e11even-miami.jpg",
+  "alt": "Wiz Khalifa at E11EVEN Miami official poster, Saturday November 14",
+  "imageKey": "event-flyers/558-wiz-khalifa-e11even-miami.jpg",
+  "endDate": "2026-11-15"
+ },
+ {
+  "section": "MAJOR ANNUALS",
+  "title": "Key West Half Marathon and Runfest",
+  "date": "JANUARY 16 TO 17, 7 AM",
+  "headliners": "",
+  "venue": "Half Shell Raw Bar, Key West",
+  "categories": [
+   "Wellness"
+  ],
+  "detailsLabel": "Register",
+  "detailsUrl": "https://runsignup.com/Race/FL/KeyWest/KeyWestHalfMarathon5K",
+  "flyerUrl": "https://runsignup.com/Race/FL/KeyWest/KeyWestHalfMarathon5K",
+  "image": "/events/flyer/557-key-west-half-marathon-runfest.jpg",
+  "alt": "Key West Half Marathon and Runfest official 2027 poster, Key West",
+  "imageKey": "event-flyers/557-key-west-half-marathon-runfest.jpg",
+  "endDate": "2027-01-17"
  }
 ]
