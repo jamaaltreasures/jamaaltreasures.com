@@ -1,5 +1,486 @@
 [
  {
+  "slug": "williams-sonoma-b2b-pivot-home-brand",
+  "title": "Williams Sonoma Grew by Selling to Businesses While Home Sales Stalled",
+  "excerpt": "With home buying still slow, Williams Sonoma leaned into business customers. The Hustle reports its stock up more than 200 percent in three years, business revenue up 14.5 percent in the quarter, and contract revenue up 20 percent, with cruise ships, senior living, and student housing next.",
+  "seoDescription": "Williams Sonoma business revenue rose 14.5 percent as home sales stalled. Contract work up 20 percent and the second buyer lesson for brands.",
+  "category": "brand-growth",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-21T12:24:00.000Z",
+  "updatedAt": "2026-10-21T12:24:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/williams-sonoma-b2b-pivot-home-brand-hero.webp",
+   "alt": "A furnished cruise ship deck with a yellow armchair, a side table with a plant, and a floor lamp beside a white railing over the sea",
+   "subject": "Furniture on a cruise ship deck",
+   "kind": "photo",
+   "sourceUrl": "https://thehustle.co/news/williams-sonoma-furnished-a-comeback-without-homebuyers?hubs_content=thehustle.co/news/page/1&hubs_content-cta=williams-sonoma-furnished-a-comeback-without-homebuyers",
+   "credit": "Image: Cruise ship deck furniture illustration via The Hustle. Story source: The Hustle, October 21, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A furniture business with too few home buyers",
+    "paragraphs": [
+     "Home sales in 2026 are slightly higher than last year, but remain well below the long running average, as high prices and mortgage rates keep buyers sidelined. When people stop buying homes, they stop filling them, and home retailers feel it quickly. Value City Furniture liquidated.",
+     "Williams Sonoma Inc., the company behind Pottery Barn and West Elm, went the other way. The Hustle reports its stock has risen by more than 200 percent over three years. Part of that is a customer base that analyst Neil Saunders of GlobalData describes as more insulated from economic stress. The other part is a second business hiding inside the first one."
+    ]
+   },
+   {
+    "heading": "The second buyer is a business",
+    "paragraphs": [
+     "Alongside selling to households, the company leaned into selling to businesses that furnish spaces on a schedule rather than on a whim. Saunders notes that selling to businesses is different, but not so different that it becomes inefficient, so the company can fish in both pools and balance its revenue.",
+     "The numbers from the company 2026 second quarter earnings call, as reported by The Hustle, show the second pool growing faster:"
+    ],
+    "bullets": [
+     "Business to business revenue increased 14.5 percent in the quarter",
+     "Contract revenue grew 20 percent, and trade revenue grew 12 percent, per finance chief Jeff Howie",
+     "Contract revenue accounted for 36 percent of the business to business segment"
+    ]
+   },
+   {
+    "heading": "Where the business orders are coming from",
+    "paragraphs": [
+     "The company named cruise ships, senior living, and student housing as markets it is expanding into, and the completed projects show the range: Virgin Hotels in New York City, Signature Aviation Miami Executive Airport here in Florida, the University of Texas at Austin Hardin House, and the Carneros Inn in Napa.",
+     "There is a logic to the list. Cruise ships, dormitories, and care homes get refreshed far more often than a family living room, because wear is constant and appearance is part of what their customers pay for. A business buyer is not decorating once. It is maintaining a standard, on a cycle, with a budget for it."
+    ]
+   },
+   {
+    "heading": "It is not the only brand fishing in both pools",
+    "paragraphs": [
+     "Saunders points out that IKEA runs a large business operation for office furnishings and Amazon runs a huge one generating billions. The shared pattern is a focus on what business buyers need: volume, durability, repeatable ordering, and accountability.",
+     "There is a risk. Styles that appear in every hotel and dorm can start to feel common, which dulls the premium feel sold to households. The company is betting most guests and students will never notice, and that steady contract revenue is worth more than the lost mystique."
+    ]
+   },
+   {
+    "heading": "The lesson for smaller brands is direct",
+    "paragraphs": [
+     "Most small brands and service businesses sell to one buyer and stop. The Williams Sonoma move is to ask a simple question when that buyer slows down: who else already needs this same skill or product, on a schedule, with a budget?"
+    ],
+    "bullets": [
+     "A slow consumer market does not mean demand vanished, it may have moved to a different buyer",
+     "Business buyers purchase on cycles, which makes revenue easier to plan around",
+     "The offer usually needs adjusting, not rebuilding, because the craft underneath stays the same",
+     "One contract customer can be worth a season of one time household sales"
+    ]
+   },
+   {
+    "heading": "Coverage businesses can run the same play",
+    "paragraphs": [
+     "The parallel for a Florida creative business is close. A couple books a wedding once. A venue, festival, or hotel group books coverage again and again, on dates known months ahead. It is the same craft pointed at a buyer with a calendar and a budget.",
+     "Williams Sonoma did not abandon home buyers. It built a second pool to fish in while the first one was quiet. When your main market stalls, the useful question is rarely how to shout louder at it. It is who else is already buying what you make."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle: A home brand sets sail, Williams Sonoma furnished a comeback without homebuyers (October 21, 2026)",
+    "url": "https://thehustle.co"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "han-with-a-van-moving-business-trust",
+  "title": "She Makes About 13,000 Dollars a Month Moving Strangers, and Trust Is the Product",
+  "excerpt": "Hannah Crawford started Han with a Van in April 2025 with Facebook posts and rented vans. The Hustle Blower and SWNS report about 10,000 pounds a month in turnover, a network of about 20 movers across the UK, and a goal of 100 moves a month.",
+  "seoDescription": "Han with a Van grew to about 13,000 dollars a month by selling trust to women moving home. The niche, the rented van start, and the network model.",
+  "category": "brand-growth",
+  "serviceId": "business-website",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-21T12:20:00.000Z",
+  "updatedAt": "2026-10-21T12:20:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/han-with-a-van-moving-business-trust-hero.webp",
+   "alt": "Hannah Crawford smiling in the driver seat of her moving van, photographed through the open passenger window",
+   "subject": "Hannah Crawford of Han with a Van in her van",
+   "kind": "photo",
+   "sourceUrl": "https://discover.swns.com/2026/10/i-make-13k-a-month-helping-women-move-after-breakups/",
+   "credit": "Image: Hannah Crawford photo by Lauren James Photography via SWNS. Story sources: The Hustle Blower and SWNS, October 2026"
+  },
+  "sections": [
+   {
+    "heading": "The problem was never moving furniture",
+    "paragraphs": [
+     "In April 2025, Hannah Crawford, a 29 year old theater producer in London, started a side hustle helping people move. Instead of marketing herself as one more affordable mover, she aimed at a problem competitors were not talking about. Moving means inviting strangers into your home and trusting them on a stressful day.",
+     "For women moving alone or leaving difficult relationships, that trust question can decide who gets hired. Hannah posted in Facebook groups offering a move built to feel comfortable and reassuring, aimed at women and LGBTQ customers. When someone booked, she rented a van and did the job herself."
+    ]
+   },
+   {
+    "heading": "Customers told her exactly why it worked",
+    "paragraphs": [
+     "Women messaged her with stories about earlier moves: careless service and broken belongings. One described a mover who, after learning where she lived, started sending unwanted messages. That story explains the whole business.",
+     "A typical moving company sells transportation and labor, and Hannah sells the same things. What she added was a promise about how the customer would feel. She was not competing on who could carry a sofa fastest, but on who a customer felt comfortable inviting through the front door. That made her offer easy to recommend in seconds."
+    ]
+   },
+   {
+    "heading": "Six day weeks, then one video changed the scale",
+    "paragraphs": [
+     "By July 2025, Hannah says she was booked six days a week. People already paid movers. She had given one group a stronger reason to choose her.",
+     "In June 2026 she posted an Instagram video about helping a woman move after a breakup, and it spread widely. SWNS reports she gained 8,300 followers in two weeks. By September demand passed what one person could carry, so she built a network of about 20 movers across the UK. The business reports about 10,000 pounds a month in turnover, roughly 13,000 dollars. Her goal of 100 moves and 50,000 pounds a month is a target, not a result, and turnover is revenue before costs come out."
+    ]
+   },
+   {
+    "heading": "The model underneath the story",
+    "paragraphs": [
+     "SWNS describes how a job runs now. A customer asks for a quote based on the size and distance of the move. Once agreed, the job goes onto a board where an available mover can accept it. The quote splits into a service fee, van equipment and insurance, and travel and fuel beyond 20 miles.",
+     "That structure is the real transition. At the start, her income depended on how many sofas she could personally carry. Now her job is demand, pricing, finding reliable movers, and protecting the promised experience. An illustrative model in The Hustle Blower, 20 moves at 500 pounds with about 300 pounds of direct costs each, leaves roughly 4,000 pounds before overhead and taxes. Positioning wins the customer. Operations decide whether the money survives."
+    ]
+   },
+   {
+    "heading": "Steal the positioning, not the van",
+    "paragraphs": [
+     "The opportunity is not starting a moving company. It is applying her sequence to any ordinary service people already pay for, from cleaning and photography to event coverage."
+    ],
+    "bullets": [
+     "Pick a service with existing demand",
+     "Find the group that dislikes the normal buying experience, and learn the exact frustration in their words",
+     "Build the offer around removing that one frustration, and say it plainly",
+     "Test with community posts and rented or borrowed capacity before buying equipment",
+     "Write delivery standards down before others represent the business"
+    ]
+   },
+   {
+    "heading": "Trust is a promise operations must keep",
+    "paragraphs": [
+     "Scaling a trust based offer is the hard part. Finding 20 people who can move furniture is one thing. Finding 20 who communicate well, arrive on time, and handle belongings carefully is another, and one bad job can damage the reputation the niche was built on.",
+     "Florida service businesses should recognize the shape of this. Customers here also book strangers into their homes and events. The business that names the fear everyone else ignores, then builds a process that removes it every time, does not need to be the cheapest option in town."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: Her Unusual Moving Business Makes 13K a Month (October 21, 2026)",
+    "url": "https://thehustleblower.com"
+   },
+   {
+    "id": "swns",
+    "title": "SWNS: I make 13K a month helping women move after breakups (October 2026)",
+    "url": "https://discover.swns.com/2026/10/i-make-13k-a-month-helping-women-move-after-breakups/"
+   }
+  ],
+  "relatedServiceIds": [
+   "business-website",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Build my website",
+   "price": 1500,
+   "serviceId": "business-website"
+  },
+  "nextClick": {
+   "label": "See website pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "citymouse-bag-creator-reviews-millions",
+  "title": "Two Creator Reviews Turned an 8,500 Dollar Bag Idea Into 1.7 Million in Sales",
+  "excerpt": "Makeup artist Alexandra Rutkay started citymouse with about 8,500 dollars after her purse could not fit her son essentials. The Hustle Blower reports more than 1.7 million dollars in total sales and 20,000 customers, after two reviews sold 500 bags in three days.",
+  "seoDescription": "citymouse passed 1.7 million dollars in sales from an 8,500 dollar start after two creator reviews sold 500 bags in 3 days. The distribution lesson.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-21T12:16:00.000Z",
+  "updatedAt": "2026-10-21T12:16:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/citymouse-bag-creator-reviews-millions-hero.webp",
+   "alt": "A model wearing the sky blue citymouse Park crossbody bag with a wide branded strap, photographed against a white background",
+   "subject": "citymouse Park crossbody bag product photo",
+   "kind": "photo",
+   "sourceUrl": "https://citymouseny.com/collections/park-crossbody",
+   "credit": "Image: citymouse Park bag product photo via citymouse. Story source: The Hustle Blower, October 20, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A gap between two products became one bag",
+    "paragraphs": [
+     "Alexandra Rutkay was getting ready for dinner with her husband and son when she hit a familiar problem. Her nice purse could not fit her son sippy cup, diapers, and wipes, and she did not want to carry an enormous diaper bag to dinner. So she designed something in between: a small, stylish crossbody bag that holds parenting essentials without looking like baby gear. She called it citymouse.",
+     "Alexandra was not a handbag designer. She was a New York makeup artist working long hours on film and television sets, and she started with about 8,500 dollars. The bag she sketched combined a drink holder, diaper storage, card slots, a changing pad, and interchangeable straps. A few years later, The Hustle Blower reports, the company had passed 1.7 million dollars in sales and 20,000 customers."
+    ]
+   },
+   {
+    "heading": "The first 500 bags took more than six months",
+    "paragraphs": [
+     "This was not an overnight success. Alexandra shared the product on TikTok, launched with preorders that helped fund production, and kept her regular job while the business grew slowly. Her first 500 bags took more than six months to sell.",
+     "During that slow stretch she experimented with new colors and straps and improved the product while a small audience formed. A useful product does not find its own customers. Someone still has to put it in front of them."
+    ]
+   },
+   {
+    "heading": "Two reviews did what six months could not",
+    "paragraphs": [
+     "In 2024, while Alexandra was working long days on a movie set, two positive reviews of the bags gained traction on TikTok and Instagram. Within three days the company sold out more than 500 bags, the same number that had taken half a year the first time. She quickly ordered another 1,000 bags from her manufacturer.",
+     "The product had not changed. The audience had. Earlier reporting cited by The Hustle Blower says referrals eventually accounted for roughly 90 percent of the business at that stage. A creator showing how much fits inside the bag persuades in a way an advertisement cannot, because the demonstration is the proof."
+    ]
+   },
+   {
+    "heading": "How she kept the attention working",
+    "paragraphs": [
+     "citymouse generated about 135,000 dollars in sales in 2023, and what followed was a mix, not a miracle. The brand kept posting its own content, spent about 25,000 dollars on Facebook ads in 2024, and joined TikTok Shop in spring 2024, where a three day stretch brought roughly 50,000 dollars in sales because viewers could buy without leaving the platform.",
+     "By October 2026 the reported total passed 1.7 million dollars across the website, TikTok Shop, and wholesale. Outside reviews created the spike, and owned content, paid ads, and new channels turned it into a business."
+    ]
+   },
+   {
+    "heading": "The copyable play for any small product",
+    "paragraphs": [
+     "You do not need your own large following to test this. You need a product whose benefit is obvious in seconds, and people whose audiences already have the problem it solves."
+    ],
+    "bullets": [
+     "List 20 to 30 small creators who already review products like yours, and study whether their viewers ask buying questions",
+     "Offer a sample and an honest review, with any payment or commission disclosed properly",
+     "Ask for a real demonstration on a real day, not a script full of marketing claims",
+     "Track which creators bring profitable orders with unique links or codes, then find more who resemble the winners"
+    ]
+   },
+   {
+    "heading": "Attention exposes weak operations fast",
+    "paragraphs": [
+     "The rush nearly broke the business. Orders were packed in the living room, inventory was counted by hand, and repeated sellouts risked the momentum. The original rubber logos peeled off the nylon, so Alexandra switched to stitched logos. Competitors arrived, and her husband eventually left his career to run operations full time.",
+     "Distribution made the business take off, and operations let it survive taking off. Build the creator list before the big inventory order, and the stock plan before the creator posts."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: She Sold 1.7M Fixing One Annoyance (October 20, 2026)",
+    "url": "https://thehustleblower.com"
+   },
+   {
+    "id": "citymouse",
+    "title": "citymouse: The Park Bag crossbody diaper bag",
+    "url": "https://citymouseny.com/collections/park-crossbody"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "business-website",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "arda-factory-ai-billion-dollar-startup",
+  "title": "A Factory AI Startup Just Debuted at a 1.5 Billion Dollar Valuation",
+  "excerpt": "Former OpenAI research chief Bob McGrew came out of stealth with Arda, which plans factory assembly lines from design files. The Rundown reports a 160 million dollar Series A, a 1.5 billion dollar valuation, and a first customer, Anduril, cutting basic assembly instructions from 10 hours to 15 minutes.",
+  "seoDescription": "Arda debuted at a 1.5 billion dollar valuation with AI that plans factory lines. Anduril cut assembly instructions from 10 hours to 15 minutes.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-21T12:12:00.000Z",
+  "updatedAt": "2026-10-21T12:12:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/arda-factory-ai-billion-dollar-startup-hero.webp",
+   "alt": "An Arda graphic showing its four step factory planning process, from translating designs into a manufacturing process to reconfiguring the factory as conditions change",
+   "subject": "Arda factory planning process graphic",
+   "kind": "photo",
+   "sourceUrl": "https://www.therundown.ai",
+   "credit": "Image: Arda process graphic via The Rundown AI. Story source: The Rundown AI, October 21, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The pitch is Claude for factory engineers",
+    "paragraphs": [
+     "Former OpenAI Chief Research Officer Bob McGrew just came out of stealth with Arda, a startup building AI that helps factories set up assembly lines for new products far faster. The Rundown reports that Arda launches at a 1.5 billion dollar valuation after a 160 million dollar Series A round, which is a remarkable price for a company most people had never heard of a week ago.",
+     "McGrew pitched Arda as doing for manufacturing engineers what Claude or Cursor does for programmers. The software reads design files and plans the build: operations, tools, stations, and the instructions a line needs to make a new product."
+    ]
+   },
+   {
+    "heading": "Why changing a factory line is so expensive",
+    "paragraphs": [
+     "The comparison McGrew draws is with factories in Asia, where big crews can relearn a new design in about a day. An automated line in the United States moves slower. Reprogramming a single automated station can cost nearly 1 million dollars, and every new product can mean weeks of planning before the first unit rolls off.",
+     "That gap is the whole business. A factory that switches products quickly can take jobs competitors decline, and wastes less equipment time sitting idle. Speed of change, not speed of production, is the prize."
+    ]
+   },
+   {
+    "heading": "The first customer reports a dramatic time cut",
+    "paragraphs": [
+     "Defense firm Anduril is Arda first customer, and its report is the number that will sell the next ten deals. Basic assembly instructions that once took 10 hours now take 15 minutes, and Anduril says it would be behind without the technology. Treat that as a customer claim in a launch story, not a measured study, but even a fraction of that gain would pay for a lot of software.",
+     "McGrew wants to go further. The next step is robots on the line, reprogrammed by Arda agents in days instead of weeks. His stated goal is a fully automated version of Shenzhen in West Texas, which tells you the ambition is not a planning tool. It is a new way to run a factory."
+    ]
+   },
+   {
+    "heading": "The exodus from the frontier labs continues",
+    "paragraphs": [
+     "McGrew joins Mira Murati, Ilya Sutskever, and other senior OpenAI departures now running billion dollar startups of their own. Arda is the rare one building for physical production instead of building another frontier model, and that choice is part of the story investors are buying.",
+     "The timing helps too. The Rundown notes that Jeff Bezos project Prometheus raised 12 billion dollars for an artificial general engineer focused on designing physical products. Serious money now believes the next big AI market is not only words and images. It is things you can hold."
+    ]
+   },
+   {
+    "heading": "What builders outside factories should take from this",
+    "paragraphs": [
+     "The pattern is the same one winning in creative work. The valuable tool is not the one that generates the most. It is the one that shortens the distance between a finished design and a finished product, inside a workflow that already costs real money when it moves slowly."
+    ],
+    "bullets": [
+     "Find the step where a skilled person spends hours translating one format into another",
+     "Measure the current time honestly, the way Anduril 10 hours to 15 minutes claim does",
+     "Sell the recovered time and the jobs it unlocks, not the model behind the tool",
+     "Start with one customer whose result can carry the next round of sales"
+    ]
+   },
+   {
+    "heading": "Planning is becoming the product",
+    "paragraphs": [
+     "Factories spent a century getting better at making the same thing. The new contest is getting better at making the next thing, and AI that plans the changeover attacks exactly that weakness. Whether Arda holds its valuation is a question for its investors.",
+     "For everyone else, the signal is simpler. In field after field, the plan itself is turning into software work. People who document their process clearly will hand that work to AI first, and move first when the market changes."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Ex OpenAI research chief Arda debuts at 1.5B (October 21, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "business-website",
+   "brand-spot"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "meta-muse-shared-chats-searchable",
+  "title": "Shared Meta Muse Chats Were Findable Without the Link",
+  "excerpt": "Claroc found more than 6,800 shared Meta Muse chat addresses in public web records, and Meta paused the sharing feature while it investigates. The Neuron reports the chat title sat inside the address itself, and some shared pages held loan applications, revenue reviews, and staff calendars.",
+  "seoDescription": "More than 6,800 shared Meta Muse chats were findable in public DNS records, Claroc found. Why a share link is a public page and what to share instead.",
+  "category": "ai-tools",
+  "serviceId": "business-website",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-21T12:08:00.000Z",
+  "updatedAt": "2026-10-21T12:08:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/meta-muse-shared-chats-searchable-hero.webp",
+   "alt": "A Neuron illustration of a worried cat at a laptop beside search results for shared Muse chats, an open padlock, and papers labeled Public Records",
+   "subject": "Meta Muse shared chats publicly findable illustration",
+   "kind": "photo",
+   "sourceUrl": "https://www.theneurondaily.com",
+   "credit": "Image: Illustration via The Neuron. Story source: The Neuron, October 21, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Sharing a chat publishes a page",
+    "paragraphs": [
+     "Security firm Claroc says anyone could find chats shared from Meta Muse app without being sent the link. The Neuron reports Claroc found more than 6,800 share addresses in public internet records, and The Verge reports Meta paused Muse sharing while it investigates.",
+     "Tap share in Muse and the chat becomes a web page that opens for anyone who has the link, with no login needed. That openness is the feature, because it is how a coworker or a client reads the chat. It is also the risk, because a shared link is not private once the page exists."
+    ]
+   },
+   {
+    "heading": "The chat title was printed inside the address",
+    "paragraphs": [
+     "The twist is how Muse built each address. The page address combined the chat title with a random code, so a chat about a budget review carried that topic in readable words inside the link itself. The random code was supposed to make the address hard to guess.",
+     "It did not stay secret. Every time a browser opens a page, it looks the address up in DNS, the system that turns web addresses into server locations. Services called passive DNS log those lookups and let people search them. Claroc searched one and the chat titles came back readable, like a table of contents. The full address, code included, was logged the first time anyone opened the page."
+    ]
+   },
+   {
+    "heading": "What strangers could open and read",
+    "paragraphs": [
+     "Claroc opened a few hundred of the pages without logging in. Most were harmless, like small business sites and event calendars. A minority were the kind of thing nobody means to publish:"
+    ],
+    "bullets": [
+     "Prep notes for a confidential call with a frontier AI lab, including an internal contact and a meeting time",
+     "An internal revenue review at a marketing company, marked for its chief executive",
+     "A small business loan application with the amount requested",
+     "A staff vacation calendar covering a full year and listing dozens of employees"
+    ]
+   },
+   {
+    "heading": "The app is big, and the caveats matter",
+    "paragraphs": [
+     "Muse is not small. Sensor Tower data cited by The Neuron shows the app passed 10.9 million downloads in its first 40 days, and Meta put 39 percent of its October advertising spend behind it. An app collecting that much trust that fast collects sensitive chats too.",
+     "Keep the caveats in view. Claroc sells software that spots risky AI sharing, so it has a stake in this story. Its search covered one service, one address pattern, and a short window, and it reports no evidence anyone misused the pages, which were public because their owners shared them. Claroc reported the issue to Meta on October 8, and still spotted 27 new share addresses on the day it last checked."
+    ]
+   },
+   {
+    "heading": "A safer way to share AI work",
+    "paragraphs": [
+     "Treat every share link in every AI app as a public web page, because that is what it is. Before you send one, read the chat the way a stranger would, and ask what it reveals about a client, a price, a plan, or a person who never agreed to be in it."
+    ],
+    "bullets": [
+     "Never share a chat that holds client names, prices, contracts, or unreleased plans",
+     "Copy the useful part into a document you control, and share that document instead",
+     "Give the copy a plain title that reveals nothing about the client or the deal",
+     "Delete shared chats you no longer need, and assume old links still work until you check"
+    ]
+   },
+   {
+    "heading": "The lesson travels beyond one app",
+    "paragraphs": [
+     "Nothing here required a hacker to break in. The door was the share button, and the address on the door was written in plain language. Creators now do real client work inside AI chats every day, which makes chat hygiene part of client trust.",
+     "The fix is boring and fast. Share less, copy out only what the other person needs, and keep the working chat private."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Meta Muse made shared chats searchable (October 21, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "business-website",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Build my website",
+   "price": 1500,
+   "serviceId": "business-website"
+  },
+  "nextClick": {
+   "label": "See website pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "mercury-3-diffusion-speed-test",
   "title": "Mercury 3 Drafts Answers All at Once and It Is Very Fast",
   "excerpt": "Inception launched Mercury 3, a diffusion language model that drafts many words at once instead of one at a time. The Rundown reports output above 1,000 tokens a second and pricing at 0.20 and 0.70 dollars per million tokens, and The Neuron test of eight runs cost about four cents in total.",
