@@ -7050,5 +7050,22 @@
   "alt": "Concert Knight flyer with Soulja Boy and Waka Flocka Flame at Addition Financial Arena Orlando on October 22",
   "imageKey": "event-flyers/518-concert-knight-soulja-boy-waka-flocka.jpg",
   "endDate": "2026-10-22"
+ },
+ {
+  "section": "LATER IN OCTOBER",
+  "title": "CeCe Winans: Come Worship Tour, Tampa",
+  "date": "OCTOBER 29, 7 PM",
+  "headliners": "CeCe Winans, Charity Gayle, Red Worship, Terrian",
+  "venue": "Yuengling Center, Tampa",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.yuenglingcenter.com/event/cece-2026/",
+  "flyerUrl": "https://www.yuenglingcenter.com/event/cece-2026/",
+  "image": "/events/flyer/519-cece-winans-come-worship-tour-tampa.jpg",
+  "alt": "CeCe Winans: Come Worship Tour Tampa event flyer",
+  "imageKey": "event-flyers/519-cece-winans-come-worship-tour-tampa.jpg",
+  "endDate": "2026-10-29"
  }
 ]
