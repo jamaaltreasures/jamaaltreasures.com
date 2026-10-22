@@ -7692,5 +7692,41 @@
   "alt": "Original Florida Key Lime Pie Festival flyer, Francis Field, St. Augustine",
   "imageKey": "event-flyers/561-original-florida-key-lime-pie-festival.jpg",
   "endDate": "2026-11-14"
+ },
+ {
+  "section": "HALLOWEEN",
+  "title": "15th Annual Stone Crab Eating Contest",
+  "date": "OCTOBER 31, 11 AM TO 3 PM",
+  "headliners": "",
+  "venue": "Keys Fisheries, Marathon",
+  "categories": [
+   "Food",
+   "Community"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://happeningnext.com/event/15th-annual-stone-crab-eating-contest-eid3a0e5q8qu4",
+  "flyerUrl": "https://happeningnext.com/event/15th-annual-stone-crab-eating-contest-eid3a0e5q8qu4",
+  "image": "/events/flyer/562-15th-annual-stone-crab-eating-contest.jpg",
+  "alt": "15th Annual Stone Crab Eating Contest flyer, Keys Fisheries, Marathon",
+  "imageKey": "event-flyers/562-15th-annual-stone-crab-eating-contest.jpg",
+  "endDate": "2026-10-31"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Art Battle Ormond Beach",
+  "date": "DECEMBER 19, DOORS AT 5 PM",
+  "headliners": "",
+  "venue": "Ormond Brewing, Ormond Beach",
+  "categories": [
+   "Arts",
+   "Community"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://artbattle.com/events/AB4130",
+  "flyerUrl": "https://artbattle.com/events/AB4130",
+  "image": "/events/flyer/563-art-battle-ormond-beach.jpg",
+  "alt": "Art Battle Ormond Beach live painting competition flyer, Ormond Brewing, Ormond Beach",
+  "imageKey": "event-flyers/563-art-battle-ormond-beach.jpg",
+  "endDate": "2026-12-19"
  }
 ]
