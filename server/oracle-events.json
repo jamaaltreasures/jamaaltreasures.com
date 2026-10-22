@@ -7762,5 +7762,40 @@
   "alt": "Skilla Baby The Price of Fame Tour Orlando event flyer",
   "imageKey": "event-flyers/565-skilla-baby-price-of-fame-tour-orlando.jpg",
   "endDate": "2026-10-29"
+ },
+ {
+  "section": "MAJOR ANNUALS",
+  "title": "Gate River Run",
+  "date": "MARCH 6, 8 AM",
+  "headliners": "",
+  "venue": "Riverfront Plaza, Jacksonville",
+  "categories": [
+   "Wellness"
+  ],
+  "detailsLabel": "Register",
+  "detailsUrl": "https://gateriverrun15k.com/",
+  "flyerUrl": "https://raceroster.com/events/2027/139525/gate-river-run",
+  "image": "/events/flyer/566-gate-river-run-jacksonville.jpg",
+  "alt": "Gate River Run 50th running official race banner, Riverfront Plaza Jacksonville",
+  "imageKey": "event-flyers/566-gate-river-run-jacksonville.jpg",
+  "endDate": "2027-03-06"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Sanding Ovations Masters Cup",
+  "date": "NOVEMBER 19 TO 22",
+  "headliners": "",
+  "venue": "Treasure Island Beach, Treasure Island",
+  "categories": [
+   "Arts",
+   "Festival"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://sandingovationsmasterscup.com/",
+  "flyerUrl": "https://www.visitstpeteclearwater.com/event/annual-sanding-ovations-masters-cup/1296",
+  "image": "/events/flyer/567-sanding-ovations-masters-cup-treasure-island.jpg",
+  "alt": "Sanding Ovations Masters Cup official poster, Treasure Island Beach, Treasure Island",
+  "imageKey": "event-flyers/567-sanding-ovations-masters-cup-treasure-island.jpg",
+  "endDate": "2026-11-22"
  }
 ]
