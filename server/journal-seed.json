@@ -1,5 +1,494 @@
 [
  {
+  "slug": "amy-suto-job-board-263k-newsletter",
+  "title": "Amy Suto Turned Leftover Writing Leads Into a 263,000 Dollar Job Board",
+  "excerpt": "Memoir ghostwriter Amy Suto had more client inquiries than hours, so in 2024 she put the overflow on a job board inside her newsletter. The Hustle Blower reports more than 263,000 dollars in annualized recurring revenue and under 100 dollars in ad spend.",
+  "seoDescription": "Amy Suto built a 263,000 dollar job board from freelance leads she could not take. Why readers pay 19 dollars a month for curation.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-22T12:24:00.000Z",
+  "updatedAt": "2026-10-22T12:24:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/amy-suto-job-board-263k-newsletter-hero.webp",
+   "alt": "A writing desk with a laptop, notebooks, and a lamp under the words From the Desk of Amy Suto",
+   "subject": "Amy Suto writing desk brand image",
+   "kind": "photo",
+   "sourceUrl": "https://www.amysuto.com/",
+   "credit": "Image: From the Desk of Amy Suto share image via Amy Suto. Story source: The Hustle Blower, October 21, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The overflow every freelancer throws away",
+    "paragraphs": [
+     "Amy Suto made her living ghostwriting memoirs, work she could do remotely while traveling with her partner, now husband, Kyle Cords. As her reputation grew, two kinds of requests grew with it: clients who wanted to hire her, and writers who wanted the kind of work she was getting. She had more demand than hours.",
+     "Most freelancers solve that problem by turning people away. Suto, sitting in a Paris cafe and thinking about the projects she could not accept, asked a better question: what if the overflow itself was the business? Writers needed paying work, clients needed writers, and she was standing in the middle with both lists."
+    ]
+   },
+   {
+    "heading": "Advice was free, access is what people paid for",
+    "paragraphs": [
+     "In June 2023 Suto launched a newsletter sharing what she had learned about making money as a writer. It was useful advice, and on its own it was not yet a money maker. In 2024 she added a job board, first filled with opportunities she could not personally take, then expanded into a curated collection of paid freelance writing jobs.",
+     "Her publication, Make Writing Your Job, now pairs free career advice with paid membership. As of October 2026, Suto described a standard membership at 19 dollars a month and a founding membership at 550 dollars a year, alongside a free tier. The distinction is the whole model. A writer might hesitate to pay 19 dollars a month for more advice. Paying for relevant, filtered job leads that could return hundreds or thousands is an easier decision."
+    ]
+   },
+   {
+    "heading": "The numbers, with the honest caveat",
+    "paragraphs": [
+     "The Hustle Blower reports more than 58,000 total subscribers across free and paid tiers, and more than 263,000 dollars in annualized gross recurring revenue as of Suto account on October 1, 2026. Annualized means the current subscription pace projected over a year. It is not the same as cash collected, and it is not her personal take home pay.",
+     "The growth number is still real. The business crossed six figures in annualized revenue by mid 2025, roughly a year after the job board launched, following about a year and a half of steady publishing without explosive growth. Suto says she has not missed a week of publishing since the start."
+    ]
+   },
+   {
+    "heading": "Under 100 dollars in ads, years of work instead",
+    "paragraphs": [
+     "Suto and Cords say they have spent less than 100 dollars on advertising in total. Growth came from search friendly writing, social sharing, Substack discovery features, and interviews with established writers and creators. Each interview served readers, built credibility, and reached a new audience when the guest shared it.",
+     "Free growth was not free. It was paid for in years of consistent writing and research. For a creator without a budget, that trade is the offer: money or time, but one of them funds the audience."
+    ]
+   },
+   {
+    "heading": "Curation is a product in any crowded field",
+    "paragraphs": [
+     "Writers were never paying for information that exists nowhere else. The jobs were already posted somewhere. They pay to save hours of searching, to skip irrelevant listings, and to trust that someone who knows the field did the filtering. That model travels:"
+    ],
+    "bullets": [
+     "Find the demand you already turn away, and ask who else would value it",
+     "Package access and filtering, not just information, because saved time is what renews",
+     "Keep a free tier that proves the quality of the paid tier every week",
+     "Publish on a schedule your audience can set a clock by, because consistency is the marketing"
+    ]
+   },
+   {
+    "heading": "The subscription has to keep earning its keep",
+    "paragraphs": [
+     "Recurring revenue comes with a standing obligation. A job board filled with stale listings will churn. The product is only as good as this week list, which is why the operation, not the idea, is the moat.",
+     "For freelancers sitting on full inboxes, the Suto story reframes the overflow. The leads you cannot serve are not a dead end. Curated well, they are inventory."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: She Spent Under 100 Dollars and Hit 263K a Year (October 21, 2026)",
+    "url": "https://thehustleblower.com"
+   },
+   {
+    "id": "make-writing-your-job",
+    "title": "Make Writing Your Job: writing job board by Amy Suto",
+    "url": "https://www.makewritingyourjob.com/"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "business-website",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "protein-chefs-wrong-customer-million",
+  "title": "Protein Chefs Passed a Million a Year After It Stopped Selling to Gym Lovers",
+  "excerpt": "Ronneil Ramlal started Protein Chefs with 2,500 dollars in 2015 and growth stalled for years at 20,000 to 30,000 dollars a month. The Hustle Blower reports revenue doubled after the company aimed at busy professionals buying time back.",
+  "seoDescription": "Protein Chefs grew past a million dollars a year after switching from fitness fans to busy professionals. The customer lesson inside.",
+  "category": "brand-growth",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-22T12:20:00.000Z",
+  "updatedAt": "2026-10-22T12:20:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/protein-chefs-wrong-customer-million-hero.webp",
+   "alt": "Protein Chefs branded delivery box and cooler bag with packaged ready to eat meals in front",
+   "subject": "Protein Chefs meal delivery packaging",
+   "kind": "photo",
+   "sourceUrl": "https://proteinchefs.com/",
+   "credit": "Image: Protein Chefs delivery packaging photo via Protein Chefs. Story source: The Hustle Blower, October 22, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A 2,500 dollar test, not a grand opening",
+    "paragraphs": [
+     "In 2015, UPS supervisor Ronneil Ramlal and his wife Yuvika Wadhwa had demanding jobs, fitness goals, and a nightly problem: deciding what to eat without spending the evening cooking and cleaning. The Hustle Blower reports they launched Protein Chefs with 2,500 dollars in savings, paying for a basic website, a chef hired by the hour, and rented commercial kitchen space.",
+     "There was no storefront, no team, and no outside investors. The goal was not to build a million dollar company on day one. It was to find out whether anyone would pay for the meals at all."
+    ]
+   },
+   {
+    "heading": "Slow growth that looked like success",
+    "paragraphs": [
+     "The founders posted food photos on Instagram, then got direct. They messaged fitness influencers and potential customers, offering free meals in exchange for feedback and reviews. Orders came in at about 4,000 dollars a month, and over the years revenue climbed into the 20,000 to 30,000 dollar a month range.",
+     "In 2017 Ramlal left UPS to run the company full time. The meals were good, customers liked them, and the operation worked. Then growth flattened for years, and the reason was not in the kitchen."
+    ]
+   },
+   {
+    "heading": "The obvious customer was the wrong customer",
+    "paragraphs": [
+     "The company was called Protein Chefs, so the founders aimed at bodybuilders, fitness enthusiasts, and people who track every macro. It made perfect sense on paper, and it was the trap. People who love meal prep enjoy measuring portions and experimenting with nutrition. A ready made meal is convenient for them, but it is not urgent.",
+     "Now picture the accountant working late in tax season, or the business owner home at 8 in the evening with no energy to cook. For that customer the meal solves a different problem. They are not really buying protein. They are buying their time back, and they can afford to buy it every week."
+    ]
+   },
+   {
+    "heading": "Same meals, new buyer, doubled revenue",
+    "paragraphs": [
+     "Once Protein Chefs aimed its marketing at busy professionals and business owners, Ramlal says revenue doubled. The product barely changed. The reason to buy it did. By 2022 the company crossed 1 million dollars in annual revenue, and in an October 16, 2026 interview with Entrepreneur, Ramlal reported it has held seven figure annual revenue since then.",
+     "Read that as a founder reported figure, not an audited one. Even so, the shape of the story is the lesson: a stalled business is not always a product problem. Sometimes it is a who problem, and the fix costs a new message, not a new menu."
+    ]
+   },
+   {
+    "heading": "Then the kitchen itself became the bottleneck",
+    "paragraphs": [
+     "Finding better customers exposed the next problem. The original chef cooked well but struggled with the management side of a production kitchen: ingredient costs, inventory, standardized recipes, scheduling, and consistency at volume. The founders absorbed more and more of that work themselves.",
+     "Bringing in a chef with stronger operational skills let the company standardize meals and expand the menu. It is the unglamorous change that rarely makes a headline, and it is often what separates a hustle from a business that can scale. Being great at the craft is not the same as being great at building the operation around the craft."
+    ]
+   },
+   {
+    "heading": "The question to ask a stalled offer",
+    "paragraphs": [
+     "Before rebuilding a product that has stopped growing, Protein Chefs story suggests a cheaper test:"
+    ],
+    "bullets": [
+     "Name the customer who feels the problem most urgently, not the one who finds the product most interesting",
+     "Say what that customer is really buying in one sentence, the way time back replaced protein here",
+     "Rewrite the pitch for that buyer and watch whether the same product suddenly converts",
+     "Fix the operations behind the offer before the new demand arrives, because growth exposes weak systems fast"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: He Built 1M Selling to Whom (October 22, 2026)",
+    "url": "https://thehustleblower.com"
+   },
+   {
+    "id": "protein-chefs",
+    "title": "Protein Chefs: Toronto healthy meal delivery",
+    "url": "https://proteinchefs.com/"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "romance-bookstores-booktok-boom",
+  "title": "Romance Bookstores Are Booming and BookTok Built the Audience",
+  "excerpt": "More than 230 romance only bookstores opened in the United States in three years, and about 335 opened worldwide. The Hustle reports print romance sales hit 51 million units last year, up 24 percent, with BookTok as the engine.",
+  "seoDescription": "Romance only bookstores passed 230 openings in three years as print sales hit 51 million units. How a TikTok community rebuilt a retail niche.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-22T12:16:00.000Z",
+  "updatedAt": "2026-10-22T12:16:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/romance-bookstores-booktok-boom-hero.webp",
+   "alt": "Open romance novels with their pages folded into heart shapes against a pink background",
+   "subject": "Romance novels with heart folded pages",
+   "kind": "photo",
+   "sourceUrl": "https://thehustle.co",
+   "credit": "Image: Romance novels with heart folded pages via The Hustle. Story source: The Hustle, October 22, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A genre once hidden in beach totes now has its own stores",
+    "paragraphs": [
+     "Romance novels used to live in the back corners of bookstores, in worn copies readers carried quietly. The Hustle reports that the genre now supports dedicated shops with names like Knotty Novels and Kiss and Tale, and that the boom is growing across the United States and abroad.",
+     "The numbers behind it are not small. More than 230 romance bookstores opened in the past three years, including 50 this year, and about 335 opened worldwide, including shops in the United Kingdom and Canada. Many are women owned."
+    ]
+   },
+   {
+    "heading": "It started with one store and a Kickstarter",
+    "paragraphs": [
+     "The Ripped Bodice, the first romance only bookstore in the United States, opened in 2016 after sisters Bea and Leah Koch raised about 90,000 dollars on Kickstarter. They have since opened a New York outpost, and their bet looks obvious in hindsight: serve one passionate audience completely instead of serving everyone a little.",
+     "That is the pattern the whole category followed. A dedicated shop can stock the subgenres a general store cannot justify, from romantasy and historical to sports themed and supernatural, and staff can recommend across all of them without judgment."
+    ]
+   },
+   {
+    "heading": "BookTok turned reading into a community again",
+    "paragraphs": [
+     "The Hustle credits two forces: a rise in romance reading during the pandemic, and BookTok, the TikTok community that works as a virtual book club. There were 59 million print book sales tied to BookTok related content in 2024 alone.",
+     "The sales curve matches the community curve. Romance print sales more than doubled from 18 million units in 2020 to 39 million in 2023, the genre drove 1.44 billion dollars in revenue across 2022 and 2023, and sales hit 51 million units last year, a 24 percent year over year increase. In 2024 the genre helped push overall print book sales into the black."
+    ]
+   },
+   {
+    "heading": "The stores sell belonging, not just books",
+    "paragraphs": [
+     "Romance bookstores typically offer a different experience than a general shop. Customers get a judgment free zone, recommendations across a diverse range of subgenres, and a room full of people who read what they read. Many shops double as community hubs, with book clubs, writing workshops, and craft nights.",
+     "That is why the format survives online competition that was supposed to kill it. A website can ship a book cheaper. It cannot host the club, the workshop, or the feeling of being among your people. The store is the community with a cash register, not the other way around."
+    ]
+   },
+   {
+    "heading": "What niche retailers and creators can copy",
+    "paragraphs": [
+     "The romance boom is a case study in audience first retail, and the moves translate well beyond books:"
+    ],
+    "bullets": [
+     "Pick one passionate audience and serve its full depth instead of stocking a shallow version of everything",
+     "Build where the community already gathers online, and make the physical space the place that community meets in person",
+     "Program the calendar, not just the shelves: clubs, workshops, and nights that give people a reason to return weekly",
+     "Let the audience see itself in the shop, from the name on the door to the sections on the wall"
+    ]
+   },
+   {
+    "heading": "Print is not dead, unfocused print is",
+    "paragraphs": [
+     "For years the story was that online shopping and social media would finish independent bookstores. The Hustle notes the twist: those very forces drove this resurgence. Social media built the audience, and the audience wanted a physical home.",
+     "The lesson is not that every niche gets a bookstore. It is that a defined community with real enthusiasm will support a focused business built for it, and will often prefer it to a giant general store that treats its passion as a back corner."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle: Love and print is not dead (October 22, 2026)",
+    "url": "https://thehustle.co"
+   },
+   {
+    "id": "new-school-free-press",
+    "title": "The New School Free Press: The Ripped Bodice and writing romance (February 12, 2024)",
+    "url": "https://www.newschoolfreepress.com/2024/02/12/writes-bites-the-ripped-bodice-and-writing-romance/"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "business-website",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "ai-found-php-flaw-70-percent-of-web",
+  "title": "AI Found Two Critical Flaws in the Code Behind 70 Percent of Websites",
+  "excerpt": "PHP powers about 70 percent of websites, and two critical flaws rated 9.2 out of 10 sat in it for about a decade. AI models helped researchers find them, patches are out, and the NSA says anyone who cannot patch should take systems offline.",
+  "seoDescription": "Two PHP flaws rated 9.2 of 10 put about 70 percent of websites at risk, and AI helped find them. What site owners should do this week.",
+  "category": "ai-tools",
+  "serviceId": "business-website",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-22T12:12:00.000Z",
+  "updatedAt": "2026-10-22T12:12:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/ai-found-php-flaw-70-percent-of-web-hero.webp",
+   "alt": "A collage of public posts from OpenAI, NSA Cyber, and The PHP Foundation warning about two critical PHP vulnerabilities rated CVSS 9.2, with a list of gaming and community sites taken down or put in maintenance",
+   "subject": "PHP critical vulnerability warnings from OpenAI, NSA, and The PHP Foundation",
+   "kind": "photo",
+   "sourceUrl": "https://www.therundown.ai",
+   "credit": "Image: PHP vulnerability posts collage via X and The Rundown AI. Story source: The Rundown AI, October 22, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The patch everyone is scrambling to install",
+    "paragraphs": [
+     "PHP, the programming language behind about 70 percent of websites, just pushed patches for two critical flaws found with help from OpenAI GPT 5.6 Sol. The Rundown reports OpenAI worked alongside the PHP maintainers for two months, and calls the find one of the most impactful security issues in recent memory.",
+     "Morning Brew adds the scale of the response. The PHP Foundation rated both flaws at CVSS 9.2 out of 10, the fix took more than 10,000 lines of code, and the National Security Agency urged anyone who cannot patch right away to pull systems offline."
+    ]
+   },
+   {
+    "heading": "How the flaws were found",
+    "paragraphs": [
+     "Security firm Calif found the first bug on August 1 using GPT 5.6 Sol. Wiz, the Google owned security firm, separately caught both flaws weeks later using Sol and Gemini 4 Argon. Multiple teams using AI found the same decade old bugs independently, which says something about how thoroughly models can now read old code.",
+     "Morning Brew reports the bug had actually been flagged years ago, but it was ranked low priority because it was deemed too complicated for a human hacker to untangle by hand. AI changed that math. What once took too long to exploit can now be worked out in hours or seconds, so the defenders had to move first."
+    ]
+   },
+   {
+    "heading": "What an attacker could do with them",
+    "paragraphs": [
+     "The flaws let hackers hijack servers with no login at all. The NSA warning, quoted in the coverage, says these vulnerabilities often provide a direct path to a server file system or database. Morning Brew lists what that means in practice:"
+    ],
+    "bullets": [
+     "Alter a website content or appearance without the owner knowing",
+     "Run their own code on the server that hosts the site",
+     "Steal data stored on that server, including customer records"
+    ]
+   },
+   {
+    "heading": "Governments took sites offline rather than wait",
+    "paragraphs": [
+     "The response shows how seriously officials took it. Governments in Finland, Germany, and the Netherlands pulled websites offline, and Cloudflare said it was seeing early attacks emerging. Gaming and community services listed in the coverage went down or into maintenance, and 4chan went temporarily read only while awaiting the urgent PHP update.",
+     "Wiz cofounder Ami Luttwak, quoted by Morning Brew, called it the most severe AI vulnerability that was ever found. OpenAI says it has more major security finds like this still waiting to be disclosed, and describes the work as its Patch the Planet initiative, a coalition of maintainers, researchers, and security providers preparing fixes ahead of disclosure."
+    ]
+   },
+   {
+    "heading": "What to do if you own a website",
+    "paragraphs": [
+     "Basically every WordPress site runs on PHP, and WordPress powers a huge share of small business sites, portfolios, and stores. If that is you, this is a this week task, not a someday task:"
+    ],
+    "bullets": [
+     "Ask your host or developer which PHP version your site runs and whether the patch is applied",
+     "Update WordPress, themes, and plugins, and confirm your backups are current before you update",
+     "If your host cannot patch promptly, ask about taking the site offline briefly rather than leaving it exposed",
+     "Turn on automatic updates where your setup allows it, so the next urgent patch is not waiting on you"
+    ]
+   },
+   {
+    "heading": "The deeper lesson about old code",
+    "paragraphs": [
+     "The uncomfortable takeaway is that code written before AI is more fragile than anyone assumed. Bugs that were safe only because they were hard to find are not safe anymore, because finding them just got cheap. The same models that create the risk are also the best tool defenders have, which is why OpenAI framed this as a race the good side won this time.",
+     "For site owners, the practical version is simple. Maintenance is no longer invisible background work you can skip. It is part of what keeps the business open."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: AI finds a security hole in 70 percent of the web (October 22, 2026)",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Very vulnerable (October 22, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "business-website",
+   "creative-direction-session",
+   "brand-spot"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Build my website",
+   "price": 1500,
+   "serviceId": "business-website"
+  },
+  "nextClick": {
+   "label": "See website pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "claude-duet-works-while-you-sleep",
+  "title": "Claude Duet Works on Its Own Cloud Computer While Your Devices Are Off",
+  "excerpt": "Anthropic launched Claude Duet, a proactive agent app built on Opus 5.5 that sends a morning brief, checks connected apps every few hours, and works on its own cloud computer even when your phone and laptop are off.",
+  "seoDescription": "Claude Duet is a proactive agent that works while your devices are off. What it does, what it must ask before doing, and the limit to watch.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-22T12:08:00.000Z",
+  "updatedAt": "2026-10-22T12:08:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/claude-duet-works-while-you-sleep-hero.webp",
+   "alt": "Three phone screens showing the Claude Duet app preparing a location opening checklist, rebuilding a pitch deck, and drafting partner meeting prep, with a Link payment approval card",
+   "subject": "Claude Duet app screens showing proactive agent work",
+   "kind": "photo",
+   "sourceUrl": "https://www.theneurondaily.com",
+   "credit": "Image: Claude Duet app screens via Anthropic and The Rundown AI. Story source: The Neuron, October 22, 2026"
+  },
+  "sections": [
+   {
+    "heading": "An agent that checks in so you do not have to",
+    "paragraphs": [
+     "Anthropic has launched Claude Duet, a standalone app where Claude acts as a proactive agent instead of waiting for your next prompt. The Neuron reports that Duet sends you a morning brief, checks your connected apps every few hours, and messages you only when something actually needs you.",
+     "Duet is a research preview for Pro and Max subscribers in the United States, rolling out by waitlist. It is built around Claude Opus 5.5, it counts against your normal Claude usage limits, and it carries over your Claude memory, skills, and connected apps. Anthropic lists more than 6,000 connectors, including QuickBooks, Stripe, Gusto, Docusign, HubSpot, and Shopify."
+    ]
+   },
+   {
+    "heading": "It runs on its own computer, not yours",
+    "paragraphs": [
+     "The detail that changes the offer is where Duet lives. It runs on its own virtual machine, a small cloud computer with a browser, so it keeps working when your phone is in your pocket and your laptop is closed. The Rundown gives the shape of the work: morning briefs, calendar tracking, and booking meetings, handled in the background.",
+     "That is a real shift. A chatbot waits inside a window you open. Duet is closer to a staff member with a desk of its own, checking the inbox and the calendar on a schedule and bringing you the short list."
+    ]
+   },
+   {
+    "heading": "The brakes are the product",
+    "paragraphs": [
+     "An agent that acts while you are not looking raises one obvious question: what stops it from doing something costly or embarrassing? Anthropic answer is a stack of brakes, and The Neuron lists them plainly:"
+    ],
+    "bullets": [
+     "Duet shows exactly what it is about to do and waits for your approval before sending a message, making a payment, signing a document, or deleting anything",
+     "Trading securities and moving money between accounts are off limits, even with your approval",
+     "Credentials follow the Managed Agents design, so Duet never sees your passwords or tokens and has nothing to leak",
+     "A classifier blocks sharing the most sensitive information, like card numbers and government IDs, and health and finance details go out only when you say so"
+    ]
+   },
+   {
+    "heading": "It can pay, within the approval screen",
+    "paragraphs": [
+     "On payments, Duet can use Link, the Stripe wallet, with a one time virtual card, and Shop Pay. The Rundown notes the same guardrail: deletion, payment, signature, and outgoing messages all need your sign off first. An AI can now buy things for you, which makes reading the approval screen a genuine job skill.",
+     "Anthropic is also candid about the weak spots. Duet can misread a thread or misjudge urgency, it is weaker at personal errands than at work tasks, and it cannot yet show you its browser while it works."
+    ]
+   },
+   {
+    "heading": "The number that decides whether it lasts",
+    "paragraphs": [
+     "The Neuron names the metric that matters: the ping threshold. Ping too often and Duet becomes the coworker you mute. Ping too rarely and you miss the showing, the deadline, or the client who needed an answer today. Urgency judgment is the weak spot Anthropic itself admits to.",
+     "There is a second cost. Background checks and big tasks count against your usage limits, so the assistant that never sleeps also spends your quota while you do. Track two numbers in the first month: how many pings were worth attention, and how much usage the background work consumed."
+    ]
+   },
+   {
+    "heading": "What this means for anyone who directs work from a phone",
+    "paragraphs": [
+     "Duet is the clearest sign yet that the job is moving from doing tasks to directing and approving them. The valuable human is no longer the fastest typist. It is the person who sets the brief and reads an approval screen with care.",
+     "Start narrow if you get access. Give it one job with a clear finish line, like a morning brief, and judge it on whether its interruptions earn their place. Widen the brief only after the pings prove themselves."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Claude Duet just launched (October 22, 2026)",
+    "url": "https://www.theneurondaily.com"
+   },
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Anthropic joins the personal agent game with Duet (October 22, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "business-website",
+   "brand-spot"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "williams-sonoma-b2b-pivot-home-brand",
   "title": "Williams Sonoma Grew by Selling to Businesses While Home Sales Stalled",
   "excerpt": "With home buying still slow, Williams Sonoma leaned into business customers. The Hustle reports its stock up more than 200 percent in three years, business revenue up 14.5 percent in the quarter, and contract revenue up 20 percent, with cruise ships, senior living, and student housing next.",
