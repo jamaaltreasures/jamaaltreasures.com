@@ -7798,5 +7798,23 @@
     "alt": "Blues, Brews, & BBQ flyer, HarborWalk Village, Destin",
     "imageKey": "event-flyers/573-blues-brews-bbq-destin.jpg",
     "endDate": "2026-11-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "8th Annual Chili Cook Off",
+    "date": "NOVEMBER 21, 4 PM TO 6 PM",
+    "headliners": "",
+    "venue": "Bluewater Bay Marina, Niceville",
+    "categories": [
+      "Food",
+      "Festival"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://bluewaterbaymarina.com/2026/10/12/8th-annual-chili-cook-off/",
+    "flyerUrl": "https://bluewaterbaymarina.com/2026/10/12/8th-annual-chili-cook-off/",
+    "image": "/events/flyer/575-8th-annual-chili-cook-off-niceville.jpg",
+    "alt": "8th Annual Chili Cook Off flyer, Bluewater Bay Marina, Niceville",
+    "imageKey": "event-flyers/575-8th-annual-chili-cook-off-niceville.jpg",
+    "endDate": "2026-11-21"
   }
 ]
