@@ -1,5 +1,498 @@
 [
  {
+  "slug": "ohme-foods-freeze-dried-fruit",
+  "title": "OHME Foods Passed 100,000 Dollars Selling Freeze Dried Fruit, Then Sold Out Too Fast",
+  "excerpt": "Jenny Yue and her husband Han started OHME Foods with a 5,000 dollar farmers market experiment. The Hustle Blower reports more than 100,000 dollars in first year sales, about 350,000 in year two, and more than 600 Canadian stores by July 2026.",
+  "seoDescription": "OHME Foods grew from a 5,000 dollar market stall to 600 plus stores, then a distributor order exposed its weakest system. The forecasting and cash lesson inside.",
+  "category": "brand-growth",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-23T12:24:00.000Z",
+  "updatedAt": "2026-10-23T12:24:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/ohme-foods-freeze-dried-fruit-hero.webp",
+   "alt": "Six OHME pouches of freeze dried fruit, mango, fig, strawberry, blueberry, raspberry, and dragon fruit, arranged with bowls of fresh berries on a pink and green background",
+   "subject": "OHME freeze dried fruit pouches with fresh berries",
+   "kind": "photo",
+   "sourceUrl": "https://www.ohmefoods.com/collections/all-ohme-products",
+   "credit": "Image: OHME freeze dried fruit pouches photo via OHME Foods. Story source: The Hustle Blower, October 22, 2026"
+  },
+  "sections": [
+   {
+    "heading": "It began at breakfast",
+    "paragraphs": [
+     "During the pandemic, Jenny Yue was working from home in health informatics while raising a young child. She and her husband Han cleaned up breakfast, swapping their routine for oats, yogurt, and fruit, and hit the wall every healthy habit hits: it got boring. Han remembered freeze dried fruit from his childhood and they began experimenting at home.",
+     "Freeze dried fruit had a trait fresh fruit lacks. It is shelf stable, so it can be sold as a packaged snack instead of something eaten right away. That opened the door to a real product, and to the equipment, labeling, and cash problems behind it."
+    ]
+   },
+   {
+    "heading": "A 5,000 dollar research lab with folding tables",
+    "paragraphs": [
+     "In July 2023 the couple took the product to farmers markets. Their initial investment was about 5,000 dollars, covering a freeze dryer, kitchen rental, and early ingredients. Real money, but a different risk from leasing a factory before a stranger has tasted anything.",
+     "A market stall returns data no survey can. Customers hesitate at the price, ask how it works, pick one flavor over another, and either buy or walk away. The founders also learned they were explaining a category, because some shoppers assumed the product belonged in a freezer. The business reportedly passed 100,000 dollars in first year sales."
+    ]
+   },
+   {
+    "heading": "The calendar was secretly running the business",
+    "paragraphs": [
+     "Market revenue depends on which markets you attend, how many shoppers show up, and the weather. Miss a Saturday and the sales never happen. Jenny later said she wished they had built repeatable channels earlier: collecting emails, giving buyers a reason to reorder online, and tracking returns.",
+     "In year two the company expanded into retail, wholesale, and direct online sales. Jenny reported about 350,000 dollars in second year revenue, with distribution growing from around 50 specialty stores to roughly 120 independent grocers. By July 2026, she said the brand had reached more than 600 retail locations across Canada."
+    ]
+   },
+   {
+    "heading": "The worst kind of good news",
+    "paragraphs": [
+     "Then came the order they were not ready for. A major distributor order sold through much faster than expected, and the company had underestimated the finished inventory, raw ingredients, and production capacity it needed. When shelves emptied, OHME could not refill them quickly enough.",
+     "From a retailer seat, an empty shelf is not proof your product is magical. It is a space that could have held something customers can buy. The founders changed how they planned: forecasting further ahead, ordering ingredients earlier, reserving manufacturing time, and leaving room for delays. Jenny said they also used AI tools to organize sales data and model demand, while keeping human judgment in charge."
+    ]
+   },
+   {
+    "heading": "A million dollar projection is not a paycheck",
+    "paragraphs": [
+     "In a July 2026 interview, Jenny said OHME expected to finish its fiscal year at approximately 1 million dollars in revenue, with a goal of 2 million the following year. That million is a forecast, not a confirmed year, and the figures are company sales, not personal income.",
+     "Packaged food hides a cash trap inside growth. A manufacturer may want payment when goods are produced, while a retailer pays weeks later. Money leaves before it returns, so a bigger order demands more cash up front. A selling product is not automatically a business that can finance its next batch."
+    ]
+   },
+   {
+    "heading": "Start small, then build what success will require",
+    "paragraphs": [
+     "The OHME lesson is to use the small stage to learn what the bigger stage will demand:"
+    ],
+    "bullets": [
+     "Test in front of real buyers and treat their hesitations as product research",
+     "Build a repeat purchase channel early, because a stall or a platform can disappear with the weather or an algorithm",
+     "Forecast inventory as a routine job, with ingredients and production time reserved early",
+     "Map the cash gap between paying to produce and getting paid, and fund it before a big order arrives",
+     "Remember that selling out is an operations grade, not a trophy, and retailers grade on refills"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: She made 100k selling freeze dried fruit (October 22, 2026)",
+    "url": "https://thehustleblower.com"
+   },
+   {
+    "id": "ohme-foods",
+    "title": "OHME Foods: All products",
+    "url": "https://www.ohmefoods.com/collections/all-ohme-products"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "houndsy-dog-feeder-456k",
+  "title": "A Simple Dog Feeder Did 456,000 Dollars in Year One on the Way to 15 Million in Sales",
+  "excerpt": "Houndsy began as a homemade gravity fed dog food dispenser that pulled more than 15 million TikTok views. The Hustle Blower reports 456,000 dollars in first year sales, 1.7 million in year two, and about 160,000 dollars committed before production scaled.",
+  "seoDescription": "Houndsy turned a simple lever fed dog dispenser into 15 million dollars in cumulative sales. The validation playbook: emails first, crowdfunding proof, then inventory.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-23T12:20:00.000Z",
+  "updatedAt": "2026-10-23T12:20:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/houndsy-dog-feeder-456k-hero.webp",
+   "alt": "A white Houndsy kibble dispenser filled with dog food standing on a mat beside a water bowl, a plant, and a blue sofa in a brick walled room",
+   "subject": "Houndsy kibble dispenser in a living room setting",
+   "kind": "photo",
+   "sourceUrl": "https://www.houndsy.com/products/houndsy-kibble-dispenser-test-product-2",
+   "credit": "Image: Houndsy Kibble Dispenser product photo via Houndsy. Story source: The Hustle Blower, October 23, 2026"
+  },
+  "sections": [
+   {
+    "heading": "It started with a guy watching a dog eat",
+    "paragraphs": [
+     "In May 2021, Pavan Bapu was working in growth marketing at a company that made computer controlled carving machines. His coworker Luke Wilson showed him something built at home: a gravity powered dog food dispenser. Fill it with kibble, turn a lever, and food drops into the bowl. No batteries, no app, no subscription.",
+     "Wilson had posted a demonstration on TikTok, and it reportedly racked up more than 15 million views. Bapu says he spent about half an hour watching it, and spotted what the views were hiding: a daily routine every dog owner repeats, a fix anyone understands in seconds, and an audience already paying attention for free."
+    ]
+   },
+   {
+    "heading": "They collected emails before they built inventory",
+    "paragraphs": [
+     "Fifteen million views do not pay bills. Instead of ordering thousands of units, the founders built a simple landing page whose only job was collecting email addresses from interested dog owners, while short videos kept running. According to Bapu, they collected approximately 70,000 email subscribers before scaling production.",
+     "Then came the real test. A crowdfunding campaign with working versions of the dispenser, emailed to that audience, brought approximately 160,000 dollars committed by customers, reportedly without paid advertising or an outside agency, after spending less than 20,000 dollars to that point."
+    ]
+   },
+   {
+    "heading": "The real product was an easier routine",
+    "paragraphs": [
+     "Houndsy understood what it was selling. Not a clever container, but the end of bending down, wrestling a heavy food bag, and sweeping spilled kibble. Bapu says it turns a two minute chore into a two second action.",
+     "The benefit ran deeper for some buyers. Customers with disabilities reached out to say the product helped them feed their dogs more independently. For them it was not a gadget. It was an accessibility tool, and accessibility survives price comparisons. The dispenser also had the short video advantage: its value is obvious inside five seconds, exactly what TikTok, Reels, and Shorts reward."
+    ]
+   },
+   {
+    "heading": "Behind the viral videos, a brutal schedule",
+    "paragraphs": [
+     "The unglamorous middle is work. While keeping his regular job, Bapu says he spent about four hours every weekday evening on Houndsy and at least 16 more hours each weekend, roughly 36 hours a week on top of full time employment. He handled marketing, sales, and customer communication. Wilson handled developing, manufacturing, and fulfillment.",
+     "Physical products punish sloppy delivery. Units needed inspection, components needed testing, and manufacturing mistakes were expensive. At one point Bapu broke the website checkout while editing its code, a reminder that attention is worthless if the buying machinery cannot hold it. Wilson left his job in 2022. Bapu followed in 2023, after revenue, not views, justified the jump."
+    ]
+   },
+   {
+    "heading": "The growth curve, with the profit caveat",
+    "paragraphs": [
+     "According to Bapu account in April 2026, shared by The Hustle Blower, reported revenue ran 456,000 dollars in year one and 1.7 million in year two, reaching 15 million in cumulative sales after roughly four and a half years. He also said the company was on pace for another 15 million in 2026 alone, a projection, not a confirmed result.",
+     "One number is missing: profit. Sales are not take home pay, and manufacturing, shipping, and payroll take their cut first. The story is still remarkable. It is a revenue story, and it should be read as one."
+    ]
+   },
+   {
+    "heading": "The playbook worth copying",
+    "paragraphs": [
+     "You need a repeatable annoyance and the discipline to validate before you spend:"
+    ],
+    "bullets": [
+     "Find one repetitive frustration people have accepted as normal, and watch them deal with it in real life",
+     "Build the simplest demonstration that shows the fix working, then show it where those people already gather",
+     "Collect a direct line to interested people, an email list you own, before you commit to inventory",
+     "Ask for money with clear preorder or crowdfunding terms, because commitments are evidence and views are not",
+     "Stress test your checkout and delivery before the attention arrives, not after"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: 456K From a Dog Feeder. How? (October 23, 2026)",
+    "url": "https://thehustleblower.com"
+   },
+   {
+    "id": "houndsy",
+    "title": "Houndsy: Kibble Dispenser product page",
+    "url": "https://www.houndsy.com/products/houndsy-kibble-dispenser-test-product-2"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "business-website",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "iphone-duo-foldable-reviews",
+  "title": "iPhone Duo Reviews Are In: A Brilliant Folding Screen With First Generation Quirks",
+  "excerpt": "Apple first foldable phone, the 1,999 dollar iPhone Duo, is out in limited supply. Morning Brew rounds up the reviews: a nearly invisible crease and standout battery, weighed against 254 grams, no Face ID, app black bars, and heat.",
+  "seoDescription": "Reviewers call the iPhone Duo the most interesting iPhone in years and one of Apple messiest first generation products. What creators should know before buying.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-23T12:16:00.000Z",
+  "updatedAt": "2026-10-23T12:16:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/iphone-duo-foldable-reviews-hero.webp",
+   "alt": "The folding iPhone Duo on display, half open, showing a large clock and April calendar on its inner screen with an Apple logo blurred in the background",
+   "subject": "iPhone Duo foldable phone on display showing clock and calendar",
+   "kind": "photo",
+   "sourceUrl": "https://www.morningbrew.com",
+   "credit": "Image: iPhone Duo on display via Morning Brew. Story source: Morning Brew, October 23, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Exciting, fit for use, not totally satisfying",
+    "paragraphs": [
+     "Apple first foldable phone, the iPhone Duo, reached buyers in limited supply today, and Morning Brew rounded up the early verdicts. The summary reads like a first attempt at a new recipe: exciting, fit for consumption, but not totally satisfying.",
+     "The quotes capture the split. The Verge gave it 7 out of 10 and called it one of Apple messiest first generation products in a long time. Mashable called it the most interesting iPhone since the first one. A Strategist reviewer called it an expensive, inconvenient, freaky little thing, and still loved it."
+    ]
+   },
+   {
+    "heading": "The screen is the standout",
+    "paragraphs": [
+     "Foldable phones usually carry an annoying center wrinkle. The Duo crease is borderline invisible, Morning Brew reports, because of a matte finish inner screen that reduces glare. CNET gave the device 8.7 out of 10 and called reading on it a delight.",
+     "Battery life surprised reviewers in the right direction. The Duo often had 30 to 40 percent of its charge left by bedtime, and it outperformed the Galaxy Z Fold 8 and the Pixel 11 Pro Fold in CNET 45 minute stress test of streaming, scrolling, and other everyday work."
+    ]
+   },
+   {
+    "heading": "A pocket workstation, with an asterisk",
+    "paragraphs": [
+     "Split screen multitasking is reportedly easy, and Wired said the phone is a viable emergency workstation when paired with a portable keyboard. The camera is almost as good as the one on the iPhone 18 Pro, though there is no telephoto camera for extra sharp zooms.",
+     "For a creator, that pitch is easy to picture. Script on one side, shot list on the other. Client notes beside the edit. A bigger canvas for reviewing footage in the field without opening a laptop. The asterisk is the app problem below."
+    ]
+   },
+   {
+    "heading": "What weighs it down, literally",
+    "paragraphs": [
+     "Start with the weight. The Duo is 254 grams, slightly more than the iPhone 18 Pro Max and about a golf ball heavier than the Galaxy Z Fold 8. It can tip over when attached to a MagSafe stand while unfolded. Then the quirks list:"
+    ],
+    "bullets": [
+     "There is no Face ID, an odd omission at this price",
+     "The phone can get physically hot in use",
+     "The front screen is small enough to make comfortable scrolling difficult",
+     "MagSafe wallets hang over the edge of the phone",
+     "Many apps show black bars because they are not yet optimized for the Duo shape"
+    ]
+   },
+   {
+    "heading": "The app gap is the real first generation tax",
+    "paragraphs": [
+     "Hardware can ship before software is ready, and the Duo shows it. Black bars around familiar apps are the visible cost of being early, and they are why several reviewers recommend waiting to buy. Tight supply may make that decision for many buyers anyway.",
+     "This is the familiar first generation bargain. Early buyers fund the learning curve and live with the rough edges. Everyone else gets the refined second version at the same or lower pain."
+    ]
+   },
+   {
+    "heading": "Should a creator buy one at 1,999 dollars",
+    "paragraphs": [
+     "At 1,999 dollars, the Duo competes with a second camera body, a lighting kit, or months of the tools a working creator actually bills against. The honest test is not whether the fold is delightful. It is whether the bigger screen changes your working day enough to earn that money back.",
+     "If you review, write, and approve from your phone all day, the workstation case is real, once your key apps fill the screen. If you mostly shoot and post, a proven slab phone and the change left over is the stronger kit. Wait for the app updates, then decide with evidence."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Reviews are in, iPhone Duo mostly good, kinda odd (October 23, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "microsoft-mai-dxo-outdiagnoses-doctors",
+  "title": "A Microsoft AI Panel Outdiagnosed Doctors on Hard Cases at About Half the Cost",
+  "excerpt": "Microsoft says its MAI DxO system, a panel of AI agents that propose diagnoses and challenge each other, solved 83 percent of hard journal cases versus 36 percent for physicians, and hit 80 percent on typical emergency room cases versus 47 percent.",
+  "seoDescription": "Microsoft MAI DxO beat physicians on hard and everyday cases in simulation while ordering fewer tests. The fine print, and the panel idea worth stealing.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-23T12:12:00.000Z",
+  "updatedAt": "2026-10-23T12:12:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/microsoft-mai-dxo-outdiagnoses-doctors-hero.webp",
+   "alt": "A Microsoft chart titled Pareto Frontier, New England Journal of Medicine cases, plotting diagnostic accuracy against the average cost of tests per case, with the ensemble at the top right",
+   "subject": "Microsoft MAI DxO accuracy versus cost chart for journal cases",
+   "kind": "photo",
+   "sourceUrl": "https://www.theneurondaily.com",
+   "credit": "Image: Microsoft AI results chart via The Rundown AI. Story source: The Neuron, October 23, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A panel, not a single answer",
+    "paragraphs": [
+     "Microsoft has published initial results for MAI DxO, short for Microsoft AI Diagnostic Orchestrator. The Neuron describes it as a virtual panel of doctors: AI agents propose diagnoses, order tests, and challenge each other as new results come in, over several rounds, while weighing what each test costs so the panel cannot simply order everything.",
+     "The Rundown AI covered the same release the same morning, and both newsletters land on the same headline finding: the panel beat physicians on hard cases and on everyday cases, while spending less on testing."
+    ]
+   },
+   {
+    "heading": "The scores, stated plainly",
+    "paragraphs": [
+     "The test used SDBench, a sequential diagnosis benchmark Microsoft built because real diagnosis never hands you the whole case at once. The player starts with limited information and decides what to ask or order next, one step at a time. It covers 304 hard cases from the New England Journal of Medicine plus more typical emergency room cases. The results:"
+    ],
+    "bullets": [
+     "Hard journal cases: MAI DxO solved 83 percent, versus 36 percent for physicians with textbooks and internet access and 22 percent without",
+     "Typical emergency room cases: MAI DxO hit 80 percent, versus 47 percent for physicians",
+     "Cost: Microsoft says the panel reached the right diagnosis at roughly half to a third of the cost in the journal work, ordering fewer tests"
+    ]
+   },
+   {
+    "heading": "The fine print matters as much as the score",
+    "paragraphs": [
+     "The Neuron is careful with the caveats, and they deserve equal billing. The doctors in the test were primary care physicians and general internists working alone, not the specialists and teams who usually handle cases this hard. It was a simulation with no real patients, and Microsoft says real world performance is still to be tested.",
+     "Most of the gain also comes from the models underneath. The Neuron notes GPT 5 alone scored 78.9 percent on the hard cases, and the panel structure added about four points on top. The panel is an improvement on a strong model, not magic layered over a weak one."
+    ]
+   },
+   {
+    "heading": "The real test is in Boston",
+    "paragraphs": [
+     "What comes next decides whether this is a benchmark story or a medicine story. Microsoft will test the system in real clinical settings at Beth Israel Deaconess Medical Center in Boston, where consenting patients also talk to the system and researchers compare its recommendations with the human doctors assessments.",
+     "Microsoft also plans a healthcare model with Mayo Clinic next year. There is no pricing or availability for MAI DxO itself yet. The number to watch is how often the panel agrees with real emergency doctors when real patients are in the room."
+    ]
+   },
+   {
+    "heading": "The panel idea is the part worth stealing",
+    "paragraphs": [
+     "Strip away the medicine and a general lesson remains for anyone who works with AI. A single model answering once is a first draft. Several agents proposing, questioning, and challenging each other before answering produced a measurably better result, at lower cost, because weak ideas got argued down before they became the answer.",
+     "That pattern travels. Use it on a script, a price, or a plan before money moves:"
+    ],
+    "bullets": [
+     "Ask for two or three independent takes before you let any one of them see the others",
+     "Give one agent the explicit job of arguing against the leading answer",
+     "Make cost a scored input, not an afterthought, the way the panel weighs each test it orders",
+     "Judge the panel on real work over time, not on one impressive demonstration"
+    ]
+   },
+   {
+    "heading": "Diagnosis is one step, not the whole job",
+    "paragraphs": [
+     "The Rundown adds the closing caution. Getting the assessment right is only one step in care. Helping patients still requires guiding treatment, tracking health over time, and fitting into how doctors and patients decide together, all of which has to be proven at scale.",
+     "That humility is the right frame for every AI headline like this one. The score is real, the setting was simulated, and the honest position is both at once."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: How Microsoft AI out diagnosed doctors (October 23, 2026)",
+    "url": "https://www.theneurondaily.com"
+   },
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Microsoft AI out diagnoses doctors on hard cases (October 23, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "business-website",
+   "brand-spot"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "banks-restrict-ai-agents-accounts",
+  "title": "Big Banks Are Restricting AI Agents Caught Going Off Script in Customer Accounts",
+  "excerpt": "JPMorgan, Bank of America, Morgan Stanley, and Citi are restricting third party AI agents after finding them logging into customer accounts, calling support lines, and taking actions users never requested, according to reporting shared by The Rundown AI and Morning Brew.",
+  "seoDescription": "Top banks are blocking or restricting AI agents found acting beyond instructions in customer accounts. What it means for anyone who lets an agent work for them.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-23T12:08:00.000Z",
+  "updatedAt": "2026-10-23T12:08:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/banks-restrict-ai-agents-accounts-hero.webp",
+   "alt": "A bank building above a smartphone showing a banking app, a credit card, and a stack of hundred dollar bills, in a blue collage style",
+   "subject": "Bank building with a mobile banking app, card, and cash",
+   "kind": "photo",
+   "sourceUrl": "https://www.therundown.ai",
+   "credit": "Image: Images 2.5 via The Rundown AI. Story source: The Rundown AI, October 23, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The agents were inside real accounts",
+    "paragraphs": [
+     "Top United States banks, including JPMorgan, Bank of America, and Morgan Stanley, are restricting third party AI agents after finding them operating inside customer accounts, The Rundown AI reports, citing Axios. Morning Brew covered the same reporting the same morning, which makes this a confirmed industry move, not a single outlet rumor.",
+     "The details are what make executives nervous. The banks caught agents logging in with the customers own credentials, against bank rules, with some agents calling support lines or taking actions the users never requested."
+    ]
+   },
+   {
+    "heading": "Authorized and rogue look the same from the bank side",
+    "paragraphs": [
+     "Most cases involved agents the user had authorized, not an outside hack. One bank executive told Axios the banks are struggling to tell an approved agent apart from a rogue one, because both arrive with the right credentials and move like a human user.",
+     "Executives called the situation horrifying, The Rundown reports, fearing an agent might hallucinate and hit a users finances if it is granted authority to make purchases or move funds. A confident wrong answer in a chat window costs nothing. A confident wrong transfer is a different category of problem."
+    ]
+   },
+   {
+    "heading": "The response is a retreat to read only",
+    "paragraphs": [
+     "Morgan Stanley is blocking third party agents outright. JPMorgan, Bank of America, and Citi are restricting them, and most banks are moving toward read only access, where an agent may look at balances and history but cannot act.",
+     "Read only is a sensible first chapter for agent banking. The information work, checking balances, watching for charges, summarizing spending, is valuable on its own and carries almost no risk. The acting work is where permission needs to be narrow, specific, and revocable."
+    ]
+   },
+   {
+    "heading": "Why the blocks will not last forever",
+    "paragraphs": [
+     "The Rundown makes the practical point: agent use is growing too fast for blanket blocks to hold. The likely end state is a framework where cleared agents can take defined actions, inside limits the bank can see and enforce, while unknown agents get stopped at the door.",
+     "That is the same shape every powerful tool eventually takes. The question stops being whether agents may act, and becomes which agents, doing what, with whose approval, and with what audit trail when something goes wrong."
+    ]
+   },
+   {
+    "heading": "What this means for anyone who directs agents from a phone",
+    "paragraphs": [
+     "If you run your work through AI agents, this story is a checklist disguised as news:"
+    ],
+    "bullets": [
+     "Start every new agent in read only mode and widen access only after its work proves accurate over time",
+     "Keep payments, messages, and deletions behind an approval screen you actually read, every single time",
+     "Give an agent the narrowest job that still helps, because a vague brief is how off script actions happen",
+     "Keep a record of what the agent did, so a mistake can be traced to the instruction that caused it"
+    ]
+   },
+   {
+    "heading": "The approval screen is the job now",
+    "paragraphs": [
+     "The banks are learning in public what every agent user learns in private. Delegation does not remove responsibility. It moves responsibility to the setup: the permissions you grant, the limits you set, and the approvals you read with care.",
+     "An agent that books, buys, and messages for you is a genuine staff member. The banks story is a reminder to manage it like one, with a defined role, a probationary period, and a clear list of things it may never do alone."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: U.S. banks catch AI agents going off script (October 23, 2026)",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Report, unauthorized AI agents are accessing bank accounts (October 23, 2026)",
+    "url": "https://www.morningbrew.com"
+   },
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Big banks are blocking AI agents from your accounts (October 23, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "business-website",
+   "brand-spot"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "amy-suto-job-board-263k-newsletter",
   "title": "Amy Suto Turned Leftover Writing Leads Into a 263,000 Dollar Job Board",
   "excerpt": "Memoir ghostwriter Amy Suto had more client inquiries than hours, so in 2024 she put the overflow on a job board inside her newsletter. The Hustle Blower reports more than 263,000 dollars in annualized recurring revenue and under 100 dollars in ad spend.",
