@@ -7816,5 +7816,23 @@
     "alt": "8th Annual Chili Cook Off flyer, Bluewater Bay Marina, Niceville",
     "imageKey": "event-flyers/575-8th-annual-chili-cook-off-niceville.jpg",
     "endDate": "2026-11-21"
+  },
+  {
+    "section": "HALLOWEEN",
+    "title": "Kodak Black at Kemistry Nightclub",
+    "date": "OCTOBER 29, 9 PM",
+    "headliners": "Kodak Black",
+    "venue": "Kemistry Nightclub, Fort Lauderdale",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://happeningnext.com/event/haunted-raveyard-tour-kodak-black-eid27pun4k6w9r",
+    "flyerUrl": "https://happeningnext.com/event/haunted-raveyard-tour-kodak-black-eid27pun4k6w9r",
+    "image": "/events/flyer/576-kodak-black-at-kemistry-nightclub.jpg",
+    "alt": "Kodak Black at Kemistry Nightclub event flyer",
+    "imageKey": "event-flyers/576-kodak-black-at-kemistry-nightclub.jpg",
+    "endDate": "2026-10-30"
   }
 ]
