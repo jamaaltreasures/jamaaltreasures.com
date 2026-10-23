@@ -7762,5 +7762,23 @@
   "alt": "12th Annual Central Florida Fall EggFest flyer, Wekiva Island, Longwood",
   "imageKey": "event-flyers/571-central-florida-fall-eggfest-longwood.jpg",
   "endDate": "2026-11-14"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "12th Annual Eggs on the Beach",
+  "date": "NOVEMBER 7, 10 AM TO 1 PM",
+  "headliners": "",
+  "venue": "Seascape Towne Centre, Miramar Beach",
+  "categories": [
+   "Food",
+   "Festival"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eggsonthebeach.com/",
+  "flyerUrl": "https://www.eggsonthebeach.com/",
+  "image": "/events/flyer/572-eggs-on-the-beach.jpg",
+  "alt": "12th Annual Eggs on the Beach flyer, Seascape Towne Centre, Miramar Beach",
+  "imageKey": "event-flyers/572-eggs-on-the-beach.jpg",
+  "endDate": "2026-11-07"
  }
 ]
