@@ -7871,5 +7871,23 @@
     "alt": "2nd Annual Life Changing Chili Cook Off flyer, Tringali Barn, St. Augustine",
     "imageKey": "event-flyers/578-2nd-annual-life-changing-chili-cook-off-st-augustine.jpg",
     "endDate": "2026-11-07"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Pensacola EggFest",
+    "date": "NOVEMBER 15, 12 PM TO 3 PM",
+    "headliners": "",
+    "venue": "Hadji Temple, Pensacola",
+    "categories": [
+      "Food",
+      "Festival"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://pensacolaeggfest.com/attendee-faqs/",
+    "flyerUrl": "https://www.instagram.com/p/Ddjoq8-BL2D/",
+    "image": "/events/flyer/579-pensacola-eggfest.jpg",
+    "alt": "Pensacola EggFest flyer, Hadji Temple, Pensacola",
+    "imageKey": "event-flyers/579-pensacola-eggfest.jpg",
+    "endDate": "2026-11-15"
   }
 ]
