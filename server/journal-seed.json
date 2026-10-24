@@ -1,5 +1,445 @@
 [
  {
+  "slug": "warhound-engineered-military-dogs-200-million",
+  "title": "Warhound Raised 200 Million Dollars to Genetically Engineer a Better Military Dog",
+  "excerpt": "Texas startup Warhound, from Anduril cofounder Palmer Luckey and Colossal Biosciences cofounder Ben Lamm, has 200 million dollars in seed funding to engineer and clone healthier military dogs, with the first pups expected early next year.",
+  "seoDescription": "Warhound raised 200 million dollars at about a 1.2 billion dollar valuation to genetically engineer military dogs. Why working dogs are scarce, and what the startup plans.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-24T12:24:00.000Z",
+  "updatedAt": "2026-10-24T12:24:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/warhound-engineered-military-dogs-200-million-hero.webp",
+   "alt": "Illustration of three military working dogs in tactical vests and goggles standing in a desert, with a K9 Unit harness on the center dog",
+   "subject": "Military working dogs in tactical gear, Warhound illustration",
+   "kind": "photo",
+   "sourceUrl": "https://www.morningbrew.com",
+   "credit": "Image: Warhound illustration via Morning Brew. Story source: Morning Brew, October 24, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Two billionaire founders, one unusual animal",
+    "paragraphs": [
+     "In what Morning Brew calls the beginning of a werewolf movie, two billionaires are teaming up to genetically engineer a better breed of military dog. Texas based startup Warhound was publicly revealed on Thursday and has already secured 200 million dollars in seed funding, at a valuation of about 1.2 billion dollars.",
+     "The startup was launched by Palmer Luckey, cofounder of defense technology company Anduril, and Ben Lamm, cofounder of Colossal Biosciences, the company best known for trying to bring back extinct species like the woolly mammoth. That pairing explains the shape of the company: one founder builds technology for the military, the other builds living animals in a lab."
+    ]
+   },
+   {
+    "heading": "What engineering a working dog means",
+    "paragraphs": [
+     "Per TechCrunch reporting shared by Morning Brew, Lamm company will help engineer and clone healthier, hardier dogs, free of performance hindering problems like poor eyesight and hip dysplasia. The dogs will also be optimized for useful traits, like bomb sniffing. Luckey side of the partnership outfits the dogs with cutting edge technology, including goggles and protective vests.",
+     "Warhound says it has partnered with the American Humane Society to ensure the care and well being of every dog. That partnership will be watched closely, because engineering animals for war raises questions that a vest cannot answer. The company is presenting the work as breeding with better tools: remove the inherited problems that end careers early, and strengthen the traits the work already selects for."
+    ]
+   },
+   {
+    "heading": "The supply problem is real",
+    "paragraphs": [
+     "The business case rests on scarcity. According to Warhound, working dogs are hard to come by. The United States military has to acquire about 80 percent of its dogs from Europe, and fewer than half of the dogs actually end up deemed fit for service, often due to health issues.",
+     "Read that as a manufacturing problem in living form. A buyer depends on foreign supply, waits through a long raising and training process, and then rejects more than half the output at the final inspection. A company that promises healthier dogs, born closer to home, with a higher pass rate, is selling yield as much as it is selling genetics. That is why investors are paying attention before a single engineered dog has reported for duty."
+    ]
+   },
+   {
+    "heading": "Investors are buying the platform, not the puppy",
+    "paragraphs": [
+     "Warhound is backed by Sequoia, ARK Invest, a CIA backed investment fund, and more. A 200 million dollar seed round for dogs sounds absurd until it is read as a platform bet. Colossal cloning and engineering pipeline, proven on headline species like the mammoth project, would gain a defense customer with recurring demand. Anduril distribution into military programs would gain a living product line no software competitor can copy quickly.",
+     "Lamm told TechCrunch he expects the first engineered pups to be born early next year. That date is the first real test. Until then, Warhound is a valuation built on a supply problem, two famous founders, and a promise. The promise is plausible. It is not yet a product."
+    ]
+   },
+   {
+    "heading": "The lesson under the strange headline",
+    "paragraphs": [
+     "Strip away the science fiction surface and a familiar startup pattern remains. Find a buyer with a painful, expensive, ongoing supply problem. Show that most of the cost sits in failure and rejection, not in the successful unit. Then build the thing that reduces the failure rate, and price it against the waste it removes.",
+     "Creators and service businesses run a smaller version of the same math. Most of the cost in event coverage, video production, or client work is not the finished deliverable. It is the rework, the missed handoff, and the job that almost fit. Warhound is a reminder, at billion dollar scale, that reducing failure is a product people pay a premium for."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Startup aims to genetically engineer military dogs (October 24, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "business-website",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "msg-phishing-test-knicks-rings",
+  "title": "MSG Promised Workers Knicks Championship Rings in a Phishing Test and It Backfired in Public",
+  "excerpt": "Madison Square Garden sent employees a fake email promising Knicks championship rings. Anyone who clicked got a cybersecurity class instead of jewelry, and the backlash forced MSG to announce it is gifting more than 275 real rings.",
+  "seoDescription": "MSG fake phishing test promised Knicks rings and punished the people who clicked. The research says trick tests fail. What honest security training looks like instead.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-24T12:20:00.000Z",
+  "updatedAt": "2026-10-24T12:20:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/msg-phishing-test-knicks-rings-hero.webp",
+   "alt": "A diamond covered championship ring with a gold warning sign on its face, on a blue and orange background",
+   "subject": "Championship ring with a warning sign, illustrating the MSG phishing test",
+   "kind": "photo",
+   "sourceUrl": "https://www.morningbrew.com",
+   "credit": "Image: Morning Brew Inc. illustration via Morning Brew. Story source: Morning Brew, October 24, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The bait was sports history",
+    "paragraphs": [
+     "Madison Square Garden became, in Morning Brew words, the final boss of phishing email tests. The venue home to basketball and hockey sent an email to employees in September telling them they were getting Knicks NBA championship rings. Anyone who clicked the phony link did not get jewelry. They were required to take a cybersecurity class, The Athletic reported.",
+     "The bait was believable, which is why it stung. Teams usually give rings to players, coaches, and front office staff, but occasionally distribute them to more employees, so workers could hope the email was real. A test that makes a generous gesture look fake teaches employees to distrust good news from their own company."
+    ]
+   },
+   {
+    "heading": "The apology came with real rings",
+    "paragraphs": [
+     "After the news broke, an MSG spokesperson told the New York Post the company is gifting more than 275 championship rings and jewelry to players, coaches, employees, and other members of the Knicks family. The spokesperson said that was always the plan, and called using the rings in the faux phishing email an unfortunate mistake.",
+     "Read those two facts together. The fake promise damaged trust badly enough that the real promise had to be announced in public the next day. Whatever the test was supposed to teach about email safety, the lesson employees actually received was that management would fake a once in a lifetime gift to catch them clicking. Morning Brew gives the section a fitting title question: why would I deceive you."
+    ]
+   },
+   {
+    "heading": "The research is not on trick tests side",
+    "paragraphs": [
+     "Many companies embrace phishing simulations as a cybersecurity measure, but their effectiveness is up for debate. Google security manager Matt Linton made a high profile case in 2024 for why tricking employees in the name of improving security does not work and can even have harmful side effects.",
+     "Critics note that these exercises do not simulate what a real phishing attack looks like in an inbox. The feeling of management trying to trick workers can lead to resentment. Repeated tests can also erode the trust needed to make systemic improvements, and lead to inaction when a real threat arrives. The numbers back the critics: an eight month study involving nearly 20,000 healthcare workers last year found no significant relationship between whether users had recently completed annual mandated cybersecurity training and the likelihood of falling for phishing emails."
+    ]
+   },
+   {
+    "heading": "What this means for a small team",
+    "paragraphs": [
+     "Most readers here do not run an arena. They run a small business, a creative team, or a one person company with contractors, shared inboxes, and payment links flying around. Phishing is a real risk in that world too. A fake invoice, a fake booking inquiry, or a fake payment confirmation can reach the same inbox as real client work.",
+     "The MSG story suggests the defense is not deception. It is clarity:"
+    ],
+    "bullets": [
+     "Agree on one channel where payment changes and bank details are confirmed, and never let an email alone change them",
+     "Tell your team what real company messages look like, and promise never to test them with fake rewards or fake emergencies",
+     "Make reporting a suspicious message a praised action with no penalty, so the first instinct is to ask, not to click quietly",
+     "Train on real examples from your own inbox, with the sender tricks pointed out, instead of staging a trap"
+    ]
+   },
+   {
+    "heading": "Trust is a security tool",
+    "paragraphs": [
+     "Security advice often treats trust as the vulnerability. The MSG backlash shows the other side. Employees who trust that a strange message might be real company news, and who trust that asking about it will not be punished, are the early warning system every company actually depends on.",
+     "A phishing test that spends that trust to buy a click rate is trading a long term defense for a short term metric. The rings were eventually promised for real. The feeling of being tricked is harder to give back."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Gone phishing, MSG sent workers a cruel phishing test (October 24, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "business-website",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "floridarama-fest-fifth-anniversary-st-pete",
+  "title": "FloridaRAMA Fest Marks Five Years in St. Petersburg With a Traveling Mini Museum",
+  "excerpt": "FloridaRAMA turns five on November 14, 2026, with an art fair, a makers market, a community diorama contest, live music, and the first look inside its new Mobile Mini Museum, a retro trailer taking its tiny worlds on the road across Florida.",
+  "seoDescription": "FloridaRAMA Fest on November 14, 2026, in St. Petersburg celebrates five years with an art fair, makers market, diorama contest, and the Mobile Mini Museum launch. Tickets, times, and address.",
+  "category": "events",
+  "serviceId": "event-coverage",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-24T12:16:00.000Z",
+  "updatedAt": "2026-10-24T12:16:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/floridarama-fest-fifth-anniversary-st-pete-hero.webp",
+   "alt": "FloridaRAMA Fest poster for the fifth anniversary and Mini Museum launch celebration on Saturday, November 14, from 10 AM to 5 PM",
+   "subject": "FloridaRAMA Fest fifth anniversary poster in St. Petersburg",
+   "kind": "photo",
+   "sourceUrl": "https://www.cltampa.com",
+   "credit": "Image: FloridaRAMA Fest poster via Creative Loafing Tampa Bay sponsored newsletter, October 23, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Five years of wonderfully weird Florida",
+    "paragraphs": [
+     "For five years, FloridaRAMA has celebrated the state spirit through immersive art and artists who transform the wonderfully weird details of Florida into experiences visitors can step inside. On Saturday, November 14, 2026, it marks that anniversary with FloridaRAMA Fest, a celebration of expansion with art, creativity, makers, food, and all things delightfully Florida.",
+     "The festival runs from 10 AM to 5 PM at FloridaRAMA, 2606 Fairfield Ave S, St. Petersburg, and across The Factory St. Pete campus. Tickets cost 15 dollars per person, with children 10 and under admitted free. A VIP party on Friday, November 13, from 6 PM to 9 PM costs 35 dollars per person and includes early festival access, participation in the FloridaRAMA Artists Reunion, and 2 drinks."
+    ]
+   },
+   {
+    "heading": "The museum is going on the road",
+    "paragraphs": [
+     "The festival marks more than an anniversary. It unveils FloridaRAMA new Mobile Mini Museum, housed inside a retro trailer, which will take its tiny worlds and big ideas on the road to communities across Florida. The festival is supported by an Arts Everywhere grant, helping make the community focused celebration and the Mobile Mini Museum possible.",
+     "That traveling idea matters for a place built on miniature worlds. A museum that can arrive in a new town does not have to wait for visitors to find St. Petersburg. It can carry FloridaRAMA strange, detailed, handmade Florida to people who have never walked through its doors, and invite them back to the full experience."
+    ]
+   },
+   {
+    "heading": "What is happening across the campus",
+    "paragraphs": [
+     "The festival extends across The Factory St. Pete property with a FloridaRAMA Art Fair featuring more than 30 local artists and makers exhibiting and selling work just in time for the holiday season. A curated makers market offers vintage Florida finds, records, plants, retro clothing, books, collectibles, and curiosities.",
+     "A community diorama contest and diorama and trinket trade installations invite artists and members of the public to create miniature Florida inspired scenes celebrating humor, imagination, and storytelling. Family activities invite visitors of all ages to make art and build miniature worlds, while mobile vendors serve food, coffee, ice cream, and other local favorites. The Mobile Mini Museum offers a first look inside the renovated trailer and a preview of where the traveling museum heads next."
+    ]
+   },
+   {
+    "heading": "Why this festival fits Florida creators",
+    "paragraphs": [
+     "FloridaRAMA Fest is a useful example for anyone who builds events in Florida. It does not rely on one attraction. It layers an art fair, a market, a contest, hands on activities, food, and a launch announcement into a single day, so different visitors find different reasons to come and different reasons to stay.",
+     "It also gives attendees something to make, trade, and take home, not just something to watch. For photographers, videographers, and event organizers, that is the part worth studying. An event that invites participation photographs better, because the audience becomes part of the scene instead of standing outside it."
+    ]
+   },
+   {
+    "heading": "Plan your visit",
+    "paragraphs": [
+     "If you go, plan for a full campus day rather than a quick stop. The art fair and makers market alone cover holiday shopping, the diorama contest rewards a slow walk, and the Mobile Mini Museum is the one first look you cannot get another day.",
+     "Arrive early for the 10 AM opening if you want the makers market at its fullest, and stay for the live music and food vendors as the afternoon fills in. FloridaRAMA Fest is a celebration of five years, and a preview of where its tiny worlds travel next."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "creative-loafing-tampa-bay",
+    "title": "Creative Loafing Tampa Bay: FloridaRAMA Fest November 14, 2026 (October 23, 2026)",
+    "url": "https://www.cltampa.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "event-coverage",
+   "photography"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Cover my event",
+   "price": 2000,
+   "serviceId": "event-coverage"
+  },
+  "nextClick": {
+   "label": "See what is on the Event Radar",
+   "url": "/events"
+  }
+ },
+ {
+  "slug": "counselingwise-done-for-you-2-million",
+  "title": "She Stopped Teaching Therapists Marketing and Built a 2 Million Dollar Agency Doing It for Them",
+  "excerpt": "Becky DeGrossa taught therapists how to get clients online. Her students wanted the results without the homework, so she built CounselingWise, a done for you marketing agency for therapists that reached 2 million dollars in revenue by June 2026.",
+  "seoDescription": "CounselingWise founder Becky DeGrossa turned a classroom complaint into a 2 million dollar agency. The lesson: customers often pay to have the work done, not to learn it.",
+  "category": "brand-growth",
+  "serviceId": "business-website",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-24T12:12:00.000Z",
+  "updatedAt": "2026-10-24T12:12:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/counselingwise-done-for-you-2-million-hero.webp",
+   "alt": "Portrait of Becky DeGrossa, founder of CounselingWise, smiling with short gray hair and a green scarf",
+   "subject": "Becky DeGrossa, founder of CounselingWise",
+   "kind": "photo",
+   "sourceUrl": "https://www.counselingwise.com/wp-content/uploads/2026/04/becky-cw-about-768x877.png",
+   "credit": "Image: Becky DeGrossa portrait via CounselingWise. Story source: The Hustle Blower, October 24, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Twenty years at IBM, then therapy",
+    "paragraphs": [
+     "Becky DeGrossa had the career most people would keep. A computer science degree, 20 years at IBM, and a managing principal role. By 2003 she realized the part of the job that energized her most was helping people solve problems, so she left, went back to school, and spent 2003 to 2006 earning a masters degree in psychology. Then she started seeing therapy clients.",
+     "A new career came with a familiar problem. Nobody hands you a line of paying customers with a diploma. Being good at the work and getting people to find you are two different skills. DeGrossa had the qualifications and a service people needed, but not enough people discovering her online. So she learned copywriting, local search, and search engine optimization, applied it to her own practice, and her phone began ringing more often."
+    ]
+   },
+   {
+    "heading": "Her students wanted no lesson",
+    "paragraphs": [
+     "When her marketing methods worked, DeGrossa started teaching small classes in her office, showing fellow therapists how to improve websites and make their practices easier to find online. Useful information, exactly what her students needed.",
+     "Except they did not rush home to implement it. They wanted clients and ringing phones. Learning search optimization and writing website copy was work they did not want. Most people would have seen unmotivated students. DeGrossa saw customers. They did not need another teacher. They needed someone to take the work off their hands."
+    ]
+   },
+   {
+    "heading": "Done for you won",
+    "paragraphs": [
+     "That distinction became CounselingWise. Instead of selling instructions, DeGrossa offered to handle the marketing herself: website development, content writing, Google Business Profile optimization, and advertising. According to her account, roughly 99 percent of revenue now comes from doing the work rather than teaching it.",
+     "She also made a second smart choice. She focused only on therapists. A therapist website needs to communicate trust, professionalism, and empathy to someone who may already be struggling, not just generate clicks. Specialization made the business easier to explain, market, and recommend."
+    ]
+   },
+   {
+    "heading": "A service became a firm",
+    "paragraphs": [
+     "There is a large gap between freelancing and building a company. One person cannot write every website, manage every advertisement, and answer every client email forever. Demand grew enough that DeGrossa closed her therapy practice, giving clients six months notice, and began building a team.",
+     "CounselingWise now reportedly works with approximately 40 to 50 contractors covering writing, technical marketing, and project management. One hiring priority stands out. DeGrossa values people skills, because a beautiful website will not save a relationship if the customer feels ignored."
+    ]
+   },
+   {
+    "heading": "The revenue headline, honestly",
+    "paragraphs": [
+     "DeGrossa says CounselingWise has generated seven figure revenue since 2022 and reached 2 million dollars in revenue by June 2026, with approximately 300,000 dollars in annual profit in each of the previous five years. That is also a reminder that revenue is not take home pay. An agency with dozens of contractors has plenty of expenses.",
+     "The story is not about pressing a button and watching passive income arrive. It is about recognizing demand, building systems, and delivering a service customers continue to need. Search marketing never stands still, so a company that tests and adapts beats one built around a single trick."
+    ]
+   },
+   {
+    "heading": "Find work people hand off",
+    "paragraphs": [
+     "You do not need to become a therapist to use this lesson. Find a group with the same recurring problem, then ask what necessary task they keep postponing:"
+    ],
+    "bullets": [
+     "Ask what they should be doing for their business but keep putting off, and what happens when it does not get done",
+     "Ask whether they would pay someone to handle it properly",
+     "Sell one specific result, such as updating a Google Business Profile and main service pages, not a vague revolution",
+     "Deliver manually first, track time and cost, and document the steps only after several customers pay",
+     "Check the math: a 2,000 dollar website that costs 1,700 dollars to deliver leaves little room, while one delivered for 700 dollars changes the business"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: She made 2M doing this (October 24, 2026)",
+    "url": "https://thehustleblower.com"
+   },
+   {
+    "id": "counselingwise",
+    "title": "CounselingWise: About Us",
+    "url": "https://www.counselingwise.com/about-us/"
+   }
+  ],
+  "relatedServiceIds": [
+   "business-website",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Build my website",
+   "price": 1500,
+   "serviceId": "business-website"
+  },
+  "nextClick": {
+   "label": "See website pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "great-pumpkin-farm-2-million-seven-weeks",
+  "title": "The Great Pumpkin Farm Made 2 Million Dollars in Seven Weeks by Selling an Experience",
+  "excerpt": "Kelly Schultz bought an 85 acre farm in Clarence, New York, with no farming experience and turned it into a fall destination drawing more than 100,000 visitors. The pumpkins are not the product. The afternoon is.",
+  "seoDescription": "The Great Pumpkin Farm made 2 million dollars in seven weeks in 2025. The lesson for creators and event owners: sell the experience around the product, not just the product.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-24T12:08:00.000Z",
+  "updatedAt": "2026-10-24T12:08:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/great-pumpkin-farm-2-million-seven-weeks-hero.webp",
+   "alt": "Rows of large orange pumpkins stacked in sunlight at The Great Pumpkin Farm",
+   "subject": "Pumpkins stacked at The Great Pumpkin Farm in Clarence, New York",
+   "kind": "photo",
+   "sourceUrl": "https://www.greatpumpkinfarm.com/wp-content/uploads/2026/06/Pumpkins-3.jpg",
+   "credit": "Image: Pumpkins photo via The Great Pumpkin Farm. Story source: The Hustle Blower, October 23, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A muddy lot started it",
+    "paragraphs": [
+     "Kelly Schultz was not a farmer. He was a second generation antiques dealer who knew furniture better than crops. Visiting a pumpkin patch in the early 1990s, he found a muddy parking lot and an unimpressive setup. Customers kept showing up anyway.",
+     "That is the observation that built a business. People were enduring bad conditions for a pumpkin patch experience, so a better one should pull even more of them. In 1993, when an 85 acre cattle farm beside his antiques business went up for sale, he bought it for roughly 650,000 dollars. His friends thought he was out of his mind."
+    ]
+   },
+   {
+    "heading": "A 50,000 dollar pumpkin bought the publicity",
+    "paragraphs": [
+     "Schultz spent a few years learning from local farmers, and the farm opened in 1996. Growing pumpkins was only half the challenge. He had to convince people to drive out, so he staged a story instead of an ad.",
+     "He organized a giant pumpkin weigh off and offered a 50,000 dollar prize for a pumpkin of at least 1,000 pounds, buying prize insurance in case someone won. A couple from Lowville, New York, arrived with a 1,061 pound pumpkin that set a world record. Newspapers covered the record and the farm. The weigh off became an annual attraction, and the heaviest entry in 2026 weighed 1,908.5 pounds. People ignore ads. They share stories."
+    ]
+   },
+   {
+    "heading": "He sells an afternoon",
+    "paragraphs": [
+     "Here is the twist the name hides. Schultz does not grow most of the pumpkins himself anymore. He buys the majority from nearby farmers, stocking more than 25,000 pumpkins during the season. What he concentrates on is everything around them: hayrides, a corn maze, live entertainment, train rides, pie eating contests, food vendors, a bakery, and a bar.",
+     "Weekend admission costs 20 dollars and covers both days, with certain rides costing extra. Weekday admission is free, with visitors still spending on pumpkins and food. A family that arrives intending to buy one pumpkin instead buys tickets, snacks, rides, and a pumpkin. The product gets people interested. The experience gives them reasons to spend more, and to return."
+    ]
+   },
+   {
+    "heading": "Seven weeks, with a serious catch",
+    "paragraphs": [
+     "In 2025, those roughly seven weeks generated 2 million dollars in revenue, according to financial documents reviewed by CNBC Make It. That averages about 40,800 dollars per day across 49 days. It is revenue, not profit, and Schultz says much of it goes back into the property.",
+     "The operation is heavy. More than 100 seasonal workers staff the fall, while roughly 20 full time employees maintain the business off season. Equipment, fuel, insurance, and repairs all come out of that revenue, and one rainy weekend can hurt."
+    ]
+   },
+   {
+    "heading": "Scarcity is part of the product",
+    "paragraphs": [
+     "The short season is not only a risk. It is a selling point. If the farm stayed open all year, families could always postpone a visit. Because it disappears at the end of October, there is a reason to make plans now, and over time that urgency becomes tradition. The market behind it is large: a National Retail Federation survey found Americans were expected to spend a record 13.5 billion dollars on Halloween in 2026."
+    ]
+   },
+   {
+    "heading": "What to copy without buying a farm",
+    "paragraphs": [
+     "You do not need 85 acres or a giant pumpkin to test the idea. Look at a product, service, or occasion and ask what experience people would pay for around it:"
+    ],
+    "bullets": [
+     "A cafe can sell a limited ticket dessert night with a local baker instead of only selling drinks",
+     "A photography business can partner with a nearby farm for a weekend of fall themed family photos",
+     "A maker group can organize a small holiday market and test whether people pay before renting a big venue",
+     "Set one clear ticket price, see whether customers reserve spots, then do the math before scaling",
+     "Turn one successful event into a yearly tradition, because repeat visits are harder to copy than any attraction"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: He Made 2M in Seven Weeks (October 23, 2026)",
+    "url": "https://thehustleblower.com"
+   },
+   {
+    "id": "great-pumpkin-farm",
+    "title": "The Great Pumpkin Farm: Fall Festival in Clarence, New York",
+    "url": "https://www.greatpumpkinfarm.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "business-website",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "ohme-foods-freeze-dried-fruit",
   "title": "OHME Foods Passed 100,000 Dollars Selling Freeze Dried Fruit, Then Sold Out Too Fast",
   "excerpt": "Jenny Yue and her husband Han started OHME Foods with a 5,000 dollar farmers market experiment. The Hustle Blower reports more than 100,000 dollars in first year sales, about 350,000 in year two, and more than 600 Canadian stores by July 2026.",
