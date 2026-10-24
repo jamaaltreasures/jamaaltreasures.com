@@ -7834,5 +7834,42 @@
     "alt": "Kodak Black at Kemistry Nightclub event flyer",
     "imageKey": "event-flyers/576-kodak-black-at-kemistry-nightclub.jpg",
     "endDate": "2026-10-30"
+  },
+  {
+    "section": "THIS WEEK",
+    "title": "4th Annual Florida's Talent Hunt & Business Expo 2026",
+    "date": "OCTOBER 24, 11 AM TO 10 PM",
+    "headliners": "",
+    "venue": "Performing Arts Center at Lake Buena Vista High School, Orlando",
+    "categories": [
+      "Arts",
+      "Business",
+      "Community"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.iabausa.com/talent26",
+    "flyerUrl": "https://www.iabausa.com/talent26",
+    "image": "/events/flyer/577-4th-annual-floridas-talent-hunt-business-expo-orlando.jpg",
+    "alt": "4th Annual Florida's Talent Hunt and Business Expo flyer, Lake Buena Vista High School, Orlando",
+    "imageKey": "event-flyers/577-4th-annual-floridas-talent-hunt-business-expo-orlando.jpg",
+    "endDate": "2026-10-24"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "2nd Annual Life Changing Chili Cook Off",
+    "date": "NOVEMBER 7, 1 PM TO 4 PM",
+    "headliners": "",
+    "venue": "Tringali Barn, St. Augustine",
+    "categories": [
+      "Food",
+      "Festival"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://support.rethreaded.com/Chili2026",
+    "flyerUrl": "https://rethreaded.com/events/list/",
+    "image": "/events/flyer/578-2nd-annual-life-changing-chili-cook-off-st-augustine.jpg",
+    "alt": "2nd Annual Life Changing Chili Cook Off flyer, Tringali Barn, St. Augustine",
+    "imageKey": "event-flyers/578-2nd-annual-life-changing-chili-cook-off-st-augustine.jpg",
+    "endDate": "2026-11-07"
   }
 ]
