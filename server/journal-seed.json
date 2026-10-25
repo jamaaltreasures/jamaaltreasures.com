@@ -1,5 +1,376 @@
 [
  {
+  "slug": "sap-cto-saas-is-not-dead-ai-agents",
+  "title": "SAP CTO Philipp Herzig Says Building an App Is Not the Same as Running a Business",
+  "excerpt": "AI coding tools can generate an app in minutes. SAP CTO Philipp Herzig told The Rundown AI that generating software is not running it, and that the riskiest AI answers at work are fluent but wrong.",
+  "seoDescription": "SAP CTO Philipp Herzig on why SaaS is not dead, why AI pilots stall, and why fluent but wrong answers are the real risk when agents join real business workflows.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-25T12:28:00.000Z",
+  "updatedAt": "2026-10-25T12:28:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/sap-cto-saas-is-not-dead-ai-agents-hero.webp",
+   "alt": "Illustration for The Rundown AI interview with SAP CTO Philipp Herzig about the SaaS is dead debate",
+   "subject": "SaaS is dead debate illustration from The Rundown AI",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/3ace27a5-cae3-4852-ad91-0a630630ed04/saas-is-dead.png?t=1792775951",
+   "credit": "Image: Illustration by Kiki Wu via The Rundown AI. Story source: The Rundown AI, October 25, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Generating is not running",
+    "paragraphs": [
+     "AI coding tools can spin up an app in minutes, and many people have taken that as proof that traditional software is finished. Philipp Herzig, chief technology officer at SAP, told The Rundown AI that this take confuses building an app with running one, and that the same gap explains why so many AI pilots never reach production.",
+     "Generating an expense app is one thing, Herzig said. Running it across 40 countries, keeping up with tax rules, enforcing permissions, and reconciling reimbursements is another. As agents take on more autonomous work, they depend more on trusted data, business context, governance, and security. The interface can change radically. The need for reliable business processes does not."
+    ]
+   },
+   {
+    "heading": "Adoption is the harder problem",
+    "paragraphs": [
+     "Herzig says the distance between a prototype and a production ready system at enterprise scale is still substantial human work. Asked whether technology or adoption has been harder at SAP, he answered adoption, without a doubt. Useful AI changes who makes which decisions, and that affects expertise, authority, and professional identity.",
+     "His adoption advice is practical enough for a small team. The companies moving fastest gave access first to people whose judgment the organization already trusted. A respected supply chain manager saying the tool helped catch a disruption persuades colleagues better than any training program, because the proof comes from a person, not a vendor."
+    ]
+   },
+   {
+    "heading": "Fluent but wrong is the real risk",
+    "paragraphs": [
+     "The sharpest idea in the interview is a phrase every team using AI should borrow. Herzig calls the riskiest answers fluent but wrong: confident, correctly worded, and blind to how the business actually runs.",
+     "His reasoning is that company data lives in tables, and knowing what a field means requires the business process behind it, including unwritten rules, exceptions, and identity, like knowing a supplier in procurement is the same entity in finance. The SAP answer is a Knowledge Graph that maps what company data means, plus a Company Memory that stores how past decisions got made, above all why an exception was approved.",
+     "One caution comes with it. An exception must not become a rule just because it worked once. A human process owner still reviews why the decision worked, whether the conditions still apply, and whether it is safe to generalize."
+    ]
+   },
+   {
+    "heading": "Stop sending everything to the biggest model",
+    "paragraphs": [
+     "Token prices keep falling, but company AI bills keep rising as usage spreads. Herzig says SAP learned it cannot blindly throw everything at large language models. An email summary does not need the same model as complex business reasoning, so tasks should be routed by complexity, risk, and context, or solved without a model call at all.",
+     "He names two wastes: sending everything to frontier models, and context bloat, meaning prompts stuffed with low value information. More than 60,000 SAP colleagues use its Joule Work system internally, so those choices are tested at production scale rather than in a demo."
+    ]
+   },
+   {
+    "heading": "What a small team can steal",
+    "paragraphs": [
+     "Herzig runs technology for one of the largest software companies on earth, but most of his advice scales down to a studio, a shop, or a one person business rolling out agents this month:"
+    ],
+    "bullets": [
+     "Pick one high value use case and give it first to the person the team already trusts",
+     "Test agents with inputs your real process would reject, like an invoice with no currency, and see what they accept",
+     "Route simple work to smaller models and save the expensive ones for real reasoning",
+     "Keep a record of why exceptions were approved, not just that they were approved"
+    ]
+   },
+   {
+    "heading": "The responsibility stays human",
+    "paragraphs": [
+     "The interface is changing from clicking screens to stating intent. The responsibility is not changing at all. Someone still owns whether the output is correct, secure, and safe to act on, and that ownership is the job AI is creating inside every business that adopts it."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: SAP Philipp Herzig on AI built for business data (October 25, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "ai-ugc-ad",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "sproos-showerhead-3-9-million-subscription-business",
+  "title": "A Colorful Showerhead Built a 3.9 Million Dollar Business and the Filter Made It a Subscription",
+  "excerpt": "Sproos sold renters a colorful, easy to install showerhead and made 3.9 million dollars in 2025. Then customer conversations led it to filtration, and replacement filters turned one time buyers into about 35,000 subscribers.",
+  "seoDescription": "Sproos made 3.9 million dollars in 2025 selling colorful showerheads to renters. How filtration subscriptions, at about 35,000 members, aim it at 10 million in 2026.",
+  "category": "brand-growth",
+  "serviceId": "business-website",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-25T12:24:00.000Z",
+  "updatedAt": "2026-10-25T12:24:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/sproos-showerhead-3-9-million-subscription-business-hero.webp",
+   "alt": "A sproos filtered shower kit in a real bathroom, from the official sproos product gallery",
+   "subject": "Sproos filtered shower kit lifestyle photo",
+   "kind": "photo",
+   "sourceUrl": "https://sproos.co/cdn/shop/files/Shower_Kit_Filter_Lifestyle.jpg?v=1773403003",
+   "credit": "Image: Sproos filtered shower kit photo via the official sproos store. Story source: The Hustle Blower, October 25, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The aisle nobody was excited about",
+    "paragraphs": [
+     "Walk the plumbing aisle of a hardware store and the message is clear: chrome, silver, and more chrome. Benjamin Fix spent years working in plumbing and noticed the industry had decided bathrooms should have all the personality of an office printer, as The Hustle Blower tells it.",
+     "Fix also noticed who was being ignored. Young renters wanted stylish homes, but bathroom products assumed they owned the place. A renter will not renovate a bathroom they do not own. They might buy something colorful, practical, and easy to install. In November 2022, Fix and fellow plumbing veteran Greg Reinecker launched sproos, with Cecile Scius leading customer success and community, after raising about 250,000 dollars from friends and professional contacts."
+    ]
+   },
+   {
+    "heading": "Made to be understood at a glance",
+    "paragraphs": [
+     "Sproos made showerheads in pink, green, and other bright colors, designed to look like home accessories rather than hardware. The company sent products to lifestyle creators on Instagram and later TikTok, aiming at college students and apartment renters.",
+     "The pitch needed no contractor, no renovation loan, and no landlord permission. If people can understand the value in a five second video, the story tells itself. But a showerhead has a built in limit: one person needs one, maybe two, and then the company must find the next customer."
+    ]
+   },
+   {
+    "heading": "Customers pointed at the real business",
+    "paragraphs": [
+     "Four times a year, sproos holds roundtable conversations with loyal customers and asks what they like, what annoys them, and what they wish existed. Those conversations led the company to shower filtration. Customers wanted a better shower experience, not just a better looking one.",
+     "The company spent about two years developing a filtration product. The bigger discovery was the replacement cartridge. A filter needs changing regularly, in the sproos case every three months, so the company could offer a subscription that solves a real chore instead of inventing a reason to bill people."
+    ]
+   },
+   {
+    "heading": "35,000 subscribers change the math",
+    "paragraphs": [
+     "By October 2026, sproos reported about 35,000 active filtration subscribers. About 70 percent of new customers choose the subscription option, and reported monthly subscriber churn is below 3 percent. The company generated 3.9 million dollars in revenue in 2025 and, in an October 14, 2026 interview, said it was on track to pass 10 million dollars in revenue this year.",
+     "That 10 million dollar figure is a projection, not a finished result, and revenue is not profit. Manufacturing, inventory, shipping, and marketing still get paid. The lesson is the shape of the model. A product sold once must be sold again to a stranger. A needed replacement sells again to a customer who already trusts you, which makes demand easier to plan around."
+    ]
+   },
+   {
+    "heading": "A tiny washer and the right shelf",
+    "paragraphs": [
+     "Not every customer insight produced a product. When leaks were reported, engineers traced the problem to a tiny transparent washer that could slip off the hose. The company modified the mold, adding a small lip to keep the washer in place. For a subscription business, a small defect is expensive, because frustration turns into cancellations.",
+     "Growth followed the same listening pattern. Sproos expanded through Amazon and into HomeGoods, a retailer its own customers said they liked shopping at, and ran pop up events with student housing company Greystar that the company says raised local sales by 200 percent. The founders were not trying to be everywhere. They were showing up where their customers already were."
+    ]
+   },
+   {
+    "heading": "Borrow the model, skip the plumbing",
+    "paragraphs": [
+     "You do not need a plumbing brand to use the sproos playbook. The moves translate to almost any product or service business:"
+    ],
+    "bullets": [
+     "Find a boring category that is ignoring a clear group of buyers",
+     "Make the improvement easy to understand at a glance",
+     "Look for the repeat purchase hiding behind the first sale",
+     "Ask customers what frustrates them, then fix the small thing before it costs you subscribers"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: Their 3.9M Shower Business Had a Secret (October 25, 2026)",
+    "url": "https://thehustleblower.com"
+   },
+   {
+    "id": "sproos",
+    "title": "Sproos: Filtered Shower Kit",
+    "url": "https://sproos.co/products/shower-kit-filter-pink"
+   }
+  ],
+  "relatedServiceIds": [
+   "business-website",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Build my website",
+   "price": 1500,
+   "serviceId": "business-website"
+  },
+  "nextClick": {
+   "label": "See website pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "monster-mash-still-earns-a-million-a-year",
+  "title": "One Song Written in a Few Hours Still Earns About a Million Dollars Every Halloween",
+  "excerpt": "Monster Mash was written in a few hours in 1962. Billboard estimated it could be making about 1 million dollars a year from streams, commercials, licensing, and film, and its royalties still pay the families of its writers.",
+  "seoDescription": "Monster Mash could earn about 1 million dollars a year, Billboard estimated. How one 1962 novelty song became an evergreen royalty machine for its writers families.",
+  "category": "brand-growth",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-25T12:20:00.000Z",
+  "updatedAt": "2026-10-25T12:20:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/monster-mash-still-earns-a-million-a-year-hero.webp",
+   "alt": "Bobby Pickett, performer of Monster Mash, in the story art shared by Morning Brew",
+   "subject": "Bobby Pickett performing Monster Mash",
+   "kind": "photo",
+   "sourceUrl": "https://storage.morningbrew.com/image/2026-10-22/image-34b8fbf4c4934db7d311c8a01314b1033bae621a-2154x1436-png/MBD-SundaySpecial-MorningBoo-MonsterMash-1026.png",
+   "credit": "Image: Bobby Pickett photo via Dick Clark Productions and Morning Brew. Story source: Morning Brew, October 25, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Paying the rent for 36 years",
+    "paragraphs": [
+     "Bobby Boris Pickett, the performer Morning Brew calls the Mariah Carey of Halloween, told the Memphis Commercial Appeal in 1998 that he had been paying the rent for 36 years with this one song. Pickett died in 2007. The song did not.",
+     "Monster Mash was released in 1962, cowritten by Pickett and Leonard Capizzi, and it still brings in a steady revenue stream every October, more than sixty years after a few hours of writing produced it."
+    ]
+   },
+   {
+    "heading": "Where the money comes from",
+    "paragraphs": [
+     "Between streams, commercials, licensing, and film usage, Monster Mash could be making 1 million dollars in annual revenue, Billboard estimated in 2023. That is an estimate, not an audited figure, but the sources of the money explain why it keeps arriving. Every Halloween, advertisers, filmmakers, and playlist editors all reach for the same small shelf of songs.",
+     "The song has been the oldest track atop the Halloween streaming charts in recent years, just behind Thriller from 1982 and ahead of Ghostbusters from 1984 and Spooky, Scary, Skeletons from 1996, per Billboard. A seasonal chart is a valuable place to own. The competition is fixed, the audience returns on schedule, and the song only has to win one month a year."
+    ]
+   },
+   {
+    "heading": "Royalties outlive the writer",
+    "paragraphs": [
+     "Since Pickett and Capizzi have both died, their royalties have gone to their family members. Pickett grandson told Billboard what that inheritance sounds like: every single year of his entire life, he gets to hear his grandfather voice for a month.",
+     "That line explains why ownership matters more than a single payout. A flat fee ends when the check clears. A royalty share keeps arriving as long as the work keeps getting used, and it can pass to your family. The difference between those two deals is invisible on the day you sign. It is enormous by year thirty."
+    ]
+   },
+   {
+    "heading": "Why seasonal work compounds",
+    "paragraphs": [
+     "Monster Mash is not just a song. It is a song attached to a date. Halloween returns every year with parties, playlists, commercials, and films, and each return sends the culture looking for the same soundtrack. Work tied to a recurring date gets rediscovered on schedule instead of by luck.",
+     "Creators make seasonal work all the time without treating it as an asset. A Halloween recap format, a holiday photo package, a graduation video template. If it is built to be reused and owned outright, the second year costs less than the first, and by the tenth year the cost is close to zero while the income continues."
+    ]
+   },
+   {
+    "heading": "Build one thing that returns",
+    "paragraphs": [
+     "Most creative work is sold once and forgotten by the person who made it. Monster Mash is the opposite extreme, and the habits that made it pay for decades are available to any creator at a smaller scale:"
+    ],
+    "bullets": [
+     "Make one piece of work tied to a date your audience celebrates every year",
+     "Keep your ownership and your credits in writing before the work goes out",
+     "Save the project files so the next edition is an update, not a rebuild",
+     "Track where the work gets reused, because licensing income hides in reuse"
+    ]
+   },
+   {
+    "heading": "Own what you make",
+    "paragraphs": [
+     "You cannot plan a classic, and nobody should promise you one. You can plan to own what you make, to build a few things designed to return each year, and to keep the paperwork that proves the work is yours. A few hours of writing paid Pickett rent for 36 years. Ownership is what turned a novelty song into an inheritance."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Monster Mash still makes a bunch of money each year (October 25, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "brand-film"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "porch-stylists-charge-up-to-2000-dollars",
+  "title": "Porch Stylists Charge Up to 2,000 Dollars to Decorate Your Front Steps for Halloween",
+  "excerpt": "A new seasonal trade is turning front porches into paid work. Porch stylists, also called pumpkin concierges, deliver, arrange, and even remove Halloween displays for fees from a few hundred dollars to 2,000 dollars a home.",
+  "seoDescription": "Porch stylists charge up to 2,000 dollars to decorate front steps for Halloween. Inside the pumpkin concierge business and its lesson for seasonal service owners.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-25T12:16:00.000Z",
+  "updatedAt": "2026-10-25T12:16:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/porch-stylists-charge-up-to-2000-dollars-hero.webp",
+   "alt": "Front steps of a home decorated with pumpkins and fall arrangements by a porch styling service",
+   "subject": "Pumpkin decorated front porch steps",
+   "kind": "photo",
+   "sourceUrl": "https://storage.morningbrew.com/image/2026-10-22/image-6d9bd9df4a213470ee4ca13746728245cd701c20-2000x1333-jpg/MBD-SundaySpecial-MorningBoo-PorchPumpkins-1026.jpg",
+   "credit": "Image: Porch Pumpkins photo via Morning Brew. Story source: Morning Brew, October 25, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The pumpkin patch comes to you",
+    "paragraphs": [
+     "Pumpkin patches are fun until time, allergies, or a snapped pumpkin stem get in the way. Morning Brew reports that porch decorating businesses are popping up all over the country, ready to bring the pumpkin patch to your doorstep instead.",
+     "Porch stylists, also known as pumpkin concierges, handle the whole job. They deliver the pumpkins and gourds, arrange the display on your steps, and style the entrance so it looks planned rather than piled up. Some will even return after the holiday and clean the whole thing up."
+    ]
+   },
+   {
+    "heading": "What a decorated porch costs",
+    "paragraphs": [
+     "Fees range from a couple hundred dollars to 2,000 dollars, depending on how elaborate the display gets. Unusual gourds and bigger arrangements push the price up. What buyers are really paying for is not the pumpkins. It is the sourcing, the hauling, the eye for arrangement, and the removal when the season ends.",
+     "That pricing shape should sound familiar to anyone who sells a service. The materials are ordinary and available to anyone. The finished result, delivered without the customer lifting anything, is the product."
+    ]
+   },
+   {
+    "heading": "Two companies show the scale",
+    "paragraphs": [
+     "Curated Pumpkin, which started in Southern California in 2024, grew its business five times over in 2025, according to Wall Street Journal reporting shared by Morning Brew. Texas based Porch Pumpkins, launched in 2020, now reportedly makes six figures and has started to franchise, Business Insider reported.",
+     "Franchising is the tell. A decorating style that one person invents for a few neighbors only becomes a franchise when the steps can be taught, repeated, and sold in a new city. The look is creative. The business underneath it is a system."
+    ]
+   },
+   {
+    "heading": "The Christmas lights comparison",
+    "paragraphs": [
+     "Morning Brew calls porch decorating the spooky equivalent of professional Christmas light installation, and that comparison carries real weight. Christmas light installation is now a 3.5 billion dollar a year industry, according to Market Report Analytics.",
+     "Both trades sell the same thing: a seasonal transformation of a home, installed by someone else, inside a short window when every customer wants it at once. Halloween spending gives the porch version a large runway. Americans are projected to spend 13.5 billion dollars on Halloween this year, according to the National Retail Federation, and nearly half of shoppers did some Halloween shopping before October last year."
+    ]
+   },
+   {
+    "heading": "The lesson for seasonal service owners",
+    "paragraphs": [
+     "A porch stylist business needs no storefront, no permanent staff, and no invention. It needs a clear package, good photos of finished porches, a booking window that closes, and a cleanup offer that makes saying yes easier."
+    ],
+    "bullets": [
+     "Sell the finished porch in photos, with three package sizes and one clear price per size",
+     "Book the cleanup at the same time as the install, while the customer is already spending",
+     "Photograph every finished porch, because each display is an ad on a street full of neighbors",
+     "Use the quiet months to sell the next season, from winter holidays to spring events"
+    ]
+   },
+   {
+    "heading": "Ordinary materials, visible results",
+    "paragraphs": [
+     "That is the pattern worth copying. Ordinary materials, a defined season, and a result people can see from the sidewalk. The porches change with the calendar. The model works anywhere a date on that calendar creates demand, and where a customer would rather pay than do the work themselves."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Porch stylists and the business of Halloween (October 25, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "business-website",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "warhound-engineered-military-dogs-200-million",
   "title": "Warhound Raised 200 Million Dollars to Genetically Engineer a Better Military Dog",
   "excerpt": "Texas startup Warhound, from Anduril cofounder Palmer Luckey and Colossal Biosciences cofounder Ben Lamm, has 200 million dollars in seed funding to engineer and clone healthier military dogs, with the first pups expected early next year.",
