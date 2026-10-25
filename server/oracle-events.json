@@ -7541,5 +7541,22 @@
   "alt": "30A BBQ Festival flyer, Grand Boulevard, Miramar Beach",
   "imageKey": "event-flyers/585-30a-bbq-festival.jpg",
   "endDate": "2026-11-06"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "50th Annual Longwood Arts & Crafts Festival",
+  "date": "NOVEMBER 21 TO 22",
+  "headliners": "",
+  "venue": "Historic District, Longwood",
+  "categories": [
+   "Arts"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://longwoodfestival.com/",
+  "flyerUrl": "https://longwoodfestival.com/",
+  "image": "/events/flyer/586-longwood-arts-and-crafts-festival.jpg",
+  "alt": "50th Annual Longwood Arts and Crafts Festival flyer, Historic District, Longwood",
+  "imageKey": "event-flyers/586-longwood-arts-and-crafts-festival.jpg",
+  "endDate": "2026-11-22"
  }
 ]
