@@ -7760,5 +7760,128 @@
   "alt": "44th Annual Chili Cook-Off flyer, Clover Park, Port St. Lucie",
   "imageKey": "event-flyers/608-44th-annual-chili-cook-off-port-st-lucie.jpg",
   "endDate": "2026-11-14"
+ },
+ {
+  "section": "MAJOR ANNUALS",
+  "title": "76th Annual Beaux Arts Festival of Art",
+  "date": "JANUARY 16 TO 17",
+  "headliners": "",
+  "venue": "University of Miami, Coral Gables",
+  "categories": [
+   "Arts",
+   "Festival",
+   "Community"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://beauxartsmiami.org/pages/2027-festival-of-art",
+  "flyerUrl": "https://beauxartsmiami.org/pages/2027-festival-of-art",
+  "image": "/events/flyer/609-beaux-arts-festival-of-art.jpg",
+  "alt": "Beaux Arts Festival of Art poster for the 76th annual festival at the University of Miami in Coral Gables with a painted palm tree",
+  "imageKey": "event-flyers/609-beaux-arts-festival-of-art.jpg",
+  "endDate": "2027-01-17"
+ },
+ {
+  "section": "MAJOR ANNUALS",
+  "title": "11th Annual Backyard BBQ Cook-Off and Family Fest",
+  "date": "FEBRUARY 27, 11 AM TO 3 PM",
+  "headliners": "",
+  "venue": "EFSC Melbourne Campus, Melbourne",
+  "categories": [
+   "Food",
+   "Festival",
+   "Community"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://foundation.easternflorida.edu/bbq/",
+  "flyerUrl": "https://foundation.easternflorida.edu/bbq/",
+  "image": "/events/flyer/610-efsc-backyard-bbq-cook-off-and-family-fest.jpg",
+  "alt": "Backyard BBQ Cook Off and Family Fest flyer with a cartoon pig in a cowboy hat holding a barbecue fork next to the event logo",
+  "imageKey": "event-flyers/610-efsc-backyard-bbq-cook-off-and-family-fest.jpg",
+  "endDate": "2027-02-27"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Home for the Holidays, Clearwater",
+  "date": "NOVEMBER 30, 8 PM",
+  "headliners": "All-4-One, Sheena Easton, Ruben Studdard, Lindsey Webster",
+  "venue": "Ruth Eckerd Hall, Clearwater",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.rutheckerdhall.com/events/detail/home-for-the-holidays",
+  "flyerUrl": "https://www.rutheckerdhall.com/assets/img/Home-for-the-Holidays-398x398-60c53e6349.jpg",
+  "image": "/events/flyer/611-home-for-the-holidays-clearwater.jpg",
+  "alt": "Home for the Holidays concert artwork for Ruth Eckerd Hall in Clearwater",
+  "imageKey": "event-flyers/611-home-for-the-holidays-clearwater.jpg",
+  "endDate": "2026-11-30"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Leslie Odom, Jr. The Christmas Tour, Jacksonville",
+  "date": "DECEMBER 13, 7 PM",
+  "headliners": "Leslie Odom, Jr.",
+  "venue": "Florida Theatre Jacksonville, Jacksonville",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/leslie-odom,-jr.-tickets/artist/2153882",
+  "flyerUrl": "https://s1.ticketm.net/dam/a/ebc/d8c2a795-9415-4f39-a5c2-944eb30c5ebc_RETINA_PORTRAIT_3_2.jpg",
+  "image": "/events/flyer/612-leslie-odom-jr-christmas-tour-jacksonville.jpg",
+  "alt": "Leslie Odom, Jr. portrait for The Christmas Tour in Jacksonville",
+  "imageKey": "event-flyers/612-leslie-odom-jr-christmas-tour-jacksonville.jpg",
+  "endDate": "2026-12-13"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Leslie Odom, Jr. The Christmas Tour, Sarasota",
+  "date": "DECEMBER 14, 7 PM",
+  "headliners": "Leslie Odom, Jr.",
+  "venue": "Van Wezel Performing Arts Hall, Sarasota",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/leslie-odom,-jr.-tickets/artist/2153882",
+  "flyerUrl": "https://s1.ticketm.net/dam/a/ebc/d8c2a795-9415-4f39-a5c2-944eb30c5ebc_RETINA_PORTRAIT_3_2.jpg",
+  "image": "/events/flyer/613-leslie-odom-jr-christmas-tour-sarasota.jpg",
+  "alt": "Leslie Odom, Jr. portrait for The Christmas Tour in Sarasota",
+  "imageKey": "event-flyers/613-leslie-odom-jr-christmas-tour-sarasota.jpg",
+  "endDate": "2026-12-14"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Leslie Odom, Jr. The Christmas Tour, West Palm Beach",
+  "date": "DECEMBER 15, 7:30 PM",
+  "headliners": "Leslie Odom, Jr.",
+  "venue": "Kravis Center, West Palm Beach",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.kravis.org/events/leslie-odom-jr-the-christmas-tour-2026/",
+  "flyerUrl": "https://www.kravis.org/wp-content/uploads/2026/06/LESLIE-ODOM-JR_F.webp",
+  "image": "/events/flyer/614-leslie-odom-jr-christmas-tour-west-palm-beach.jpg",
+  "alt": "Leslie Odom, Jr. The Christmas Tour artwork for the Kravis Center in West Palm Beach",
+  "imageKey": "event-flyers/614-leslie-odom-jr-christmas-tour-west-palm-beach.jpg",
+  "endDate": "2026-12-15"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Gregory Porter, Jacksonville",
+  "date": "JANUARY 23, 7 PM",
+  "headliners": "Gregory Porter",
+  "venue": "Florida Theatre Jacksonville, Jacksonville",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/gregory-porter-tickets/artist/1536195",
+  "flyerUrl": "https://s1.ticketm.net/dam/a/ba3/270590ab-2fd8-4ad8-b254-6400fb27aba3_RETINA_PORTRAIT_3_2.jpg",
+  "image": "/events/flyer/615-gregory-porter-jacksonville.jpg",
+  "alt": "Gregory Porter portrait for his concert at Florida Theatre Jacksonville",
+  "imageKey": "event-flyers/615-gregory-porter-jacksonville.jpg",
+  "endDate": "2027-01-23"
  }
 ]
