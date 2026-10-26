@@ -7475,5 +7475,58 @@
   "alt": "Native Rhythms Festival poster, Wickham Park, Melbourne",
   "imageKey": "event-flyers/592-native-rhythms-festival.jpg",
   "endDate": "2026-11-15"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Pouya: The Foreverglades Tour, Jacksonville",
+  "date": "DECEMBER 9, 8 PM",
+  "headliners": "Pouya, Ramirez, Fat Nick, Black Smurf, ComeHelpGlo",
+  "venue": "FIVE, Jacksonville",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/pouya-tickets/artist/1509178",
+  "flyerUrl": "https://www.instagram.com/p/Ddot6UXT5or/",
+  "image": "/events/flyer/593-pouya-foreverglades-tour-jacksonville.jpg",
+  "alt": "Pouya Foreverglades Tour 2026 poster",
+  "imageKey": "event-flyers/593-pouya-foreverglades-tour-jacksonville.jpg",
+  "endDate": "2026-12-09"
+ },
+ {
+  "section": "MAJOR ANNUALS",
+  "title": "3rd Annual Treasure Coast BBQ Pig Jam Battle and Showdown",
+  "date": "JANUARY 16 TO 17, 2027",
+  "headliners": "",
+  "venue": "Causeway Cove Marina, Fort Pierce",
+  "categories": [
+   "Food",
+   "Community"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/2027-3rd-annual-treasure-coast-bbq-pig-jam-battle-showdown-tickets-2003658623881",
+  "flyerUrl": "https://www.eventbrite.com/e/2027-3rd-annual-treasure-coast-bbq-pig-jam-battle-showdown-tickets-2003658623881",
+  "image": "/events/flyer/594-treasure-coast-bbq-pig-jam.jpg",
+  "alt": "Treasure Coast BBQ Pig Jam Battle and Showdown flyer, Causeway Cove Marina, Fort Pierce",
+  "imageKey": "event-flyers/594-treasure-coast-bbq-pig-jam.jpg",
+  "endDate": "2027-01-17"
+ },
+ {
+  "section": "MAJOR ANNUALS",
+  "title": "6th Annual Pinellas Taco Fest",
+  "date": "JANUARY 23, 10 AM TO 7 PM AND JANUARY 24, 10 AM TO 5 PM",
+  "headliners": "",
+  "venue": "England Brothers Park, Pinellas Park",
+  "categories": [
+   "Food",
+   "Community"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://allevents.in/pinellas-park/6th-annual-pinellas-tacofest/200030852060710",
+  "flyerUrl": "https://allevents.in/pinellas-park/6th-annual-pinellas-tacofest/200030852060710",
+  "image": "/events/flyer/595-pinellas-taco-fest.jpg",
+  "alt": "6th Annual Pinellas Taco Fest flyer, England Brothers Park, Pinellas Park",
+  "imageKey": "event-flyers/595-pinellas-taco-fest.jpg",
+  "endDate": "2027-01-24"
  }
 ]
