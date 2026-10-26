@@ -7558,5 +7558,43 @@
   "alt": "50th Annual Longwood Arts and Crafts Festival flyer, Historic District, Longwood",
   "imageKey": "event-flyers/586-longwood-arts-and-crafts-festival.jpg",
   "endDate": "2026-11-22"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "19th Annual Stone Crab Jam Music Festival",
+  "date": "NOVEMBER 7, 12 PM TO 9 PM",
+  "headliners": "",
+  "venue": "North Citrus Avenue, Crystal River",
+  "categories": [
+   "Food",
+   "Music",
+   "Community"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://events.humanitix.com/2026-stone-crab-jam-music-festival",
+  "flyerUrl": "https://events.humanitix.com/2026-stone-crab-jam-music-festival",
+  "image": "/events/flyer/587-stone-crab-jam-music-festival-crystal-river.jpg",
+  "alt": "19th Annual Stone Crab Jam Music Festival flyer, North Citrus Avenue, Crystal River",
+  "imageKey": "event-flyers/587-stone-crab-jam-music-festival-crystal-river.jpg",
+  "endDate": "2026-11-07"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "38th Annual Tarpon Springs Seafood Festival",
+  "date": "NOVEMBER 7 TO 8, 10 AM TO 9 PM",
+  "headliners": "",
+  "venue": "Tarpon Springs Sponge Docks, Tarpon Springs",
+  "categories": [
+   "Food",
+   "Arts",
+   "Community"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "http://www.sikpromotions.com/applicants/fall/tarpon-springs-seafood-festival",
+  "flyerUrl": "https://allevents.in/tarpon-springs/38th-annual-tarpon-springs-seafood-festival/200029526394501",
+  "image": "/events/flyer/588-tarpon-springs-seafood-festival.jpg",
+  "alt": "38th Annual Tarpon Springs Seafood Festival flyer, Tarpon Springs Sponge Docks, Tarpon Springs",
+  "imageKey": "event-flyers/588-tarpon-springs-seafood-festival.jpg",
+  "endDate": "2026-11-08"
  }
 ]
