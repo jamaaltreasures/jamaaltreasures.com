@@ -7883,5 +7883,57 @@
   "alt": "Gregory Porter portrait for his concert at Florida Theatre Jacksonville",
   "imageKey": "event-flyers/615-gregory-porter-jacksonville.jpg",
   "endDate": "2027-01-23"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "4th Annual Chili Cook Off",
+  "date": "DECEMBER 5, 2 PM TO 4 PM",
+  "headliners": "",
+  "venue": "7venth Sun Brewing Company, Dunedin",
+  "categories": [
+   "Food",
+   "Community"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://tampapowerplates.com/chili.html",
+  "flyerUrl": "https://tampapowerplates.com/chili.html",
+  "image": "/events/flyer/616-4th-annual-chili-cook-off-dunedin.jpg",
+  "alt": "4th Annual Chili Cook Off flyer, Power Plates, Dunedin",
+  "imageKey": "event-flyers/616-4th-annual-chili-cook-off-dunedin.jpg",
+  "endDate": "2026-12-05"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Andrea Bocelli: Romanza 30th Anniversary World Tour, Hollywood",
+  "date": "FEBRUARY 12 TO 13, 8 PM",
+  "headliners": "Andrea Bocelli",
+  "venue": "Hard Rock Live, Hollywood",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/andrea-bocelli-tickets/artist/773296",
+  "flyerUrl": "https://casino.hardrock.com/hollywood/events/andrea-bocelli",
+  "image": "/events/flyer/617-andrea-bocelli-romanza-hollywood.jpg",
+  "alt": "Andrea Bocelli Romanza 30th Anniversary World Tour poster, Hard Rock Live, Hollywood",
+  "imageKey": "event-flyers/617-andrea-bocelli-romanza-hollywood.jpg",
+  "endDate": "2027-02-13"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "St. Paul and the Broken Bones, Fort Lauderdale",
+  "date": "JANUARY 8, 7:30 PM",
+  "headliners": "St. Paul and the Broken Bones",
+  "venue": "Culture Room, Fort Lauderdale",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/St-Paul-and-the-Broken-Bones-tickets/artist/1856904",
+  "flyerUrl": "https://www.ticketmaster.com/St-Paul-and-the-Broken-Bones-tickets/artist/1856904",
+  "image": "/events/flyer/618-st-paul-and-the-broken-bones-fort-lauderdale.jpg",
+  "alt": "St. Paul and the Broken Bones poster, Culture Room, Fort Lauderdale",
+  "imageKey": "event-flyers/618-st-paul-and-the-broken-bones-fort-lauderdale.jpg",
+  "endDate": "2027-01-08"
  }
 ]
