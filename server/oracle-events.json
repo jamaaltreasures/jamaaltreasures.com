@@ -7528,5 +7528,117 @@
   "alt": "6th Annual Pinellas Taco Fest flyer, England Brothers Park, Pinellas Park",
   "imageKey": "event-flyers/595-pinellas-taco-fest.jpg",
   "endDate": "2027-01-24"
+ },
+ {
+  "section": "LATER IN OCTOBER",
+  "title": "Historic St. Augustine Morning Photography Walk",
+  "date": "OCTOBER 28, 7:15 AM TO 8:45 AM",
+  "headliners": "",
+  "venue": "Plaza de la Constitucion, St. Augustine",
+  "categories": [
+   "Arts",
+   "Community"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/historic-st-augustine-morning-photography-walk-tickets-2003632883892",
+  "flyerUrl": "https://www.eventbrite.com/e/historic-st-augustine-morning-photography-walk-tickets-2003632883892",
+  "image": "/events/flyer/596-historic-st-augustine-morning-photography-walk.jpg",
+  "alt": "Bridge of Lions at sunrise in St. Augustine, photography walk",
+  "imageKey": "event-flyers/596-historic-st-augustine-morning-photography-walk.jpg",
+  "endDate": "2026-10-28"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "63rd Annual Florida Seafood Festival",
+  "date": "NOVEMBER 6 TO 7",
+  "headliners": "Kaleb Austin, Ashley Morgan Band",
+  "venue": "Battery Park, Apalachicola",
+  "categories": [
+   "Food",
+   "Festival",
+   "Music"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://www.floridaseafoodfestival.com",
+  "flyerUrl": "https://www.floridaseafoodfestival.com",
+  "image": "/events/flyer/598-florida-seafood-festival-apalachicola.jpg",
+  "alt": "Kaleb Austin headliner banner for the Florida Seafood Festival, Saturday November 7 in Apalachicola",
+  "imageKey": "event-flyers/598-florida-seafood-festival-apalachicola.jpg",
+  "endDate": "2026-11-07"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Grace Jamaican Jerk Festival",
+  "date": "NOVEMBER 8, 2 PM TO 10 PM",
+  "headliners": "Richie D, DJ Radcliffe, Extatic Sound, DJ Worm",
+  "venue": "Miramar Regional Park, Miramar",
+  "categories": [
+   "Food",
+   "Music",
+   "Culture"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.jerkfestival.com",
+  "flyerUrl": "https://www.jerkfestival.com",
+  "image": "/events/flyer/597-grace-jamaican-jerk-festival.jpg",
+  "alt": "Grace Jamaican Jerk Festival banner, Sunday November 8 at Miramar Regional Park, Miramar",
+  "imageKey": "event-flyers/597-grace-jamaican-jerk-festival.jpg",
+  "endDate": "2026-11-08"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Siesta Key Crystal Classic International Sand Sculpting Festival",
+  "date": "NOVEMBER 13 TO 16",
+  "headliners": "",
+  "venue": "Siesta Beach, Sarasota",
+  "categories": [
+   "Arts",
+   "Festival",
+   "Community"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://www.siestakeycrystalclassic.com",
+  "flyerUrl": "https://www.siestakeycrystalclassic.com",
+  "image": "/events/flyer/599-siesta-key-crystal-classic.jpg",
+  "alt": "Sand sculptures at sunset at the Siesta Key Crystal Classic, Siesta Beach, Sarasota",
+  "imageKey": "event-flyers/599-siesta-key-crystal-classic.jpg",
+  "endDate": "2026-11-16"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Trap RnB at Celine Orlando",
+  "date": "NOVEMBER 20, 10 PM TO 2 AM",
+  "headliners": "",
+  "venue": "Celine Orlando, Orlando",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/trap-rnb-celine-orlando-tickets-2002565834318",
+  "flyerUrl": "https://www.eventbrite.com/e/trap-rnb-celine-orlando-tickets-2002565834318",
+  "image": "/events/flyer/601-trap-rnb-celine-orlando.jpg",
+  "alt": "Trap RnB flyer, Classic Weekend at Celine Orlando, Friday November 20",
+  "imageKey": "event-flyers/601-trap-rnb-celine-orlando.jpg",
+  "endDate": "2026-11-21"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "17th Annual Riverfest",
+  "date": "NOVEMBER 21 TO 22",
+  "headliners": "",
+  "venue": "Rockefeller Gardens and Fortunato Park, Ormond Beach",
+  "categories": [
+   "Food",
+   "Festival",
+   "Community"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "http://ormondbeachmainstreet.com/riverfest/",
+  "flyerUrl": "http://ormondbeachmainstreet.com/riverfest/",
+  "image": "/events/flyer/600-riverfest-ormond-beach.jpg",
+  "alt": "17th Annual Riverfest artwork, Historic Ormond Beach",
+  "imageKey": "event-flyers/600-riverfest-ormond-beach.jpg",
+  "endDate": "2026-11-22"
  }
 ]
