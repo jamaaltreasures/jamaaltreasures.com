@@ -7935,5 +7935,128 @@
   "alt": "St. Paul and the Broken Bones poster, Culture Room, Fort Lauderdale",
   "imageKey": "event-flyers/618-st-paul-and-the-broken-bones-fort-lauderdale.jpg",
   "endDate": "2027-01-08"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Demola: DEMOLA LIVE, Fort Lauderdale",
+  "date": "JANUARY 29, 8 PM",
+  "headliners": "Demola",
+  "venue": "Amaturo Theater at Broward Center, Fort Lauderdale",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/demola-tickets/artist/3014030",
+  "flyerUrl": "https://www.ticketmaster.com/demola-tickets/artist/3014030",
+  "image": "/events/flyer/619-demola-live-fort-lauderdale.jpg",
+  "alt": "Demola live artist photo with violin, Amaturo Theater Fort Lauderdale",
+  "imageKey": "event-flyers/619-demola-live-fort-lauderdale.jpg",
+  "endDate": "2027-01-29"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Demola: DEMOLA LIVE, Jacksonville",
+  "date": "JANUARY 30, 8 PM",
+  "headliners": "Demola",
+  "venue": "FIVE, Jacksonville",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.bandsintown.com/v/10475379-five",
+  "flyerUrl": "https://www.ticketmaster.com/demola-tickets/artist/3014030",
+  "image": "/events/flyer/620-demola-live-jacksonville.jpg",
+  "alt": "Demola live artist photo with violin, FIVE Jacksonville",
+  "imageKey": "event-flyers/620-demola-live-jacksonville.jpg",
+  "endDate": "2027-01-30"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Demola, Orlando",
+  "date": "JANUARY 31, 7:30 PM",
+  "headliners": "Demola",
+  "venue": "Plaza Live, Orlando",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/demola-tickets/artist/3014030",
+  "flyerUrl": "https://www.ticketmaster.com/demola-tickets/artist/3014030",
+  "image": "/events/flyer/621-demola-live-orlando.jpg",
+  "alt": "Demola live artist photo with violin, Plaza Live Orlando",
+  "imageKey": "event-flyers/621-demola-live-orlando.jpg",
+  "endDate": "2027-01-31"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "honestav: The Sweet American Boy Tour, Jacksonville",
+  "date": "NOVEMBER 10, 8 PM",
+  "headliners": "honestav",
+  "venue": "Decca Live, Jacksonville",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/honestav-tickets/artist/3219683",
+  "flyerUrl": "https://www.ticketmaster.com/honestav-tickets/artist/3219683",
+  "image": "/events/flyer/622-honestav-jacksonville.jpg",
+  "alt": "honestav Sweet American Boy Tour artist photo, Decca Live Jacksonville",
+  "imageKey": "event-flyers/622-honestav-jacksonville.jpg",
+  "endDate": "2026-11-10"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "honestav: The Sweet American Boy Tour, Orlando",
+  "date": "NOVEMBER 12, 7 PM",
+  "headliners": "honestav",
+  "venue": "The Beacham, Orlando",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/honestav-tickets/artist/3219683",
+  "flyerUrl": "https://www.ticketmaster.com/honestav-tickets/artist/3219683",
+  "image": "/events/flyer/623-honestav-orlando.jpg",
+  "alt": "honestav Sweet American Boy Tour artist photo, The Beacham Orlando",
+  "imageKey": "event-flyers/623-honestav-orlando.jpg",
+  "endDate": "2026-11-12"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "honestav: The Sweet American Boy Tour, Miami",
+  "date": "NOVEMBER 13, 8 PM",
+  "headliners": "honestav",
+  "venue": "Midline Miami, Miami",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Event Details",
+  "detailsUrl": "https://themusicuniverse.com/honestav-announces-sweet-american-boy-tour/",
+  "flyerUrl": "https://themusicuniverse.com/honestav-announces-sweet-american-boy-tour/",
+  "image": "/events/flyer/624-honestav-miami.jpg",
+  "alt": "honestav Sweet American Boy Tour artist photo, Midline Miami",
+  "imageKey": "event-flyers/624-honestav-miami.jpg",
+  "endDate": "2026-11-13"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "ABC Central Florida Chili Cook Off",
+  "date": "DECEMBER 3, 5 PM TO 7:30 PM",
+  "headliners": "",
+  "venue": "Horsepower Ranch, Geneva",
+  "categories": [
+   "Food",
+   "Community"
+  ],
+  "detailsLabel": "Event Details",
+  "detailsUrl": "http://abccentralflorida.com/wp-content/uploads/2026/04/12_03_2026-Chili-Cook-Off.pdf",
+  "flyerUrl": "http://abccentralflorida.com/wp-content/uploads/2026/04/12_03_2026-Chili-Cook-Off.pdf",
+  "image": "/events/flyer/625-abc-central-florida-chili-cook-off-geneva.jpg",
+  "alt": "ABC Central Florida Chili Cook Off flyer, December 3 at Horsepower Ranch in Geneva",
+  "imageKey": "event-flyers/625-abc-central-florida-chili-cook-off-geneva.jpg",
+  "endDate": "2026-12-03"
  }
 ]
