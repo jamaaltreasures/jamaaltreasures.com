@@ -7437,5 +7437,43 @@
   "alt": "Motionless In White The Sweat and Blood Tour artwork, Kia Center Orlando",
   "imageKey": "event-flyers/590-motionless-in-white-sweat-and-blood-tour-orlando.jpg",
   "endDate": "2026-11-05"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "15th Annual Taste of South Lake & Business Expo",
+  "date": "NOVEMBER 5, 5 PM TO 8:30 PM",
+  "headliners": "",
+  "venue": "Waterfront Park, Clermont",
+  "categories": [
+   "Food",
+   "Business",
+   "Festival"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/15th-annual-taste-of-south-lake-business-expo-tickets-1987919874859",
+  "flyerUrl": "https://www.eventbrite.com/e/15th-annual-taste-of-south-lake-business-expo-tickets-1987919874859",
+  "image": "/events/flyer/591-taste-of-south-lake.jpg",
+  "alt": "15th Annual Taste of South Lake and Business Expo flyer, Waterfront Park, Clermont",
+  "imageKey": "event-flyers/591-taste-of-south-lake.jpg",
+  "endDate": "2026-11-05"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Native Rhythms Festival",
+  "date": "NOVEMBER 13 TO 15",
+  "headliners": "",
+  "venue": "Wickham Park, Melbourne",
+  "categories": [
+   "Music",
+   "Arts",
+   "Culture"
+  ],
+  "detailsLabel": "Event Details",
+  "detailsUrl": "https://nativerhythmsfestival.com/",
+  "flyerUrl": "https://nativerhythmsfestival.com/",
+  "image": "/events/flyer/592-native-rhythms-festival.jpg",
+  "alt": "Native Rhythms Festival poster, Wickham Park, Melbourne",
+  "imageKey": "event-flyers/592-native-rhythms-festival.jpg",
+  "endDate": "2026-11-15"
  }
 ]
