@@ -10712,5 +10712,653 @@
     "alt": "Alvaro Torres live in Miami",
     "imageKey": "event-flyers/782-alvaro-torres-miami.jpg",
     "endDate": "2027-02-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Hot Mulligan, Miami Beach",
+    "date": "NOVEMBER 13, 7 PM",
+    "headliners": "Hot Mulligan",
+    "venue": "Miami Beach Bandshell, Miami Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/d5f/25f3ce49-b3ab-44c8-9494-df6c20eddd5f_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/783-hot-mulligan-miami-beach.jpg",
+    "alt": "Hot Mulligan live in Miami Beach",
+    "imageKey": "event-flyers/783-hot-mulligan-miami-beach.jpg",
+    "endDate": "2026-11-13"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "The Faint, Miami",
+    "date": "NOVEMBER 13, 7 PM",
+    "headliners": "The Faint",
+    "venue": "Las Rosas, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/the-faint-billets/artist/717900",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/aad/3254c4c5-53ca-4e68-b192-94ae8bb37aad_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/784-the-faint-miami.jpg",
+    "alt": "The Faint live in Miami",
+    "imageKey": "event-flyers/784-the-faint-miami.jpg",
+    "endDate": "2026-11-13"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "George Clanton, Miami",
+    "date": "NOVEMBER 16, 8 PM",
+    "headliners": "George Clanton",
+    "venue": "Las Rosas, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/george-clanton-tickets/artist/2641188",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/012/a75f270a-166b-416f-b50c-2146c7778012_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/785-george-clanton-miami.jpg",
+    "alt": "George Clanton live in Miami",
+    "imageKey": "event-flyers/785-george-clanton-miami.jpg",
+    "endDate": "2026-11-16"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "George Clanton, Orlando",
+    "date": "NOVEMBER 18, 7 PM",
+    "headliners": "George Clanton",
+    "venue": "The Abbey, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/george-clanton-tickets/artist/2641188",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/012/a75f270a-166b-416f-b50c-2146c7778012_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/786-george-clanton-orlando.jpg",
+    "alt": "George Clanton live in Orlando",
+    "imageKey": "event-flyers/786-george-clanton-orlando.jpg",
+    "endDate": "2026-11-18"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Voyage: Celebrating The Music of Journey, Fort Lauderdale",
+    "date": "DECEMBER 11, 7:30 PM",
+    "headliners": "Voyage",
+    "venue": "Wells Hall at The Parker, Fort Lauderdale",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/voyage-celebrating-the-music-of-journey-tickets/artist/1476833",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/ce5/06e39b1b-bfd1-4b10-a92f-297b2986fce5_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/787-voyage-fort-lauderdale.jpg",
+    "alt": "Voyage celebrating the music of Journey live in Fort Lauderdale",
+    "imageKey": "event-flyers/787-voyage-fort-lauderdale.jpg",
+    "endDate": "2026-12-11"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Voyage: Celebrating The Music of Journey, Orlando",
+    "date": "DECEMBER 12, 7:30 PM",
+    "headliners": "Voyage",
+    "venue": "House of Blues Orlando, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/voyage-celebrating-the-music-of-journey-tickets/artist/1476833",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/ce5/06e39b1b-bfd1-4b10-a92f-297b2986fce5_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/788-voyage-orlando.jpg",
+    "alt": "Voyage celebrating the music of Journey live in Orlando",
+    "imageKey": "event-flyers/788-voyage-orlando.jpg",
+    "endDate": "2026-12-12"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Sister Hazel, Ponte Vedra Beach",
+    "date": "JANUARY 14, 8 PM",
+    "headliners": "Sister Hazel",
+    "venue": "Ponte Vedra Concert Hall, Ponte Vedra Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.axs.com/artists/104725/sister-hazel-tickets",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/20d/a1e46a28-a798-4a3d-8743-7eb1ec8d120d_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/789-sister-hazel-ponte-vedra-beach.jpg",
+    "alt": "Sister Hazel live in Ponte Vedra Beach",
+    "imageKey": "event-flyers/789-sister-hazel-ponte-vedra-beach.jpg",
+    "endDate": "2027-01-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Sister Hazel, Fort Lauderdale",
+    "date": "JANUARY 15, 7:30 PM",
+    "headliners": "Sister Hazel",
+    "venue": "Culture Room, Fort Lauderdale",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/sister-hazel-tickets/artist/K8vZ9171br0",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/20d/a1e46a28-a798-4a3d-8743-7eb1ec8d120d_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/790-sister-hazel-fort-lauderdale.jpg",
+    "alt": "Sister Hazel live in Fort Lauderdale",
+    "imageKey": "event-flyers/790-sister-hazel-fort-lauderdale.jpg",
+    "endDate": "2027-01-15"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Sister Hazel, Orlando",
+    "date": "JANUARY 16, 7 PM",
+    "headliners": "Sister Hazel",
+    "venue": "House of Blues Orlando, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/sister-hazel-tickets/artist/K8vZ9171br0",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/20d/a1e46a28-a798-4a3d-8743-7eb1ec8d120d_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/791-sister-hazel-orlando.jpg",
+    "alt": "Sister Hazel live in Orlando",
+    "imageKey": "event-flyers/791-sister-hazel-orlando.jpg",
+    "endDate": "2027-01-16"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Yacht Rock Revue, Key West",
+    "date": "JANUARY 20, 7:30 PM",
+    "headliners": "Yacht Rock Revue",
+    "venue": "Coffee Butler Amphitheater, Key West",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "http://www.ticketmaster.com/yacht-rock-revue-tickets/artist/1489501",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/fb2/66303d90-c29c-4deb-bb46-d7a929f5bfb2_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/792-yacht-rock-revue-key-west.jpg",
+    "alt": "Yacht Rock Revue live in Key West",
+    "imageKey": "event-flyers/792-yacht-rock-revue-key-west.jpg",
+    "endDate": "2027-01-20"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Yacht Rock Revue, Fort Lauderdale",
+    "date": "JANUARY 21, 7:30 PM",
+    "headliners": "Yacht Rock Revue",
+    "venue": "Wells Hall at The Parker, Fort Lauderdale",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "http://www.ticketmaster.com/yacht-rock-revue-tickets/artist/1489501",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/fb2/66303d90-c29c-4deb-bb46-d7a929f5bfb2_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/793-yacht-rock-revue-fort-lauderdale.jpg",
+    "alt": "Yacht Rock Revue live in Fort Lauderdale",
+    "imageKey": "event-flyers/793-yacht-rock-revue-fort-lauderdale.jpg",
+    "endDate": "2027-01-21"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Yacht Rock Revue, Fort Myers",
+    "date": "JANUARY 22, 7:30 PM",
+    "headliners": "Yacht Rock Revue",
+    "venue": "Caloosa Sound Amphitheater, Fort Myers",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "http://www.ticketmaster.com/yacht-rock-revue-tickets/artist/1489501",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/fb2/66303d90-c29c-4deb-bb46-d7a929f5bfb2_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/794-yacht-rock-revue-fort-myers.jpg",
+    "alt": "Yacht Rock Revue live in Fort Myers",
+    "imageKey": "event-flyers/794-yacht-rock-revue-fort-myers.jpg",
+    "endDate": "2027-01-22"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Yacht Rock Revue, Orlando",
+    "date": "JANUARY 26, 7 PM",
+    "headliners": "Yacht Rock Revue",
+    "venue": "Steinmetz Hall, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "http://www.ticketmaster.com/yacht-rock-revue-tickets/artist/1489501",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/fb2/66303d90-c29c-4deb-bb46-d7a929f5bfb2_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/795-yacht-rock-revue-orlando.jpg",
+    "alt": "Yacht Rock Revue live in Orlando",
+    "imageKey": "event-flyers/795-yacht-rock-revue-orlando.jpg",
+    "endDate": "2027-01-26"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Yacht Rock Revue, Melbourne",
+    "date": "JANUARY 27, 7:30 PM",
+    "headliners": "Yacht Rock Revue",
+    "venue": "Maxwell C. King Center for the Performing Arts, Melbourne",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "http://www.ticketmaster.com/yacht-rock-revue-tickets/artist/1489501",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/fb2/66303d90-c29c-4deb-bb46-d7a929f5bfb2_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/796-yacht-rock-revue-melbourne.jpg",
+    "alt": "Yacht Rock Revue live in Melbourne",
+    "imageKey": "event-flyers/796-yacht-rock-revue-melbourne.jpg",
+    "endDate": "2027-01-27"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Yacht Rock Revue, Jacksonville",
+    "date": "JANUARY 29, 7:30 PM",
+    "headliners": "Yacht Rock Revue",
+    "venue": "Florida Theatre Jacksonville, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "http://www.ticketmaster.com/yacht-rock-revue-tickets/artist/1489501",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/fb2/66303d90-c29c-4deb-bb46-d7a929f5bfb2_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/797-yacht-rock-revue-jacksonville.jpg",
+    "alt": "Yacht Rock Revue live in Jacksonville",
+    "imageKey": "event-flyers/797-yacht-rock-revue-jacksonville.jpg",
+    "endDate": "2027-01-29"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Nonpoint, Fort Lauderdale",
+    "date": "JANUARY 30, 7 PM",
+    "headliners": "Nonpoint",
+    "venue": "Revolution Live, Fort Lauderdale",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/nonpoint-tickets/artist/714734",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/834/36bd28bc-32a5-45fd-a48c-915a2131d834_1654091_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/798-nonpoint-fort-lauderdale.jpg",
+    "alt": "Nonpoint live in Fort Lauderdale",
+    "imageKey": "event-flyers/798-nonpoint-fort-lauderdale.jpg",
+    "endDate": "2027-01-30"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Dinosaur Jr., Orlando",
+    "date": "FEBRUARY 23, 7:30 PM",
+    "headliners": "Dinosaur Jr.",
+    "venue": "Plaza Live, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/dinosaur-jr-tickets/artist/966351",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/148/6f9098fe-e645-4636-bdcd-2c63d5ced148_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/799-dinosaur-jr-orlando.jpg",
+    "alt": "Dinosaur Jr. live in Orlando",
+    "imageKey": "event-flyers/799-dinosaur-jr-orlando.jpg",
+    "endDate": "2027-02-23"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jerk and Jam Festival, Gainesville",
+    "date": "NOVEMBER 14 TO 15, 12 PM TO 6 PM",
+    "headliners": "",
+    "venue": "Oaks Mall, Gainesville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.saturdayshoppes.com/event/11-14-26/",
+    "flyerUrl": "https://www.saturdayshoppes.com/wp-content/uploads/2026/08/11-14-26.webp",
+    "image": "/events/flyer/800-jerk-and-jam-festival-gainesville.jpg",
+    "alt": "Jerk and Jam Festival flyer, Oaks Mall, Gainesville, Caribbean food and live music",
+    "imageKey": "event-flyers/800-jerk-and-jam-festival-gainesville.jpg",
+    "endDate": "2026-11-15"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "People's Choice Seafood Foodie Fest, Lakeland",
+    "date": "NOVEMBER 21, 2 PM TO 8 PM",
+    "headliners": "",
+    "venue": "Lakeland Square Mall, Lakeland",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.saturdayshoppes.com/event/7-18-26/",
+    "flyerUrl": "https://www.saturdayshoppes.com/wp-content/uploads/2026/04/7-18-26-4.webp",
+    "image": "/events/flyer/801-peoples-choice-seafood-foodie-fest-lakeland.jpg",
+    "alt": "People's Choice Seafood Foodie Fest flyer, Lakeland Square Mall, Lakeland, seafood food trucks competing for the public vote",
+    "imageKey": "event-flyers/801-peoples-choice-seafood-foodie-fest-lakeland.jpg",
+    "endDate": "2026-11-21"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Underoath, Tampa",
+    "date": "DECEMBER 18, 6 PM",
+    "headliners": "Underoath, August Burns Red, Atreyu",
+    "venue": "Yuengling Center, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/artist/838411?page=1&search_redirect=underoath&tm_link=tm_header_search",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/1b1/46d7f500-de08-4e5c-86c5-4d8ee08211b1_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/802-underoath-tampa.jpg",
+    "alt": "Underoath live in Tampa on the Define The Great Line 20th anniversary tour",
+    "imageKey": "event-flyers/802-underoath-tampa.jpg",
+    "endDate": "2026-12-18"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "JJ Grey & Mofro, Jacksonville",
+    "date": "NOVEMBER 5, 8 PM",
+    "headliners": "JJ Grey & Mofro",
+    "venue": "Jax Amphitheater, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.etickets.com/concerts/rb-soul/jj-grey-mofro/jacksonville-fl/4964-54510/d",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/889/2f20bf31-37f7-491e-a220-f4c587e3e889_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/803-jj-grey-and-mofro-jacksonville.jpg",
+    "alt": "JJ Grey and Mofro live in Jacksonville at the Jacksonville Fair",
+    "imageKey": "event-flyers/803-jj-grey-and-mofro-jacksonville.jpg",
+    "endDate": "2026-11-05"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Grace Potter, Jacksonville",
+    "date": "NOVEMBER 6, 7 PM",
+    "headliners": "Grace Potter, Lamont Landers",
+    "venue": "Jax Amphitheater, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.tickpick.com/concerts/grace-potter-tickets/",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/223/fb14a9e0-e0a3-4924-8124-2626c26fd223_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/804-grace-potter-jacksonville.jpg",
+    "alt": "Grace Potter live in Jacksonville at the Jacksonville Fair",
+    "imageKey": "event-flyers/804-grace-potter-jacksonville.jpg",
+    "endDate": "2026-11-06"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Dwight Yoakam, Jacksonville",
+    "date": "NOVEMBER 7, 7 PM",
+    "headliners": "Dwight Yoakam",
+    "venue": "Jacksonville Fairgrounds, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/dwight-yoakam-tickets/artist/732992",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/c3c/e14063b8-45c3-42b1-8f26-9bb6bbcecc3c_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/805-dwight-yoakam-jacksonville.jpg",
+    "alt": "Dwight Yoakam live in Jacksonville at the Jacksonville Fair",
+    "imageKey": "event-flyers/805-dwight-yoakam-jacksonville.jpg",
+    "endDate": "2026-11-07"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Skillet, Jacksonville",
+    "date": "NOVEMBER 9, 7 PM",
+    "headliners": "Skillet, The Red Jumpsuit Apparatus",
+    "venue": "Jax Amphitheater, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.TicketSmarter.com/venues/jacksonville-fairgrounds",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/1ee/a023bba4-c203-4ae6-8ea4-8787675401ee_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/806-skillet-jacksonville.jpg",
+    "alt": "Skillet live in Jacksonville at the Jacksonville Fair",
+    "imageKey": "event-flyers/806-skillet-jacksonville.jpg",
+    "endDate": "2026-11-09"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Skillet, Orlando",
+    "date": "NOVEMBER 10, 6 PM",
+    "headliners": "Skillet",
+    "venue": "House of Blues Orlando, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/skillet-tickets/artist/1110729",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/1ee/a023bba4-c203-4ae6-8ea4-8787675401ee_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/807-skillet-orlando.jpg",
+    "alt": "Skillet live in Orlando",
+    "imageKey": "event-flyers/807-skillet-orlando.jpg",
+    "endDate": "2026-11-10"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jake Owen, Jacksonville",
+    "date": "NOVEMBER 11, 7 PM",
+    "headliners": "Jake Owen",
+    "venue": "Jax Amphitheater, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.TicketSmarter.com/venues/jacksonville-fairgrounds",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/954/187fcb45-8fb5-4fd0-9c15-149606226954_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/808-jake-owen-jacksonville.jpg",
+    "alt": "Jake Owen live in Jacksonville at the Jacksonville Fair",
+    "imageKey": "event-flyers/808-jake-owen-jacksonville.jpg",
+    "endDate": "2026-11-11"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Smash Mouth, Jacksonville",
+    "date": "NOVEMBER 12, 7 PM",
+    "headliners": "Smash Mouth, Fastball, Nine Days",
+    "venue": "Jax Amphitheater, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://jacksonvillefair.com/event/smash-mouth-fastball-with-nine-days/jax-amphitheater/",
+    "flyerUrl": "https://jacksonvillefair.com/wp-content/uploads/2026/08/smash-mouth-fastball-with-nine-days.jpeg",
+    "image": "/events/flyer/809-smash-mouth-jacksonville.jpg",
+    "alt": "Smash Mouth with Fastball and Nine Days live in Jacksonville at the Jacksonville Fair",
+    "imageKey": "event-flyers/809-smash-mouth-jacksonville.jpg",
+    "endDate": "2026-11-12"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Avery Anna, Jacksonville",
+    "date": "NOVEMBER 13, 8 PM",
+    "headliners": "Avery Anna",
+    "venue": "FIVE, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/avery-anna-tickets/artist/2880441",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/cd1/a54b0fa1-4896-4405-af3a-e3ad915a5cd1_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/810-avery-anna-jacksonville.jpg",
+    "alt": "Avery Anna live in Jacksonville",
+    "imageKey": "event-flyers/810-avery-anna-jacksonville.jpg",
+    "endDate": "2026-11-13"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Avery Anna, Orlando",
+    "date": "NOVEMBER 14, 7 PM",
+    "headliners": "Avery Anna",
+    "venue": "House of Blues Orlando, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/avery-anna-tickets/artist/2880441",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/cd1/a54b0fa1-4896-4405-af3a-e3ad915a5cd1_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/811-avery-anna-orlando.jpg",
+    "alt": "Avery Anna live in Orlando",
+    "imageKey": "event-flyers/811-avery-anna-orlando.jpg",
+    "endDate": "2026-11-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "LOCASH, Jacksonville",
+    "date": "NOVEMBER 15, 7 PM",
+    "headliners": "LOCASH, John Morgan",
+    "venue": "Jax Amphitheater, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://seatgeek.com/locash-tickets?aid=13230",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/7f7/8c2d81b9-10dd-4973-9c0d-4a52fb8067f7_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/812-locash-jacksonville.jpg",
+    "alt": "LOCASH live in Jacksonville at the Jacksonville Fair",
+    "imageKey": "event-flyers/812-locash-jacksonville.jpg",
+    "endDate": "2026-11-15"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Blue October, Jacksonville",
+    "date": "NOVEMBER 19, 8 PM",
+    "headliners": "Blue October",
+    "venue": "FIVE, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/blue-october-tickets/artist/712450?page=131",
+    "flyerUrl": "https://prismic-images.tmol.io/ticketmaster-tm-global/aSB9bmGnmrmGqHyd_CMG-93305BlueOctober.png?auto=format%2Ccompress&rect=387%2C0%2C1651%2C1365&w=800&h=661",
+    "image": "/events/flyer/813-blue-october-jacksonville.jpg",
+    "alt": "Blue October live in Jacksonville on the Foiled 20th anniversary tour",
+    "imageKey": "event-flyers/813-blue-october-jacksonville.jpg",
+    "endDate": "2026-11-19"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Blue October, Clearwater",
+    "date": "NOVEMBER 20, 8 PM",
+    "headliners": "Blue October",
+    "venue": "Ruth Eckerd Hall, Clearwater",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/blue-october-tickets/artist/712450?page=131",
+    "flyerUrl": "https://prismic-images.tmol.io/ticketmaster-tm-global/aSB9bmGnmrmGqHyd_CMG-93305BlueOctober.png?auto=format%2Ccompress&rect=387%2C0%2C1651%2C1365&w=800&h=661",
+    "image": "/events/flyer/814-blue-october-clearwater.jpg",
+    "alt": "Blue October live in Clearwater on the Foiled 20th anniversary tour",
+    "imageKey": "event-flyers/814-blue-october-clearwater.jpg",
+    "endDate": "2026-11-20"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Blue October, Orlando",
+    "date": "NOVEMBER 21, 8 PM",
+    "headliners": "Blue October",
+    "venue": "Hard Rock Live, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/blue-october-tickets/artist/712450?page=131",
+    "flyerUrl": "https://prismic-images.tmol.io/ticketmaster-tm-global/aSB9bmGnmrmGqHyd_CMG-93305BlueOctober.png?auto=format%2Ccompress&rect=387%2C0%2C1651%2C1365&w=800&h=661",
+    "image": "/events/flyer/815-blue-october-orlando.jpg",
+    "alt": "Blue October live in Orlando on the Foiled 20th anniversary tour",
+    "imageKey": "event-flyers/815-blue-october-orlando.jpg",
+    "endDate": "2026-11-21"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "KOTA The Friend, Jacksonville",
+    "date": "DECEMBER 4, 8 PM",
+    "headliners": "KOTA The Friend",
+    "venue": "FIVE, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/kota-the-friend-tickets/artist/K8vZ91793t7",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/776/a92e1163-d8d9-4f26-add7-1002e3294776_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/816-kota-the-friend-jacksonville.jpg",
+    "alt": "KOTA The Friend live in Jacksonville",
+    "imageKey": "event-flyers/816-kota-the-friend-jacksonville.jpg",
+    "endDate": "2026-12-04"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Antonio Orozco, Miami Beach",
+    "date": "MARCH 4, 8 PM",
+    "headliners": "Antonio Orozco",
+    "venue": "The Fillmore Miami Beach at Jackie Gleason Theater, Miami Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/antonio-orozco-tickets/artist/119093",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/07e/5790acb1-614c-4046-91bb-d1d46423307e_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/817-antonio-orozco-miami-beach.jpg",
+    "alt": "Antonio Orozco live in Miami Beach",
+    "imageKey": "event-flyers/817-antonio-orozco-miami-beach.jpg",
+    "endDate": "2027-03-04"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Dancing with the Stars Live, Orlando",
+    "date": "MARCH 6, 7:30 PM",
+    "headliners": "Dancing with the Stars Live tour cast",
+    "venue": "Addition Financial Arena, Orlando",
+    "categories": [
+      "Arts"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/dancing-with-the-stars-tickets/artist/1086116",
+    "flyerUrl": "https://prismic-images.tmol.io/ticketmaster-tm-global/fHzPlFBdIPuzwHXj_DWTSMH_CMG101924.png?auto=format,compress&rect=24,0,421,348&w=800&h=661",
+    "image": "/events/flyer/818-dancing-with-the-stars-live-orlando.jpg",
+    "alt": "Dancing with the Stars Live in Orlando",
+    "imageKey": "event-flyers/818-dancing-with-the-stars-live-orlando.jpg",
+    "endDate": "2027-03-06"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Dancing with the Stars Live, Tampa",
+    "date": "MARCH 9, 7:30 PM",
+    "headliners": "Dancing with the Stars Live tour cast",
+    "venue": "Benchmark International Arena, Tampa",
+    "categories": [
+      "Food",
+      "Festival"
+    ],
+    "detailsLabel": "Event Details",
+    "detailsUrl": "https://www.ticketmaster.com/dancing-with-the-stars-tickets/artist/1086116",
+    "flyerUrl": "https://prismic-images.tmol.io/ticketmaster-tm-global/fHzPlFBdIPuzwHXj_DWTSMH_CMG101924.png?auto=format,compress&rect=24,0,421,348&w=800&h=661",
+    "image": "/events/flyer/819-dancing-with-the-stars-live-tampa.jpg",
+    "alt": "Dancing with the Stars Live in Tampa",
+    "imageKey": "event-flyers/819-dancing-with-the-stars-live-tampa.jpg",
+    "endDate": "2027-03-09"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Rod Stewart, St. Augustine",
+    "date": "MARCH 16, 7:30 PM",
+    "headliners": "Rod Stewart",
+    "venue": "St. Augustine Amphitheatre, St. Augustine",
+    "categories": [
+      "Food",
+      "Festival"
+    ],
+    "detailsLabel": "Event Details",
+    "detailsUrl": "https://www.ticketmaster.com/rod-stewart-billets/artist/736200",
+    "flyerUrl": "https://prismic-images.tmol.io/ticketmaster-tm-global/nuhKUp57U5pnrJGF_rodstewart.jpeg?auto=format%2Ccompress&rect=387%2C0%2C1651%2C1365&w=800&h=661",
+    "image": "/events/flyer/820-rod-stewart-st-augustine.jpg",
+    "alt": "Rod Stewart live in St. Augustine on the One Last Time tour",
+    "imageKey": "event-flyers/820-rod-stewart-st-augustine.jpg",
+    "endDate": "2027-03-16"
   }
 ]
