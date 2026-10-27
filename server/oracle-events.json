@@ -6072,23 +6072,6 @@
   "endDate": "2026-11-30"
  },
  {
-  "section": "NEXT WEEK",
-  "title": "Steve Lacy: Oh yeah? Tour, Miami",
-  "date": "OCTOBER 26, 8 PM",
-  "headliners": "Steve Lacy",
-  "venue": "FPL Solar Amphitheater at Bayfront Park, Miami",
-  "categories": [
-   "Music"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://www.ticketmaster.com/steve-lacy-tickets/artist/2330907",
-  "flyerUrl": "https://concerts.consequence.net/articles/steve-lacy-2026-oh-yeah-north-american-tour",
-  "image": "/events/flyer/512-steve-lacy-miami.jpg",
-  "alt": "Steve Lacy Oh yeah? Tour flyer, FPL Solar Amphitheater at Bayfront Park Miami",
-  "imageKey": "event-flyers/512-steve-lacy-miami.jpg",
-  "endDate": "2026-10-26"
- },
- {
   "section": "HALLOWEEN",
   "title": "8Ball & MJG in Broward County: Performing Live on Halloween",
   "date": "OCTOBER 31, 8 PM",
@@ -8807,5 +8790,379 @@
   "alt": "Polyphia photo, Jannus Live, St. Petersburg",
   "imageKey": "event-flyers/669-polyphia-be-not-afraid-st-petersburg.jpg",
   "endDate": "2027-03-14"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Christone \"Kingfish\" Ingram: The Hard Road Tour, Tampa",
+  "date": "NOVEMBER 5, 7 PM",
+  "headliners": "Christone \"Kingfish\" Ingram",
+  "venue": "The Ritz Ybor, Tampa",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/christone-kingfish-ingram-tickets/artist/2483813",
+  "flyerUrl": "https://www.ticketmaster.com/christone-kingfish-ingram-tickets/artist/2483813",
+  "image": "/events/flyer/670-christone-kingfish-ingram-the-hard-road-tour-tampa.jpg",
+  "alt": "Christone \"Kingfish\" Ingram photo, The Ritz Ybor, Tampa",
+  "imageKey": "event-flyers/670-christone-kingfish-ingram-the-hard-road-tour-tampa.jpg",
+  "endDate": "2026-11-05"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Christone \"Kingfish\" Ingram: The Hard Road Tour, Immokalee",
+  "date": "NOVEMBER 6, 8 PM",
+  "headliners": "Christone \"Kingfish\" Ingram",
+  "venue": "Seminole Center, Immokalee",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/christone-kingfish-ingram-tickets/artist/2483813",
+  "flyerUrl": "https://www.ticketmaster.com/christone-kingfish-ingram-tickets/artist/2483813",
+  "image": "/events/flyer/671-christone-kingfish-ingram-the-hard-road-tour-immokalee.jpg",
+  "alt": "Christone \"Kingfish\" Ingram photo, Seminole Center, Immokalee",
+  "imageKey": "event-flyers/671-christone-kingfish-ingram-the-hard-road-tour-immokalee.jpg",
+  "endDate": "2026-11-06"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Christone \"Kingfish\" Ingram: The Hard Road Tour, Fort Lauderdale",
+  "date": "NOVEMBER 7, 7:30 PM",
+  "headliners": "Christone \"Kingfish\" Ingram",
+  "venue": "Culture Room, Fort Lauderdale",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/christone-kingfish-ingram-tickets/artist/2483813",
+  "flyerUrl": "https://www.ticketmaster.com/christone-kingfish-ingram-tickets/artist/2483813",
+  "image": "/events/flyer/672-christone-kingfish-ingram-the-hard-road-tour-fort-lauderdale.jpg",
+  "alt": "Christone \"Kingfish\" Ingram photo, Culture Room, Fort Lauderdale",
+  "imageKey": "event-flyers/672-christone-kingfish-ingram-the-hard-road-tour-fort-lauderdale.jpg",
+  "endDate": "2026-11-07"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Bowling for Soup, Tampa",
+  "date": "NOVEMBER 12, 6:30 PM",
+  "headliners": "Bowling for Soup",
+  "venue": "The Ritz Ybor, Tampa",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/bowling-for-soup-tickets/artist/835888",
+  "flyerUrl": "https://www.ticketmaster.com/bowling-for-soup-tickets/artist/835888",
+  "image": "/events/flyer/673-bowling-for-soup-tampa.jpg",
+  "alt": "Bowling for Soup photo, The Ritz Ybor, Tampa",
+  "imageKey": "event-flyers/673-bowling-for-soup-tampa.jpg",
+  "endDate": "2026-11-12"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Bowling for Soup, Fort Lauderdale",
+  "date": "NOVEMBER 15, 6:30 PM",
+  "headliners": "Bowling for Soup",
+  "venue": "Revolution Live, Fort Lauderdale",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/bowling-for-soup-tickets/artist/835888",
+  "flyerUrl": "https://www.ticketmaster.com/bowling-for-soup-tickets/artist/835888",
+  "image": "/events/flyer/674-bowling-for-soup-fort-lauderdale.jpg",
+  "alt": "Bowling for Soup photo, Revolution Live, Fort Lauderdale",
+  "imageKey": "event-flyers/674-bowling-for-soup-fort-lauderdale.jpg",
+  "endDate": "2026-11-15"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Matt Maeson with Sam MacPherson, Tampa",
+  "date": "NOVEMBER 19, 8 PM",
+  "headliners": "Matt Maeson, Sam MacPherson",
+  "venue": "The Ritz Ybor, Tampa",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/matt-maeson-tickets/artist/2373963",
+  "flyerUrl": "https://www.ticketmaster.com/matt-maeson-tickets/artist/2373963",
+  "image": "/events/flyer/675-matt-maeson-with-sam-macpherson-tampa.jpg",
+  "alt": "Matt Maeson photo, The Ritz Ybor, Tampa",
+  "imageKey": "event-flyers/675-matt-maeson-with-sam-macpherson-tampa.jpg",
+  "endDate": "2026-11-19"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "DragonForce: Inhuman Rampage 20th Anniversary, Orlando",
+  "date": "NOVEMBER 20, 6:30 PM",
+  "headliners": "DragonForce",
+  "venue": "House of Blues Orlando, Orlando",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/dragonforce-tickets/artist/1016671",
+  "flyerUrl": "https://www.ticketmaster.com/dragonforce-tickets/artist/1016671",
+  "image": "/events/flyer/676-dragonforce-inhuman-rampage-20th-anniversary-orlando.jpg",
+  "alt": "DragonForce photo, House of Blues Orlando, Orlando",
+  "imageKey": "event-flyers/676-dragonforce-inhuman-rampage-20th-anniversary-orlando.jpg",
+  "endDate": "2026-11-20"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "DragonForce: Inhuman Rampage 20th Anniversary, Tampa",
+  "date": "NOVEMBER 21, 5:30 PM",
+  "headliners": "DragonForce",
+  "venue": "The Ritz Ybor, Tampa",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/dragonforce-tickets/artist/1016671",
+  "flyerUrl": "https://www.ticketmaster.com/dragonforce-tickets/artist/1016671",
+  "image": "/events/flyer/677-dragonforce-inhuman-rampage-20th-anniversary-tampa.jpg",
+  "alt": "DragonForce photo, The Ritz Ybor, Tampa",
+  "imageKey": "event-flyers/677-dragonforce-inhuman-rampage-20th-anniversary-tampa.jpg",
+  "endDate": "2026-11-21"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Matt Maeson with Sam MacPherson, Orlando",
+  "date": "NOVEMBER 21, 8 PM",
+  "headliners": "Matt Maeson, Sam MacPherson",
+  "venue": "Plaza Live, Orlando",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/matt-maeson-tickets/artist/2373963",
+  "flyerUrl": "https://www.ticketmaster.com/matt-maeson-tickets/artist/2373963",
+  "image": "/events/flyer/678-matt-maeson-with-sam-macpherson-orlando.jpg",
+  "alt": "Matt Maeson photo, Plaza Live, Orlando",
+  "imageKey": "event-flyers/678-matt-maeson-with-sam-macpherson-orlando.jpg",
+  "endDate": "2026-11-21"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Matt Maeson with Sam MacPherson, Ponte Vedra Beach",
+  "date": "NOVEMBER 22, 7 PM",
+  "headliners": "Matt Maeson, Sam MacPherson",
+  "venue": "Ponte Vedra Concert Hall, Ponte Vedra Beach",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/matt-maeson-tickets/artist/2373963",
+  "flyerUrl": "https://www.ticketmaster.com/matt-maeson-tickets/artist/2373963",
+  "image": "/events/flyer/679-matt-maeson-with-sam-macpherson-ponte-vedra-beach.jpg",
+  "alt": "Matt Maeson photo, Ponte Vedra Concert Hall, Ponte Vedra Beach",
+  "imageKey": "event-flyers/679-matt-maeson-with-sam-macpherson-ponte-vedra-beach.jpg",
+  "endDate": "2026-11-22"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Dark Star Orchestra, Jacksonville",
+  "date": "DECEMBER 2, 7 PM",
+  "headliners": "Dark Star Orchestra",
+  "venue": "Florida Theatre Jacksonville, Jacksonville",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/dark-star-orchestra-tickets/artist/806401",
+  "flyerUrl": "https://www.ticketmaster.com/dark-star-orchestra-tickets/artist/806401",
+  "image": "/events/flyer/680-dark-star-orchestra-jacksonville.jpg",
+  "alt": "Dark Star Orchestra photo, Florida Theatre Jacksonville, Jacksonville",
+  "imageKey": "event-flyers/680-dark-star-orchestra-jacksonville.jpg",
+  "endDate": "2026-12-02"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Dark Star Orchestra, Fort Lauderdale",
+  "date": "DECEMBER 3, 7:30 PM",
+  "headliners": "Dark Star Orchestra",
+  "venue": "War Memorial Auditorium, Fort Lauderdale",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/dark-star-orchestra-tickets/artist/806401",
+  "flyerUrl": "https://www.ticketmaster.com/dark-star-orchestra-tickets/artist/806401",
+  "image": "/events/flyer/681-dark-star-orchestra-fort-lauderdale.jpg",
+  "alt": "Dark Star Orchestra photo, War Memorial Auditorium, Fort Lauderdale",
+  "imageKey": "event-flyers/681-dark-star-orchestra-fort-lauderdale.jpg",
+  "endDate": "2026-12-03"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Dark Star Orchestra, Fort Lauderdale Night 2",
+  "date": "DECEMBER 4, 7:30 PM",
+  "headliners": "Dark Star Orchestra",
+  "venue": "War Memorial Auditorium, Fort Lauderdale",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/dark-star-orchestra-tickets/artist/806401",
+  "flyerUrl": "https://www.ticketmaster.com/dark-star-orchestra-tickets/artist/806401",
+  "image": "/events/flyer/682-dark-star-orchestra-fort-lauderdale-night-2.jpg",
+  "alt": "Dark Star Orchestra photo, War Memorial Auditorium, Fort Lauderdale",
+  "imageKey": "event-flyers/682-dark-star-orchestra-fort-lauderdale-night-2.jpg",
+  "endDate": "2026-12-04"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Dark Star Orchestra, Clearwater",
+  "date": "DECEMBER 5, 7 PM",
+  "headliners": "Dark Star Orchestra",
+  "venue": "The BayCare Sound, Clearwater",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/dark-star-orchestra-tickets/artist/806401",
+  "flyerUrl": "https://www.ticketmaster.com/dark-star-orchestra-tickets/artist/806401",
+  "image": "/events/flyer/683-dark-star-orchestra-clearwater.jpg",
+  "alt": "Dark Star Orchestra photo, The BayCare Sound, Clearwater",
+  "imageKey": "event-flyers/683-dark-star-orchestra-clearwater.jpg",
+  "endDate": "2026-12-05"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "State Champs: 10 Years of Around the World and Back, St. Petersburg",
+  "date": "DECEMBER 5, 6 PM",
+  "headliners": "State Champs, Cartel",
+  "venue": "Jannus Live, St. Petersburg",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/state-champs-tickets/artist/1637436",
+  "flyerUrl": "https://www.ticketmaster.com/state-champs-tickets/artist/1637436",
+  "image": "/events/flyer/684-state-champs-10-years-of-around-the-world-and-back-st-petersburg.jpg",
+  "alt": "State Champs photo, Jannus Live, St. Petersburg",
+  "imageKey": "event-flyers/684-state-champs-10-years-of-around-the-world-and-back-st-petersburg.jpg",
+  "endDate": "2026-12-05"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "State Champs: 10 Years of Around the World and Back, Orlando",
+  "date": "DECEMBER 6, 6 PM",
+  "headliners": "State Champs, Cartel",
+  "venue": "House of Blues Orlando, Orlando",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/state-champs-tickets/artist/1637436",
+  "flyerUrl": "https://www.ticketmaster.com/state-champs-tickets/artist/1637436",
+  "image": "/events/flyer/685-state-champs-10-years-of-around-the-world-and-back-orlando.jpg",
+  "alt": "State Champs photo, House of Blues Orlando, Orlando",
+  "imageKey": "event-flyers/685-state-champs-10-years-of-around-the-world-and-back-orlando.jpg",
+  "endDate": "2026-12-06"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Jason Bonham's Led Zeppelin Evening, Hollywood",
+  "date": "DECEMBER 13, 8 PM",
+  "headliners": "Jason Bonham's Led Zeppelin Evening",
+  "venue": "Hard Rock Live, Hollywood",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/jason-bonham-s-led-zeppelin-evening-tickets/artist/1480265",
+  "flyerUrl": "https://www.ticketmaster.com/jason-bonham-s-led-zeppelin-evening-tickets/artist/1480265",
+  "image": "/events/flyer/686-jason-bonhams-led-zeppelin-evening-hollywood.jpg",
+  "alt": "Jason Bonham's Led Zeppelin Evening photo, Hard Rock Live, Hollywood",
+  "imageKey": "event-flyers/686-jason-bonhams-led-zeppelin-evening-hollywood.jpg",
+  "endDate": "2026-12-13"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Air Supply: A Matter of Time Tour, Fort Pierce",
+  "date": "JANUARY 21, 8 PM",
+  "headliners": "Air Supply",
+  "venue": "Sunrise Theatre, Fort Pierce",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/air-supply-tickets/artist/734403",
+  "flyerUrl": "https://www.ticketmaster.com/air-supply-tickets/artist/734403",
+  "image": "/events/flyer/687-air-supply-a-matter-of-time-tour-fort-pierce.jpg",
+  "alt": "Air Supply photo, Sunrise Theatre, Fort Pierce",
+  "imageKey": "event-flyers/687-air-supply-a-matter-of-time-tour-fort-pierce.jpg",
+  "endDate": "2027-01-21"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Air Supply: A Matter of Time Tour, Daytona Beach",
+  "date": "JANUARY 22, 8 PM",
+  "headliners": "Air Supply",
+  "venue": "The Peabody Daytona Beach, Daytona Beach",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/air-supply-tickets/artist/734403",
+  "flyerUrl": "https://www.ticketmaster.com/air-supply-tickets/artist/734403",
+  "image": "/events/flyer/688-air-supply-a-matter-of-time-tour-daytona-beach.jpg",
+  "alt": "Air Supply photo, The Peabody Daytona Beach, Daytona Beach",
+  "imageKey": "event-flyers/688-air-supply-a-matter-of-time-tour-daytona-beach.jpg",
+  "endDate": "2027-01-22"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Air Supply: A Matter of Time Tour, Immokalee",
+  "date": "JANUARY 30, 8 PM",
+  "headliners": "Air Supply",
+  "venue": "Seminole Center, Immokalee",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/air-supply-tickets/artist/734403",
+  "flyerUrl": "https://www.ticketmaster.com/air-supply-tickets/artist/734403",
+  "image": "/events/flyer/689-air-supply-a-matter-of-time-tour-immokalee.jpg",
+  "alt": "Air Supply photo, Seminole Center, Immokalee",
+  "imageKey": "event-flyers/689-air-supply-a-matter-of-time-tour-immokalee.jpg",
+  "endDate": "2027-01-30"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Little River Band with David Pack, Clearwater",
+  "date": "MARCH 6, 7 PM",
+  "headliners": "Little River Band, David Pack",
+  "venue": "The BayCare Sound, Clearwater",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.visitstpeteclearwater.com/event/little-river-band-50th-anniversary-tour/57221",
+  "flyerUrl": "https://www.visitstpeteclearwater.com/event/little-river-band-50th-anniversary-tour/57221",
+  "image": "/events/flyer/690-little-river-band-with-david-pack-clearwater.jpg",
+  "alt": "Little River Band photo, The BayCare Sound, Clearwater",
+  "imageKey": "event-flyers/690-little-river-band-with-david-pack-clearwater.jpg",
+  "endDate": "2027-03-06"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Little Feat with Old Crow Medicine Show, Clearwater",
+  "date": "MARCH 7, 6:30 PM",
+  "headliners": "Little Feat, Old Crow Medicine Show",
+  "venue": "The BayCare Sound, Clearwater",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/little-feat-tickets/artist/956520",
+  "flyerUrl": "https://www.ticketmaster.com/little-feat-tickets/artist/956520",
+  "image": "/events/flyer/691-little-feat-with-old-crow-medicine-show-clearwater.jpg",
+  "alt": "Little Feat photo, The BayCare Sound, Clearwater",
+  "imageKey": "event-flyers/691-little-feat-with-old-crow-medicine-show-clearwater.jpg",
+  "endDate": "2027-03-07"
  }
 ]
