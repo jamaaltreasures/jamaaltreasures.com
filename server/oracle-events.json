@@ -10321,5 +10321,396 @@
     "alt": "MercyMe live in Tallahassee with Ben Fuller and Peter Burton",
     "imageKey": "event-flyers/759-mercyme-tallahassee.jpg",
     "endDate": "2027-03-26"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Switchfoot with Anberlin: Forever Now Tour, Orlando",
+    "date": "NOVEMBER 4, 6:30 PM",
+    "headliners": "Switchfoot, Anberlin",
+    "venue": "House of Blues Orlando, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/switchfoot-tickets/artist/790118",
+    "flyerUrl": "https://prismic-images.tmol.io/ticketmaster-tm-global/agIIgKYofJOwHF-J_EFrost_ForeverNow!Photosessions16071-1-.jpg?auto=format%2Ccompress&rect=235%2C0%2C1956%2C1617&w=375&h=310",
+    "image": "/events/flyer/760-switchfoot-orlando.jpg",
+    "alt": "Switchfoot live in Orlando with Anberlin on the Forever Now Tour",
+    "imageKey": "event-flyers/760-switchfoot-orlando.jpg",
+    "endDate": "2026-11-04"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Common With Nu Deco Ensemble, Orlando",
+    "date": "NOVEMBER 13, 8 PM",
+    "headliners": "Common, Nu Deco Ensemble",
+    "venue": "Walt Disney Theater at Dr. Phillips Center, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://nu-deco.org/tickets",
+    "flyerUrl": "https://media.ticketmaster.co.uk/tm/en-gb/dam/a/853/5bc5c0d9-dd36-4aa5-a76a-a88013152853_1079091_CUSTOM.jpg",
+    "image": "/events/flyer/761-common-nu-deco-orlando.jpg",
+    "alt": "Common live in Orlando with Nu Deco Ensemble",
+    "imageKey": "event-flyers/761-common-nu-deco-orlando.jpg",
+    "endDate": "2026-11-13"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Common with Tallahassee Symphony Orchestra, Tallahassee",
+    "date": "NOVEMBER 14, 7:30 PM",
+    "headliners": "Common, Tallahassee Symphony Orchestra",
+    "venue": "Adderley Amphitheater at Cascades Park, Tallahassee",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.co.uk/common-tickets/artist/797257",
+    "flyerUrl": "https://media.ticketmaster.co.uk/tm/en-gb/dam/a/853/5bc5c0d9-dd36-4aa5-a76a-a88013152853_1079091_CUSTOM.jpg",
+    "image": "/events/flyer/762-common-tallahassee-symphony-tallahassee.jpg",
+    "alt": "Common live in Tallahassee with the Tallahassee Symphony Orchestra",
+    "imageKey": "event-flyers/762-common-tallahassee-symphony-tallahassee.jpg",
+    "endDate": "2026-11-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Insomnium & Amorphis, Orlando",
+    "date": "DECEMBER 11, 6:30 PM",
+    "headliners": "Insomnium, Amorphis",
+    "venue": "The Abbey, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/insomnium-tickets/artist/1725198",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/399/d6b5585e-f4c6-47d1-8eef-199514e79399_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/763-insomnium-amorphis-orlando.jpg",
+    "alt": "Insomnium and Amorphis live in Orlando",
+    "imageKey": "event-flyers/763-insomnium-amorphis-orlando.jpg",
+    "endDate": "2026-12-11"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Insomnium & Amorphis, Jacksonville",
+    "date": "DECEMBER 12, 6:30 PM",
+    "headliners": "Insomnium, Amorphis",
+    "venue": "Albatross, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/insomnium-tickets/artist/1725198",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/399/d6b5585e-f4c6-47d1-8eef-199514e79399_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/764-insomnium-amorphis-jacksonville.jpg",
+    "alt": "Insomnium and Amorphis live in Jacksonville",
+    "imageKey": "event-flyers/764-insomnium-amorphis-jacksonville.jpg",
+    "endDate": "2026-12-12"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Pete Yorn, Tampa",
+    "date": "FEBRUARY 3, 7 PM",
+    "headliners": "Pete Yorn",
+    "venue": "Orpheum, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/artist/K8vZ9171VS7?ac_link=setlist_findtickets",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/b1a/c43e2af0-8ba5-4d37-a820-8d34c6554b1a_1159941_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/765-pete-yorn-tampa.jpg",
+    "alt": "Pete Yorn live in Tampa",
+    "imageKey": "event-flyers/765-pete-yorn-tampa.jpg",
+    "endDate": "2027-02-03"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Pete Yorn, Orlando",
+    "date": "FEBRUARY 4, 7 PM",
+    "headliners": "Pete Yorn",
+    "venue": "The Abbey, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/artist/K8vZ9171VS7?ac_link=setlist_findtickets",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/b1a/c43e2af0-8ba5-4d37-a820-8d34c6554b1a_1159941_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/766-pete-yorn-orlando.jpg",
+    "alt": "Pete Yorn live in Orlando",
+    "imageKey": "event-flyers/766-pete-yorn-orlando.jpg",
+    "endDate": "2027-02-04"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Pete Yorn, Key West",
+    "date": "FEBRUARY 6, 8 PM",
+    "headliners": "Pete Yorn",
+    "venue": "Key West Theater, Key West",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/artist/K8vZ9171VS7?ac_link=setlist_findtickets",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/b1a/c43e2af0-8ba5-4d37-a820-8d34c6554b1a_1159941_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/767-pete-yorn-key-west.jpg",
+    "alt": "Pete Yorn live in Key West",
+    "imageKey": "event-flyers/767-pete-yorn-key-west.jpg",
+    "endDate": "2027-02-06"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Pete Yorn, Fort Lauderdale",
+    "date": "FEBRUARY 7, 8 PM",
+    "headliners": "Pete Yorn",
+    "venue": "Amaturo Theater at Broward Center, Fort Lauderdale",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/artist/K8vZ9171VS7?ac_link=setlist_findtickets",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/b1a/c43e2af0-8ba5-4d37-a820-8d34c6554b1a_1159941_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/768-pete-yorn-fort-lauderdale.jpg",
+    "alt": "Pete Yorn live in Fort Lauderdale",
+    "imageKey": "event-flyers/768-pete-yorn-fort-lauderdale.jpg",
+    "endDate": "2027-02-07"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jorge Celedon: La Historia Mia, Orlando",
+    "date": "FEBRUARY 26, 8 PM",
+    "headliners": "Jorge Celedon",
+    "venue": "The Vanguard, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/jorge-celedon-tickets/artist/1038776",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/1b1/376377d7-91c2-4edc-8170-f0eebe6441b1_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/769-jorge-celedon-orlando.jpg",
+    "alt": "Jorge Celedon live in Orlando on the La Historia Mia tour",
+    "imageKey": "event-flyers/769-jorge-celedon-orlando.jpg",
+    "endDate": "2027-02-26"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jorge Celedon: La Historia Mia, Doral",
+    "date": "FEBRUARY 27, 8 PM",
+    "headliners": "Jorge Celedon",
+    "venue": "Doral Amphitheater at Doral Central Park, Doral",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/jorge-celedon-tickets/artist/1038776",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/1b1/376377d7-91c2-4edc-8170-f0eebe6441b1_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/770-jorge-celedon-doral.jpg",
+    "alt": "Jorge Celedon live in Doral on the La Historia Mia tour",
+    "imageKey": "event-flyers/770-jorge-celedon-doral.jpg",
+    "endDate": "2027-02-27"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jack & Jack, Tampa",
+    "date": "MARCH 10, 8 PM",
+    "headliners": "Jack & Jack",
+    "venue": "New World Music Hall, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/jack-jack-tickets/artist/2011727",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/4a7/53b81c40-a0a5-4546-bf36-28a055c584a7_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/771-jack-and-jack-tampa.jpg",
+    "alt": "Jack and Jack live in Tampa",
+    "imageKey": "event-flyers/771-jack-and-jack-tampa.jpg",
+    "endDate": "2027-03-10"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jack & Jack, Orlando",
+    "date": "MARCH 11, 8 PM",
+    "headliners": "Jack & Jack",
+    "venue": "The Abbey, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/jack-jack-tickets/artist/2011727",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/4a7/53b81c40-a0a5-4546-bf36-28a055c584a7_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/772-jack-and-jack-orlando.jpg",
+    "alt": "Jack and Jack live in Orlando",
+    "imageKey": "event-flyers/772-jack-and-jack-orlando.jpg",
+    "endDate": "2027-03-11"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Brit Floyd, Jacksonville",
+    "date": "MARCH 27, 8 PM",
+    "headliners": "Brit Floyd",
+    "venue": "Florida Theatre, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/brit-floyd-tickets/artist/1585698",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/724/ca326110-8c1c-4e19-87ce-9ff555f20724_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/773-brit-floyd-jacksonville.jpg",
+    "alt": "Brit Floyd live in Jacksonville",
+    "imageKey": "event-flyers/773-brit-floyd-jacksonville.jpg",
+    "endDate": "2027-03-27"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Dany Ome & Kevincito El 13: Tendencia US Tour 2026, Hollywood",
+    "date": "NOVEMBER 8, 8 PM",
+    "headliners": "Dany Ome, Kevincito El 13",
+    "venue": "Hard Rock Live, Hollywood",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/dany-ome-kevincito-el-13-tickets/artist/4616897",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/7a2/a289dd37-d067-46a3-802b-69427ee4a7a2_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/774-dany-ome-kevincito-hollywood.jpg",
+    "alt": "Dany Ome and Kevincito El 13 live in Hollywood",
+    "imageKey": "event-flyers/774-dany-ome-kevincito-hollywood.jpg",
+    "endDate": "2026-11-08"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "R&B ONLY LIVE, Miami Beach",
+    "date": "DECEMBER 19, 8 PM TO 1 AM",
+    "headliners": "R&B ONLY LIVE",
+    "venue": "The Fillmore Miami Beach at Jackie Gleason Theater, Miami Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/rb-only-tickets/artist/2473787?page=1",
+    "flyerUrl": "https://prismic-images.tmol.io/ticketmaster-tm-global/04b6a081-6014-43cd-9d9b-dc40b8c114f0_EADP-Desktop-Header-RB+ONLY+LIVE.jpg?auto=compress,format&rect=628,0,1172,969&w=375&h=310",
+    "image": "/events/flyer/775-rnb-only-live-miami-beach.jpg",
+    "alt": "R&B ONLY LIVE in Miami Beach",
+    "imageKey": "event-flyers/775-rnb-only-live-miami-beach.jpg",
+    "endDate": "2026-12-20"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "La Mafia: Epic Tour 46, Miami",
+    "date": "NOVEMBER 21, 8 PM",
+    "headliners": "La Mafia",
+    "venue": "James L Knight Center, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/la-mafia-tickets/artist/K8vZ9171QXV",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/ef9/abcc6eb7-6884-4727-a906-aae101f43ef9_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/776-la-mafia-miami.jpg",
+    "alt": "La Mafia live in Miami on the Epic Tour 46",
+    "imageKey": "event-flyers/776-la-mafia-miami.jpg",
+    "endDate": "2026-11-21"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Pimpinela: USA Tour Leyendas, Miami",
+    "date": "NOVEMBER 22, 8 PM",
+    "headliners": "Pimpinela",
+    "venue": "James L Knight Center, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/pimpinela-tickets/artist/1021509",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/2bf/73de0c61-a9dc-4ef6-a137-aa79562bd2bf_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/777-pimpinela-miami.jpg",
+    "alt": "Pimpinela live in Miami on the USA Tour Leyendas",
+    "imageKey": "event-flyers/777-pimpinela-miami.jpg",
+    "endDate": "2026-11-22"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Willy Chirino & Lissette: Navidad en Familia, Miami Beach",
+    "date": "DECEMBER 5, 8 PM",
+    "headliners": "Willy Chirino, Lissette",
+    "venue": "The Fillmore Miami Beach at Jackie Gleason Theater, Miami Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/willy-chirino-tickets/artist/1384468",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/bf7/1ea94a6d-77d7-4be5-9488-111e7aa68bf7_1692361_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/778-willy-chirino-lissette-miami-beach.jpg",
+    "alt": "Willy Chirino and Lissette live in Miami Beach",
+    "imageKey": "event-flyers/778-willy-chirino-lissette-miami-beach.jpg",
+    "endDate": "2026-12-05"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "El Cuarteto de Nos, Miami Beach",
+    "date": "NOVEMBER 14, 8 PM",
+    "headliners": "El Cuarteto de Nos",
+    "venue": "The Fillmore Miami Beach at Jackie Gleason Theater, Miami Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/el-cuarteto-de-nos-tickets/artist/3137845",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/7b5/fafe22eb-43a5-4652-970d-9a58cb1fe7b5_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/779-el-cuarteto-de-nos-miami-beach.jpg",
+    "alt": "El Cuarteto de Nos live in Miami Beach",
+    "imageKey": "event-flyers/779-el-cuarteto-de-nos-miami-beach.jpg",
+    "endDate": "2026-11-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Dany Ome & Kevincito El 13: Tendencia US Tour 2026, Orlando",
+    "date": "NOVEMBER 27, 10 PM",
+    "headliners": "Dany Ome, Kevincito El 13",
+    "venue": "Mango's Tropical Cafe, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/dany-ome-kevincito-el-13-tickets/artist/4616897",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/7a2/a289dd37-d067-46a3-802b-69427ee4a7a2_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/780-dany-ome-kevincito-orlando.jpg",
+    "alt": "Dany Ome and Kevincito El 13 live in Orlando",
+    "imageKey": "event-flyers/780-dany-ome-kevincito-orlando.jpg",
+    "endDate": "2026-11-28"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Leoni Torres, Miami",
+    "date": "FEBRUARY 13, 8 PM",
+    "headliners": "Leoni Torres",
+    "venue": "James L Knight Center, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/leoni-torres-tickets/artist/2272912?page=1",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/2fc/a1c9b761-1bfa-4eae-b561-8a0584acb2fc_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/781-leoni-torres-miami.jpg",
+    "alt": "Leoni Torres live in Miami",
+    "imageKey": "event-flyers/781-leoni-torres-miami.jpg",
+    "endDate": "2027-02-13"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Alvaro Torres, Miami",
+    "date": "FEBRUARY 14, 7 PM",
+    "headliners": "Alvaro Torres",
+    "venue": "James L Knight Center, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/alvaro-torres-tickets/artist/772390",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/ff0/569b6962-2a66-4dd1-810b-2d6116a9bff0_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/782-alvaro-torres-miami.jpg",
+    "alt": "Alvaro Torres live in Miami",
+    "imageKey": "event-flyers/782-alvaro-torres-miami.jpg",
+    "endDate": "2027-02-14"
   }
 ]
