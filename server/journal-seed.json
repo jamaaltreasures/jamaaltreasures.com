@@ -1,5 +1,471 @@
 [
  {
+  "slug": "anthropic-ipo-filing-real-numbers",
+  "title": "Anthropic Files to Go Public and Its Numbers Answer the AI Bubble Question",
+  "excerpt": "Anthropic filed its S 1 to list on Nasdaq as ANT, reporting $16.3 billion in first half revenue, a profitable June quarter on an operating basis, and $417 billion in future obligations.",
+  "seoDescription": "Anthropic filed to go public as ANT with $16.3 billion in first half revenue and a profitable June quarter. What the filing means for AI builders.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-27T12:36:00.000Z",
+  "updatedAt": "2026-10-27T12:36:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/anthropic-ipo-filing-real-numbers-hero.webp",
+   "alt": "Art for the Anthropic public filing shared by The Rundown AI",
+   "subject": "Anthropic initial public offering filing art",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/4923d10f-2c9f-462b-ab88-46291eb2f217/antfiling1.png?t=1793042729",
+   "credit": "Image: Anthropic filing art via The Rundown AI. Story source: The Rundown AI, October 27, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The filing everyone was waiting for",
+    "paragraphs": [
+     "The loudest argument against the AI boom has been simple: the money going in is real, but the business underneath it might not be. Anthropic just gave the public its first full look at that business. The company filed its S 1 to list on the Nasdaq under the ticker ANT, as The Rundown AI, Morning Brew, and The Hustle all reported on the same morning.",
+     "The headline number is growth. Revenue reached $16.3 billion in the first six months of 2026, about 14 times the figure from a year earlier. Morning Brew notes that revenue is also less concentrated in a few large customers than many analysts expected."
+    ]
+   },
+   {
+    "heading": "Profit in one column, a giant loss in another",
+    "paragraphs": [
+     "Read the filing carefully and you will find two true stories at once. The Rundown reports that the June quarter alone produced a $974 million operating profit. The Neuron, citing the same filing through AP coverage, reports an $80.75 billion net loss for the first half, including a one time accounting charge of about $72.4 billion.",
+     "Those numbers are not the same measure. Operating results show what the day to day business did in one strong quarter. The net loss shows what accounting rules do to a company carrying complex structures into a public listing. Anyone quoting only one number is selling a mood, not a picture."
+    ]
+   },
+   {
+    "heading": "Most of the money is still in the bank",
+    "paragraphs": [
+     "The Rundown adds a detail that surprised even skeptics. Anthropic has raised about $141 billion to date and still holds roughly $132 billion of it. By that math, the company has spent a net of about $9.4 billion to build a business now producing billions in quarterly revenue.",
+     "Morning Brew balances that picture with the other side of the ledger. Anthropic is on the hook for about $417 billion in contractual obligations to vendors such as data center operators. The cash pile is large because the commitments ahead of it are enormous."
+    ]
+   },
+   {
+    "heading": "A structure built around the mission",
+    "paragraphs": [
+     "The filing also shows how unusual the ownership remains. All seven cofounders have pledged 80 percent of their stakes to charity, according to The Rundown. The board can direct additional shares to its Public Benefit Fund as the stock climbs, and Morning Brew reports that financially disinterested trustees focused on safety will oversee board appointments while the cofounders keep control of key decisions.",
+     "Critics told Morning Brew that this structure concentrates control with management at the expense of shareholders. Either way, investors are asked to buy into a business that says, in writing, that safety governance outranks ordinary shareholder control."
+    ]
+   },
+   {
+    "heading": "Ninety four pages of warnings",
+    "paragraphs": [
+     "Anthropic devoted about 94 pages of the filing to risks, Morning Brew reports. The list runs from customer lawsuits over access to its most capable models to government restrictions and the difficulty of predicting demand when planning infrastructure spending.",
+     "The Rundown highlights the most striking warning. Anthropic said some internal work run by Claude could grow difficult for humans to understand and control. The same filing says Claude wrote over 90 percent of Anthropic code in September, and staff use of Claude, valued at retail prices, first passed monthly cash payroll in April."
+    ]
+   },
+   {
+    "heading": "What this means if you build with AI",
+    "paragraphs": [
+     "Analysts cited by Morning Brew believe Anthropic could raise up to $100 billion, which would place the offering among the largest in history. For creators and small operators, the valuation is not the useful part. The useful part is what the filing proves about demand.",
+     "Customers are paying frontier labs at a scale that produced $16.3 billion in six months. The tools you rent sit on top of that demand, and their prices and limits will keep moving as this business goes public. Build your workflow so a model or a price can change without breaking your whole operation."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: The AI bubble meets Anthropic real numbers (October 27, 2026)",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: ANT on the march (October 27, 2026)",
+    "url": "https://www.morningbrew.com"
+   },
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: OpenAI big day, with Anthropic filing in Around the Horn (October 27, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "business-website",
+   "ai-ugc-ad"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "openai-models-disprove-famous-hypothesis",
+  "title": "OpenAI Says Its Models Disproved a Famous Computer Science Hypothesis",
+  "excerpt": "OpenAI says its unreleased models disproved the Exponential Time Hypothesis, proved a 35 year old wave conjecture, and produced a rigorous proof tied to quantum chromodynamics.",
+  "seoDescription": "OpenAI says its models disproved the Exponential Time Hypothesis and proved a 1991 wave conjecture. Why verification, not the claim, is the real story.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-27T12:32:00.000Z",
+  "updatedAt": "2026-10-27T12:32:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/openai-models-disprove-famous-hypothesis-hero.webp",
+   "alt": "Illustration for the OpenAI theory investigation shared by The Neuron",
+   "subject": "OpenAI AI theory investigation illustration",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/1223ba9e-2d5e-4fc2-840a-102c0f09ee5c/OpenAI_s_AI_Theory_Investigation.png?t=1793075560",
+   "credit": "Image: OpenAI AI Theory Investigation illustration via The Neuron. Story source: The Neuron, October 27, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Three claims, each famous on its own",
+    "paragraphs": [
+     "OpenAI announced three new research results on the same day, and The Neuron and The Rundown AI both led with them. The company says its unreleased models made discoveries across computer science, mathematics, and physics, weeks after a release of 722 mathematics papers showed how much research volume these systems can produce.",
+     "Volume is not the story this time. Each result sits on ground that whole fields have organized themselves around for decades. If even one holds up, it changes what researchers can assume when they start work."
+    ]
+   },
+   {
+    "heading": "The hypothesis underneath hundreds of papers",
+    "paragraphs": [
+     "The boldest claim concerns the Exponential Time Hypothesis. As The Neuron explains it, the hypothesis concerns a puzzle built from true or false switches and a list of rules. The question is whether any setting of the switches can satisfy every rule at once. Known methods get exponentially slower as switches are added, and the hypothesis says nothing fundamentally faster exists.",
+     "Hundreds of papers in fields from databases to computational biology use that assumption as a starting point. OpenAI says its system found the disproof on October 16. If the claim holds, a long list of results that say a problem cannot be solved faster become open questions again."
+    ]
+   },
+   {
+    "heading": "The people checking it proposed it",
+    "paragraphs": [
+     "Here is the detail that makes this claim testable in public. A proof checking program called Lean verified the formal result the day after OpenAI says the system found it, according to The Neuron. Lean works like a strict checker for logic, confirming that every step follows from the step before it.",
+     "Beyond the software, a working group is reviewing whether the claim means what it appears to mean. The Rundown reports that the scientists who first proposed the hypothesis are part of that review, and The Neuron names Russell Impagliazzo and Ramamohan Paturi, two of its three original authors, in the group."
+    ]
+   },
+   {
+    "heading": "Waves and the strong force",
+    "paragraphs": [
+     "The other two claims are just as ambitious. OpenAI says its models proved the local smoothing conjecture, a 1991 problem about how waves focus, in every dimension. It also says the models produced a rigorous existence proof for quantum chromodynamics, the theory of the strong force, and The Rundown connects part of this work to a Millennium Prize problem worth $1 million.",
+     "A review group led by Nobel laureate David Gross is handling the physics result carefully. The Neuron reports that the group is holding back its own account while it writes up its view. OpenAI says it does not seek academic credit for the results and agreed to release its raw data on the hypothesis so anyone can check the work."
+    ]
+   },
+   {
+    "heading": "Raw data is not a finished verdict",
+    "paragraphs": [
+     "OpenAI is unusually plain about how early this is. The Neuron notes that the company calls its manuscripts raw research data, and turning a disproved hypothesis into faster real world software would take significant further research. A formal checker can confirm that a proof follows its own steps. It cannot, by itself, settle whether the claim was framed the way the field meant it.",
+     "That is why the expert verdict matters more than the announcement. A filled out form takes seconds to verify. A proof of a 35 year old conjecture takes months, a working group, and, in this case, a conference OpenAI has agreed to fund."
+    ]
+   },
+   {
+    "heading": "The habit worth copying",
+    "paragraphs": [
+     "You do not need to follow theoretical computer science to use the lesson here. The strongest claim in the room was published together with its raw material, a machine check, and a review by the very people who built the field being challenged.",
+     "That is the standard to hold any AI output to, including your own. Show the work. Run an independent check. Let the person who loses if the claim is wrong examine it. Verification decides whether historic looking results are historic."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: OpenAI big day brought a disproof and Terra (October 27, 2026)",
+    "url": "https://www.theneurondaily.com"
+   },
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: OpenAI next batch of AI science discoveries arrives (October 27, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "ai-ugc-ad",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "gpt-61-terra-cuts-cost-of-computer-use",
+  "title": "OpenAI Terra Cuts the Cost of Letting AI Use Your Computer",
+  "excerpt": "GPT 6.1 Terra is built for computer use at half the price of the model it replaces. OpenAI says it finishes tasks over three times faster than its priciest models, and independent tests tell a smaller, still useful story.",
+  "seoDescription": "GPT 6.1 Terra halves the price of AI computer use and speeds up office tasks. How to test a cheaper model on your own work before you switch.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-27T12:28:00.000Z",
+  "updatedAt": "2026-10-27T12:28:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/gpt-61-terra-cuts-cost-of-computer-use-hero.webp",
+   "alt": "Header art for the GPT 6.1 Terra release shared by The Rundown AI",
+   "subject": "GPT 6.1 Terra model release art",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/143eb65a-03c5-4b8c-849f-7173697c1d52/terra-header-16x9.png?t=1793047045",
+   "credit": "Image: GPT 6.1 Terra header art via The Rundown AI. Story source: The Rundown AI, October 27, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A model built to do office work",
+    "paragraphs": [
+     "Terra is the middle model in the OpenAI lineup, built for computer use. It looks at a screen and then clicks, types, and moves between applications the way a person would. The Neuron gives the plainest example: reading incoming invoices and entering the details into accounting software.",
+     "The Rundown AI reports that GPT 6.1 Terra is now live in ChatGPT and in the Codex coding tool at half the API price of the GPT 5.6 version it replaces. The Neuron puts the new price at $1 per million input tokens and $5 per million output tokens, half the price of GPT 6.1 Sol."
+    ]
+   },
+   {
+    "heading": "Faster, cheaper, and less wrong",
+    "paragraphs": [
+     "OpenAI claims Terra finishes tasks over three times faster than its pricier Astra and Sol models, while tying Astra on computer use and nearly matching both on visual reasoning. The Neuron adds that Terra scores 15 points higher than its predecessor on the Agents Last Exam at about a third of the cost.",
+     "The accuracy claim may matter most. Despite costing half as much as its predecessor, Terra cut its hallucination rate in OpenAI testing from 53.6 percent to 16.7 percent, according to The Rundown. A cheaper model that invents less is a different kind of upgrade than a cheaper model that merely answers sooner."
+    ]
+   },
+   {
+    "heading": "Independent tests shrink the gap",
+    "paragraphs": [
+     "Vendor benchmarks are averages across vendor chosen tasks, and The Neuron is direct about that. An independent test by NerdsChalk saw a smaller speed gap, with Sol taking about 1.8 times as long as Terra on three short tasks rather than the three times gap in OpenAI testing.",
+     "The same test raced both models on a 15 field form, three runs each. Terra and Sol both completed every field correctly every time. Terra median time was 9.4 seconds against 17.3 seconds for Sol. The cheapest model, Luna, got every field right in only one of three runs."
+    ]
+   },
+   {
+    "heading": "Race two models on your own boring task",
+    "paragraphs": [
+     "The Neuron turns this release into a method any operator can copy this week. Pick a task you can grade, run it on a cheaper model and a pricier one, and score the results yourself before you switch anything."
+    ],
+    "bullets": [
+     "Choose a gradeable chore, such as filling a form with fake data, cleaning ten spreadsheet rows, or logging five sample invoices",
+     "Use a throwaway form and dummy data, because agents that click around the web can be misled by what a page shows them",
+     "Run identical instructions three times on each model and record how many runs came out fully right",
+     "Track time per finished task, not time per attempt, and switch only if accuracy holds on your work"
+    ]
+   },
+   {
+    "heading": "Why this release matters beyond price",
+    "paragraphs": [
+     "The Rundown is candid that Terra is unlikely to win the headline war. Anthropic models are dominating leaderboards, and Claude weekly token volume on OpenRouter is up 3.6 times since the debut of Opus 5.5, by the figures The Rundown cites. One OpenAI engineer described Terra as a way to stretch usage limits rather than a bombshell.",
+     "That framing undersells what most businesses need. Most paid AI work is forms, invoices, data entry, and follow up tasks repeated every week. A model that does that work at half the price with fewer invented details changes the economics of delegating the boring layer of a business."
+    ]
+   },
+   {
+    "heading": "Test before you trust the savings",
+    "paragraphs": [
+     "Terra also ships with a serious warning label. The Rundown reports that OpenAI rated its cyber skills as Critical on its Preparedness Framework risk scale, and that the model carries the same safeguards built for GPT 6 Astra. Capability that can operate a computer can also be aimed at the wrong target.",
+     "Keep computer use agents on tasks you can inspect until your own tests earn them more room. Cheaper and faster only counts when the finished work is right."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: OpenAI new Terra cuts the cost of AI computer use (October 27, 2026)",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: OpenAI big day brought a disproof and Terra (October 27, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "ai-ugc-ad",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "nba-partners-polymarket-kalshi-integrity",
+  "title": "The NBA Is Partnering With Prediction Markets to Protect the Integrity of the Game",
+  "excerpt": "The NBA announced partnerships with Polymarket and Kalshi, saying access to trading data and control over which markets are offered will help it spot suspicious betting action.",
+  "seoDescription": "The NBA partnered with Polymarket and Kalshi for trading data and market controls after betting scandals. What the deal does and what remains contested.",
+  "category": "brand-growth",
+  "serviceId": "event-coverage",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-27T12:24:00.000Z",
+  "updatedAt": "2026-10-27T12:24:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/nba-partners-polymarket-kalshi-integrity-hero.webp",
+   "alt": "NBA logo signage on the exterior of a building photographed for Morning Brew",
+   "subject": "NBA logo signage on a building exterior",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-10-26/image-f2a8f0eb32e6e99d391a91963722845b8ee7a2c0-3636x2424-jpg/GettyImages-2289914701.jpg",
+   "credit": "Image: NBA logo signage, Marcin Golba via Getty Images, via Morning Brew. Story source: Morning Brew, October 27, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A headline that sounds like a joke",
+    "paragraphs": [
+     "Morning Brew calls its own headline Onion like, and then confirms it is real. The NBA announced partnerships with Polymarket and Kalshi, the two best known prediction market platforms, and framed the deals as part of a push to protect the integrity of the game.",
+     "The timing explains the move. Since 2024, the league has dealt with wagering scandals that included a player receiving a lifetime ban and federal investigations involving organized crime figures, as Morning Brew recounts. A league that cannot credibly police betting on its own games has a product problem, not just a legal one."
+    ]
+   },
+   {
+    "heading": "What the league gets in the deal",
+    "paragraphs": [
+     "The partnership gives the NBA two concrete tools. First, the league will have access to trading data from Polymarket and Kalshi, which can help it locate suspicious action early instead of learning about it from an indictment. Unusual money moving against a little watched market is a signal, and signals are only useful if someone is watching them.",
+     "Second, the league gets a say in what can be bet on at all. Morning Brew reports that the NBA will have final say on which markets are offered. Some categories are off the table entirely under the deal."
+    ]
+   },
+   {
+    "heading": "The bets that are now banned",
+    "paragraphs": [
+     "The restrictions target the easiest bets to manipulate. Users will not be allowed to wager on single plays, such as the first basket or the opening tip. One player deciding one moment is exactly the kind of event a corrupt actor can buy cheaply.",
+     "Bets are also barred on unders for players expected to play fewer than 12 minutes. A bench player who knows his own minutes can move that market with information nobody else has. Removing the most fixable markets does not end betting on the NBA. It removes the bets where one quiet conversation can decide the outcome."
+    ]
+   },
+   {
+    "heading": "A wider web of agreements",
+    "paragraphs": [
+     "The prediction market deals do not stand alone. Morning Brew reports that the NBA is expanding its existing agreement with DraftKings and other sports betting partners to include prediction markets. The league also reached a cooperation agreement with the Commodity Futures Trading Commission, the federal regulator that oversees prediction markets.",
+     "Read together, the pattern is a league building a perimeter. Every major place where money moves on its games is being brought inside a relationship where the league can see data, set limits, and call a regulator who already has a seat at the table."
+    ]
+   },
+   {
+    "heading": "The legal fight is not settled",
+    "paragraphs": [
+     "None of this ends the argument over what prediction markets legally are. State regulators argue that these platforms are sports betting dressed in the language of federally regulated commodities trading, built to avoid state gambling rules, as Morning Brew summarizes their position.",
+     "The Supreme Court has agreed to consider whether states can ban prediction markets. That ruling will decide whether the NBA new partners operate under one federal framework or fifty state ones. The league has placed its integrity strategy on platforms whose legal ground is still being argued at the highest court."
+    ]
+   },
+   {
+    "heading": "The lesson for anyone running live events",
+    "paragraphs": [
+     "Strip away the betting and the structure of this deal is familiar to anyone who runs events for a living. When money moves around your product in places you cannot see, your choices are to ignore it, fight it, or bring it inside with data access and rules you helped write.",
+     "The NBA chose the third option, publicly, after scandals forced the question. Organizers and promoters face smaller versions of the same choice with resale tickets, unofficial streams, and unapproved vendors. Seeing the activity early and setting the terms beats discovering it after the damage is photographed and posted."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: NBA joins with prediction markets to boost integrity (October 27, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "event-coverage",
+   "photography",
+   "brand-spot"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book event coverage",
+   "price": 2000,
+   "serviceId": "event-coverage"
+  },
+  "nextClick": {
+   "label": "See coverage pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "prime-roots-meat-eaters-fake-meat",
+  "title": "Meat Eaters Are the Customers Keeping Plant Based Meat Alive",
+  "excerpt": "Plant based meat sales fell 10 percent in 2025, yet 96 percent of households buying it also buy animal meat. Prime Roots built its whole business on that customer, selling koji based deli slices to meat eaters.",
+  "seoDescription": "Prime Roots sells koji based deli meat to meat eaters, not vegans, and sales have nearly doubled yearly. The audience lesson inside the fake meat slump.",
+  "category": "brand-growth",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-27T12:20:00.000Z",
+  "updatedAt": "2026-10-27T12:20:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/prime-roots-meat-eaters-fake-meat-hero.webp",
+   "alt": "Deli meat slices photographed for The Hustle story on Prime Roots",
+   "subject": "Deli meat slices for the Prime Roots story",
+   "kind": "photo",
+   "sourceUrl": "https://thehustle.co/hs-fs/hubfs/Daily%20Templates%20-%202026%20Refresh%20(2)%20copy%206.png?width=1120&upscale=true&name=Daily%20Templates%20-%202026%20Refresh%20(2)%20copy%206.png",
+   "credit": "Image: Deli meat photo via The Hustle. Story source: The Hustle, October 27, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The customer nobody pictured",
+    "paragraphs": [
+     "Stand in front of the plant based meat case and guess who buys it. The Hustle asked that question, and the answer upends the usual assumption. The people keeping these brands alive are meat eaters.",
+     "The numbers come from the Good Food Institute figures cited by The Hustle. Plant based meat and seafood sales fell 10 percent in 2025. Yet 96 percent of households that bought plant based meat also bought animal based meat. The category is not sustained by committed vegans. It is sustained by ordinary shoppers who also buy the real thing and reach for an alternative some of the time."
+    ]
+   },
+   {
+    "heading": "Built at Berkeley for the flexitarian majority",
+    "paragraphs": [
+     "Prime Roots is the company The Hustle profiles for building entirely around that customer. Cofounders Kimberlie Le and Joshua Nixon started the concept at the UC Berkeley Alternative Meats Lab, using fungi to rethink how humans eat protein.",
+     "Their product is koji based cold cuts: turkey, ham, roast beef, and salami, sliced like any other meat at the deli counter. Le told The Hustle that from day one the company focused on meat eaters and flexitarians, the vast majority of the population. The pitch is a healthier swap inside a sandwich the customer already makes."
+    ]
+   },
+   {
+    "heading": "Aiming at the least healthy shelf",
+    "paragraphs": [
+     "The choice of deli meat was deliberate. Le explained that the company targets some of the worst categories for health, naming deli meats that are heavily processed and full of compounds classed as known carcinogens. Prime Roots promises to be preservative free, non GMO, and free of the top nine allergens, in Le words as reported by The Hustle.",
+     "That positioning answers the category biggest weakness. Le cites soy, gluten, fillers, and ultra processed ingredients as the deterrents that turned shoppers away from mass produced plant based meats. A product asking meat eaters to switch has to win on taste and a clean ingredient list at once."
+    ]
+   },
+   {
+    "heading": "Growing while the category shrinks",
+    "paragraphs": [
+     "While the wider market contracts, Prime Roots says it is growing. Sales have nearly doubled annually since the products launched, according to the company figures shared with The Hustle. It expects to be in more than 1,000 retail outlets by the end of the year.",
+     "In fall 2026, the company launched a packaged line called Safe Slice at Sprouts, extending beyond the deli counter where it started. Le was clear that the expansion does not replace the original business, saying the company is not leaving the deli because that is where it started and what it is best known for."
+    ]
+   },
+   {
+    "heading": "The audience lesson",
+    "paragraphs": [
+     "Most struggling categories do not have a product problem first. They have an audience picture problem. Plant based meat was marketed as if its buyer had already rejected meat, when the data says the buyer is a meat eater making an occasional trade for health reasons.",
+     "Prime Roots sells the trade, not the identity. Its cold cuts sit in the deli, slice like deli meat, and go into the same lunch. Nothing about the purchase asks the customer to become a different person. That is why a shrinking category can still contain a growing company."
+    ],
+    "bullets": [
+     "Find the customer who already buys the neighboring product, not only the customer who preaches your category",
+     "Sell the swap and the benefit, not a new identity the buyer never asked for",
+     "Compete on the flaws of the incumbent, in this case processing, fillers, and allergens",
+     "Expand from the shelf where you win instead of abandoning it for a trendier one"
+    ]
+   },
+   {
+    "heading": "Know who is actually buying",
+    "paragraphs": [
+     "Every creator and business owner has a version of this question. Who is actually buying, as opposed to who you imagined when you built the offer? The households in the data buy both, on purpose, for different reasons on different days.",
+     "Build for the buyer in the data and you can grow inside a market everyone else calls dead."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle: Who is buying fake meat (October 27, 2026)",
+    "url": "https://thehustle.co"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "flag-football-nfl-192-million-dollar-bet",
   "title": "Flag Football Is Surging and the NFL Pledged 192 Million Dollars to Build Its Future",
   "excerpt": "More than 100,000 American high school girls played flag football last school year, a 48 percent jump in one year. The NFL and other investors pledged 192 million dollars toward a professional league.",
