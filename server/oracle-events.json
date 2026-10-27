@@ -11666,5 +11666,107 @@
     "alt": "Corey Smith live in Destin",
     "imageKey": "event-flyers/838-corey-smith-destin.jpg",
     "endDate": "2027-03-18"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Ho99o9 & N8NOFACE, Miami",
+    "date": "NOVEMBER 20, 7 PM",
+    "headliners": "Ho99o9, N8NOFACE",
+    "venue": "Churchill's Pub, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.it/artist/ho99o9-tickets/944301?language=en-us",
+    "flyerUrl": "https://s1.ticketm.net/img/tat/dam/a/b69/1e1d2e79-fbcc-452a-b086-a37cfc617b69_CUSTOM.jpg",
+    "image": "/events/flyer/839-ho99o9-n8noface-miami.jpg",
+    "alt": "Ho99o9 and N8NOFACE live in Miami on the Sincerely The Void Tour",
+    "imageKey": "event-flyers/839-ho99o9-n8noface-miami.jpg",
+    "endDate": "2026-11-20"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Ho99o9 & N8NOFACE, Winter Park",
+    "date": "NOVEMBER 21, 7 PM",
+    "headliners": "Ho99o9, N8NOFACE",
+    "venue": "Conduit, Winter Park",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.it/artist/ho99o9-tickets/944301?language=en-us",
+    "flyerUrl": "https://s1.ticketm.net/img/tat/dam/a/b69/1e1d2e79-fbcc-452a-b086-a37cfc617b69_CUSTOM.jpg",
+    "image": "/events/flyer/840-ho99o9-n8noface-winter-park.jpg",
+    "alt": "Ho99o9 and N8NOFACE live in Winter Park on the Sincerely The Void Tour, billed as the Orlando stop",
+    "imageKey": "event-flyers/840-ho99o9-n8noface-winter-park.jpg",
+    "endDate": "2026-11-21"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "AJ McLean presents Alexander James, Orlando",
+    "date": "NOVEMBER 22, 8 PM",
+    "headliners": "AJ McLean presents Alexander James: The Better Man Tour",
+    "venue": "Plaza Live, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/aj-mclean-tickets/artist/2190278",
+    "flyerUrl": "https://prismic-images.tmol.io/ticketmaster-tm-global/8jjjgkwYdE0fGGAu_EADPmobileheaderAJMcLean.png?auto=format,compress&rect=24,0,421,348&w=800&h=661",
+    "image": "/events/flyer/841-aj-mclean-orlando.jpg",
+    "alt": "AJ McLean presents Alexander James live in Orlando on The Better Man Tour",
+    "imageKey": "event-flyers/841-aj-mclean-orlando.jpg",
+    "endDate": "2026-11-22"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "AJ McLean presents Alexander James, Fort Lauderdale",
+    "date": "NOVEMBER 24, 7 PM",
+    "headliners": "AJ McLean presents Alexander James: The Better Man Tour",
+    "venue": "Revolution Live, Fort Lauderdale",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/aj-mclean-tickets/artist/2190278",
+    "flyerUrl": "https://prismic-images.tmol.io/ticketmaster-tm-global/8jjjgkwYdE0fGGAu_EADPmobileheaderAJMcLean.png?auto=format,compress&rect=24,0,421,348&w=800&h=661",
+    "image": "/events/flyer/842-aj-mclean-fort-lauderdale.jpg",
+    "alt": "AJ McLean presents Alexander James live in Fort Lauderdale on The Better Man Tour",
+    "imageKey": "event-flyers/842-aj-mclean-fort-lauderdale.jpg",
+    "endDate": "2026-11-24"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Alex Jean, Orlando",
+    "date": "NOVEMBER 27, 8 PM",
+    "headliners": "Alex Jean: The Welcome Home Tour",
+    "venue": "Plaza Live, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.axs.com/events/1632882/alex-jean-tickets",
+    "flyerUrl": "https://images.discovery-prod.axs.com/2026/10/alex-jean-tickets_11-27-26_17_6abfca3e34db4.png",
+    "image": "/events/flyer/843-alex-jean-orlando.jpg",
+    "alt": "Alex Jean live in Orlando on The Welcome Home Tour",
+    "imageKey": "event-flyers/843-alex-jean-orlando.jpg",
+    "endDate": "2026-11-27"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Roger Waters Presents LEGACY: A Pink Floyd Show, Orlando",
+    "date": "FEBRUARY 23, 7:30 PM",
+    "headliners": "Roger Waters Presents LEGACY, performed by The Harry Waters Band",
+    "venue": "Walt Disney Theater at Dr. Phillips Center, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.co.uk/roger-waters-presents-legacy-a-pink-floyd-show-tickets/artist/5755584",
+    "flyerUrl": "https://media.ticketmaster.co.uk/tm/en-gb/dam/a/af6/5d48fc63-f148-458f-aba0-066f35763af6_CUSTOM.jpg",
+    "image": "/events/flyer/844-roger-waters-presents-legacy-orlando.jpg",
+    "alt": "Roger Waters Presents LEGACY A Pink Floyd Show in Orlando",
+    "imageKey": "event-flyers/844-roger-waters-presents-legacy-orlando.jpg",
+    "endDate": "2027-02-23"
   }
 ]
