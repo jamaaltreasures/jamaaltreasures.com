@@ -11768,5 +11768,159 @@
     "alt": "Roger Waters Presents LEGACY A Pink Floyd Show in Orlando",
     "imageKey": "event-flyers/844-roger-waters-presents-legacy-orlando.jpg",
     "endDate": "2027-02-23"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "KC & the Sunshine Band, Clearwater",
+    "date": "FEBRUARY 26, 8 PM",
+    "headliners": "KC & the Sunshine Band",
+    "venue": "Ruth Eckerd Hall, Clearwater",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.ca/KC-the-Sunshine-Band-tickets/artist/769791",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/058/f6539d17-64f8-40a6-a8f1-0d630abc6058_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/845-kc-sunshine-band-clearwater.jpg",
+    "alt": "KC and the Sunshine Band live in Clearwater",
+    "imageKey": "event-flyers/845-kc-sunshine-band-clearwater.jpg",
+    "endDate": "2027-02-26"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "KC & the Sunshine Band, Orlando",
+    "date": "FEBRUARY 27, 7:30 PM",
+    "headliners": "KC & the Sunshine Band",
+    "venue": "Walt Disney Theater at Dr. Phillips Center, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.ca/KC-the-Sunshine-Band-tickets/artist/769791",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/058/f6539d17-64f8-40a6-a8f1-0d630abc6058_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/846-kc-sunshine-band-orlando.jpg",
+    "alt": "KC and the Sunshine Band live in Orlando",
+    "imageKey": "event-flyers/846-kc-sunshine-band-orlando.jpg",
+    "endDate": "2027-02-27"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "NEEDTOBREATHE, Orlando",
+    "date": "MARCH 14, 7 PM",
+    "headliners": "NEEDTOBREATHE: The Long Surrender Tour, with The National Parks",
+    "venue": "Hard Rock Live Orlando, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/needtobreathe-tickets/artist/1032338",
+    "flyerUrl": "https://prismic-images.tmol.io/ticketmaster-tm-global/mdjQgdFr8kknGEnM_EADPmobileheaderneedtobreathe.png?auto=format,compress&rect=24,0,421,348&w=800&h=661",
+    "image": "/events/flyer/847-needtobreathe-orlando.jpg",
+    "alt": "NEEDTOBREATHE live in Orlando on The Long Surrender Tour",
+    "imageKey": "event-flyers/847-needtobreathe-orlando.jpg",
+    "endDate": "2027-03-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "RuPaul's Drag Race Werq The World, Orlando",
+    "date": "FEBRUARY 20, 8 PM",
+    "headliners": "RuPaul's Drag Race Werq The World 2027 Tour",
+    "venue": "Hard Rock Live Orlando, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.ca/rupauls-drag-race-werq-the-world-tickets/artist/2679678",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/4cf/23381037-c41c-424e-a27f-052f1f2664cf_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/848-rupauls-drag-race-werq-the-world-orlando.jpg",
+    "alt": "RuPaul's Drag Race Werq The World in Orlando",
+    "imageKey": "event-flyers/848-rupauls-drag-race-werq-the-world-orlando.jpg",
+    "endDate": "2027-02-20"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "RuPaul's Drag Race Werq The World, Pensacola",
+    "date": "FEBRUARY 21, 7:30 PM",
+    "headliners": "RuPaul's Drag Race Werq The World 2027 Tour",
+    "venue": "Pensacola Saenger Theatre, Pensacola",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.ca/rupauls-drag-race-werq-the-world-tickets/artist/2679678",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/4cf/23381037-c41c-424e-a27f-052f1f2664cf_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/849-rupauls-drag-race-werq-the-world-pensacola.jpg",
+    "alt": "RuPaul's Drag Race Werq The World in Pensacola",
+    "imageKey": "event-flyers/849-rupauls-drag-race-werq-the-world-pensacola.jpg",
+    "endDate": "2027-02-21"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "R&B ONLY LIVE, Orlando",
+    "date": "JANUARY 30, 8 PM TO 1 AM",
+    "headliners": "R&B ONLY LIVE, presented by COLORS Worldwide",
+    "venue": "House of Blues, Orlando",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://orlando.rnbonly.com/",
+    "flyerUrl": "https://prismic-images.tmol.io/ticketmaster-tm-global/04b6a081-6014-43cd-9d9b-dc40b8c114f0_EADP-Desktop-Header-RB+ONLY+LIVE.jpg?auto=compress,format&rect=628,0,1172,969&w=800&h=661",
+    "image": "/events/flyer/850-rb-only-live-orlando.jpg",
+    "alt": "R&B ONLY LIVE in Orlando at House of Blues",
+    "imageKey": "event-flyers/850-rb-only-live-orlando.jpg",
+    "endDate": "2027-01-31"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Pepsi National Battle of the Bands, Boca Raton",
+    "date": "JANUARY 16, 3 PM",
+    "headliners": "Florida A&M Marching 100, Bethune Cookman Marching Wildcats, Alabama State Mighty Marching Hornets, Edward Waters Triple Threat Marching Band, Miles College Purple Marching Machine",
+    "venue": "Flagler Credit Union Stadium, Boca Raton",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.nationalbattleofthebands.com/",
+    "flyerUrl": "https://static.wixstatic.com/media/e711cd_9b8aa58d062b4bd29d02410549ea0012~mv2.jpg",
+    "image": "/events/flyer/851-pepsi-national-battle-of-the-bands-boca-raton.jpg",
+    "alt": "Pepsi National Battle of the Bands flyer, Flagler Credit Union Stadium, Boca Raton",
+    "imageKey": "event-flyers/851-pepsi-national-battle-of-the-bands-boca-raton.jpg",
+    "endDate": "2027-01-16"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "RuPaul's Drag Race Werq The World, Jacksonville",
+    "date": "FEBRUARY 18, 8 PM",
+    "headliners": "RuPaul's Drag Race Werq The World 2027 Tour",
+    "venue": "Florida Theatre, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.vossevents.com/tour/rupauls-drag-race-werq-the-world-tour-world-tour/",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/4cf/23381037-c41c-424e-a27f-052f1f2664cf_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/852-rupauls-drag-race-werq-the-world-jacksonville.jpg",
+    "alt": "RuPaul's Drag Race Werq The World in Jacksonville",
+    "imageKey": "event-flyers/852-rupauls-drag-race-werq-the-world-jacksonville.jpg",
+    "endDate": "2027-02-18"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "RuPaul's Drag Race Werq The World, Clearwater",
+    "date": "FEBRUARY 19, 8 PM",
+    "headliners": "RuPaul's Drag Race Werq The World 2027 Tour",
+    "venue": "Ruth Eckerd Hall, Clearwater",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.vossevents.com/tour/rupauls-drag-race-werq-the-world-tour-world-tour/",
+    "flyerUrl": "https://s1.ticketm.net/dam/a/4cf/23381037-c41c-424e-a27f-052f1f2664cf_RETINA_PORTRAIT_3_2.jpg",
+    "image": "/events/flyer/853-rupauls-drag-race-werq-the-world-clearwater.jpg",
+    "alt": "RuPaul's Drag Race Werq The World in Clearwater",
+    "imageKey": "event-flyers/853-rupauls-drag-race-werq-the-world-clearwater.jpg",
+    "endDate": "2027-02-19"
   }
 ]
