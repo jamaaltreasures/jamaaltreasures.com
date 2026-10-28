@@ -11941,5 +11941,23 @@
     "alt": "STAR 94.5 Daytime House Music Party 2 flyer, Lake Eola Park, Orlando",
     "imageKey": "event-flyers/855-star-945-daytime-house-music-party-2.jpg",
     "endDate": "2026-11-07"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "CONEP at LIV Miami",
+    "date": "NOVEMBER 5, 11:30 PM",
+    "headliners": "CONEP",
+    "venue": "LIV Nightclub, Miami Beach",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261105/conep/",
+    "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261105/conep/",
+    "image": "/events/flyer/856-conep-at-liv-miami.jpg",
+    "alt": "CONEP at LIV Miami event flyer",
+    "imageKey": "event-flyers/856-conep-at-liv-miami.jpg",
+    "endDate": "2026-11-06"
   }
 ]
