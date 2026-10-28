@@ -1468,23 +1468,6 @@
   },
   {
     "section": "NOVEMBER",
-    "title": "Cash Money and No Limit Tour: Master P, Birdman, Juvenile and more, Sunrise",
-    "date": "NOVEMBER 6, 8 PM",
-    "headliners": "Master P, Birdman, Juvenile, Mannie Fresh, B.G.",
-    "venue": "Amerant Bank Arena, Sunrise",
-    "categories": [
-      "Music"
-    ],
-    "detailsLabel": "Get Tickets",
-    "detailsUrl": "https://www.ticketmaster.com/amerant-bank-arena-tickets-sunrise/venue/107150",
-    "flyerUrl": "https://thesource.com/wp-content/uploads/2026/09/unnamed-5.jpg",
-    "image": "/events/flyer/169-cash-money-no-limit-tour-sunrise.jpg",
-    "alt": "Cash Money and No Limit Tour event flyer",
-    "imageKey": "event-flyers/169-cash-money-no-limit-tour-sunrise.jpg",
-    "endDate": "2026-11-06"
-  },
-  {
-    "section": "NOVEMBER",
     "title": "Sixth Annual Riverwalk International Food Festival",
     "date": "NOVEMBER 14, 12 PM TO 4 PM",
     "headliners": "",
@@ -11922,5 +11905,41 @@
     "alt": "RuPaul's Drag Race Werq The World in Clearwater",
     "imageKey": "event-flyers/853-rupauls-drag-race-werq-the-world-clearwater.jpg",
     "endDate": "2027-02-19"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Maker Faire Orlando",
+    "date": "NOVEMBER 7 TO 8, 10 AM TO 5 PM",
+    "headliners": "Maker Invasion: art, science, cosplay, tech and robots, with the Robot Ruckus combat robot competition",
+    "venue": "Central Florida Fairgrounds, Orlando",
+    "categories": [
+      "Arts",
+      "Festival"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://events.humanitix.com/makerfaireorlando",
+    "flyerUrl": "https://events.humanitix.com/makerfaireorlando",
+    "image": "/events/flyer/854-maker-faire-orlando.jpg",
+    "alt": "Maker Faire Orlando flyer, Maker Invasion, November 7 and 8, 2026, Central Florida Fairgrounds",
+    "imageKey": "event-flyers/854-maker-faire-orlando.jpg",
+    "endDate": "2026-11-08"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "STAR 94.5 Daytime House Music Party 2",
+    "date": "NOVEMBER 7, 1 PM TO 5 PM",
+    "headliners": "DJ Mike Hitman Wilson and DJ Kyle LaRue, presented by STAR 94.5 and GEICO at Fall Fiesta in the Park",
+    "venue": "Lake Eola Park, Orlando",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://www.star945.com/fp/its-back-bigger-star-945s-daytime-house-party-2-presented-by-geico-fall-fiesta/",
+    "flyerUrl": "https://fiestainthepark.com/",
+    "image": "/events/flyer/855-star-945-daytime-house-music-party-2.jpg",
+    "alt": "STAR 94.5 Daytime House Music Party 2 flyer, Lake Eola Park, Orlando",
+    "imageKey": "event-flyers/855-star-945-daytime-house-music-party-2.jpg",
+    "endDate": "2026-11-07"
   }
 ]
