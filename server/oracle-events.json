@@ -4650,23 +4650,6 @@
     "endDate": "2026-11-14"
   },
   {
-    "section": "LATER IN OCTOBER",
-    "title": "CeCe Winans: Come Worship Tour, Orlando",
-    "date": "OCTOBER 27, 7 PM",
-    "headliners": "CeCe Winans, Charity Gayle, Red Worship, Terrian",
-    "venue": "Addition Financial Arena, Orlando",
-    "categories": [
-      "Music"
-    ],
-    "detailsLabel": "Get Tickets",
-    "detailsUrl": "https://www.ticketmaster.com/cece-winans-come-worship-tour-orlando-florida-10-27-2026/event/22006453997A37D4",
-    "flyerUrl": "https://www.additionfiarena.com/events/detail/cece-winans",
-    "image": "/events/flyer/402-cece-winans-come-worship-tour-orlando.jpg",
-    "alt": "CeCe Winans: Come Worship Tour Orlando event flyer",
-    "imageKey": "event-flyers/402-cece-winans-come-worship-tour-orlando.jpg",
-    "endDate": "2026-10-27"
-  },
-  {
     "section": "MAJOR ANNUALS",
     "title": "Publix Run to the Arts 5K",
     "date": "FEBRUARY 7, 2027",
@@ -11346,23 +11329,6 @@
   },
   {
     "section": "LATER IN OCTOBER",
-    "title": "Alice Cooper, Clearwater",
-    "date": "OCTOBER 27, 8 PM",
-    "headliners": "Alice Cooper",
-    "venue": "Ruth Eckerd Hall, Clearwater",
-    "categories": [
-      "Music"
-    ],
-    "detailsLabel": "Get Tickets",
-    "detailsUrl": "https://www.rutheckerdhall.com/events/detail/alice-cooper",
-    "flyerUrl": "https://s1.ticketm.net/dam/c/27e/458d1b62-6e4f-4ffd-8941-9ed303d8e27e_106041_RETINA_PORTRAIT_3_2.jpg",
-    "image": "/events/flyer/821-alice-cooper-clearwater.jpg",
-    "alt": "Alice Cooper live in Clearwater on the Alice's Attic Tour",
-    "imageKey": "event-flyers/821-alice-cooper-clearwater.jpg",
-    "endDate": "2026-10-27"
-  },
-  {
-    "section": "LATER IN OCTOBER",
     "title": "LOCASH, Pensacola",
     "date": "OCTOBER 30, 7:30 PM",
     "headliners": "LOCASH",
@@ -11959,5 +11925,60 @@
     "alt": "CONEP at LIV Miami event flyer",
     "imageKey": "event-flyers/856-conep-at-liv-miami.jpg",
     "endDate": "2026-11-06"
+  },
+  {
+    "section": "HALLOWEEN",
+    "title": "Sexyy Red at LIV Miami",
+    "date": "OCTOBER 30, 11:30 PM",
+    "headliners": "Sexyy Red",
+    "venue": "LIV Nightclub, Miami Beach",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261030/sexyy-red/",
+    "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261030/sexyy-red/",
+    "image": "/events/flyer/857-sexyy-red-at-liv-miami.jpg",
+    "alt": "Sexyy Red at LIV Miami event flyer",
+    "imageKey": "event-flyers/857-sexyy-red-at-liv-miami.jpg",
+    "endDate": "2026-10-31"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Dennis Cruz + Moodymann b2b Carl Craig at Club Space",
+    "date": "NOVEMBER 6, 11 PM",
+    "headliners": "Dennis Cruz, Moodymann, Carl Craig, Bakke, DJ Ray",
+    "venue": "Club Space, Miami",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://dice.fm/event/6ac66d60ede61600010d1cba",
+    "flyerUrl": "https://dice.fm/event/6ac66d60ede61600010d1cba",
+    "image": "/events/flyer/858-dennis-cruz-moodymann-carl-craig-club-space.jpg",
+    "alt": "Dennis Cruz + Moodymann b2b Carl Craig at Club Space event flyer",
+    "imageKey": "event-flyers/858-dennis-cruz-moodymann-carl-craig-club-space.jpg",
+    "endDate": "2026-11-07"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "3rd Annual Daytona Food Fest & Craft Fair",
+    "date": "NOVEMBER 7, 11 AM TO 8 PM",
+    "headliners": "",
+    "venue": "Tanger Outlets, Daytona Beach",
+    "categories": [
+      "Food",
+      "Arts",
+      "Community"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://www.battlebrosevents.com/daytonafoodfest",
+    "flyerUrl": "https://www.battlebrosevents.com/daytonafoodfest",
+    "image": "/events/flyer/859-daytona-food-fest-craft-fair.jpg",
+    "alt": "3rd Annual Daytona Food Fest and Craft Fair flyer, Tanger Outlets Daytona Beach",
+    "imageKey": "event-flyers/859-daytona-food-fest-craft-fair.jpg",
+    "endDate": "2026-11-07"
   }
 ]
