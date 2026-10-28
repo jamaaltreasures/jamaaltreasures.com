@@ -1,5 +1,373 @@
 [
  {
+  "slug": "google-genie-4-worlds-sound-conversation",
+  "title": "Google Genie 4 Builds AI Worlds You Can Talk To",
+  "excerpt": "Google DeepMind Genie 4 turns a prompt into a photorealistic world you can walk through, complete with its own sound and characters who hold live conversations. It looks like a director tool as much as a game engine.",
+  "seoDescription": "Genie 4 from Google DeepMind generates explorable worlds with native sound and talking characters. What interactive world models mean for filmmakers and creators.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-28T12:20:00.000Z",
+  "updatedAt": "2026-10-28T12:20:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/google-genie-4-worlds-sound-conversation-hero.webp",
+   "alt": "Two characters on a motorcycle inside a Genie 4 generated world, with a conversation caption and keyboard controls on screen",
+   "subject": "Genie 4 generated scene with talking characters",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/c6384e46-817e-4011-9c68-952ea76adcff/videoframe_7437.png?t=1793127585",
+   "credit": "Image: Google DeepMind Genie 4 demo frame via The Rundown AI. Story source: The Rundown AI, October 28, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A world you step into, not a clip you watch",
+    "paragraphs": [
+     "Most AI video tools hand you a finished clip. Google DeepMind Genie 4 hands you a place. The Rundown AI and The Neuron both led their October 28 editions with the new world model, which turns prompts into explorable, photorealistic scenes that respond as you move through them in real time.",
+     "The jump from Genie 3 is sound and company. Genie 4 is the first model in the line to generate its own audio, from background noise to music, and the characters living in its worlds can now hold live conversations with the person exploring them. Last year you could wander an AI world for a few minutes. Now the people inside it talk back."
+    ]
+   },
+   {
+    "heading": "How it works on screen",
+    "paragraphs": [
+     "Users move with keyboard controls and can type prompts to change the scene while standing inside it, with the world staying coherent between inputs. Ask for weather, a new object, or a different mood, and the scene adjusts around you instead of restarting.",
+     "Google also showed the model working as a training ground. In one demo reported by both newsletters, a simulated Apptronik Apollo humanoid robot played checkers inside a Genie world, with a Gemini model planning each move. The point of the demo is where Google wants this to go: robots rehearsing inside generated worlds before they ever touch a real room."
+    ]
+   },
+   {
+    "heading": "Why filmmakers should care",
+    "paragraphs": [
+     "The Neuron spelled out the creative uses plainly. Filmmakers could preview virtual sets before spending money on production. Game developers could test a level before building it by hand. A director could scout a location that does not exist, block a scene inside it, and show a client the world before a single dollar goes to a set build.",
+     "That reframes what the tool is. The Rundown AI put it this way in spirit: Genie is starting to look as much like a full director tool as a world simulator. A clip generator makes footage. A world model makes a place a whole production can stand inside, revise, and rehearse in."
+    ]
+   },
+   {
+    "heading": "The honest limits",
+    "paragraphs": [
+     "Genie 4 is still a research preview. Access starts with trusted testers, and Google AI Ultra subscribers and Gemini API partners come next, according to The Rundown AI. The Neuron added the catch that matters most: objects, physics, and spatial details can still drift and turn inconsistent, especially in longer sessions.",
+     "So the test to watch is staying power. A beautiful two minute world is a demo. A world that keeps the same objects, rules, and consequences for an hour is a production tool, and that is the breakthrough still being proven."
+    ]
+   },
+   {
+    "heading": "The shift underneath the demo",
+    "paragraphs": [
+     "AI media is moving from finished files to living environments. The value is shifting from the clip itself to the world the clip happens in, because a world can be reused, restaged, and reshot at almost no cost.",
+     "For creators, the practical move is to start thinking in worlds, not shots. The people who learn to direct inside generated environments early will hold an advantage when clients start asking for them."
+    ],
+    "bullets": [
+     "Use world models for previz: scout and block scenes before a paid shoot day",
+     "Build one reusable world per client instead of starting every video from zero",
+     "Test how a scene plays before committing crew, locations, and rentals",
+     "Watch session length and consistency, because that is where the tool proves itself"
+    ]
+   },
+   {
+    "heading": "Places, not clips",
+    "paragraphs": [
+     "Genie 4 with sound and conversation is not a better video generator. It is a different category of tool, and categories are where the money moves first.",
+     "Learn to direct a place, and every shoot inside it gets cheaper from there."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Google AI worlds can now talk back (October 28, 2026)",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Google launches Genie 4 with sound (October 28, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "anthropic-drug-discovery-solo-founder-labs",
+  "title": "Anthropic Is Developing Its Own Drugs, and One Founder Ran 11 Labs With Claude",
+  "excerpt": "Anthropic bought Mithril Medicine, a one person biotech whose Claude assisted muscular dystrophy candidate could reach human trials by late 2028. The solo founder coordinated 11 outside labs with AI help.",
+  "seoDescription": "Anthropic acquired one person biotech Mithril Medicine after Claude helped its founder run 11 labs. Plus Enveda filing drafted in 4 hours. The operator lesson inside.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-28T12:16:00.000Z",
+  "updatedAt": "2026-10-28T12:16:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/anthropic-drug-discovery-solo-founder-labs-hero.webp",
+   "alt": "Collage of white pills and a vintage laboratory microscope for the Anthropic drug discovery story",
+   "subject": "Pills and microscope art for Anthropic drug discovery",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/f6dfa6a3-3c8d-4ab5-bc4d-d4040789b3eb/492ae2fdf955e71a24bfda5422f950febeeec07f-2000x1125.webp?t=1793143364",
+   "credit": "Image: Anthropic drug discovery art via The Rundown AI. Story source: The Rundown AI, October 28, 2026"
+  },
+  "sections": [
+   {
+    "heading": "An AI company walks into the lab",
+    "paragraphs": [
+     "Anthropic is no longer only selling the tool. The Rundown AI reported on October 28 that the company shared early results from its drug development partners and revealed it is now running its own drug discovery programs, including buying Mithril Medicine, a biotech run by a single founder.",
+     "The headline inside the headline is the shape of that company. Mithril founder Cody Tranbarger built a muscular dystrophy drug candidate with Claude helping him juggle contracts and tests at 11 outside labs. The candidate showed promise in mice within 18 months and could reach human trials as early as late 2028."
+    ]
+   },
+   {
+    "heading": "A pipeline in a person",
+    "paragraphs": [
+     "Tranbarger also turned out to be Professor Oak, the name behind a biotech account on X run under a pseudonym for six years. His setup has been described as a pipeline in a person: one operator, one AI assistant, and a network of outside labs doing the bench work he coordinates.",
+     "The Neuron confirmed the same shape from its side, reporting that Anthropic acquired a one person drug development company that used Claude to coordinate 11 labs and reported early promise in mice. Two newsletters, same picture: the laboratory is a network, and the founder is the control room."
+    ]
+   },
+   {
+    "heading": "What Claude did at the partner companies",
+    "paragraphs": [
+     "The partner results show where the hours went. At Enveda, Claude wrote a first draft of a key regulatory filing in 4 hours, work that took roughly 3 months by hand, and it also flagged seven batch record issues that humans had missed.",
+     "At Divergence Labs, three of roughly 35,000 antibodies Claude designed appeared to beat the current main drug at unhooking allergy triggers from cells. Designing candidates and drafting filings are different kinds of work. Claude is showing up in both."
+    ]
+   },
+   {
+    "heading": "The money context, stated honestly",
+    "paragraphs": [
+     "Anthropic is not hiding why this market tempts it. Its recent IPO filing pitched a global pharmaceutical market expected to top 2 trillion dollars this year. The same filing warned that its own drug bets may never generate revenue.",
+     "Hold both facts at once. The upside is one of the largest markets on earth. The risk is real enough to print in a filing. That honesty is part of why the story matters more than the hype around it."
+    ]
+   },
+   {
+    "heading": "The operator lesson for small teams",
+    "paragraphs": [
+     "Strip away the lab coats and this is a story about leverage. One founder did not hire a building full of scientists. He coordinated specialists he did not employ, with AI carrying the contracts, the scheduling, and the paper trail between them.",
+     "That is the same shape as any small creative business that punches above its size. The owner directs. Systems carry the coordination. Specialists plug in per project. The scarce skill is no longer doing every task. It is running the network without dropping a ball."
+    ],
+    "bullets": [
+     "Coordinate specialists per project instead of hiring every skill full time",
+     "Let AI carry contracts, drafts, and records while you carry decisions",
+     "Use AI as a second checker, the way the Enveda filing review caught missed issues",
+     "Say the risk out loud in your own offers, the way the filing admits the bets may fail"
+    ]
+   },
+   {
+    "heading": "One person, wider reach",
+    "paragraphs": [
+     "A solo founder reached the edge of human trials in a field that used to require an institution. The tool did not replace the labs. It made one person able to run them.",
+     "Whatever your field is, that ratio is the story to study."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Anthropic starts developing its own drugs (October 28, 2026)",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Anthropic acquisition in Around the Horn (October 28, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "biscoff-airline-cookie-global-brand",
+  "title": "How a Temporary Airline Cookie Became a Global Brand",
+  "excerpt": "Biscoff boarded Delta flights in 1986 as a temporary peanut replacement. Forty years later the cookie drives over 850 million dollars in half year revenue for Lotus, built on placement before advertising.",
+  "seoDescription": "The Biscoff story: a temporary Delta snack became the fastest growing cookie brand in the US. Placement, sampling, and the channel lesson for small brands.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-28T12:12:00.000Z",
+  "updatedAt": "2026-10-28T12:12:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/biscoff-airline-cookie-global-brand-hero.webp",
+   "alt": "Illustration of a passenger jet surrounded by airplane shaped Biscoff cookies for The Hustle story",
+   "subject": "Airplane with Biscoff cookie planes illustration",
+   "kind": "photo",
+   "sourceUrl": "https://thehustle.co/hs-fs/hubfs/Daily%20Templates%20-%202026%20Refresh%20(2)%20copy%207.png?width=1120&upscale=true&name=Daily%20Templates%20-%202026%20Refresh%20(2)%20copy%207.png",
+   "credit": "Image: Airplane and cookie illustration via The Hustle. Story source: The Hustle, October 28, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The cookie that was only supposed to visit",
+    "paragraphs": [
+     "Every flyer knows the little spiced cookie. The Hustle traced how Biscoff got into the seatback pocket, and the answer is that it was never meant to stay. The cookie began as speculoos, a Belgian baking tradition with notes of caramelized sugar, cinnamon, nutmeg, cloves, and ginger.",
+     "Lotus Bakeries started baking speculoos at scale in 1932. In the 1950s the company wrapped the cookies individually and convinced cafe owners to serve one alongside coffee, a quiet sampling program that introduced the cookie across Europe one cup at a time."
+    ]
+   },
+   {
+    "heading": "A peanut shortage opened the cabin door",
+    "paragraphs": [
+     "The break came from a crisis that had nothing to do with cookies. During the peanut shortage of the 1980s, Delta went looking for a temporary replacement for the standard airline snack and partnered with the family run Lotus in 1986, according to Serious Eats as cited by The Hustle.",
+     "Rebranded as Biscoff, a blend of biscuit and coffee, the cookie was an instant hit and the temporary swap became permanent. Delta alone now serves about 70 million packages a year. American Airlines, JetBlue, Qatar Airways, and Brussels Airlines carry it too. Research even suggests the flavor profile holds up against the taste dulling effects of air travel, which helps explain the obsession at altitude."
+    ]
+   },
+   {
+    "heading": "From cabin freebie to grocery shelf",
+    "paragraphs": [
+     "The airplane was the sample. Retail was the business. Biscoff moved onto supermarket shelves and kept multiplying: cookie butter, sandwich cookies, ice cream, and limited time collaborations with other brands. A viral pairing with Greek yogurt, nicknamed Japanese cheesecake by fans online, gave the cookie a second life on social media feeds.",
+     "The numbers show what that ladder is worth. The cookies generated more than 850 million dollars in revenue in the first half of 2026, up 14 percent year over year. Lotus has committed about 557 million dollars to global expansion, including facilities in North Carolina and Thailand. About 6 billion Biscoffs are baked each year, and Lotus calls it the fastest growing cookie brand in the United States. Its shares have climbed about 600 percent in 10 years. Only six people know the secret recipe."
+    ]
+   },
+   {
+    "heading": "Placement beat advertising",
+    "paragraphs": [
+     "Notice what is missing from this story: a famous ad campaign. Biscoff grew because it was placed where people were captive, bored, and handed a free taste at a memorable moment. The flight created the craving. The grocery store collected the money.",
+     "That order matters for small brands. Sampling inside someone else moment is worth more than shouting inside your own. A cafe saucer in the 1950s and an airline tray in 1986 are the same play at different scales: borrow a trusted setting, let the product speak once, then be easy to buy forever after."
+    ],
+    "bullets": [
+     "Put a free taste inside a setting people already trust and remember",
+     "Treat the placement as the sample and retail as the register",
+     "Extend the product into new forms only after the original wins",
+     "Protect the recipe: scarcity around how it is made keeps the story alive"
+    ]
+   },
+   {
+    "heading": "Your version of the airline tray",
+    "paragraphs": [
+     "Most businesses will never board a Delta flight, and they do not need to. Every market has trays: events, partner counters, waiting rooms, gift bags, and the feeds of people your buyers already follow.",
+     "Find the tray your buyers cannot ignore, put one perfect sample on it, and make sure the full size version is one easy step away."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle: Now boarding Biscoff (October 28, 2026)",
+    "url": "https://thehustle.co"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "axiom-ai-swarm-checks-longest-proof",
+  "title": "An AI Swarm Just Checked the Longest Proof in Math",
+  "excerpt": "Axiom pointed dozens of AI agents at the Classification of Finite Simple Groups, a proof spread across 15,000 pages no single expert has fully read. The theorem stands, and the swarm caught a false step humans missed.",
+  "seoDescription": "Axiom AI agents machine checked math longest proof in 24 days, producing 43 million lines of verified code and catching a false claim. Why verification is the product.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-28T12:08:00.000Z",
+  "updatedAt": "2026-10-28T12:08:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/axiom-ai-swarm-checks-longest-proof-hero.webp",
+   "alt": "Circular map of the Classification of Finite Simple Groups proof produced for the Axiom verification project",
+   "subject": "Map of the longest proof in math, checked by AI agents",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/3ab08b21-f392-4ade-99c7-2cf591ecb331/cfsg-blueprint-hero.png?t=1793140803",
+   "credit": "Image: Classification of Finite Simple Groups map via The Rundown AI. Story source: The Rundown AI, October 28, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The proof nobody could check alone",
+    "paragraphs": [
+     "Some work is too big for any one expert to verify. The Rundown AI reported that AI math startup Axiom completed a fully machine checked version of the Classification of Finite Simple Groups, described as the longest proof in mathematics.",
+     "The theorem is a catalog of the basic building pieces of symmetry, the parts every symmetry pattern in math breaks down into. More than 100 mathematicians produced the original across roughly 15,000 pages and more than 500 papers, and Axiom says no single expert has ever read the whole thing cover to cover. For decades the result stood on trust, because a full check was beyond human scale."
+    ]
+   },
+   {
+    "heading": "How the swarm did it in 24 days",
+    "paragraphs": [
+     "Axiom broke the mountain into 108 milestones. Then dozens of AI agents, steered by the Axiom team, rebuilt the proof as about 43 million lines of Lean, a coding language built so a computer can verify every logical step instead of taking any step on faith.",
+     "The whole effort took 24 days. That pace is the headline, but the method is the story: split an impossible job into checkable pieces, let agents draft at machine speed, and let a strict verifier accept or reject every piece before it joins the whole."
+    ]
+   },
+   {
+    "heading": "The catch that proves the point",
+    "paragraphs": [
+     "The theorem stands. But the check was not a rubber stamp. During the rebuild, the AI caught a false claim inside one key step of the original proof, a flaw that had survived decades of human scholarship, and patched it with a new proof based on 1976 work by mathematician Ronald Solomon.",
+     "That single catch justifies the entire exercise. A verification system that only agrees is decoration. This one found a real error in work the field had trusted for years, and fixed it with a proof the machine could certify."
+    ]
+   },
+   {
+    "heading": "Why this matters beyond math",
+    "paragraphs": [
+     "Every field has its 15,000 page problem: audits, archives, codebases, contracts, and catalogs too large for one careful person to recheck. The bottleneck was never intelligence alone. It was verified attention at scale.",
+     "The Axiom pattern supplies exactly that. Agents provide the attention, the verifier provides the discipline, and humans provide the steering and the judgment about what deserves checking in the first place. That division of labor travels well beyond mathematics."
+    ],
+    "bullets": [
+     "Split oversized work into milestones a checker can accept or reject",
+     "Pair fast agent drafting with a strict verification step, never drafting alone",
+     "Keep humans on steering and judgment, where taste and priorities live",
+     "Treat a caught error as proof the system works, not as an embarrassment"
+    ]
+   },
+   {
+    "heading": "Verification is the product",
+    "paragraphs": [
+     "Generation is getting cheap everywhere. What stays scarce is work a buyer can trust without rechecking it themselves. Axiom just demonstrated that trust can be manufactured with the right structure.",
+     "Build the checker into your workflow now, and your output carries a guarantee your competitors cannot match with speed alone."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Axiom AI swarm checks math longest proof (October 28, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "anthropic-ipo-filing-real-numbers",
   "title": "Anthropic Files to Go Public and Its Numbers Answer the AI Bubble Question",
   "excerpt": "Anthropic filed its S 1 to list on Nasdaq as ANT, reporting $16.3 billion in first half revenue, a profitable June quarter on an operating basis, and $417 billion in future obligations.",
