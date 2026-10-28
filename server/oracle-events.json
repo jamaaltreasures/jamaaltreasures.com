@@ -11999,5 +11999,43 @@
     "alt": "2nd Annual Treasure Coast Holiday Food Fest and Craft Fair flyer, Clover Park Port St. Lucie",
     "imageKey": "event-flyers/860-treasure-coast-holiday-food-fest.jpg",
     "endDate": "2026-12-12"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "3rd Annual Treasure Coast Food Fest & Craft Fair",
+    "date": "JANUARY 9, 12 PM TO 9 PM",
+    "headliners": "",
+    "venue": "Clover Park, Port St. Lucie",
+    "categories": [
+      "Food",
+      "Arts",
+      "Community"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://www.battlebrosevents.com/treasurecoastfoodfest",
+    "flyerUrl": "https://www.battlebrosevents.com/treasurecoastfoodfest",
+    "image": "/events/flyer/861-treasure-coast-food-fest-craft-fair.jpg",
+    "alt": "3rd Annual Treasure Coast Food Fest and Craft Fair flyer, Clover Park Port St. Lucie",
+    "imageKey": "event-flyers/861-treasure-coast-food-fest-craft-fair.jpg",
+    "endDate": "2027-01-09"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "7th Annual 321: Food Fest & Craft Fair",
+    "date": "FEBRUARY 13, 12 PM TO 8 PM AND FEBRUARY 14, 11 AM TO 6 PM",
+    "headliners": "",
+    "venue": "Wickham Park, Melbourne",
+    "categories": [
+      "Food",
+      "Arts",
+      "Community"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://www.battlebrosevents.com/321foodfest",
+    "flyerUrl": "https://www.battlebrosevents.com/321foodfest",
+    "image": "/events/flyer/862-321-food-fest-craft-fair.jpg",
+    "alt": "7th Annual 321 Food Fest and Craft Fair flyer, Wickham Park Melbourne",
+    "imageKey": "event-flyers/862-321-food-fest-craft-fair.jpg",
+    "endDate": "2027-02-14"
   }
 ]
