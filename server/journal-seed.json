@@ -1,5 +1,353 @@
 [
  {
+  "slug": "google-gemini-4-carbon-benchmark-crown",
+  "title": "Google Gemini 4 Carbon Takes the Benchmark Crown, for Now",
+  "excerpt": "Google unveiled Gemini 4 Carbon, a frontier model built for cybersecurity and long coding work. It tops 15 of 17 benchmarks on Google charts, costs less than its rivals at launch, and almost nobody can use it yet.",
+  "seoDescription": "Gemini 4 Carbon scores 59 on the Artificial Analysis Intelligence Index and leads on hacking, reasoning, and workflow tests. What the numbers mean for builders.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-29T12:04:00.000Z",
+  "updatedAt": "2026-10-29T12:04:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/google-gemini-4-carbon-benchmark-crown-hero.webp",
+   "alt": "Benchmark table comparing Gemini 4 Carbon with Gemini 4 Argon, GPT 6 Astra, and Claude models across coding, computer use, and cybersecurity tests",
+   "subject": "Gemini 4 Carbon benchmark comparison chart",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/52171b5e-72db-45e0-b2d5-7575f81b2434/carbon-bench.png?t=1793216764",
+   "credit": "Image: Google benchmark chart via The Rundown AI. Story source: The Rundown AI, October 29, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A comeback written in benchmark numbers",
+    "paragraphs": [
+     "Google spent much of 2026 playing catch up in the AI race. The Rundown AI led its October 29 edition with the countermove: Gemini 4 Carbon, a new frontier model built for cybersecurity and long running coding work, unveiled just four weeks after Gemini 4 Argon.",
+     "On Google's own charts, Carbon tops 15 of 17 benchmarks. Its score of 59 on the Artificial Analysis Intelligence Index takes the top spot from Claude Opus 5.5 and improves nine points over Argon. The widest wins came on long input reasoning, up 24 points on its rivals, then hacking at plus 12, workflow automation at plus 11, and math at plus 8."
+    ]
+   },
+   {
+    "heading": "Built to find and fix security holes",
+    "paragraphs": [
+     "The Neuron filled in what Carbon is actually for. Google says the model is made to find, verify, and patch software vulnerabilities, and that internal teams watched it work for days inside huge codebases, hitting dead ends and trying again until it tracked down subtle bugs.",
+     "One detail says a lot about where the field is heading. Google says Carbon basically stopped cheating on Terminal Bench 4.0, a coding test that models are known to game. Attempts fell to 0.4 percent, and successful attempts fell to zero. A model that refuses to fake the answer is worth more to a security team than a model that merely scores higher."
+    ]
+   },
+   {
+    "heading": "Cheaper at the door, with a catch",
+    "paragraphs": [
+     "Carbon's introductory API price is two dollars per million tokens in and ten dollars per million tokens out. The Rundown AI notes that is half the price of Opus 5.5 and one fifth the price of OpenAI Astra, though the rate doubles to match Opus after the introductory discount ends.",
+     "The bigger catch is access. Carbon is not public. Only select cyber defenders can use it to start, and The Neuron reports that Google plans to widen access through its Fairwind Program, with general developers and everyday users waiting behind them. Google has given no date for wider access, and Argon took about two weeks to move from debut to defender access."
+    ]
+   },
+   {
+    "heading": "Why creators and builders should care",
+    "paragraphs": [
+     "A model this strong at long coding sessions, workflow automation, and computer use is not just a lab story. Those are the exact muscles behind the tools creators already pay for: editing assistants, research agents, and automation that runs while you shoot, travel, or sleep.",
+     "The honest read is patience. Nobody outside the defender circle can test these numbers yet, and both newsletters made the same point: at the pace OpenAI and Anthropic are shipping, the rankings could change well before Carbon opens to the public."
+    ],
+    "bullets": [
+     "Watch the Fairwind Program widening, because that is the real launch date",
+     "Compare Carbon on long tasks, not short prompts, when access opens",
+     "Price your workflows at the post discount rate, not the launch rate",
+     "Treat vendor benchmark charts as claims until outside testers report back"
+    ]
+   },
+   {
+    "heading": "The crown is rented, not owned",
+    "paragraphs": [
+     "Two frontier models in four weeks is a statement from Google, and the numbers back the statement up. But a crown nobody can wear yet is a promise, not a product.",
+     "When Carbon opens up, the test that matters is simple: give it a real codebase, a real workflow, and a full day. The model that finishes the work wins, whatever the chart said in October."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Google Gemini 4 Carbon tops the charts (October 29, 2026)",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Google cloud doubled. Stock fell. (October 29, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "new-york-ai-chatbot-law-kids",
+  "title": "New York Just Wrote the Rules for AI Chatbots and Kids",
+  "excerpt": "New York new law bans AI chatbots from pretending to be human with users under 18, forces real age checks on everyone else, and puts model destruction on the table as a penalty. Every creator building with chatbots should read the list.",
+  "seoDescription": "New York law signed October 28 sets hard rules for AI chatbots used by minors, with penalties up to 25,000 dollars per violation. The audit list for builders.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-29T12:00:00.000Z",
+  "updatedAt": "2026-10-29T12:00:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/new-york-ai-chatbot-law-kids-hero.webp",
+   "alt": "Illustration of a cat holding a phone with a smiling chatbot face and a locked shield, under the headline New York sets rules for kids AI chatbots",
+   "subject": "New York AI chatbot rules illustration from The Neuron",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/386bdaa4-bef0-4026-acfa-8871d4b69ed7/New_York_AI_Chatbot_Shield.png?t=1793253614",
+   "credit": "Image: The Neuron Daily illustration. Story source: The Neuron, October 29, 2026"
+  },
+  "sections": [
+   {
+    "heading": "What a chatbot may no longer do with a child",
+    "paragraphs": [
+     "What should an AI chatbot be allowed to say to a child? New York now has an answer in law. The Neuron reported that Governor Kathy Hochul signed the law on October 28, and that it governs what the bot does, not just what companies disclose.",
+     "For users under 18, companies cannot offer a chatbot that pretends to be a real person, to be alive, or to have human emotions. The bot cannot claim a personal, romantic, professional, or authority figure relationship with a child. It cannot ask unprompted emotional questions or reuse a child's private information from earlier conversations. Promoting suicide, self harm, eating disorders, or drug and alcohol use is banned, as is encouraging kids to keep secrets or avoid trusted adults, and sexually explicit content is banned outright."
+    ]
+   },
+   {
+    "heading": "The age check is the part that reaches everyone",
+    "paragraphs": [
+     "Two details reach beyond kids' accounts. First, the limits apply to any user unless the company has confirmed that person is an adult. Companies must offer more than one age verification method, at least one of them cannot rely solely on government ID, and age data must be deleted after use.",
+     "The Neuron put the practical point plainly: that makes age checks a product design choice, not a signup form. Any team shipping a chatbot that minors can reach now has to design the front door of the product around this law, even if kids are not the intended audience."
+    ]
+   },
+   {
+    "heading": "Penalties with real teeth",
+    "paragraphs": [
+     "Enforcement is the second detail. The attorney general can seek civil penalties of up to 25,000 dollars per violation, plus damages, plus destruction of unlawfully collected data or of AI models trained on it. The Neuron notes that model destruction is a remedy the state can request, not an automatic result, but its presence in the law changes the risk math for any company training on conversation data.",
+     "The bill passed the Assembly unanimously in June. Supporters such as Common Sense Media argued that kids need guardrails as chatbots get more lifelike, and sponsor Alex Bores cited Adam Raine, a teenager whose family alleges he died by suicide after interactions with ChatGPT. Critics such as the Business Council of New York State said the definition of a chatbot is too broad and could keep minors from useful online tools."
+    ]
+   },
+   {
+    "heading": "A state template while federal rules lag",
+    "paragraphs": [
+     "Federal AI rules are still unsettled, so states are setting their own, and New York's list is concrete enough to audit against today. The start date is the one fuzzy part: the governor's office says the features will be blocked in the coming months, while The Neuron news digest listed a January 1, 2027 start, so teams should check the date before planning around it.",
+     "For creators and founders, the lesson travels well beyond New York. If your site, course, community, or client project includes a chatbot, assume a minor can reach it and design for that reader first."
+    ],
+    "bullets": [
+     "Audit any chatbot you ship against the banned behavior list above",
+     "Offer more than one way to confirm a user is an adult, and delete age data after use",
+     "Keep private details from earlier chats out of later chats with young users",
+     "Watch whether other states copy the New York language, because templates spread fast"
+    ]
+   },
+   {
+    "heading": "Guardrails are becoming a feature",
+    "paragraphs": [
+     "The companies that treat these rules as a design brief, not a legal headache, will ship the chatbots parents and schools actually trust.",
+     "Trust is about to be a selling point. Build like it."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: New York signed a law setting rules for AI chatbots and kids (October 29, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "business-website",
+   "brand-spot"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "huupe-smart-hoop-20-million-sales",
+  "title": "Huupe Turned a Basketball Hoop Into a 20 Million Dollar Business",
+  "excerpt": "Huupe put live coaching, workouts, and real time stats inside the hoop itself. The Hustle traced the road from a bootstrapped prototype and a Shark Tank pass to 11 million raised, 50,000 users, and nearly 20 million dollars in sales.",
+  "seoDescription": "The Huupe story: two founders bootstrapped a smart hoop, survived a Shark Tank rejection, and built 20 million dollars in sales. Lessons for product founders.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-29T11:56:00.000Z",
+  "updatedAt": "2026-10-29T11:56:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/huupe-smart-hoop-20-million-sales-hero.webp",
+   "alt": "A young player in a red jersey shooting a basketball toward an outdoor hoop against a dark blue background",
+   "subject": "Player shooting on a basketball hoop",
+   "kind": "photo",
+   "sourceUrl": "https://thehustle.co/hs-fs/hubfs/Daily%20Templates%20-%202026%20Refresh%20(2)%20copy%208.png?width=1120&upscale=true&name=Daily%20Templates%20-%202026%20Refresh%20(2)%20copy%208.png",
+   "credit": "Image: Basketball hoop photo illustration via The Hustle. Story source: The Hustle, October 29, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Somewhere, a stranger is shooting 85 percent",
+    "paragraphs": [
+     "Somewhere out there, a player is hitting 85 percent of their three pointers under an anonymous username. The Hustle opened its October 29 story with that hook, and the math is why it lands: the highest NBA career three point percentage is 45.4 percent, held by coach and former player Steve Kerr. Either that anonymous shooter is already a superstar, or the training tool deserves a look.",
+     "The tool is Huupe, a smart basketball system with NBA level workouts, live coaching, and real time stats, built into the hoop itself. Co founder and CEO Paul Anton told The Hustle that people using the swish tracker on the platform are seeing a 4 to 4.5 percent increase in their stats every week."
+    ]
+   },
+   {
+    "heading": "A remote game became a hoop with a brain",
+    "paragraphs": [
+     "In 2017, Anton created a product that let him and others play basketball remotely from different cities. The leap came in 2019, when his friend and co founder Lyth Saeed proposed putting the game inside the hoop.",
+     "The co founders each bootstrapped about 60,000 dollars in personal funds for a prototype. From there, Anton said, it took dozens of iterations, maybe hundreds, plus weatherproofing for outdoor use, to reach the product players use today."
+    ]
+   },
+   {
+    "heading": "Shark Tank said no, and the episode never aired",
+    "paragraphs": [
+     "An early prototype made the 2,000 mile trek from Milwaukee to Los Angeles for a shot at Shark Tank. The sharks passed, and the episode never even aired. Anton called it a motivating experience: it could have crushed the company, but they chose to keep going.",
+     "That motivation turned into a 400,000 dollar pre seed round that grew to 2 million dollars. The company has now raised 11 million dollars in total, and Anton says it is self sustaining today, even with a new obstacle: an AI chip shortage has pushed costs on some chips up ten times, and supply stays tight enough to complicate production every few months."
+    ]
+   },
+   {
+    "heading": "The scoreboard that matters",
+    "paragraphs": [
+     "In the 15 months after the Huupe Mini launched, the company recorded nearly 20 million dollars in sales. More than 50,000 users now play in schools, gyms, and driveways. NBA players Tracy McGrady, Vince Carter, Thaddeus Young, and Trevor Booker are among its users.",
+     "The lineup runs from the indoor Mini 2 to the full size Huupe PRO, plus the new Huupe Arena, a kit that makes any hoop smart. Anton described the real product in one line: players finish shooting in a driveway and come inside saying they did not miss today, because the stats arrive in real time and give them a feeling of connectivity."
+    ],
+    "bullets": [
+     "Sell the feeling the data creates, not the sensor that collects it",
+     "Let a public rejection fund your motivation, then raise on progress, not pity",
+     "Start with one beloved use case, then expand the lineup around it",
+     "Plan for supply shocks early when your product depends on scarce chips"
+    ]
+   },
+   {
+    "heading": "Feedback is the feature",
+    "paragraphs": [
+     "Huupe did not win by making a better hoop. It won by making practice answer back. Every shooter already knew how shooting felt; Huupe told them, in numbers, whether it worked.",
+     "Any product can borrow that move. Give people honest feedback at the exact moment they act, and practice, work, and play all get stickier."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle: Shooting hoops, how hoop dreams became a 20m reality (October 29, 2026)",
+    "url": "https://thehustle.co"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "tampa-pro-womens-basketball-second-try",
+  "title": "Tampa Is Getting a Pro Women's Basketball Team, and It Tried Before",
+  "excerpt": "Creative Loafing Tampa Bay reports that Tampa is set to get a professional women's basketball team. The first try was the Tampa Bay Sun of 1980, a team announced with big plans, a 36 game schedule, and a home court that was not finished yet.",
+  "seoDescription": "Tampa pro women's basketball is coming back, per Creative Loafing. The 1980 Tampa Bay Sun story shows what the first attempt looked like and what to watch now.",
+  "category": "events",
+  "serviceId": "event-coverage",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-10-29T11:52:00.000Z",
+  "updatedAt": "2026-10-29T11:52:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/tampa-pro-womens-basketball-second-try-hero.webp",
+   "alt": "A 1980 Tampa Times newspaper page headlined Sun rises on Tampa Bay horizon, about the Tampa Bay Sun women's basketball team",
+   "subject": "1980 Tampa Times story on the Tampa Bay Sun",
+   "kind": "photo",
+   "sourceUrl": "https://www.cltampa.com/wp-content/uploads/2026/10/Tampa-Bay-Sun-Story.png",
+   "credit": "Image: 1980 Tampa Times clipping via Creative Loafing Tampa Bay. Story source: Creative Loafing Tampa Bay, October 28, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Pro women's hoops are coming back to Tampa",
+    "paragraphs": [
+     "Tampa is set to get a professional women's basketball team. Creative Loafing Tampa Bay carried that headline in its October 28 newsletter, with one important piece of context attached: it is not the city's first try at bringing pro hoops to town.",
+     "That context matters because Tampa Bay sports fans have seen this movie before, and the first version is a genuinely good story. It starts in the summer of 1980, with a team name revealed on a Wednesday, a schedule already printed, and almost everything else still up in the air."
+    ]
+   },
+   {
+    "heading": "1980: the Tampa Bay Sun rises, slowly",
+    "paragraphs": [
+     "The first team was the Tampa Bay Sun of the Women's Basketball League. A Tampa Times report from August 15, 1980, republished with the Creative Loafing story, said the franchise had been officially identified as the Sun that week and had released a 36 game schedule, with a league opener set for December 5 against the St. Louis Streak.",
+     "The Sun coach was Tom Mosca, a school teacher and basketball coach at Robinson High School, who was set to resign once team owner Bill Byrne arrived to open the team for business. Byrne had a complication no modern expansion owner faces: he founded the league and was still serving as its commissioner in New York, and league matters kept delaying his move to Tampa by weeks."
+    ]
+   },
+   {
+    "heading": "A team waiting on its building",
+    "paragraphs": [
+     "The hardest problem was the home court. The Sun had confirmed its game dates at the University of South Florida Sun Dome, but construction delays put the 18 home dates at risk, including a four game season opening homestand in December. Backup options under consideration were the St. Petersburg Bayfront Center, Curtis Hixon Hall, and the Hillsborough Community College gym.",
+     "Roster building ran on the same clock. The team was negotiating with the ten players it had drafted that June, chasing free agent Liz Silcott, the league second leading scorer at 30.2 points per game with San Francisco, and working on a trade with New Orleans for forward Cindy Brogdon, a University of Tennessee player who had kept her amateur status for the Olympics. Mosca admitted the delays had hurt the team's credibility, and answered it the way coaches do: once we get started, everything should be fine."
+    ]
+   },
+   {
+    "heading": "What the second try inherits",
+    "paragraphs": [
+     "Read that 1980 clipping today and the lessons write themselves. A team is a schedule, a building, and a roster, and it needs all three locked before the first ticket is sold. The Sun had the schedule first and spent the summer chasing the other two.",
+     "Tampa Bay is a different sports town now, with a proven appetite for live events and championship runs across its other teams. A women's pro team arriving with its building, dates, and players settled would start miles ahead of where the Sun started, and would add a new anchor to the local events calendar that this site tracks every week."
+    ],
+    "bullets": [
+     "Watch for the new team name and league to be announced",
+     "Watch for the home court, because the building decided the Sun story in 1980",
+     "Watch for opening dates, which belong on every Tampa Bay events calendar",
+     "Watch for local player signings, the fastest route to a hometown crowd"
+    ]
+   },
+   {
+    "heading": "Second tries are a Tampa Bay tradition",
+    "paragraphs": [
+     "Plenty of things this region loves arrived on a second or third attempt. If the new team learns the Sun lessons, building first, roster early, dates locked, Tampa may finally keep the pro women's basketball team it was promised in 1980.",
+     "When the first home game lands on the calendar, we will be watching for it."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "creative-loafing-tampa-bay",
+    "title": "Creative Loafing Tampa Bay: Tampa is set to get a professional women's basketball team, but it is not the city's first try (October 28, 2026)",
+    "url": "https://www.cltampa.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "event-coverage",
+   "photography"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Cover my event",
+   "price": 2000,
+   "serviceId": "event-coverage"
+  },
+  "nextClick": {
+   "label": "See what is on the Event Radar",
+   "url": "/events"
+  }
+ },
+ {
   "slug": "google-genie-4-worlds-sound-conversation",
   "title": "Google Genie 4 Builds AI Worlds You Can Talk To",
   "excerpt": "Google DeepMind Genie 4 turns a prompt into a photorealistic world you can walk through, complete with its own sound and characters who hold live conversations. It looks like a director tool as much as a game engine.",
