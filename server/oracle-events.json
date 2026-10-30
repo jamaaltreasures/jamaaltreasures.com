@@ -12016,5 +12016,23 @@
     "alt": "20th Annual Barktoberfest logo, Seville Square, Pensacola",
     "imageKey": "event-flyers/872-barktoberfest-pensacola.jpg",
     "endDate": "2026-11-15"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "David Guetta: New Years Eve at Fontainebleau Miami Beach",
+    "date": "DECEMBER 31, 9 PM TO 2 AM",
+    "headliners": "David Guetta",
+    "venue": "Sparkle Theatre at Fontainebleau Miami Beach, Miami Beach",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.fontainebleau.com/nye-david-guetta/",
+    "flyerUrl": "https://www.prnewswire.com/news-releases/fontainebleau-miami-beach-reimagines-new-years-eve-2027-as-its-most-elevated-celebration-yet-a-first-ever-fully-indoor-experience-headlined-by-grammy-winning-artist-david-guetta-302923171.html",
+    "image": "/events/flyer/873-david-guetta-nye-fontainebleau.jpg",
+    "alt": "David Guetta New Years Eve flyer, Sparkle Theatre at Fontainebleau Miami Beach",
+    "imageKey": "event-flyers/873-david-guetta-nye-fontainebleau.jpg",
+    "endDate": "2027-01-01"
   }
 ]
