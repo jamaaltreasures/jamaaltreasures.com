@@ -12008,5 +12008,60 @@
     "alt": "Gingerbread Wars 5 flyer, December 7 at Tower Club, Fort Lauderdale, benefiting FLITE Center",
     "imageKey": "event-flyers/866-gingerbread-wars-5-fort-lauderdale.jpg",
     "endDate": "2026-12-07"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Yung Miami at LIV Miami",
+    "date": "NOVEMBER 1, 11:30 PM",
+    "headliners": "Yung Miami",
+    "venue": "LIV Nightclub, Miami Beach",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261101/yung-miami/",
+    "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261101/yung-miami/",
+    "image": "/events/flyer/867-yung-miami-at-liv-miami.jpg",
+    "alt": "Yung Miami at LIV Miami event flyer",
+    "imageKey": "event-flyers/867-yung-miami-at-liv-miami.jpg",
+    "endDate": "2026-11-02"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Shenseea at LIV Miami",
+    "date": "NOVEMBER 8, 11:30 PM",
+    "headliners": "Shenseea",
+    "venue": "LIV Nightclub, Miami Beach",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261108/shenseea/",
+    "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261108/shenseea/",
+    "image": "/events/flyer/868-shenseea-at-liv-miami.jpg",
+    "alt": "Shenseea at LIV Miami event flyer",
+    "imageKey": "event-flyers/868-shenseea-at-liv-miami.jpg",
+    "endDate": "2026-11-09"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Festival del Platano, Miami",
+    "date": "NOVEMBER 15, 12 PM TO 6 PM",
+    "headliners": "",
+    "venue": "Juan Pablo Duarte Park, Miami",
+    "categories": [
+      "Food",
+      "Festival",
+      "Community"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.miamiandbeaches.com/event/festival-del-platano/34671",
+    "flyerUrl": "https://www.soulofmiami.org/2026/10/27/festival-del-platano-11-15-26/",
+    "image": "/events/flyer/869-festival-del-platano-miami.jpg",
+    "alt": "Festival del Platano flyer, Juan Pablo Duarte Park, Miami",
+    "imageKey": "event-flyers/869-festival-del-platano-miami.jpg",
+    "endDate": "2026-11-15"
   }
 ]
