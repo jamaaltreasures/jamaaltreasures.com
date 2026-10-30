@@ -12034,5 +12034,59 @@
     "alt": "David Guetta New Years Eve flyer, Sparkle Theatre at Fontainebleau Miami Beach",
     "imageKey": "event-flyers/873-david-guetta-nye-fontainebleau.jpg",
     "endDate": "2027-01-01"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Hillsborough County Fair",
+    "date": "NOVEMBER 5 TO 15",
+    "headliners": "",
+    "venue": "Hillsborough County Fairgrounds, Dover",
+    "categories": [
+      "Food",
+      "Community"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.hillsboroughcountyfair.com/p/tickets",
+    "flyerUrl": "https://www.hillsboroughcountyfair.com/",
+    "image": "/events/flyer/874-hillsborough-county-fair-dover.jpg",
+    "alt": "Hillsborough County Fair 2026 Celebrate America poster, Hillsborough County Fairgrounds, Dover",
+    "imageKey": "event-flyers/874-hillsborough-county-fair-dover.jpg",
+    "endDate": "2026-11-15"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Heat for Heroes Chili Cook Off",
+    "date": "NOVEMBER 8, 11 AM TO 2 PM",
+    "headliners": "",
+    "venue": "VFW Post 10140, Tampa",
+    "categories": [
+      "Food",
+      "Community"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.zeffy.com/en-US/ticketing/heat-for-heroes-chili-cook-off-2",
+    "flyerUrl": "https://www.zeffy.com/en-US/ticketing/heat-for-heroes-chili-cook-off-2",
+    "image": "/events/flyer/875-heat-for-heroes-chili-cook-off-tampa.jpg",
+    "alt": "Heat for Heroes Chili Cook Off flyer, VFW Post 10140, Tampa",
+    "imageKey": "event-flyers/875-heat-for-heroes-chili-cook-off-tampa.jpg",
+    "endDate": "2026-11-08"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Wellen Park Wine Festival",
+    "date": "NOVEMBER 14, 1 PM TO 4 PM",
+    "headliners": "",
+    "venue": "Downtown Wellen Park, Venice",
+    "categories": [
+      "Food",
+      "Community"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/wellen-park-wine-festival-tickets-1990418718969",
+    "flyerUrl": "https://www.eventbrite.com/e/wellen-park-wine-festival-tickets-1990418718969",
+    "image": "/events/flyer/876-wellen-park-wine-festival-venice.jpg",
+    "alt": "Wellen Park Wine Festival photo, Downtown Wellen Park, Venice",
+    "imageKey": "event-flyers/876-wellen-park-wine-festival-venice.jpg",
+    "endDate": "2026-11-14"
   }
 ]
