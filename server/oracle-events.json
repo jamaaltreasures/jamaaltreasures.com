@@ -12088,5 +12088,115 @@
     "alt": "Wellen Park Wine Festival photo, Downtown Wellen Park, Venice",
     "imageKey": "event-flyers/876-wellen-park-wine-festival-venice.jpg",
     "endDate": "2026-11-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Flavor Fest 2026",
+    "date": "NOVEMBER 5 TO 8",
+    "headliners": "Lecrae, KB, Miles Minnick, Yung Kriss, Datin, Gifted Hands",
+    "venue": "Crossover Church, Tampa",
+    "categories": [
+      "Music",
+      "Festival",
+      "Business"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://events.humanitix.com/2026-flavor-fest-conference",
+    "flyerUrl": "https://www.flavorfest.org/about",
+    "image": "/events/flyer/877-flavor-fest-2026-tampa.jpg",
+    "alt": "Flavor Fest 2026 Mandate to Multiply poster, Crossover Church, Tampa",
+    "imageKey": "event-flyers/877-flavor-fest-2026-tampa.jpg",
+    "endDate": "2026-11-08"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "FusionFest 2026",
+    "date": "NOVEMBER 28 TO 29",
+    "headliners": "",
+    "venue": "Loch Haven Park, Orlando",
+    "categories": [
+      "Arts",
+      "Culture",
+      "Festival"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://fusionfest.org/",
+    "flyerUrl": "https://fusionfest.org/",
+    "image": "/events/flyer/878-fusionfest-orlando.jpg",
+    "alt": "FusionFest 2026 poster, 9th Annual Edition, Loch Haven Park, Orlando",
+    "imageKey": "event-flyers/878-fusionfest-orlando.jpg",
+    "endDate": "2026-11-29"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Winter Jam 2027, Jacksonville",
+    "date": "JANUARY 15",
+    "headliners": "Crowder, Anne Wilson, Andy Mineo, Strings and Heart, Terrian, RED, NewSong",
+    "venue": "VyStar Veterans Memorial Arena, Jacksonville",
+    "categories": [
+      "Music",
+      "Festival"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://jamtour.com/01-15-Jacksonville.html",
+    "flyerUrl": "https://jamtour.com/",
+    "image": "/events/flyer/879-winter-jam-2027-jacksonville.jpg",
+    "alt": "Winter Jam 2027 tour poster, VyStar Veterans Memorial Arena, Jacksonville",
+    "imageKey": "event-flyers/879-winter-jam-2027-jacksonville.jpg",
+    "endDate": "2027-01-15"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Winter Jam 2027, Tampa",
+    "date": "JANUARY 16, 6 PM",
+    "headliners": "Crowder, Anne Wilson, Andy Mineo, Strings and Heart, Terrian, RED, NewSong",
+    "venue": "Yuengling Center, Tampa",
+    "categories": [
+      "Music",
+      "Festival"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://jamtour.com/01-16-Tampa.html",
+    "flyerUrl": "https://jamtour.com/",
+    "image": "/events/flyer/880-winter-jam-2027-tampa.jpg",
+    "alt": "Winter Jam 2027 tour poster, Yuengling Center, Tampa",
+    "imageKey": "event-flyers/880-winter-jam-2027-tampa.jpg",
+    "endDate": "2027-01-16"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "National Singer-Songwriter Competition",
+    "date": "FEBRUARY 5, 6 PM TO 8 PM",
+    "headliners": "",
+    "venue": "Bergeron Rodeo Grounds, Davie",
+    "categories": [
+      "Music",
+      "Community"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://sffolk.org/south-florida-folk-and-acoustic-music-festival-overview/south-florida-folk-and-acoustic-music-festival-performer-and-songwriter-information-2027/",
+    "flyerUrl": "https://sffolk.org/south-florida-folk-and-acoustic-music-festival-overview/south-florida-folk-and-acoustic-music-festival-performer-and-songwriter-information-2027/",
+    "image": "/events/flyer/881-national-singer-songwriter-competition-davie.jpg",
+    "alt": "National Singer Songwriter Competition flyer, South Florida Folk and Acoustic Music Festival, Bergeron Rodeo Grounds, Davie",
+    "imageKey": "event-flyers/881-national-singer-songwriter-competition-davie.jpg",
+    "endDate": "2027-02-05"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "South Florida Singer-Songwriter Competition",
+    "date": "JANUARY 10, 2 PM TO 5 PM",
+    "headliners": "",
+    "venue": "Anne Kolb Nature Center, Hollywood",
+    "categories": [
+      "Music",
+      "Community"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://sffolk.org/south-florida-folk-and-acoustic-music-festival-overview/south-florida-folk-and-acoustic-music-festival-performer-and-songwriter-information-2027/",
+    "flyerUrl": "https://sffolk.org/south-florida-folk-and-acoustic-music-festival-overview/south-florida-folk-and-acoustic-music-festival-performer-and-songwriter-information-2027/",
+    "image": "/events/flyer/882-south-florida-singer-songwriter-competition-hollywood.jpg",
+    "alt": "South Florida Singer Songwriter Competition flyer, Anne Kolb Nature Center, Hollywood",
+    "imageKey": "event-flyers/882-south-florida-singer-songwriter-competition-hollywood.jpg",
+    "endDate": "2027-01-10"
   }
 ]
