@@ -1,5 +1,224 @@
 [
  {
+  "slug": "ironman-race-surge-young-racers-jacksonville",
+  "title": "Ironman Signups Surged and Young Racers Are Leading the Boom",
+  "excerpt": "Ironman races drew 250,000 registrants in 2025, and racers under 30 grew 35 percent in one year. Four new races arrived this year, including one in Jacksonville, Florida, and host cities are cashing in.",
+  "seoDescription": "Ironman participation surged to 250,000 registrants with racers under 30 up 35 percent. A new Jacksonville race shows what endurance events pay host cities.",
+  "category": "events",
+  "serviceId": "event-coverage",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-01T13:04:00.000Z",
+  "updatedAt": "2026-11-01T13:04:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/ironman-race-surge-young-racers-jacksonville-hero.webp",
+   "alt": "A racer shouting as he crosses the finish line at an Ironman 70.3 race in Malaga in front of a cheering crowd",
+   "subject": "Racer crossing the finish line at an Ironman 70.3 race",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-10-29/image-7edc990eff0c30585aa56c68b7c2ffb774e814ed-3500x2334-jpg/GettyImages-2300789105.jpg",
+   "credit": "Image: Jan Hetfleisch, Getty Images via Morning Brew. Story source: Morning Brew, November 1, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A quarter million people signed up to suffer",
+    "paragraphs": [
+     "Morning Brew devoted its Sunday edition to endurance sports, and the Ironman numbers lead the story. A full Ironman means a 2.4 mile swim, a 112 mile bike ride, and a 26.2 mile run, and it can take up to 17 hours to finish. The shorter Ironman 70.3 covers half that distance and still leaves most people crying on the ground, in the words of the Brew.",
+     "Despite every chance to stay on the couch, participation surged around the world in 2025. The races drew 250,000 registrants, and newcomers rose 10 percent from the year before. Growth like that turns a niche fitness hobby into a serious events business with real money moving through every host city it touches."
+    ]
+   },
+   {
+    "heading": "The youngest racers are growing the fastest",
+    "paragraphs": [
+     "The sharpest growth is coming from the youngest athletes. Participants under 30 grew 35 percent in a single year, and the number of first timers under 30 has more than doubled since 2019. In North America, racers under 30 rose 23 percent for the full Ironman and 29 percent for the 70.3 race.",
+     "Morning Brew points to an obvious engine behind that growth: the finish line photographs beautifully. Young racers train in public, post their progress, and bring their friends into the sport. Every finisher becomes a walking advertisement that the next wave of signups can picture themselves in, which is exactly how an event brand compounds without buying attention."
+    ]
+   },
+   {
+    "heading": "Florida got a new race, and hosts get paid",
+    "paragraphs": [
+     "Four new races were added this year in Ruidoso, New Mexico, Omaha, Nebraska, Dallas, Texas, and Jacksonville, Florida. That Jacksonville addition puts one of the fastest growing endurance brands in the world on Florida soil, close enough for Tampa Bay and Sarasota creators to watch the playbook up close.",
+     "Host cities fight for these weekends because racers travel, stay in hotels, and eat locally for days. Ironman Wales in Tenby carries a reported economic impact of about 9.7 million dollars for the city and its surrounding areas, valuable enough that Tenby signed a new hosting lease this year. Professionals race for a share of a 6 million dollar annual prize pool, and everyone else pays for the privilege of the pain."
+    ]
+   },
+   {
+    "heading": "What event builders can steal from this",
+    "paragraphs": [
+     "The lesson for anyone who runs events in Florida is that difficulty itself can be the product. People are not only buying a race. They are buying proof they can do something hard, a story worth telling, and content their audience will respect. Events that give participants a visible achievement to share will always outdraw events that only offer a good time.",
+     "If you promote a run, a tournament, a festival, or a challenge of any kind, build the finish line moment first. Give people a backdrop worth filming, a result worth posting, and a reason to bring a friend next year. Ironman grew to a quarter million registrants by selling transformation. Your event can borrow that same engine at any size."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Endurance Brew (November 1, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "event-coverage",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Cover my event",
+   "price": 2000,
+   "serviceId": "event-coverage"
+  },
+  "nextClick": {
+   "label": "See what is on the Event Radar",
+   "url": "https://jamaaltreasures.com/events"
+  }
+ },
+ {
+  "slug": "darecations-extreme-sports-tourism-boom",
+  "title": "Darecations Are Turning Extreme Sports Into a 99 Billion Dollar Trip",
+  "excerpt": "Travelers are booking vacations built around volcano marathons, Antarctic dives, and ultramarathons instead of rest. Extreme sports tourism is set to grow from 30.5 billion dollars to 99.7 billion by 2034.",
+  "seoDescription": "Darecations explained: extreme sports tourism grows from 30.5 billion toward 99.7 billion dollars as travelers book races and challenges instead of rest.",
+  "category": "events",
+  "serviceId": "event-coverage",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-01T13:00:00.000Z",
+  "updatedAt": "2026-11-01T13:00:00.000Z",
+  "readingMinutes": 2,
+  "image": {
+   "src": "/assets/editorial/darecations-extreme-sports-tourism-boom-hero.webp",
+   "alt": "A trail runner with trekking poles passing an illuminated temple at night during an ultramarathon in Asia",
+   "subject": "Trail runner racing at night on a UTMB World Series course",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-10-29/image-6576ab59506ec7faa499857c7ce67190cd6802c9-3600x2400-jpg/MBD-SundaySpecial-EnduranceBrew-Darecations-1026.JPG",
+   "credit": "Image: UTMB via Morning Brew. Story source: Morning Brew, November 1, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The vacation is now the workout",
+    "paragraphs": [
+     "Morning Brew calls them darecations: trips built around intense physical challenges in faraway places instead of rest. Think of running the highest marathon in the world, which in 2026 started at the summit of a Chilean volcano 22,615 feet above sea level, scuba diving in Antarctica, or joining an 11 month camping expedition across Africa.",
+     "The demand numbers are striking. Adventure tourism searches on Pinterest rose 75 percent in the past year, and Google searches for a marathon abroad skyrocketed 1,255 percent. Adventure insurance policies for activities like mountain trekking shot up 182 percent in the last two years, according to the insurer SportsCover Direct."
+    ]
+   },
+   {
+    "heading": "A market headed toward 100 billion dollars",
+    "paragraphs": [
+     "The global extreme sports tourism industry is expected to grow to 99.7 billion dollars by 2034, up from 30.5 billion dollars in 2024, according to Allied Market Research figures cited by Morning Brew. That is a market tripling in a decade on the strength of people paying to be exhausted in beautiful places.",
+     "Organizers are racing to supply it. The UTMB World Series, which runs trail running and ultramarathon events around the world, expanded to more than 60 races last year, up from just 25 in 2022. When a series can more than double its calendar in three years and still fill start lines, the appetite is clearly bigger than the supply."
+    ]
+   },
+   {
+    "heading": "Content is the fuel under the trend",
+    "paragraphs": [
+     "Industry insiders told Morning Brew the trend rides on two forces: a growing obsession with extreme fitness, and the appeal of experiences that make powerful social media material. One adventure entrepreneur told the BBC that content showing celebrities pushing themselves to their limits has helped sell adventure travel to everyday audiences.",
+     "That should sound familiar to any creator. The challenge is the content. A volcano summit start line, a night trail lit by a temple, or a finish in the desert gives a traveler a story no resort pool can match, and every post recruits the next customer. The experience markets itself through the people brave enough to attempt it."
+    ]
+   },
+   {
+    "heading": "The Florida angle on adventure travel",
+    "paragraphs": [
+     "Florida already sells sunshine and water. The darecation trend suggests a second product: signature challenges visitors can train for, travel for, and film. Ocean swims, paddle races, trail runs through state parks, and sunrise challenges on the Gulf could all be packaged as trips with a medal and a story at the end.",
+     "For event organizers and tourism businesses here, the play is simple. Build one challenge hard enough to respect, safe enough to finish, and scenic enough to post. Price the full weekend, partner with hotels and local guides, and let participants create the advertising. Travelers have made it clear they will fly for a finish line. Florida just has to draw one worth crossing."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Endurance Brew (November 1, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "event-coverage",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Cover my event",
+   "price": 2000,
+   "serviceId": "event-coverage"
+  },
+  "nextClick": {
+   "label": "See what is on the Event Radar",
+   "url": "https://jamaaltreasures.com/events"
+  }
+ },
+ {
+  "slug": "pill-bottle-table-150k-laundry-demo",
+  "title": "He Put Laundry in His Furniture and Sold 150,000 Dollars in Two Weeks",
+  "excerpt": "Artist Oskar Flodstrom built a giant pill bottle table from a free piece of acrylic for about 120 dollars. It went viral, then stalled at two sales, until a laundry basket demo drove about 200 sales and 150,000 dollars in two weeks.",
+  "seoDescription": "A pill bottle table sold about two units in 36 hours, then a laundry demo drove 200 sales and 150,000 dollars in two weeks. The demo lesson for creators.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-01T12:56:00.000Z",
+  "updatedAt": "2026-11-01T12:56:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/pill-bottle-table-150k-laundry-demo-hero.webp",
+   "alt": "Artist Oskar Flodstrom leaning over his giant pill bottle side table with its white lid and prescription style label in his workspace",
+   "subject": "Oskar Flodstrom with the giant pill bottle side table",
+   "kind": "photo",
+   "sourceUrl": "https://media1.moneywise.com/production/articles/218017/hero_screenshot-2026-09-23-at-40210-pm_20260923_160759.png",
+   "credit": "Image: NO LOGO via YouTube, published by Moneywise. Story source: The Hustle Blower, October 31, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A free piece of plastic became a pill bottle",
+    "paragraphs": [
+     "Oskar Flodstrom is a 23 year old artist in Los Angeles who taught swim lessons to pay his bills while he figured out a creative career. Furnishing an apartment on a tight budget, he found a clear rounded acrylic base on Facebook Marketplace, free for anyone willing to haul it away. He had no car, so he carried it home on public transit and let it sit for months.",
+     "Eventually he spent about 120 dollars on foam, paint, and materials, added an oversized prescription style label, and turned the base into a giant pill bottle that works as a side table. The Hustle Blower draws the right lesson from the build: he invented nothing new. He combined two familiar objects nobody expected to see together, and the result was impossible to scroll past."
+    ]
+   },
+   {
+    "heading": "Viral views, then almost no sales",
+    "paragraphs": [
+     "His build video went viral in June 2026, and a company called NO LOGO, which helps creators turn ideas into manufactured products, offered to develop a version customers could buy. A sample was refined, a storefront was built, and Oskar suddenly had a real product with a real partner behind it. Then he launched, and about 36 hours later he had sold roughly two units.",
+     "To make it worse, one promotional video ran into Instagram moderation trouble because of the prescription style label, the very joke that made the product famous. The trap here is familiar. Most creators read a quiet launch as proof the product is bad, then redesign it, change the price, add features, or quit. Oskar changed none of the product. He changed the demonstration."
+    ]
+   },
+   {
+    "heading": "The laundry demo changed everything",
+    "paragraphs": [
+     "He filmed himself stuffing dirty laundry into the pill bottle, presenting the table as a laundry basket instead. The product had not changed and the price had not dropped. The context had. Viewers could suddenly picture the object in their own homes, doing a job they understood, wrapped in a visual they had never seen before.",
+     "According to Oskar, that video pulled roughly one million views per hour for about ten hours. Around 200 sales followed, and the product generated approximately 150,000 dollars in gross sales over the next two weeks. Later sales reportedly ran about 1,500 to 4,000 dollars a day. The first video made people look. The second one gave them a reason to buy."
+    ]
+   },
+   {
+    "heading": "Steal the demo test before you rebuild",
+    "paragraphs": [
+     "The honest fine print matters. The 150,000 dollars is gross sales, not profit, and manufacturing costs, the partner share, shipping, processing, returns, and taxes all come out before Oskar keeps anything. Revenue proves people will buy. Profit decides whether the business works. He also partnered for manufacturing instead of buying equipment, which kept his risk low and his focus on design and content.",
+     "Before you abandon an offer that is not selling, run his experiment. Film three demonstrations of the same thing: one that shows what it is, one that shows a problem it solves, and one that shows it in a surprising setting. Judge them by inquiries and orders, not likes. Sometimes the product was never the problem. The presentation was, and a presentation is cheap to change this weekend."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: 150K in 14 Days. From What? (October 31, 2026)",
+    "url": "https://thehustleblower.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "big-tech-selloff-ai-spending-fear",
   "title": "Wall Street Just Asked Big Tech to Show the AI Receipts",
   "excerpt": "The Nasdaq fell 2.86 percent in its worst day since June as investors questioned massive AI spending with too little money coming back. Alphabet lost about 475 billion dollars in value and Intel fell 28.58 percent in its worst day in 50 years.",
