@@ -11650,5 +11650,57 @@
     "alt": "14th Annual Keller Williams Amelia Island Chili Cook-Off flyer, Keller Williams Realty, Fernandina Beach",
     "imageKey": "event-flyers/883-amelia-island-chili-cook-off-fernandina-beach.jpg",
     "endDate": "2026-11-12"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "Sarasota Medieval Fair",
+    "date": "NOVEMBER 7 TO DECEMBER 6, WEEKENDS, 9:45 AM TO 5:30 PM",
+    "headliners": "",
+    "venue": "Woods of Mallaranny, Myakka City",
+    "categories": [
+      "Arts"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.sarasotamedievalfair.com/buy-tickets",
+    "flyerUrl": "https://www.sarasotamedievalfair.com/the-festival/general-info/welcome",
+    "image": "/events/flyer/884-sarasota-medieval-fair.jpg",
+    "alt": "Sarasota Medieval Fair castle entrance at Woods of Mallaranny in Myakka City",
+    "imageKey": "event-flyers/884-sarasota-medieval-fair.jpg",
+    "endDate": "2026-12-06"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "Tortuga Music Festival 2027",
+    "date": "APRIL 2 TO 4, 2027",
+    "headliners": "Florida Georgia Line, Eric Church, Megan Moroney, NE-YO, Goo Goo Dolls, Train",
+    "venue": "Fort Lauderdale Beach, Fort Lauderdale",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://countrynow.com/2027-tortuga-music-festival-lineup-florida-georgia-line-eric-church-and-megan-moroney-to-headline/",
+    "flyerUrl": "https://countrynow.com/wp-content/uploads/2026/10/TMF-27-admat-SQ.png",
+    "image": "/events/flyer/885-tortuga-music-festival-2027.jpg",
+    "alt": "Tortuga Music Festival 2027 lineup flyer for Fort Lauderdale Beach with Florida Georgia Line, Eric Church and Megan Moroney",
+    "imageKey": "event-flyers/885-tortuga-music-festival-2027.jpg",
+    "endDate": "2027-04-04"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "30th Annual Lakeland Pigfest",
+    "date": "JANUARY 22 TO 23, 2027",
+    "headliners": "",
+    "venue": "SUN n FUN Expo Campus, Lakeland",
+    "categories": [
+      "Food",
+      "Community"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://lakelandpigfest.org/",
+    "flyerUrl": "https://lakelandpigfest.org/",
+    "image": "/events/flyer/886-lakeland-pigfest.jpg",
+    "alt": "Lakeland Pigfest barbecue competition awards at SUN n FUN Expo Campus in Lakeland",
+    "imageKey": "event-flyers/886-lakeland-pigfest.jpg",
+    "endDate": "2027-01-23"
   }
 ]
