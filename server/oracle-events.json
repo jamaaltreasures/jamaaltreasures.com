@@ -11702,5 +11702,22 @@
     "alt": "Lakeland Pigfest barbecue competition awards at SUN n FUN Expo Campus in Lakeland",
     "imageKey": "event-flyers/886-lakeland-pigfest.jpg",
     "endDate": "2027-01-23"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "Volusia County Fair and Youth Show",
+    "date": "NOVEMBER 5 TO 15",
+    "headliners": "",
+    "venue": "Volusia County Fairgrounds, DeLand",
+    "categories": [
+      "Arts"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://volusiacountyfair.com/2026-schedule",
+    "flyerUrl": "https://volusiacountyfair.com/",
+    "image": "/events/flyer/887-volusia-county-fair.jpg",
+    "alt": "Volusia County Fair and Youth Show official midway photo, Volusia County Fairgrounds, DeLand",
+    "imageKey": "event-flyers/887-volusia-county-fair.jpg",
+    "endDate": "2026-11-15"
   }
 ]
