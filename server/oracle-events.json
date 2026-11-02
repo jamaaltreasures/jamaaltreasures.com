@@ -11271,5 +11271,23 @@
     "alt": "Hurricane Wisdom Weathering The World flyer, District 8, Tampa",
     "imageKey": "event-flyers/890-hurricane-wisdom-weathering-the-world-tampa.jpg",
     "endDate": "2026-11-24"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "Florida Manatee Festival",
+    "date": "JANUARY 16 TO 17, 2027, SATURDAY 9 AM TO 5 PM, SUNDAY 9 AM TO 4 PM",
+    "headliners": "",
+    "venue": "Downtown Crystal River, Crystal River",
+    "categories": [
+      "Festival",
+      "Arts"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://gomanateefest.com/",
+    "flyerUrl": "https://gomanateefest.com/",
+    "image": "/events/flyer/891-florida-manatee-festival.jpg",
+    "alt": "Florida Manatee Festival official festival photo with the manatee mascot in Downtown Crystal River",
+    "imageKey": "event-flyers/891-florida-manatee-festival.jpg",
+    "endDate": "2027-01-17"
   }
 ]
