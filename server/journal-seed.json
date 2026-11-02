@@ -1,5 +1,370 @@
 [
  {
+  "slug": "publishers-sell-ads-only-ai-agents-see",
+  "title": "Publishers Are Selling Ads That Only Your AI Agent Can See",
+  "excerpt": "TIME and other publishers now serve machine readable pages with labeled sponsored blocks written for AI agents, not people. The ads are invisible to you, but they sit inside the research your assistant reads before it answers.",
+  "seoDescription": "Publishers are selling ads only AI agents see, inside the pages assistants read before recommending products. What the shift means for brands and buyers.",
+  "category": "ai-tools",
+  "serviceId": "meta-ads",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-02T13:08:00.000Z",
+  "updatedAt": "2026-11-02T13:08:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/publishers-sell-ads-only-ai-agents-see-hero.webp",
+   "alt": "The Neuron illustration of a cat watching a small robot read a laptop page with a sponsored label on it",
+   "subject": "Cat and robot reading a sponsored page, The Neuron lead illustration",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/bd9ef5e7-597b-48a2-aa74-bb3944333ca0/Cat__Robot__and_Sponsored_Secrets.png?t=1793391641",
+   "credit": "Image: The Neuron. Story source: The Neuron, November 1, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The ad break moved inside the machine",
+    "paragraphs": [
+     "Your AI assistant is officially a demographic worth buying. The Neuron reports that publishers are now serving ads built for AI agents through a company called Mobian, which delivers machine readable pages containing labeled sponsored blocks to registered agents. TIME is already doing it. The ads are labeled for the agent reading them, and they are invisible to you, because you never see the version of the page your assistant read.",
+     "That means a brand can pay to place its message inside the material your assistant studies before it recommends a product, plans a trip, or compares services for you. The pitch no longer waits on a page you might visit. It travels upstream, into the research itself, and it can shape the shortlist you hear about without you ever knowing a sponsor helped write it."
+    ]
+   },
+   {
+    "heading": "Publishers need a new way to get paid",
+    "paragraphs": [
+     "The economics explain why publishers are signing up. In one sample The Neuron cites, European publishers received 227 AI scrapes for every human visitor referred by AI during the second quarter of 2026, up from 150 scrapes per referral the quarter before. Assistants read everything, answer in the chat, and send almost nobody back to the site where the publisher earns money from ads and subscriptions.",
+     "Agent ads offer a replacement route. If the reader is now a machine, charge brands to reach the machine. Advertisers are crowding into the same moment from the other side as well. Google announced ads in AI Mode follow up queries in the United States and ten more countries, more than 100,000 advertisers have run ChatGPT ads, and OpenAI is testing Sponsored Agents, where clicking an ad opens a separate labeled chat with a business."
+    ]
+   },
+   {
+    "heading": "The label is the whole ballgame",
+    "paragraphs": [
+     "A sponsored message is not automatically false, and both Google and OpenAI say their placements are labeled and kept apart from the answers. Anthropic has taken the opposite road and says Claude will remain ad free, funded by subscriptions and business contracts. The Neuron points out the catch, though. An ad free assistant can still wander onto sponsored material while it browses the web on your behalf.",
+     "The deeper risk shows up when agents talk to each other. One assistant summarizes a sponsored claim and drops the label. Another uses that summary to choose what to buy. Suddenly a sales pitch looks like independent research, and a wrong claim gets repeated until repetition starts to feel like proof. The Neuron calls the pileup verification debt: unchecked output gets reused, and somebody still has to pay for finding the mistakes later."
+    ]
+   },
+   {
+    "heading": "What creators and brands should do now",
+    "paragraphs": [
+     "If you sell anything, assume the first reader of your pages is increasingly a machine deciding whether you make the shortlist. Keep your prices, your proof, and your best claims in plain text an agent can read and quote accurately. Ask where sponsored material enters the tools you rely on, and check the source yourself before you repeat a recommendation to a client or an audience.",
+     "If you buy research, creative, or media help, add one question to every brief: what did the assistant actually read, and who paid to be in front of it? The brands that win this shift will be easy for machines to find and easy for humans to verify. That combination is exactly what good pages, clear offers, and honest proof have always done. The audience changed first. The standard did not."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Your AI is reading ads behind your back (November 1, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "meta-ads",
+   "ai-ugc-ad",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Plan my campaign",
+   "price": 2500,
+   "serviceId": "meta-ads"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "microsoft-ai-school-privacy-standard-contract",
+  "title": "Microsoft Put Its School AI Promises in a Contract Schools Can Enforce",
+  "excerpt": "Microsoft's AI Safety and Privacy Standard for schools took effect November 1, and it lives in the contract, not on a webpage. No training on student data, no ads, no AI companions, and districts can cancel and seek damages if the rules break.",
+  "seoDescription": "Microsoft's school AI privacy standard is now a binding contract term: no training on student data, breach reports in 72 hours, audits, and damages for violations.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-02T13:04:00.000Z",
+  "updatedAt": "2026-11-02T13:04:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/microsoft-ai-school-privacy-standard-contract-hero.webp",
+   "alt": "The Neuron illustration of a cat with a backpack and a laptop showing the Microsoft logo, sitting by a schoolhouse with a locked shield beside it",
+   "subject": "Cat student with a laptop and privacy shield, The Neuron lead illustration",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/c41841a2-3a98-4a6f-9645-c84a96abd410/Microsoft_AI_School_Privacy_Deal.png?t=1793604",
+   "credit": "Image: The Neuron. Story source: The Neuron, November 2, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A promise you can actually enforce",
+    "paragraphs": [
+     "When an AI company promises to protect student data, the promise usually lives on a webpage the company can quietly edit later. Microsoft's new promise to schools lives in the contract. The Neuron reports that the AI Safety and Privacy Standard, announced September 9 by Microsoft with the American Federation of Teachers and the United Federation of Teachers, took effect on November 1.",
+     "Any school district in the United States can add the standard to a new or existing Microsoft agreement, with no renegotiation or renewal required. Once it is written in, the district can cancel the agreement and seek damages if Microsoft breaks the rules. Microsoft also accepted annual certification, audit rights, and a deadline to fix security problems. That is a very different animal from a trust page and a blog post."
+    ]
+   },
+   {
+    "heading": "What the standard actually bans",
+    "paragraphs": [
+     "The terms are plain enough for any parent to follow. No training AI models on student or educator data, a permanent ban with one narrow safety and security exception. No selling student data and no using it for advertising. No tracking students, and no AI companions, meaning chatbots built to act like a friend. Human review stays required for high risk decisions, so AI can assist but people decide.",
+     "Breaches must be reported within 72 hours, and violations get fixed or AI use gets paused or ended. The training ban is the one to remember. Training means feeding data back into a model so it learns from it, which is how a student essay draft or homework question could end up shaping the next version of the tool. The standard closes that door in writing, with penalties attached."
+    ]
+   },
+   {
+    "heading": "The union wrote rules because the law is old",
+    "paragraphs": [
+     "The teachers unions pushed for a contract because the law never anticipated any of this. AFT president Randi Weingarten noted that older rules covering student records and health data were written long before generative AI existed, and Fortune reported that the federal law on children's data online predates the technology as well. So the union reached for leverage it already had: the purchasing agreement.",
+     "Notably, the union behind the deal is not asking for AI everywhere. UFT president Michael Mulgrew said AI use in grades K through 8 is not appropriate right now, and New York City public schools had just announced a one year pause on AI. The standard stays silent on whether classrooms should use AI at all. It only sets enforceable terms for the districts that choose to."
+    ]
+   },
+   {
+    "heading": "Watch who signs next",
+    "paragraphs": [
+     "So far the standard binds one company. Weingarten said OpenAI and Anthropic have expressed willingness to sign, an Anthropic spokesperson told Fortune the company has worked with the AFT on a safety and privacy standard, and OpenAI did not respond. The Neuron also notes that Microsoft's own fact sheet describes its AI products in general without naming exactly which ones are covered.",
+     "For anyone who sells technology, training, or creative services into schools and youth programs in Florida, the lesson travels well beyond Microsoft. Buyers are learning to ask for promises in contracts, with audits and deadlines, instead of promises in marketing. If your offer touches kids, families, or student work, write your data rules down before a client asks. The vendors who treat that as a selling point, not a burden, will be ready when the standard becomes the default."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Microsoft's binding AI school deal (November 2, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "data-centers-ballot-openai-compute-campuses",
+  "title": "Data Centers Are on the Ballot, and OpenAI Wants a New Name for Them",
+  "excerpt": "About 20 communities vote on data center bans or pauses in the midterms, while OpenAI prepares to rebrand the sites as AI compute campuses. The fight is over power, jobs, and trust, and a rename will not settle it.",
+  "seoDescription": "Roughly 20 communities vote on data center bans or pauses as OpenAI plans a compute campuses rebrand. Why local trust, not naming, decides the AI buildout.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-02T13:00:00.000Z",
+  "updatedAt": "2026-11-02T13:00:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/data-centers-ballot-openai-compute-campuses-hero.webp",
+   "alt": "A quiet residential street with red and yellow yard signs reading No Data Center, parked cars, and a child riding a bicycle on the sidewalk",
+   "subject": "Neighborhood protest signs against a proposed data center",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/4573226a-10f6-40d5-8da9-d1e359308299/cc-datacenters.png?t=1793570059",
+   "credit": "Image: Wikimedia Commons via The Rundown AI. Story source: The Rundown AI, November 2, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Twenty communities vote on the buildout",
+    "paragraphs": [
+     "AI spent two years winning over Washington. This week it faces voters. The Rundown reports that the midterm elections double as a referendum on data centers, with roughly 20 communities voting on bans or pauses on new construction. Some Democratic candidates want to go further, including a federal freeze on new data centers, with House hopefuls Will Lawrence in Michigan and Rebecca Cooke in Wisconsin named among them.",
+     "The politics around the projects have shifted fast. The White House already persuaded tech giants to voluntarily supply their own power, and last week President Trump floated having developers pay local residents a dividend as well. When both parties start negotiating over who pays for the electricity and who shares the upside, the building itself has become the campaign issue."
+    ]
+   },
+   {
+    "heading": "OpenAI is reaching for the rename",
+    "paragraphs": [
+     "OpenAI reportedly plans a push after the election to rebrand data centers as AI compute campuses, and to pitch the sites as local economic boosts. The company points to a project it is helping build in Pike County, Ohio, which promises thousands of jobs. OpenAI policy chief Chris Lehane called the debate democracy in action, and the company backs state bills that give local residents a voice in new projects.",
+     "A better name is not worthless. Campus sounds like jobs, training, and a place a town can point to with pride. But The Rundown is blunt about the limit: public anger over power bills, water use, and construction in the backyard will not be fixed by vocabulary. People judge a project by what it costs them each month and what it pays them back, and those are numbers, not slogans."
+    ]
+   },
+   {
+    "heading": "What each side is actually offering locals",
+    "paragraphs": [
+     "Strip away the branding and the offers on the table are concrete. Developers supply their own power so residents do not subsidize the load. A dividend sends money directly to locals. Local voice bills give neighbors a formal say before approvals. Jobs promises put thousands of positions on the record, where voters can check later whether they arrived.",
+     "That list is the real story for any builder. Every item answers a specific fear with a specific commitment that can be measured. Communities are not rejecting technology in the abstract. They are pricing the disruption and asking who carries it. Projects that answer early, in writing, with numbers, stand a far better chance than projects that arrive with a logo and a promise to listen."
+    ]
+   },
+   {
+    "heading": "The lesson travels straight to Florida",
+    "paragraphs": [
+     "Florida towns will keep meeting this question as AI infrastructure, logistics, and energy projects look for land, power, and water across the Southeast. Event producers, venue builders, and creators working with local governments can borrow the same playbook. Bring the benefit list first: jobs, spending, timelines, and what the neighborhood gets, stated plainly enough to survive a public meeting.",
+     "And skip the hope that a rename does the persuading. Whether it is a data center, a festival, or a film shoot, local trust is earned with enforceable commitments and visible payoff. Call the project whatever you like after that. The communities voting this week are teaching every industry the same lesson at once: people support what they can verify, and they organize against what they cannot."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: AI backlash heads to the polls (November 2, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "in-n-out-expansion-three-new-states",
+  "title": "In N Out Is Eyeing Three New States by Following Its Own Trucks",
+  "excerpt": "In N Out Burger is weighing Arkansas, Mississippi, and Oklahoma, not because of hype, but because its Tennessee stores already get supplies shipped from Texas through those states. The chain grows along the route it already runs.",
+  "seoDescription": "In N Out may expand into Arkansas, Mississippi, and Oklahoma along its Texas supply route. The slow growth playbook behind 445 stores and rising sales.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-02T12:56:00.000Z",
+  "updatedAt": "2026-11-02T12:56:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/in-n-out-expansion-three-new-states-hero.webp",
+   "alt": "An In N Out Burger restaurant near LAX with palm trees, red awnings, and a Korean Air jet flying low overhead",
+   "subject": "In N Out Burger restaurant near Los Angeles International Airport",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-11-02/image-842aa19d5b384c67d790f294cdc2a245c8c90f74-7616x5035-jpg/AMERGeneralNewsBucket2026",
+   "credit": "Image: Mario Tama, Getty Images via Morning Brew. Story source: Morning Brew, November 2, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The map grows along the supply route",
+    "paragraphs": [
+     "Morning Brew reports that In N Out Burger is considering three new states: Arkansas, Mississippi, and Oklahoma. The logic is refreshingly unglamorous. The chain moved into Tennessee last year, farther east than it had ever gone, and those stores receive supplies shipped from Texas. Arkansas, Mississippi, and Oklahoma already sit in the path of that distribution network, so new restaurants there would ride a route the trucks already travel.",
+     "Owner and president Lynsi Snyder explained the thinking in an interview recently posted on the company website, and the chain also plans a New Mexico location next year plus more growth inside California. This is expansion as logistics first and headlines second. The map does not grow toward applause. It grows toward the warehouse, one reachable market at a time, without stretching the supply chain that protects the product."
+    ]
+   },
+   {
+    "heading": "Scarcity keeps doing the marketing",
+    "paragraphs": [
+     "In N Out began outside Los Angeles in 1948 and remains almost stubbornly regional nearly eight decades later. It runs 445 restaurants across 10 states, with 289 of them in California alone. For most chains that footprint would read as a missed opportunity. For this one it is the brand. Millions of Americans cannot buy the product at home, so every road trip sighting becomes an event worth posting about.",
+     "That restraint protects more than mystique. A tight map keeps quality control close, training consistent, and the menu famously stable. Customers in new states meet the same product that built the reputation, because the company refused to arrive before its systems could support the visit. Scarcity here is not a launch tactic. It is the side effect of standards the company will not dilute for speed."
+    ]
+   },
+   {
+    "heading": "The numbers say patience is paying",
+    "paragraphs": [
+     "Slow has not meant small. Morning Brew notes that In N Out saw domestic sales grow about 10 percent last year compared with 2024, trailing only New York based Shake Shack among burger chains in the United States, according to a Wall Street Journal report in June citing Technomic. A private, regional, famously unhurried chain is outgrowing almost every national rival that expanded everywhere at once.",
+     "That result deserves a pause from any founder watching. The burger business rewards novelty, limited offers, and constant openings, yet the strongest growth on the board belongs to a company that changes almost nothing and opens almost nowhere. Consistency compounds. When the product, the price, and the experience stay predictable for decades, every new store opens with a line already formed by reputation alone."
+    ]
+   },
+   {
+    "heading": "Steal the route first expansion rule",
+    "paragraphs": [
+     "The transferable lesson works for a studio, an events company, or a service business here in Florida. Expand along the infrastructure you already run. If your crew already travels a corridor for shoots, offer coverage in the towns on that route before you chase a distant market. Your real cost per job drops, your delivery stays fast, and every trip can stack multiple clients.",
+     "Growth announcements feel good for a day. Growth along a route pays every week. In N Out can consider three states at once because a supply line built for Tennessee quietly prepared the ground. Build your version of that line first: repeatable delivery, trained people, and a service your current clients already praise. Then let the map follow the trucks, not the ego."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: More mustard (November 2, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "greenairy-plant-towers-office-air",
+  "title": "This Startup Sells Plant Towers That Clean Toxic Office Air",
+  "excerpt": "Greenairy builds smart plant towers that pull polluted office air through plant roots and microbes, and its Singapore pilots cut harmful gas levels by 50 percent. Indoor air can run many times dirtier than the air outside.",
+  "seoDescription": "Greenairy plant towers use roots and microbes to strip toxic gases from office air, cutting levels 50 percent in pilots. Why clean air is becoming a business.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-02T12:52:00.000Z",
+  "updatedAt": "2026-11-02T12:52:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/greenairy-plant-towers-office-air-hero.webp",
+   "alt": "An office cubicle with binders and a small vase on the desk, and lush green plants growing above the partition behind it",
+   "subject": "Office cubicle surrounded by plants, The Hustle illustration for the Greenairy story",
+   "kind": "photo",
+   "sourceUrl": "https://thehustle.co/hs-fs/hubfs/Daily%20Templates%20-%202026%20Refresh%20(2)%20copy%2010.png?width=1120&upscale=true&name=Daily%20Templates%20-%202026%20Refresh%20(2)%20copy%2010.png",
+   "credit": "Image: The Hustle. Story source: The Hustle, November 2, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The problem is floating in the office air",
+    "paragraphs": [
+     "The Hustle leads its November 2 edition with a startup called Greenairy, which builds smart plant towers designed to remove toxic gases from offices and other indoor spaces. The problem it attacks is larger than most workers realize. Indoor air can be 2 to 5 times more polluted than outdoor air, and in some cases up to 100 times worse, while Americans spend about 90 percent of their time indoors.",
+     "The culprits include formaldehyde, benzene, and other volatile organic compounds released by synthetic building materials and cleaning products, which have pushed pollutant levels up over time. These gases can irritate eyes, noses, and throats and contribute to headaches, dizziness, and fatigue, a pattern grim enough to earn its own name: sick building syndrome. Standard air purifiers handle dust and pollen well, but many are far less effective against these gases."
+    ]
+   },
+   {
+    "heading": "Roots and microbes do the filtering",
+    "paragraphs": [
+     "Greenairy cofounders Tanvi Thombre and Lakshya Saraf started on the problem as engineering students, after a friend of Thombre was hospitalized following exposure to toxic fumes from laser cutters, soldering irons, and 3D printers. Their towers go beyond setting plants in a room. Fans draw contaminated air through vents into the root zone, where roots and microbes break down the gases through a process called phytoremediation, then release cleaned air back into the space.",
+     "In pilots run in the company offices in Singapore, the tower reduced volatile organic compound levels by 50 percent, a greater and faster reduction than a medical grade ionizer and a HEPA filter achieved, according to The Hustle. Employees also liked the natural scent and feel the plants brought to the office. The company plans to scale up manufacturing once its results are certified by the German testing firm TÜV SÜD."
+    ]
+   },
+   {
+    "heading": "Healthy skepticism, real signals",
+    "paragraphs": [
+     "The Hustle is fair about the debate. Researchers still argue over how effective ordinary houseplants are at removing these gases at room scale, and a plant on a shelf was never going to scrub a whole office. But NASA research shows certain plants can make a difference, and Harvard research connects better indoor air quality with stronger productivity and sharper thinking on the job.",
+     "Greenairy is also not alone, which usually means a market is forming. Neoplants bioengineered plants it says purify air 30 times better than conventional ones, a company called Airy makes air purifying pots, and The Sill built a business installing large plant displays in tech offices. When startups, science, and office budgets point the same direction at once, the category deserves attention even before the certification results land."
+    ]
+   },
+   {
+    "heading": "Why Florida workplaces should watch this",
+    "paragraphs": [
+     "Anyone who runs a venue, a salon, a studio, or an office in Florida sells an indoor experience, and air is part of it even when guests never mention it. Spaces that feel fresh keep people longer and photograph better. Properties across Sarasota and Tampa Bay compete on exactly that feeling, and a visible wall of living plants doubles as design, brand, and a story clients can repeat.",
+     "The practical takeaway needs no purchase order. Measure before you decorate. If headaches and fatigue cluster in one room, treat air as a suspect alongside lighting and noise, and ask your cleaning and maintenance partners what products are adding chemicals to it. Greenairy may or may not win its category, but it named a problem every indoor business owns. The operators who fix invisible problems early rarely have to discount visible ones later."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle: Clearing the air (November 2, 2026)",
+    "url": "https://thehustle.co"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "ironman-race-surge-young-racers-jacksonville",
   "title": "Ironman Signups Surged and Young Racers Are Leading the Boom",
   "excerpt": "Ironman races drew 250,000 registrants in 2025, and racers under 30 grew 35 percent in one year. Four new races arrived this year, including one in Jacksonville, Florida, and host cities are cashing in.",
