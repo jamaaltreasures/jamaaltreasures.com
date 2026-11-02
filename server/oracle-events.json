@@ -11289,5 +11289,22 @@
     "alt": "Florida Manatee Festival official festival photo with the manatee mascot in Downtown Crystal River",
     "imageKey": "event-flyers/891-florida-manatee-festival.jpg",
     "endDate": "2027-01-17"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "Central Florida Fair",
+    "date": "MARCH 4 TO 14, 2027",
+    "headliners": "",
+    "venue": "Central Florida Fairgrounds, Orlando",
+    "categories": [
+      "Arts"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://www.centralfloridafair.com/central-florida-fair/",
+    "flyerUrl": "https://www.centralfloridafair.com/",
+    "image": "/events/flyer/892-central-florida-fair.jpg",
+    "alt": "Central Florida Fair official midway photo, Central Florida Fairgrounds, Orlando",
+    "imageKey": "event-flyers/892-central-florida-fair.jpg",
+    "endDate": "2027-03-14"
   }
 ]
