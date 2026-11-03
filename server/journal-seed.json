@@ -1,5 +1,443 @@
 [
  {
+  "slug": "proton-cancels-ai-reinterviews-staff-backlash",
+  "title": "Proton Scrapped Its AI Use Interviews After Staff Pushed Back",
+  "excerpt": "Proton planned to interview nearly its whole staff about how they use AI, until employees and users pushed back and CEO Andy Yen canceled the plan. The fight is really about what a company measures: activity in a tool, or work that ships safely.",
+  "seoDescription": "Proton canceled planned AI use interviews after staff backlash. Why counting tool activity misses the real question: did the work ship safely?",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-03T13:12:00.000Z",
+  "updatedAt": "2026-11-03T13:12:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/proton-cancels-ai-reinterviews-staff-backlash-hero.webp",
+   "alt": "The Neuron illustration of worried workers and a cat at a desk, with a canceled AI usage interview on a video call screen",
+   "subject": "Proton AI usage interviews canceled after backlash, The Neuron illustration",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/0ef1ff74-2816-4792-93e8-166c7acf64ab/Proton_Cancels_AI_Re-Interviews.png?t=1793684895",
+   "credit": "Image: The Neuron. Story source: The Neuron, November 3, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The plan that sparked the backlash",
+    "paragraphs": [
+     "Proton is the privacy company behind Proton Mail and Proton VPN, so its customers pay for one promise above all others: keep private things private. The Neuron reports that CEO Andy Yen planned a second round of interviews with nearly the whole company, where employees would explain how they use AI. The story rests on six current employees and audio from a roughly two hour all hands meeting.",
+     "Employees told 404 Media they believed people who used AI too little could be fired. A 404 Media investigation the day before the cancellation showed Yen pushing AI hard across Proton, sometimes over security concerns. Staff and Proton users pushed back, and Yen dropped the interviews. The speed of the reversal is the first clue about what was really at stake."
+    ]
+   },
+   {
+    "heading": "A security check became the flashpoint",
+    "paragraphs": [
+     "The detail that keeps coming up is a small, careful suggestion from late August. An employee in Proton's security Slack channel suggested spending a few days on penetration testing before releasing new code. That means attacking your own software the way a hacker would, so you find the holes first.",
+     "Yen reportedly brushed the idea off as a loser's mindset and told staff to stop handcrafting code and use AI more. That lands hard at this company. People pay Proton to keep their private stuff private, so a CEO pushing speed over a security check hits the one thing customers care about most. Users have been vocal about exactly that, and some called for Yen to resign. The report does not say how the interviews would have worked, how many employees were involved beyond nearly everyone, or whether Proton is changing its approach to AI. Proton did not provide a comment in the article."
+    ]
+   },
+   {
+    "heading": "Counting use measures the wrong thing",
+    "paragraphs": [
+     "The Neuron's interpretation is the part worth keeping. Counting AI use measures activity. It cannot tell the engineer who used AI to ship clean work from the one who used it to look compliant. And once usage gets graded, the careful person who asks for a security test starts to look like the slow one.",
+     "That is a management trap, not just a Proton problem. Any team that rewards visible tool time will eventually get more visible tool time, whether or not the work got better. A log of hours in a chat window says nothing about whether the output was checked, whether the risks were tested, or whether the result held up after release."
+    ]
+   },
+   {
+    "heading": "What to take into your own workplace",
+    "paragraphs": [
+     "If your boss ever asks how you use AI, answer with results, not hours. The Neuron's own tip for the week points the same way: keep a weekly log of what you asked AI to do, what you checked or changed yourself, and what came out the other end, with a number only if you gave the tool a real one. That record holds up in a review because it puts your judgment right next to the tool's output.",
+     "If you hire creators, editors, or developers, judge the same way. Ask what they shipped, what they verified, and what they caught before delivery. And if you lead a team, protect time for review as a real part of the job, not a delay to be squeezed out. Speed without a check is not productivity. It is debt, and at a privacy company, that debt gets paid in trust."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Anthropic's $895B receipts (November 3, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "astra-rewrites-ai-weights-no-training-mit",
+  "title": "MIT Shows One AI Rewriting Another, With No Training Required",
+  "excerpt": "MIT researchers had OpenAI's Astra edit a smaller model from the inside, lifting its math score from 7.9 percent to 48.1 percent by changing a tiny share of its weights. It is early, and it points straight at self improving AI.",
+  "seoDescription": "MIT research shows Astra editing a smaller model's weights directly, jumping its math score from 7.9 percent to 48.1 percent with no retraining.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-03T13:08:00.000Z",
+  "updatedAt": "2026-11-03T13:08:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/astra-rewrites-ai-weights-no-training-mit-hero.webp",
+   "alt": "MIT research panels showing Astra reading, fixing, and improving a smaller model, with a math score rising from 7.9 percent to 48.1 percent",
+   "subject": "MIT research panels for Astra editing a smaller model without training",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/98926339-3ac9-4c17-8dbd-e30dd5db8995/mitreserach.png?t=1793656166",
+   "credit": "Image: MIT CSAIL via The Rundown AI. Story source: The Rundown AI, November 3, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A tiny edit, a huge jump",
+    "paragraphs": [
+     "Weights are normally set through training, since even small AI models have far too many to read or adjust by hand. The Rundown reports that MIT researchers just published research showing that OpenAI's Astra can improve some AI models by directly rewriting their weights, the numbers that decide how a model behaves, rather than putting them through more training.",
+     "Alibaba's small Qwen model scored 7.9 percent in math until Astra changed just 0.016 percent of those weights to cut its habit of repeating itself, hitting 48.1 percent after the fix. The same approach did little for Google's smaller Gemma 3, which lacked a single flaw like Qwen's repetition, and barely moved its math score. That contrast matters. The edit worked because it found one clear defect, not because editing weights is a magic upgrade for every model."
+    ]
+   },
+   {
+    "heading": "It could also read and build",
+    "paragraphs": [
+     "Smaller tests in the same research pushed the idea further. Astra named the game an AI had learned from its weights alone, and wrote a simple Breakout player from scratch without training. In other words, the larger model could look inside a smaller one, understand what it had learned, and change it on purpose.",
+     "The authors say this capability could one day let AI upgrade itself, add or remove skills in other models on request, or check them for hidden problems. That is a long way from a lab demo, but it is easy to see why labs chasing self improving, automated AI researchers are paying attention. Once improving a model is as simple as pointing another one at it, AI's already frantic pace could hit another gear."
+    ]
+   },
+   {
+    "heading": "Why the limit matters as much as the result",
+    "paragraphs": [
+     "It is worth slowing down before the headline runs away with the story. This research is just one small example, and The Neuron's version of the same MIT story notes it is not yet peer reviewed. A fix that works on a model with one obvious flaw does not prove every model can be tuned this way, and the Gemma result is the warning label.",
+     "Still, the direction is clear enough to take seriously. The top AI labs are racing toward self improving systems, and a model that can read, diagnose, and edit another model is a step in that direction. The question is not whether this exact trick scales tomorrow. It is whether the industry is ready for tools that change other tools, with humans still able to check what changed and why."
+    ]
+   },
+   {
+    "heading": "What creators should do with this now",
+    "paragraphs": [
+     "Do not wait for self improving tools to decide your workflow for you. Build work that can be checked: keep the source, test the output, and record what changed. If a vendor tells you AI helped, ask what it actually changed, not just that it was involved. A small, surgical fix is worth more than a large, vague improvement you cannot verify.",
+     "The same lesson applies to your own prompts and data. Smaller models, like smaller teams, often fail for one fixable reason: a repeated phrase, a missing example, a bad instruction. Find the flaw, fix the flaw, and measure again. That habit will still matter when the models editing other models get much better at their jobs."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: MIT shows AI improving AI, no training required (November 3, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "hackers-turn-european-supermarket-fridges-to-saunas",
+  "title": "Hackers Turned European Supermarket Fridges Into Saunas",
+  "excerpt": "Hackers put dozens of European supermarket fridges into defrost mode, pushing some to 122 degrees Fahrenheit. It is a warning for any business that runs connected equipment and assumes nobody will touch it.",
+  "seoDescription": "Hackers forced European supermarket fridges into defrost mode, some reaching 122 degrees. What the attacks mean for any business with connected equipment.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-03T13:04:00.000Z",
+  "updatedAt": "2026-11-03T13:04:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/hackers-turn-european-supermarket-fridges-to-saunas-hero.webp",
+   "alt": "A shopper walking past a long row of empty refrigerated cases in a grocery store",
+   "subject": "Empty refrigerated grocery cases after a fridge cyberattack",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-11-02/image-302e7b90ae1a56876414aa23dddbec130be23f34-6000x4000-jpg/GettyImages-2299339600.jpg",
+   "credit": "Image: Fred Tanneau, Getty Images via Morning Brew. Story source: Morning Brew, November 3, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Fridges turned to 122 degrees",
+    "paragraphs": [
+     "Boiled gelato was the plat du jour after hackers targeted fridges and freezers at dozens of European supermarkets. Morning Brew reports that the defrosting cyberattacks had temperatures reaching 122 degrees Fahrenheit in some grocery store refrigerators across Belgium, Estonia, Finland, Ireland, Luxembourg, the Netherlands, and Sweden.",
+     "The image is almost funny until you count the loss. Perishable stock spoils fast at that temperature, and a store cannot simply turn the cases back down and keep selling what sat in the heat. Food that warmed up has to go, trust takes longer to rebuild than temperature takes to recover, and the cleanup lands on staff who never signed up to fight a cyberattack with a mop."
+    ]
+   },
+   {
+    "heading": "How it happened, and why it keeps happening",
+    "paragraphs": [
+     "The Belgian company Sabcobel, which operates some of the fridges involved, said hackers attacked a digital system that remotely controls the devices, putting them into defrost mode. Sabcobel said it had been patching software vulnerabilities over the past few weeks but explained that some fridges require physical modifications.",
+     "Danfoss, a Danish refrigeration temperature control systems supplier, said its tech was targeted both in this hack and in an earlier French cyberattack, affecting customers with outdated software. A similar cyberattack in France last month left dozens of supermarkets dealing with fires, forcing them to toss millions of euros worth of products. The Pentagon is also investigating August hacks on several military base commissary fridges that led to the mass melting of frozen foods. This is not one unlucky chain. It is a pattern."
+    ]
+   },
+   {
+    "heading": "More than 20 attacks this year",
+    "paragraphs": [
+     "Morning Brew cites cybersecurity firm Forescout, which says more than 20 cyberattacks on refrigeration systems have taken place this year, with some linked to Russia aligned hackers. The broader concern is AI enabled hackers attacking critical infrastructure that relies on digital systems.",
+     "Refrigeration is an easy target precisely because it looks boring. Nobody pictures a fridge as a computer, which is why its software gets patched late, its remote access gets left open, and its failure mode gets discovered by attackers instead of owners. When a system can be switched remotely, it can be switched remotely by the wrong person too. That sentence sounds obvious, and it is exactly the sentence most businesses skip."
+    ]
+   },
+   {
+    "heading": "The lesson for Florida businesses",
+    "paragraphs": [
+     "Every connected device is a door: cameras, point of sale systems, thermostats, freezers, smart locks, and the scheduling tools that run a venue or a studio. If you run a restaurant, a salon, a venue, or a shop in Florida, make a list of every system someone else can control from outside the building, and ask who has access, what happens if it fails, and how fast anyone would notice.",
+     "Then ask your vendors two unglamorous questions: what is the update path, and what happens when a fix needs a physical visit instead of a software patch? Run a failure drill before an attacker runs one for you. If a case goes into defrost, who gets the alert, how much stock is at risk, and what do you tell customers? The stores in this story did not lose food because refrigeration is hard. They lost it because a remote switch was easier to reach than anyone planned."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Putting it to a vote (November 3, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "axiom-station-replaces-iss-space-lease",
+  "title": "The Space Station Is Retiring, and Axiom Wants Its Spot",
+  "excerpt": "Axiom Space is building a commercial station to replace the International Space Station when it retires around 2030. It has private missions, a first module in Turin, and one big approval still to win.",
+  "seoDescription": "Axiom Space is building a commercial station to succeed the ISS around 2030, with private missions flown and a first module under construction.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-03T13:00:00.000Z",
+  "updatedAt": "2026-11-03T13:00:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/axiom-station-replaces-iss-space-lease-hero.webp",
+   "alt": "A space station with blue solar panels orbiting above Earth",
+   "subject": "Space station in orbit above Earth, The Hustle illustration for Axiom Station",
+   "kind": "photo",
+   "sourceUrl": "https://thehustle.co/hs-fs/hubfs/Daily%20Templates%20-%202026%20Refresh%20(2)%20copy%2011.png?width=1120&upscale=true&name=Daily%20Templates%20-%202026%20Refresh%20(2)%20copy%2011.png",
+   "credit": "Image: The Hustle. Story source: The Hustle, November 3, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A retirement date creates an opening",
+    "paragraphs": [
+     "The Hustle leads its November 3 edition with a changing of the guard in orbit. The International Space Station retires around 2030, and one company has not been shy about a promotion. Meet Axiom Station, a commercial space station hoping to replace it.",
+     "Axiom was founded in 2016 by Kam Ghaffarian and Michael Suffredini. Suffredini managed the ISS program from 2005 to 2015. They saw the need for a new space station and later joined the NASA Private Astronaut Mission Program, where Axiom Space ran four private astronaut missions in four years. Those missions saw 14 astronauts from 11 nations, more than 160 research activities, and more than 50 research partners."
+    ]
+   },
+   {
+    "heading": "The build so far",
+    "paragraphs": [
+     "Since its four initial missions, Axiom has raised a round of more than 525 million dollars, which mostly went toward construction. It has been building Module 1 in Turin, Italy, which will launch no earlier than 2028, with Module 2 following less than a year later. It has already signed more than 50 international agreements, and a fifth private astronaut mission is set for 2027.",
+     "The company also holds NASA's sole contracts for next generation moon suits, built in partnership with Prada, Oakley, and Nokia. That detail matters more than it looks. Suits, missions, and modules are not separate bets. They are rehearsals for the same job: proving Axiom can keep people alive and working in space, on schedule, with partners watching."
+    ]
+   },
+   {
+    "heading": "The approval that decides everything",
+    "paragraphs": [
+     "Axiom needs to receive a yes from NASA. Once it does, the company is ready for blast off, in The Hustle's telling, and an Axiom representative told the publication that every month matters with the ISS retiring at the end of the decade, which is why the company is moving forward on Axiom Station now.",
+     "Governments are the company's anchor customers, followed by researchers, manufacturers, defense agencies, and orbital data centers. Axiom Space will have a continuously crewed space station, providing global customers with uninterrupted access to microgravity and returning benefits from research, discovery, and in space manufacturing to Earth, while continuing to work side by side with NASA. The pitch is continuity: no gap, no lost science, no lost capability when the old station comes down."
+    ]
+   },
+   {
+    "heading": "Steal the succession playbook",
+    "paragraphs": [
+     "Do not wait for the incumbent to leave before you build the replacement. Axiom rehearsed its replacement while the ISS was still flying, with paid missions that proved crews, ground teams, and the platform could work together from day one. That is the move any creator or business owner can borrow.",
+     "When a platform, a client, or a venue changes, build the replacement audience or service before the old one ends. Run small paid pilots, document the results, and line up anchor customers first. Axiom is not asking NASA to trust a rendering. It is asking NASA to trust a record: four missions, dozens of partners, a module in build, and a fifth mission already on the calendar. Your version of that record is smaller, but the logic is identical. Proof beats a pitch, every time."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle: Space for lease (November 3, 2026)",
+    "url": "https://thehustle.co"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "brown-sugar-babe-300-dollars-21-million-fragrance-oils",
+  "title": "She Turned 300 Dollars Into a 21 Million Dollar Fragrance Brand",
+  "excerpt": "Maekaeda Gibbons started Brown Sugar Babe with about 300 dollars left after bills, selling fragrance oils instead of perfume. Seven years later the company reported 21 million dollars in gross revenue for 2025.",
+  "seoDescription": "Brown Sugar Babe went from 300 dollars in a kitchen to 21 million dollars in revenue, by selling fragrance oils instead of competing in perfume.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-03T12:56:00.000Z",
+  "updatedAt": "2026-11-03T12:56:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/brown-sugar-babe-300-dollars-21-million-fragrance-oils-hero.webp",
+   "alt": "A Brown Sugar Babe perfume oil bottle beside a woman in profile, from the brand's official site",
+   "subject": "Brown Sugar Babe perfume oil bottle, official brand photo",
+   "kind": "photo",
+   "sourceUrl": "https://www.brownsugarbabe.net/cdn/shop/files/449146850_18131511826345969_3348604325156500559_n_1.png?v=1726621286",
+   "credit": "Image: Brown Sugar Babe official site. Story source: The Hustle Blower, November 3, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A kitchen experiment with a wallet test",
+    "paragraphs": [
+     "Back in 2018, Maekaeda Gibbons was working as a loan officer at Bank of America, trying to figure out why smelling expensive required actually being expensive. She liked luxury fragrances, and her bank salary did not particularly enjoy that preference, so she started experimenting with fragrance oils instead.",
+     "She had about 300 dollars left after paying her bills. She spent roughly 54 dollars on bottles, then used the rest to buy carrier oils and other materials. She wanted to smell good without bankrupting herself. Then people started asking whether they could buy them. Not just complimenting the smell, and not saying you should totally start a business someday. Actually asking to purchase the product. Compliments are nice. Purchase requests are evidence."
+    ]
+   },
+   {
+    "heading": "The format choice that set her apart",
+    "paragraphs": [
+     "Imagine you are starting a fragrance company. The obvious product is perfume: a beautiful bottle, a little spray nozzle, a fancy name. Gibbons went in a different direction. She chose fragrance oils, oil based products applied directly to the skin, and Brown Sugar Babe developed a brand around scent layering, body oils, and fragrance oils.",
+     "The traditional perfume market is filled with giant companies, celebrity brands, luxury houses, and enormous advertising budgets. Gibbons built around a format her customers already enjoyed but that she believed was underserved, and she has explicitly resisted expanding into conventional alcohol based eau de parfum, even as the business grew. The oil format was not merely a cheaper substitute. It became part of the brand's reason to exist."
+    ]
+   },
+   {
+    "heading": "Customers shaped the line, cash shaped the risk",
+    "paragraphs": [
+     "Gibbons also stopped assuming every product idea should come from her. Brown Sugar Babe developed a habit of surveying its community about potential products and paying attention to what people were asking for. The stronger questions are about behavior, though: what fragrance did you buy most recently, what did you pay, what did you dislike, and which product did you actually finish and repurchase.",
+     "Then came the big bet. According to her 2026 interview, she arranged purchases totaling approximately 5.5 million dollars over three months to secure roughly two years worth of inventory and ingredients, for a self funded company. She described the process as stressful. The lesson is not to buy two years of inventory. It is that the timing of cash flows can become just as important as the number of sales. You can grow revenue and still run out of money, because inventory is an asset, not cash in your bank account."
+    ]
+   },
+   {
+    "heading": "A store you can smell, after demand existed",
+    "paragraphs": [
+     "In 2025, Brown Sugar Babe opened a flagship location in Atlanta, an investment totaling approximately 1.2 million dollars, including construction, branding, and its opening event. Fragrance is an unusual product. You cannot smell an Instagram post, and a beautiful product video cannot tell customers whether they will actually enjoy wearing the scent.",
+     "Physical retail provides something an online storefront cannot fully reproduce: discovery through experience. But a 1.2 million dollar store does not automatically make a company more profitable. Brown Sugar Babe had already built significant demand before making that investment. The smaller lesson is much better: if customers need to experience your product before they buy, find an inexpensive way to let them experience it, through a sampling event, a retail partnership, or a modest pop up. You do not need to own the building to test the experience."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: How Did She Turn $300 Into $21M? (November 3, 2026)",
+    "url": "https://thehustleblower.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "mingle-mocktails-feeling-left-out-eight-figure-brand",
+  "title": "She Built an Eight Figure Brand From Feeling Left Out at Parties",
+  "excerpt": "Laura Taylor stopped drinking alcohol but still wanted the party experience, so she made her own mocktail for a girls weekend. That drink became Mingle Mocktails, now sold in more than 15,000 stores.",
+  "seoDescription": "Mingle Mocktails grew from a homemade party drink to an eight figure brand in 15,000 stores, by selling belonging, not just a beverage.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-03T12:52:00.000Z",
+  "updatedAt": "2026-11-03T12:52:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/mingle-mocktails-feeling-left-out-eight-figure-brand-hero.webp",
+   "alt": "A green Mingle Mocktails Key Lime Margarita can beside a splashing margarita glass with lime",
+   "subject": "Mingle Mocktails Key Lime Margarita can and glass, official brand photo",
+   "kind": "photo",
+   "sourceUrl": "https://www.minglemocktails.com/cdn/shop/files/Margarita-Splash_12-Pack.webp?v=1772568364&width=3000",
+   "credit": "Image: Mingle Mocktails official site. Story source: The Hustle Blower, November 2, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The party problem nobody was solving",
+    "paragraphs": [
+     "Let us rewind to 2016. Laura Taylor had stopped drinking alcohol, but she had not stopped wanting to enjoy parties, celebrations, and weekends with friends. Everyone else got fancy cocktails and the whole social experience that came with them. She got water, or soda, or another uninspiring alternative that made her feel like the designated driver at her own birthday party. It was not that she was particularly thirsty. She wanted to feel included.",
+     "So before a girls weekend in the Poconos, she made her own alcohol free cocktail. When she poured that homemade mocktail into a glass alongside her friends' cocktails, she finally felt like part of the celebration. That is when the opportunity clicked. She was not the only person who wanted to participate in the party without drinking alcohol. Within two weeks of returning home, she had incorporated a company, and Mingle Mocktails launched in 2017."
+    ]
+   },
+   {
+    "heading": "Research before the big spend",
+    "paragraphs": [
+     "Taylor did not immediately order thousands of bottles and assume the world would fall in love with them. She contacted roughly 30 people in the beverage business: industry executives and experienced operators.",
+     "She even tracked down the founder of a mocktail company that had failed, because that person could tell her where things went wrong, what costs had been underestimated, what assumptions had turned out to be false, and what they would never do again. Eventually, Taylor invested approximately 125,000 dollars to get Mingle off the ground, including working with a small incubation firm. She researched the risks before committing the capital. Steal one question in particular: if you had to start this business again, what would you absolutely refuse to do?"
+    ]
+   },
+   {
+    "heading": "A barcode mistake, fixed by hand",
+    "paragraphs": [
+     "Eventually, Mingle landed in 100 Whole Foods stores, with three flavors. Then came the phone call. There was a problem with the Cucumber Melon Mojito bottles. They were scanning at checkout as Cranberry Cosmopolitan, because Taylor had accidentally used the wrong barcode.",
+     "Taylor had a warehouse full of mislabeled bottles. More than 5,000 needed correcting, so she bought barcode stickers and personally applied the correct barcode to thousands of bottles, one by one, over several days. Big opportunities do not protect you from small mistakes. Sometimes they make small mistakes much more expensive. The fix is a failure checklist before your next launch: what small mistake could create a disproportionately expensive problem, what are you assuming is correct simply because you checked it yourself, and what should another person independently verify?"
+    ]
+   },
+   {
+    "heading": "Numbers, patience, and the first customer",
+    "paragraphs": [
+     "Mingle did not become an eight figure brand overnight. According to Taylor, the company started generating sales around six months after launch, and it took approximately 18 months to establish consistent monthly revenue. During the twelve months after sales began, Mingle generated roughly 250,000 dollars in sales. Sales are not profit, though, and Taylor had already invested around 125,000 dollars to get started. In 2019, she finally left her corporate sales job to focus on Mingle full time.",
+     "Fast forward to October 2026, and Taylor now describes Mingle as an eight figure brand, with national distribution across more than 15,000 retail locations and over 500 bars and restaurants. She also says Mingle is the leading nonalcoholic ready to drink cocktail brand in the United States, though those leadership claims are Taylor's, and the interview did not disclose an exact annual revenue or profit figure. So do not make your first goal to look like a successful company. Make your first goal to prove that someone wants what you are offering. The real proof comes from customers buying, using, and returning for more."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle-blower",
+    "title": "The Hustle Blower: From $250K to 8 Figures. How? (November 2, 2026)",
+    "url": "https://thehustleblower.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "publishers-sell-ads-only-ai-agents-see",
   "title": "Publishers Are Selling Ads That Only Your AI Agent Can See",
   "excerpt": "TIME and other publishers now serve machine readable pages with labeled sponsored blocks written for AI agents, not people. The ads are invisible to you, but they sit inside the research your assistant reads before it answers.",
