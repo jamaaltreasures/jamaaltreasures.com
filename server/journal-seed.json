@@ -1,5 +1,443 @@
 [
  {
+  "slug": "google-schools-search-off-ai-opt-out",
+  "title": "Google Told Schools That Banning AI Also Turns Off Search",
+  "excerpt": "Google says Gemini and Search will start off for student accounts, and schools that keep AI off may lose Search with it. The bundle is the story: one switch now controls two very different tools.",
+  "seoDescription": "Google is tying student Search access to its school AI settings. Why the bundle forces districts to choose, and what builders should learn from it.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-04T13:12:00.000Z",
+  "updatedAt": "2026-11-04T13:12:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/google-schools-search-off-ai-opt-out-hero.webp",
+   "alt": "The Neuron illustration of a cat at a school laptop with the AI toggle off and a question mark where Search results should be",
+   "subject": "Google school AI controls and student Search access, The Neuron illustration",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/13ff78e8-2051-4a80-898c-dd51831f1d68/AI_Off__Search_Lost.png?t=1793766624",
+   "credit": "Image: The Neuron. Story source: The Neuron, November 4, 2026"
+  },
+  "sections": [
+   {
+    "heading": "One switch, two very different tools",
+    "paragraphs": [
+     "Google just handed every school technology department a hard puzzle. The Neuron reports that Google announced new controls on Tuesday under which Gemini, Gemini Notebook, Gemini in Classroom, and Google Search will all be off by default for student accounts in kindergarten through twelfth grade, until a school administrator turns them on.",
+     "Here is the catch. Google education vice president Chris Phillips told The New York Times that Search and AI are deeply integrated. Students at schools that ban AI would lose Search as well, and see a school message saying it is unavailable. A research tool students have used for decades is now bundled with the chatbot tools many parents and teachers are still arguing about."
+    ]
+   },
+   {
+    "heading": "This answers a complaint from July",
+    "paragraphs": [
+     "The move answers a complaint from this summer. Common Sense Media rated Google AI Search an unacceptable risk for young users, pointing out that schools and parents could not switch off the AI and keep Search. They could only block Google entirely. Google called that testing narrow and ambiguous, noting the group had tested consumer accounts rather than school ones, though Google confirmed the AI experience is the same for everyone.",
+     "Google says the new controls roll out over the coming months, that it will brief schools first, and that administrators can enable each product separately. A Guided Learning pilot in Search also starts this month at select schools in the United States. When Search spots a homework request, it walks the student through the problem step by step instead of handing over the answer, and in the Classroom version teachers can see transcripts of student chatbot conversations."
+    ]
+   },
+   {
+    "heading": "The pressure behind the timing",
+    "paragraphs": [
+     "Google is not making this call in a quiet room. In August it switched on some AI features by default in Classroom, educators pushed back, and Google reversed course. In September, New York City and Los Angeles, the two largest school districts in the country, restricted student access to generative AI on school devices. In October, Senators Richard Blumenthal and Josh Hawley wrote to chief executive Sundar Pichai asking for Google research on potential harms to children.",
+     "One thing is still fuzzy, and The Neuron flags it plainly. Google says administrators can enable each product separately, yet Phillips says Search and AI are tied together. Until Google publishes the actual settings, nobody knows whether a school can leave Gemini off and keep Search on. That single setting is the difference between a real choice and a bundle with a button on it."
+    ]
+   },
+   {
+    "heading": "The lesson for anyone who builds on platforms",
+    "paragraphs": [
+     "If you create, sell, or teach inside someone else platform, this is your story too. Bundles decide what your customers can reach. A school that loves your study tool but fears chatbots may lose both in one policy call, and your product was never the problem. The same risk sits inside every app store, social platform, and classroom suite your business depends on.",
+     "The practical move is to know exactly which bundle you ride in. List the platforms that carry your work, note what they are merging together this year, and keep one direct channel, an email list or a site you own, that no bundle decision can switch off. Schools will adapt, students will adapt, and Google will publish its settings. The builders who stay reachable through all of it are the ones who owned a door of their own."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Google school Search ultimatum (November 4, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "analysts-followed-ai-agent-random-preferences",
+  "title": "Expert Analysts Followed an AI Agent Random Lean 86 Percent of the Time",
+  "excerpt": "Anthropic quietly gave an AI agent a coin flip preference, then watched 50 expert analysts work with it. They matched the agent lean on 86 percent of key decisions. Oversight is weaker than we think.",
+  "seoDescription": "Analysts followed an AI agent random preferences 86 percent of the time in an Anthropic experiment. What that means for anyone reviewing AI work.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-04T13:08:00.000Z",
+  "updatedAt": "2026-11-04T13:08:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/analysts-followed-ai-agent-random-preferences-hero.webp",
+   "alt": "Chart from The Neuron showing how often analysts chose option A when the AI agent leaned toward A versus B, with gaps as wide as 82 points",
+   "subject": "Anthropic experiment chart on analysts following AI agent preferences",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/7248484d-4bb9-4a14-8d25-c513c9ffec4b/image.png?t=1793771236",
+   "credit": "Image: The Neuron. Story source: The Neuron, November 4, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A coin flip dressed as advice",
+    "paragraphs": [
+     "Here is an experiment every person who reviews AI work should sit with. The Neuron reports that Anthropic secretly gave an AI agent a coin flip preference between two equally defensible options, then watched 50 expert analysts run a farm assessment alongside it. The preference carried no evidence. It was a random lean, plugged into the machine before the work began.",
+     "The analysts were not careless beginners. They were experts doing real assessment work, with an agent helping them weigh how to measure productivity, which comparison method to use, which farms the assessment should cover, and how to weight the evidence before a final recommendation. If anyone should be able to hold an independent line against a software suggestion, it is a room like that."
+    ]
+   },
+   {
+    "heading": "The numbers are not comfortable",
+    "paragraphs": [
+     "Across four key decisions, the analysts matched the agent lean 86 percent of the time. The chart The Neuron published shows the gaps decision by decision. On how to measure productivity, the swing was 82 points: nobody chose option A when the agent leaned toward B, and 82 percent chose it when the agent leaned toward A. The weighting decision swung 78 points, the comparison method 64, and which farms to cover 62.",
+     "Only the final recommendation resisted, and only partly, swinging 17 points. In other words, the experts still felt ownership of the headline call, while the quiet choices underneath it, the ones that shape the answer before anyone argues about it, drifted with the machine almost every time. The lean did its work early, where nobody was watching for it."
+    ]
+   },
+   {
+    "heading": "Why this matters beyond one study",
+    "paragraphs": [
+     "Most of us now work the way those analysts did. A creator asks an assistant which angle leads a story. An editor accepts the cut order a tool suggests. A business owner lets an agent rank leads, draft prices, or sort applications, then reviews the result at the end and calls that oversight. This experiment says the review at the end may be the weakest part of the whole chain.",
+     "The risk is not that AI gives loud, obviously wrong answers. Those get caught. The risk is a reasonable sounding lean arriving first, anchoring every judgment that follows, while the human believes the decision stayed theirs. Fifty experts, a random preference, and an 86 percent match rate show how quietly that anchor sets."
+    ]
+   },
+   {
+    "heading": "How to keep your own judgment in the loop",
+    "paragraphs": [
+     "Three habits fight the anchor. First, write your own call before you ask the tool, even two rough lines, so you have a position to compare instead of a blank page to fill. Second, ask the agent for the strongest case against its own recommendation, and read that case before you read the pitch. Third, spot check one source and one number yourself on anything that ships to a client.",
+     "Use AI like the analysts should have: as a fast second worker whose leans you audit, not as the quiet first voice in the room. The tool will keep getting more fluent and more confident. Your edge as a creator or an owner is not typing speed anymore. It is the judgment you can prove was yours."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Google school Search ultimatum (November 4, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "apple-opens-siri-ai-app-developers",
+  "title": "Apple Finally Let Every App Developer Build Into Siri AI",
+  "excerpt": "Apple opened its rebuilt Siri AI to every app developer in a new preview, letting apps add their own actions and teach Siri multi step jobs. Customers are still months away, but the door just cracked.",
+  "seoDescription": "Apple opened Siri AI to all developers in preview, with app actions and skills. What app builders and local businesses should prepare before spring.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-04T13:04:00.000Z",
+  "updatedAt": "2026-11-04T13:04:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/apple-opens-siri-ai-app-developers-hero.webp",
+   "alt": "Apple Siri AI orb icon glowing on a black background, from The Rundown AI",
+   "subject": "Apple Siri AI developer preview icon",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/6583d359-4779-4daf-a2fb-77992e363b1e/siriai1.png?t=1793741967",
+   "credit": "Image: Apple via The Rundown AI. Story source: The Rundown AI, November 4, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A rare crack in the walled garden",
+    "paragraphs": [
+     "Apple rarely lets outsiders build into the core of the iPhone, which is why this week move matters. The Rundown AI reports that Apple released a developer preview of Siri AI in its latest software betas, giving apps of any kind a way to build their own features into the assistant. Developers can test it now, though customers are still months away.",
+     "Siri AI is Apple rebuilt assistant, able to see what is on a user screen and read messages, and it has been a waitlisted beta since the new iPhone software shipped in September. Until now, the assistant could only perform a preset list of Apple approved actions. The preview changes who gets to write that list."
+    ]
+   },
+   {
+    "heading": "Actions and skills are the real news",
+    "paragraphs": [
+     "Developers can now add their own actions instead of waiting for Apple presets, and teach Siri multi step jobs through new tools Apple calls skills. The Neuron summary of the same preview gives concrete examples of what an action looks like in real life: booking a reservation or placing an order, spoken to Siri and carried out inside an app the user already trusts.",
+     "The limits are just as clear. For now, app versions built on the preview stay with a developer internal testers. App Store submissions start in spring, and Apple says the rules for developers will come later. The same betas also bring China its first Apple Intelligence tools, minus Siri AI itself, and test new Apple Watch tools that listen in the background to transcribe nearby talk."
+    ]
+   },
+   {
+    "heading": "Why Apple needs developers to save Siri",
+    "paragraphs": [
+     "The Rundown is blunt about the stakes. Years of Apple Intelligence promises and one full Siri rebuild later, the iPhone still does not feel like a device built for the AI era. Letting every app plug into the assistant is Apple admitting that its own team cannot build every useful job alone, and that the fastest way to make Siri feel smart is to borrow the usefulness of the apps people already open daily.",
+     "It also leaves the hardest work on developers, inside a rollout The Rundown calls confusing, while rival labs keep shipping stronger computer use tools. Spring is close in calendar terms and far away in AI terms. Still, distribution is Apple superpower. A feature that reaches the world most popular phone changes habits even when it arrives late."
+    ]
+   },
+   {
+    "heading": "What to prepare before spring",
+    "paragraphs": [
+     "If you run a business with an app, a booking page, or even a loyal phone list, prepare your action list now. Write down the five jobs customers ask for most: booking, rescheduling, ordering, checking a status, and asking a price. Those five, written in plain words with clear confirmations, are exactly what assistants like Siri will need to act for you.",
+     "Creators should watch the same door. When any app can hand Siri an action, discovery shifts from tapping icons to asking questions out loud. The businesses that answer in complete, structured offers, with services, prices, and booking steps a machine can read, will be the ones the assistant can actually recommend and complete."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Apple cracks the door open to Siri AI (November 4, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "crowdstrike-ai-kill-switch-rogue-agents",
+  "title": "CrowdStrike Built a Kill Switch for AI Agents That Go Off Script",
+  "excerpt": "CrowdStrike AI Kill Switch cuts an agent link to its model when a human pulls the trigger, and every use gets logged. Agents now hold company logins, so the brake matters more than the speed.",
+  "seoDescription": "CrowdStrike launched an AI Kill Switch for rogue agents inside its Falcon Guardian platform. Why every business running agents needs an off switch.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-04T13:00:00.000Z",
+  "updatedAt": "2026-11-04T13:00:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/crowdstrike-ai-kill-switch-rogue-agents-hero.webp",
+   "alt": "CrowdStrike Kill Switch panel showing block all models and block on all gateways controls, from The Rundown AI",
+   "subject": "CrowdStrike AI Kill Switch control panel in Falcon Guardian",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/fdad377f-5872-40e1-9548-b445f0746dac/killswitch.png?t=1793745258",
+   "credit": "Image: CrowdStrike via The Rundown AI. Story source: The Rundown AI, November 4, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A brake that sits outside the AI",
+    "paragraphs": [
+     "Every fast machine needs a brake somebody else controls. The Rundown AI reports that cybersecurity firm CrowdStrike unveiled an AI Kill Switch inside its Falcon Guardian platform, built for businesses worried about their AI agents going rogue. The switch targets an agent link to its AI model, not the model itself, while Falcon Guardian separately monitors tools such as Claude Code and Codex.",
+     "Chief executive George Kurtz explained it with a racing image: the switch works like a race car brake, sitting outside the AI so an agent cannot argue with it, rewrite it, or wait it out. That placement is the whole design. A stop command the agent can edit is not a stop command at all."
+    ]
+   },
+   {
+    "heading": "A human pulls it, and the log remembers",
+    "paragraphs": [
+     "The details keep the tool grounded. A human administrator has to pull the trigger, and every use gets logged, so a shutdown can be reviewed later instead of becoming its own mystery. Shutting agents down directly on work devices and in the cloud is still listed as coming soon, which tells you this category is being built in public, in real time.",
+     "CrowdStrike is buying around the problem as well. The Rundown reports it is acquiring monitoring firm Fiddler AI and security tester Dreadnode for a reported 495 million dollars, and it added protection for Claude Cowork in beta. One product rarely solves agent safety, so the company is assembling watchers, testers, and the brake into one platform."
+    ]
+   },
+   {
+    "heading": "Governments were already circling this idea",
+    "paragraphs": [
+     "Politicians spent the summer fighting over an AI kill switch, with a pair of bills and a California executive order aimed at rogue AI agents. CrowdStrike is bringing the same concept to ordinary enterprises, where The Rundown notes the likelier scenario is not a frontier model escaping a lab. It is an agent holding your company logins, your customer data, and your payment tools, going off script at machine speed.",
+     "That framing should land for small teams too. The agents creators and owners now run can send messages, move files, book work, and touch money. Each permission widens what a single bad run can do before a human notices. A kill switch is not paranoia. It is the admission that autonomy without an off ramp is just unmanaged risk."
+    ]
+   },
+   {
+    "heading": "Build your own version this week",
+    "paragraphs": [
+     "You do not need an enterprise platform to copy the principle. Give every agent you run three things: a named human who can stop it, a stop method that lives outside the agent itself, like revoking its account access, and a log you actually read. Then sort its actions the way careful teams do, letting reading and drafting run free while sends, deletes, and payments wait for your approval.",
+     "Test the brake before you need it. Run one drill where you cut an agent access mid task and watch what happens to the work in progress. If that drill feels awkward, imagine the real moment, with a client watching. Speed is what agents sell. Control is what lets you keep using them."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Apple cracks the door open to Siri AI (November 4, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "rivian-r2-cheaper-ev-sales-surge",
+  "title": "Rivian Cheaper R2 Became Its Best Seller and Lit Up the Stock",
+  "excerpt": "Rivian first mass market SUV, the R2, became its best selling vehicle and pushed quarterly revenue up 38 percent. Volume arrived, profit has not yet, and that gap is the real business lesson.",
+  "seoDescription": "Rivian R2 sales lifted revenue 38 percent and deliveries 45 percent, while vehicle profit still lags. The entry product lesson for growing brands.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-04T12:56:00.000Z",
+  "updatedAt": "2026-11-04T12:56:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/rivian-r2-cheaper-ev-sales-surge-hero.webp",
+   "alt": "A Rivian vehicle plugged into a charging station, photographed for Morning Brew by Tom Williams for Getty Images",
+   "subject": "Rivian electric vehicle charging, Getty Images photo",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-11-03/image-c61ce413cdb81c60914e7d9f35779491da31abfc-7274x4849-jpg/GettyImages-2068287353.jpg",
+   "credit": "Image: Tom Williams, Getty Images via Morning Brew. Story source: Morning Brew, November 4, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The cheaper model did the heavy lifting",
+    "paragraphs": [
+     "Rivian built its name on premium electric trucks that most drivers admired and few could buy. Morning Brew reports that its stock jumped 16 percent after the company said its first mass market model is a hit. The R2 SUV, sleeker than the flagships but priced for a far wider audience, has become Rivian best selling vehicle.",
+     "The quarter behind the jump was real. Revenue rose 38 percent from the same period last year to 2.2 billion dollars, and Rivian shipped 19,248 vehicles, up 45 percent year over year. One well aimed product, priced within reach of the mainstream buyer, moved numbers that years of halo vehicles could not."
+    ]
+   },
+   {
+    "heading": "Volume is not the same as profit",
+    "paragraphs": [
+     "Here is the part of the story founders should underline. Morning Brew reports that Rivian vehicles are still losing money. Shipping more cars is improving margins, but the only profitable parts of the business today are software sales and licensing its technology to Volkswagen. The product that fills the road is not yet the product that fills the bank account.",
+     "Analysts say the road ahead hinges on two things: ramping up R2 production quickly, and releasing cheaper trims priced from about 45,000 dollars to compete head on with Tesla Model Y. In other words, the entry product opened the door, and now execution speed and an even lower rung on the ladder decide whether Rivian walks through it."
+    ]
+   },
+   {
+    "heading": "The ladder lesson for smaller brands",
+    "paragraphs": [
+     "Strip away the billions and the pattern fits a studio, a shop, or a creator business. A premium offer builds reputation and proof. An accessible offer, honestly built and clearly priced, is what turns admirers into buyers at scale. Rivian spent years as the expensive name in electric trucks. The R2 gave everyone who had been watching from the sidewalk a way in.",
+     "But the second half of the pattern matters just as much. Know which part of your business actually earns. For Rivian, services in software form, licensing and software sales, carry the profit while hardware scales. Many creative businesses find the same shape: the flagship project wins attention, while direction, licensing, and repeat services quietly pay. Price and staff for the business you actually have, not the one in the headline."
+    ]
+   },
+   {
+    "heading": "What to do with this on your own menu",
+    "paragraphs": [
+     "Audit your offers like an analyst would. Which one brings the crowd, which one brings the margin, and do you know the difference in writing? If your entry offer sells, protect its quality and its delivery speed first, because a hit product that ships late teaches the market to wait for your competitor.",
+     "Rivian still has to prove it can build the R2 fast enough and cheaply enough to win its segment. That is a good problem, and it beats the old one. Demand you can measure, a ladder customers can climb, and a clear view of where profit lives: that combination is what the stock market just rewarded, and it rewards small brands the same way."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Blue tsunami (November 4, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand spot pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "ikea-reskills-employees-ai-chatbot-billie",
+  "title": "Ikea Reskilled 8,500 Workers Instead of Replacing Them With Its Chatbot",
+  "excerpt": "Ikea bot Billie now helps 74 percent of customers, and the people it freed up became design advisors who helped grow remote sales to 1.37 billion dollars. Reskilled beat replaced, on the scoreboard.",
+  "seoDescription": "Ikea retrained 8,500 service workers as design advisors after its Billie chatbot took routine questions. The reskill playbook other businesses can copy.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-04T12:52:00.000Z",
+  "updatedAt": "2026-11-04T12:52:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/ikea-reskills-employees-ai-chatbot-billie-hero.webp",
+   "alt": "The blue and yellow entrance of an Ikea store, photographed for The Hustle",
+   "subject": "Ikea store entrance, The Hustle photo",
+   "kind": "photo",
+   "sourceUrl": "https://thehustle.co/hs-fs/hubfs/Daily%20Templates%20-%202026%20Refresh%20(2)%20copy%2012.png?width=1120&upscale=true&name=Daily%20Templates%20-%202026%20Refresh%20(2)%20copy%2012.png",
+   "credit": "Image: The Hustle. Story source: The Hustle, November 4, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Billie took the simple questions",
+    "paragraphs": [
+     "In 2021, Ikea launched a customer service bot named Billie to handle straightforward questions about store hours and order status. The Hustle, citing Fortune, reports that Billie assisted 47 percent of customers within two years. Today it helps 74 percent. At most companies, that chart would be followed by a layoff announcement and a press release about efficiency.",
+     "Ikea did something else. Rather than replace the service team, the company retrained about 8,500 call center employees to handle the elaborate requests a bot cannot, and to work as interior design sales advisors. The humans moved up the value ladder, from answering where an order is to helping a customer redesign a kitchen and choose what to buy."
+    ]
+   },
+   {
+    "heading": "The scoreboard says it worked",
+    "paragraphs": [
+     "The resolution and sales teams now operate from 24 call centers across 31 countries, and the numbers The Hustle gathered are hard to argue with. Remote sales grew 15 to 20 percent year over year, reaching 1.37 billion dollars last fiscal year, up from 1.17 billion the year before. The teams helped 10 million customers in the past year, and the customer happiness score climbed to 89 percent, up from 60 percent before Billie rollout.",
+     "The push began during the pandemic, when stores shuttered and call centers were overwhelmed. Billie could manage basic tasks, but nuanced problems needed people. Ikea spent two years retraining employees through in person and online classes, a process that now takes five to six weeks. The company says it aims to let values, not just productivity, shape how AI is implemented."
+    ]
+   },
+   {
+    "heading": "The wider stakes behind one retailer",
+    "paragraphs": [
+     "The Hustle places the story against a nervous backdrop. The World Economic Forum estimates AI could displace 92 million jobs by 2030, and 40 percent of workers now fear AI will make their job obsolete, up from 28 percent in 2024. Against those numbers, Ikea approach is not soft. It is a strategy: automation funds the training, and the training creates a sales channel a bot alone never could.",
+     "Torani, the syrup maker now 101 years old, is cited for the same instinct, asking how employees can use AI to tackle more valuable work rather than how many positions can be eliminated. Two very different companies are placing the same bet, that the winning move is a person whose routine work vanished and whose judgment got promoted."
+    ]
+   },
+   {
+    "heading": "The playbook at small team scale",
+    "paragraphs": [
+     "You do not need 8,500 employees to run this play. List the questions your customers ask that have one right answer: hours, prices, status, directions. Automate those without apology. Then take the hours that frees up and spend them where Ikea did, on advice, taste, and selling the bigger outcome, the work customers happily pay more for and no bot can fake.",
+     "Train for the new job on purpose, the way Ikea did with real classes over real weeks, and measure the result in revenue and happiness, not just tickets closed. Reskilled beat replaced on a billion dollar scoreboard in Sweden. It can beat it in a two person studio in Florida too, one promoted human at a time."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle: Reskilled, replaced (November 4, 2026)",
+    "url": "https://thehustle.co"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand spot pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "proton-cancels-ai-reinterviews-staff-backlash",
   "title": "Proton Scrapped Its AI Use Interviews After Staff Pushed Back",
   "excerpt": "Proton planned to interview nearly its whole staff about how they use AI, until employees and users pushed back and CEO Andy Yen canceled the plan. The fight is really about what a company measures: activity in a tool, or work that ships safely.",
