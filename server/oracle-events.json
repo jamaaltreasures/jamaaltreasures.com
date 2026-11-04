@@ -11324,5 +11324,23 @@
     "alt": "Snoop Dogg at DAER Nightclub event flyer",
     "imageKey": "event-flyers/896-snoop-dogg-daer-nightclub.jpg",
     "endDate": "2026-12-12"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Rock the Universe 2027",
+    "date": "JANUARY 22 AND 23, 4 PM TO 1 AM",
+    "headliners": "Elevation Worship, Josiah Queen, Jamie MacDonald, Katy Nichole, CAIN",
+    "venue": "Universal Studios Florida, Orlando",
+    "categories": [
+      "Music",
+      "Festival"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.universalorlando.com/web/en/us/things-to-do/events/rock-the-universe",
+    "flyerUrl": "https://parksmagic.com/news/universal-orlando-news-september-8-2026-rock-the-universe-2027-lineup/",
+    "image": "/events/flyer/897-rock-the-universe-2027-orlando.jpg",
+    "alt": "Rock the Universe 2027 event flyer, Universal Studios Florida, Orlando",
+    "imageKey": "event-flyers/897-rock-the-universe-2027-orlando.jpg",
+    "endDate": "2027-01-23"
   }
 ]
