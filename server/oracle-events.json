@@ -11379,5 +11379,23 @@
     "alt": "Feid FERXXO The Green Star Tour poster, Kaseya Center Miami",
     "imageKey": "event-flyers/903-feid-ferxxo-the-green-star-tour.jpg",
     "endDate": "2027-02-11"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "HEYZ: The Something Different Tour at The Ritz Ybor",
+    "date": "JANUARY 22, 10 PM TO 2:45 AM",
+    "headliners": "HEYZ, Sando, Spacewubz, Telapavmusic",
+    "venue": "The Ritz Ybor, Tampa",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://wl.eventim.us/event/heyz/709871?afflky=SunsetEvents",
+    "flyerUrl": "https://www.theritzybor.com/event/heyz2027/",
+    "image": "/events/flyer/904-heyz-at-the-ritz-ybor.jpg",
+    "alt": "HEYZ The Something Different Tour at The Ritz Ybor event flyer",
+    "imageKey": "event-flyers/904-heyz-at-the-ritz-ybor.jpg",
+    "endDate": "2027-01-23"
   }
 ]
