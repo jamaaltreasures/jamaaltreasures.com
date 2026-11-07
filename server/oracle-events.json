@@ -11434,5 +11434,108 @@
     "alt": "Tropidelic A New Dawn Tour St. Augustine event flyer",
     "imageKey": "event-flyers/915-tropidelic-st-augustine.jpg",
     "endDate": "2027-02-07"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Gryffin at The Cuban Club",
+    "date": "JANUARY 2, 8 PM TO 1 AM",
+    "headliners": "Gryffin",
+    "venue": "The Cuban Club Courtyard, Tampa",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://posh.vip/e/gryffin-in-tampa-1",
+    "flyerUrl": "https://posh.vip/e/gryffin-in-tampa-1",
+    "image": "/events/flyer/916-gryffin-at-the-cuban-club.jpg",
+    "alt": "Gryffin at The Cuban Club event flyer",
+    "imageKey": "event-flyers/916-gryffin-at-the-cuban-club.jpg",
+    "endDate": "2027-01-03"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "The String Cheese Incident: Say Cheese Tour, Jacksonville",
+    "date": "JANUARY 14, 7:15 PM",
+    "headliners": "The String Cheese Incident",
+    "venue": "Florida Theatre, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.stringcheeseincident.com/",
+    "flyerUrl": "https://www.stringcheeseincident.com/",
+    "image": "/events/flyer/917-the-string-cheese-incident-say-cheese-tour.jpg",
+    "alt": "The String Cheese Incident Say Cheese Tour Jacksonville event flyer",
+    "imageKey": "event-flyers/917-the-string-cheese-incident-say-cheese-tour.jpg",
+    "endDate": "2027-01-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "The String Cheese Incident: Say Cheese Tour, Fort Lauderdale",
+    "date": "JANUARY 15, 7:15 PM",
+    "headliners": "The String Cheese Incident",
+    "venue": "FTL War Memorial Auditorium, Fort Lauderdale",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.stringcheeseincident.com/",
+    "flyerUrl": "https://www.stringcheeseincident.com/",
+    "image": "/events/flyer/917-the-string-cheese-incident-say-cheese-tour.jpg",
+    "alt": "The String Cheese Incident Say Cheese Tour Fort Lauderdale event flyer",
+    "imageKey": "event-flyers/917-the-string-cheese-incident-say-cheese-tour.jpg",
+    "endDate": "2027-01-15"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "The String Cheese Incident: Say Cheese Tour, St. Petersburg",
+    "date": "JANUARY 16, 7:15 PM",
+    "headliners": "The String Cheese Incident",
+    "venue": "Jannus Live, St. Petersburg",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.stringcheeseincident.com/",
+    "flyerUrl": "https://www.stringcheeseincident.com/",
+    "image": "/events/flyer/917-the-string-cheese-incident-say-cheese-tour.jpg",
+    "alt": "The String Cheese Incident Say Cheese Tour St. Petersburg event flyer",
+    "imageKey": "event-flyers/917-the-string-cheese-incident-say-cheese-tour.jpg",
+    "endDate": "2027-01-16"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "The String Cheese Incident: Say Cheese Tour, St. Petersburg Night 2",
+    "date": "JANUARY 17, 7:15 PM",
+    "headliners": "The String Cheese Incident",
+    "venue": "Jannus Live, St. Petersburg",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.stringcheeseincident.com/",
+    "flyerUrl": "https://www.stringcheeseincident.com/",
+    "image": "/events/flyer/917-the-string-cheese-incident-say-cheese-tour.jpg",
+    "alt": "The String Cheese Incident Say Cheese Tour St. Petersburg Night 2 event flyer",
+    "imageKey": "event-flyers/917-the-string-cheese-incident-say-cheese-tour.jpg",
+    "endDate": "2027-01-17"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Surfer Girl at Jannus Live",
+    "date": "FEBRUARY 12, 7 PM TO 11 PM",
+    "headliners": "Surfer Girl, South Summit, JOBY!",
+    "venue": "Jannus Live, St. Petersburg",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/surfer-girl-st-pete-tickets-2001938662430",
+    "flyerUrl": "https://www.eventbrite.com/e/surfer-girl-st-pete-tickets-2001938662430",
+    "image": "/events/flyer/918-surfer-girl-at-jannus-live.jpg",
+    "alt": "Surfer Girl at Jannus Live event flyer",
+    "imageKey": "event-flyers/918-surfer-girl-at-jannus-live.jpg",
+    "endDate": "2027-02-12"
   }
 ]
