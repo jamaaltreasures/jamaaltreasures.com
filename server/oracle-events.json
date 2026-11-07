@@ -11328,5 +11328,56 @@
     "alt": "Discip NYE at The Ritz Ybor event flyer",
     "imageKey": "event-flyers/902-discip-nye-at-the-ritz-ybor.jpg",
     "endDate": "2027-01-01"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Feid: FERXXO The Green Star Tour, Orlando",
+    "date": "FEBRUARY 5, 8 PM",
+    "headliners": "Feid",
+    "venue": "Kia Center, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/feid-tickets/artist/2826011?page=1",
+    "flyerUrl": "https://consequence.net/2026/11/feid-the-green-star-tour-2027-north-america/",
+    "image": "/events/flyer/903-feid-ferxxo-the-green-star-tour.jpg",
+    "alt": "Feid FERXXO The Green Star Tour poster, Kia Center Orlando",
+    "imageKey": "event-flyers/903-feid-ferxxo-the-green-star-tour.jpg",
+    "endDate": "2027-02-05"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Feid: FERXXO The Green Star Tour, Tampa",
+    "date": "FEBRUARY 6, 8 PM",
+    "headliners": "Feid",
+    "venue": "Benchmark International Arena, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/feid-tickets/artist/2826011?page=1",
+    "flyerUrl": "https://consequence.net/2026/11/feid-the-green-star-tour-2027-north-america/",
+    "image": "/events/flyer/903-feid-ferxxo-the-green-star-tour.jpg",
+    "alt": "Feid FERXXO The Green Star Tour poster, Benchmark International Arena Tampa",
+    "imageKey": "event-flyers/903-feid-ferxxo-the-green-star-tour.jpg",
+    "endDate": "2027-02-06"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Feid: FERXXO The Green Star Tour, Miami",
+    "date": "FEBRUARY 11, 8 PM",
+    "headliners": "Feid",
+    "venue": "Kaseya Center, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/feid-tickets/artist/2826011?page=1",
+    "flyerUrl": "https://consequence.net/2026/11/feid-the-green-star-tour-2027-north-america/",
+    "image": "/events/flyer/903-feid-ferxxo-the-green-star-tour.jpg",
+    "alt": "Feid FERXXO The Green Star Tour poster, Kaseya Center Miami",
+    "imageKey": "event-flyers/903-feid-ferxxo-the-green-star-tour.jpg",
+    "endDate": "2027-02-11"
   }
 ]
