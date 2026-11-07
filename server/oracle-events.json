@@ -11238,5 +11238,95 @@
     "alt": "Rock the Universe 2027 event flyer, Universal Studios Florida, Orlando",
     "imageKey": "event-flyers/897-rock-the-universe-2027-orlando.jpg",
     "endDate": "2027-01-23"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "SIDEPIECE at The Ritz Ybor",
+    "date": "NOVEMBER 21, 10 PM TO 3 AM",
+    "headliners": "SIDEPIECE",
+    "venue": "The Ritz Ybor, Tampa",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://wl.eventim.us/event/SIDEPIECE-TAMPA/699328?afflky=DiscoDonnieSunsetEvents",
+    "flyerUrl": "https://www.theritzybor.com/event/sidepiece2026/",
+    "image": "/events/flyer/898-sidepiece-at-the-ritz-ybor.jpg",
+    "alt": "SIDEPIECE at The Ritz Ybor event flyer",
+    "imageKey": "event-flyers/898-sidepiece-at-the-ritz-ybor.jpg",
+    "endDate": "2026-11-22"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Tinlicker DJ Set at The Ritz Ybor",
+    "date": "DECEMBER 12, 10 PM TO 3 AM",
+    "headliners": "Tinlicker",
+    "venue": "The Ritz Ybor, Tampa",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://wl.eventim.us/event/tinlicker-dj-set/709544?afflky=SunsetEvents",
+    "flyerUrl": "https://www.theritzybor.com/event/tinlicker2027/",
+    "image": "/events/flyer/899-tinlicker-dj-set-at-the-ritz-ybor.jpg",
+    "alt": "Tinlicker DJ Set at The Ritz Ybor event flyer",
+    "imageKey": "event-flyers/899-tinlicker-dj-set-at-the-ritz-ybor.jpg",
+    "endDate": "2026-12-13"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Deathpact: From Darkness, Comes Light: Eclipsed",
+    "date": "DECEMBER 18, 10 PM TO 3 AM",
+    "headliners": "Deathpact",
+    "venue": "The Ritz Ybor, Tampa",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://wl.eventim.us/event/deathpact/704435?afflky=SunsetEvents",
+    "flyerUrl": "https://www.theritzybor.com/event/deathpact2026/",
+    "image": "/events/flyer/900-deathpact-at-the-ritz-ybor.jpg",
+    "alt": "Deathpact at The Ritz Ybor event flyer",
+    "imageKey": "event-flyers/900-deathpact-at-the-ritz-ybor.jpg",
+    "endDate": "2026-12-19"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Svdden Death at The Ritz Ybor",
+    "date": "DECEMBER 26, 10 PM TO 3 AM",
+    "headliners": "Svdden Death, Hamro",
+    "venue": "The Ritz Ybor, Tampa",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://wl.eventim.us/event/svdden-death/701174?afflky=SunsetEvents",
+    "flyerUrl": "https://www.theritzybor.com/event/svddendeath2026/",
+    "image": "/events/flyer/901-svdden-death-at-the-ritz-ybor.jpg",
+    "alt": "Svdden Death at The Ritz Ybor event flyer",
+    "imageKey": "event-flyers/901-svdden-death-at-the-ritz-ybor.jpg",
+    "endDate": "2026-12-27"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Discip: NYE at The Ritz Ybor",
+    "date": "DECEMBER 31, 10 PM TO 2:45 AM",
+    "headliners": "Discip, PUSHMAN",
+    "venue": "The Ritz Ybor, Tampa",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://wl.eventim.us/event/discip/705317?afflky=SunsetEvents",
+    "flyerUrl": "https://www.theritzybor.com/event/nye2027/",
+    "image": "/events/flyer/902-discip-nye-at-the-ritz-ybor.jpg",
+    "alt": "Discip NYE at The Ritz Ybor event flyer",
+    "imageKey": "event-flyers/902-discip-nye-at-the-ritz-ybor.jpg",
+    "endDate": "2027-01-01"
   }
 ]
