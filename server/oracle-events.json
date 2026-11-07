@@ -11537,5 +11537,111 @@
     "alt": "Surfer Girl at Jannus Live event flyer",
     "imageKey": "event-flyers/918-surfer-girl-at-jannus-live.jpg",
     "endDate": "2027-02-12"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Club 90s presents 2000s Night at The Ritz Ybor",
+    "date": "JANUARY 16, 9:30 PM TO 1 AM",
+    "headliners": "Club 90s",
+    "venue": "The Ritz Ybor, Tampa",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://wl.eventim.us/event/club-90s-2000s-night/706923?afflky=SunsetEvents",
+    "flyerUrl": "https://www.theritzybor.com/event/club-90s-0116/",
+    "image": "/events/flyer/919-club-90s-2000s-night-at-the-ritz-ybor.jpg",
+    "alt": "Club 90s presents 2000s Night at The Ritz Ybor event flyer",
+    "imageKey": "event-flyers/919-club-90s-2000s-night-at-the-ritz-ybor.jpg",
+    "endDate": "2027-01-17"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Dayshift at The Ritz Ybor",
+    "date": "JANUARY 23, 5 PM TO 9 PM",
+    "headliners": "Dayshift",
+    "venue": "The Ritz Ybor, Tampa",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.locomotivelive.com/dayshift-tampa",
+    "flyerUrl": "https://www.theritzybor.com/event/dayshift-013027/",
+    "image": "/events/flyer/920-dayshift-at-the-ritz-ybor.jpg",
+    "alt": "Dayshift The 30 Plus Daytime Party at The Ritz Ybor event flyer",
+    "imageKey": "event-flyers/920-dayshift-at-the-ritz-ybor.jpg",
+    "endDate": "2027-01-23"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Sunset On The River Music & Arts Festival",
+    "date": "FEBRUARY 20 TO 21, 3 PM TO 11:30 PM",
+    "headliners": "Sunset On The River, presented by Sunset Events and Disco Presents",
+    "venue": "Julian B. Lane Riverfront Park, Tampa",
+    "categories": [
+      "Music",
+      "Arts"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://wl.eventim.us/event/Sunset-On-The-River-Music-and-Arts-Festival/691219?afflky=SunsetOTRFestival",
+    "flyerUrl": "https://www.theritzybor.com/event/sunsetotr2026-dayone/",
+    "image": "/events/flyer/921-sunset-on-the-river-music-arts-festival-tampa.jpg",
+    "alt": "Sunset On The River Music and Arts Festival Tampa event flyer",
+    "imageKey": "event-flyers/921-sunset-on-the-river-music-arts-festival-tampa.jpg",
+    "endDate": "2027-02-21"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Richard Finger at The Ritz Ybor",
+    "date": "FEBRUARY 26, 10 PM TO 3 AM",
+    "headliners": "Richard Finger, XAEBOR, PATH",
+    "venue": "The Ritz Ybor, Tampa",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://wl.eventim.us/event/richard-finger/709458?afflky=SunsetEvents",
+    "flyerUrl": "https://www.theritzybor.com/event/richardfinger2027/",
+    "image": "/events/flyer/922-richard-finger-at-the-ritz-ybor.jpg",
+    "alt": "Richard Finger at The Ritz Ybor event flyer",
+    "imageKey": "event-flyers/922-richard-finger-at-the-ritz-ybor.jpg",
+    "endDate": "2027-02-27"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Ricky Montgomery: The Monty Tour at The Ritz Ybor",
+    "date": "APRIL 10, 7 PM",
+    "headliners": "Ricky Montgomery",
+    "venue": "The Ritz Ybor, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.axs.com/events/1657008/ricky-montgomery-tickets",
+    "flyerUrl": "https://www.theritzybor.com/event/rickymontgomery2027/",
+    "image": "/events/flyer/923-ricky-montgomery-the-monty-tour-at-the-ritz-ybor.jpg",
+    "alt": "Ricky Montgomery The Monty Tour at The Ritz Ybor event flyer",
+    "imageKey": "event-flyers/923-ricky-montgomery-the-monty-tour-at-the-ritz-ybor.jpg",
+    "endDate": "2027-04-10"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Currents at Jannus Live",
+    "date": "MARCH 16, 6 PM",
+    "headliners": "Currents, Vana, Stick To Your Guns, Dreamwake",
+    "venue": "Jannus Live, St. Petersburg",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/jannus-live-tickets-st-petersburg/venue/106731?page=1",
+    "flyerUrl": "https://v13.net/2026/11/currents-confirm-our-fates-lie-in-tandem-2027-north-american-trek/",
+    "image": "/events/flyer/924-currents-our-fates-lie-in-tandem-at-jannus-live.jpg",
+    "alt": "Currents Our Fates Lie In Tandem Tour at Jannus Live event flyer",
+    "imageKey": "event-flyers/924-currents-our-fates-lie-in-tandem-at-jannus-live.jpg",
+    "endDate": "2027-03-16"
   }
 ]
