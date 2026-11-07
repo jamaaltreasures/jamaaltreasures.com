@@ -11348,5 +11348,40 @@
     "alt": "GorillaT The Inner Mind Tour at The Ritz Ybor event flyer",
     "imageKey": "event-flyers/910-gorillat-at-the-ritz-ybor.jpg",
     "endDate": "2026-12-12"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "2nd Annual South Florida Hospitality & Tourism Summit",
+    "date": "DECEMBER 12, 8 AM TO 5 PM",
+    "headliners": "",
+    "venue": "Center for Black Innovation, Miami",
+    "categories": [
+      "Business"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/2nd-annual-south-florida-hospitality-tourism-summit-tickets-2003672952739",
+    "flyerUrl": "https://www.eventbrite.com/e/2nd-annual-south-florida-hospitality-tourism-summit-tickets-2003672952739",
+    "image": "/events/flyer/911-south-florida-hospitality-tourism-summit.jpg",
+    "alt": "2nd Annual South Florida Hospitality and Tourism Summit flyer, Center for Black Innovation Miami",
+    "imageKey": "event-flyers/911-south-florida-hospitality-tourism-summit.jpg",
+    "endDate": "2026-12-12"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Central Florida Flavor Fest & Craft Fair",
+    "date": "FEBRUARY 6, 12 PM TO 9 PM",
+    "headliners": "",
+    "venue": "Central Winds Park, Winter Springs",
+    "categories": [
+      "Food",
+      "Community"
+    ],
+    "detailsLabel": "Event Details",
+    "detailsUrl": "https://www.battlebrosevents.com/centralfloridaflavorfest",
+    "flyerUrl": "https://www.battlebrosevents.com/centralfloridaflavorfest",
+    "image": "/events/flyer/912-central-florida-flavor-fest-winter-springs.jpg",
+    "alt": "Central Florida Flavor Fest and Craft Fair flyer, Central Winds Park, Winter Springs",
+    "imageKey": "event-flyers/912-central-florida-flavor-fest-winter-springs.jpg",
+    "endDate": "2027-02-06"
   }
 ]
