@@ -11383,5 +11383,56 @@
     "alt": "Central Florida Flavor Fest and Craft Fair flyer, Central Winds Park, Winter Springs",
     "imageKey": "event-flyers/912-central-florida-flavor-fest-winter-springs.jpg",
     "endDate": "2027-02-06"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Bumpin Uglies at Jannus Live",
+    "date": "JANUARY 30, 7 PM TO 11 PM",
+    "headliners": "Bumpin Uglies, Shwayze, Kat Hall",
+    "venue": "Jannus Live, St. Petersburg",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/bumpin-uglies-st-pete-tickets-2002232917555",
+    "flyerUrl": "https://www.eventbrite.com/e/bumpin-uglies-st-pete-tickets-2002232917555",
+    "image": "/events/flyer/913-bumpin-uglies-jannus-live.jpg",
+    "alt": "Bumpin Uglies at Jannus Live event flyer",
+    "imageKey": "event-flyers/913-bumpin-uglies-jannus-live.jpg",
+    "endDate": "2027-01-30"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Tropidelic: A New Dawn Tour at Jannus Live",
+    "date": "FEBRUARY 5, 7 PM TO 11 PM",
+    "headliners": "Tropidelic, Mellodose",
+    "venue": "Jannus Live, St. Petersburg",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/tropidelic-st-pete-tickets-2003430294943",
+    "flyerUrl": "https://www.eventbrite.com/e/tropidelic-st-pete-tickets-2003430294943",
+    "image": "/events/flyer/914-tropidelic-jannus-live.jpg",
+    "alt": "Tropidelic A New Dawn Tour at Jannus Live event flyer",
+    "imageKey": "event-flyers/914-tropidelic-jannus-live.jpg",
+    "endDate": "2027-02-05"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Tropidelic: A New Dawn Tour, St. Augustine",
+    "date": "FEBRUARY 7, 6 PM TO 10 PM",
+    "headliners": "Tropidelic, Mellodose",
+    "venue": "Colonial Oak Music Park, St. Augustine",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/tropidelic-st-augustine-tickets-2003430653014",
+    "flyerUrl": "https://www.eventbrite.com/e/tropidelic-st-augustine-tickets-2003430653014",
+    "image": "/events/flyer/915-tropidelic-st-augustine.jpg",
+    "alt": "Tropidelic A New Dawn Tour St. Augustine event flyer",
+    "imageKey": "event-flyers/915-tropidelic-st-augustine.jpg",
+    "endDate": "2027-02-07"
   }
 ]
