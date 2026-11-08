@@ -1,5 +1,151 @@
 [
  {
+  "slug": "running-a-gallery-real-economics",
+  "title": "Running a Gallery Looks Glamorous Until You See the Rent and the Commission Math",
+  "excerpt": "Morning Brew breaks down the real economics of a gallery: steep city rent, commissions of 40 to 60 percent, and hidden costs that decide who survives.",
+  "seoDescription": "The real cost of running an art gallery, from 12,000 dollar monthly rent to commission splits, and what the math teaches artists and studio owners.",
+  "category": "brand-growth",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-08T13:04:00.000Z",
+  "updatedAt": "2026-11-08T13:04:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/running-a-gallery-real-economics-hero.webp",
+   "alt": "A man hanging a small abstract painting on a white gallery wall while a woman beside him points to direct the placement",
+   "subject": "Hanging artwork inside a gallery",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1240,format=auto/https://storage.morningbrew.com/image/2026-11-05/image-83cc378485fcabd382a3549d0c71d9f42756bd8f-3000x2000-jpg/MBD-SundaySpecial-ArtBrew-Gallery-1026.jpg",
+   "credit": "Image: Unsplash via Morning Brew. Story source: Morning Brew, November 8, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The glamorous room runs on unglamorous math",
+    "paragraphs": [
+     "Morning Brew asks a simple question in its Art Brew edition: besides a great excuse to wear black turtlenecks, what do art dealers actually get out of operating a gallery? The honest answer is that they can make a decent living when things go right, and that if carries most of the weight in the business.",
+     "Start with the room itself. A gallery needs a physical place to operate, and space is not cheap. The New York Times reported in 2023 that rent for a small to midsize gallery in New York ran about 12,000 dollars per month. That bill arrives whether a single painting sells or not, which makes every quiet month a direct threat."
+    ]
+   },
+   {
+    "heading": "The flywheel is a roster, a Rolodex, and a split",
+    "paragraphs": [
+     "Once the doors open, the work becomes relationship math. Building a roster of quality artists attracts collectors with money to spend, and those collectors make the gallery more attractive to the next artist. Morning Brew explains that owners generally earn in one of two ways: they either charge artists a flat exhibition fee, or they take a commission of 40 to 60 percent on sales, per The Holy Art gallery.",
+     "That split shocks a lot of artists the first time they hear it, until they price what sits behind it. The gallery is fronting the room, the audience, and the trust that brings a buyer into the building ready to spend. Whether any given split is fair depends on whether the gallery actually delivers that room and that audience, and artists should ask for proof of both before signing."
+    ]
+   },
+   {
+    "heading": "Hidden costs decide who stays open",
+    "paragraphs": [
+     "Rent and commission are only the visible lines. Morning Brew lists the quieter bills that keep the little brass lights on: employees, storage, photography, insurance, shipping, and travel, which together run into thousands of dollars. Every one of those costs exists to make the work look effortless in the room where the sale happens.",
+     "The averages show both the prize and the pressure. The New York Times estimates that a small to midsize gallery could bring in about 295,000 dollars in monthly revenue against about 91,000 dollars in monthly costs. Those are averages across a hard business, not a promise for any single space, and the spread between a good month and a bad one is where most galleries live or close."
+    ]
+   },
+   {
+    "heading": "The lesson for artists and studio owners alike",
+    "paragraphs": [
+     "If you sell creative work, study this model from both sides of the wall. As an artist, a gallery is a distribution partner, and partners deserve the same questions you would ask any channel: what audience do you bring, what does placement cost me in total, and what proof do you have that your room converts attention into sales?",
+     "As a studio owner, the mirror lesson is overhead honesty. Rent, help, insurance, and delivery costs do not care how beautiful the work is. Price your offers so the math survives a slow month, keep a clear line between revenue and what you actually keep, and build the roster and Rolodex that make buyers show up on purpose. Glamour is the storefront. Math is the business."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: The art of running a gallery (November 8, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "art-auction-sales-rebound-established-names-win",
+  "title": "Art Auctions Just Posted 6.8 Billion Dollars While Galleries Quietly Struggle",
+  "excerpt": "Sales at the big auction houses jumped 70 percent to 6.8 billion dollars in the first half of the year. The money is flowing to famous names, and working artists feel the squeeze.",
+  "seoDescription": "Art auction sales rebounded to 6.8 billion dollars while galleries struggle. What the split teaches creators about proof, pricing, and buyer confidence.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-08T13:00:00.000Z",
+  "updatedAt": "2026-11-08T13:00:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/art-auction-sales-rebound-established-names-win-hero.webp",
+   "alt": "Two art handlers in white gloves holding a framed Van Gogh painting of chestnut trees in bloom against a dark gallery wall",
+   "subject": "Art handlers holding a framed Van Gogh painting",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1240,format=auto/https://storage.morningbrew.com/image/2026-11-05/image-a28f0d3d5386f801871f8099b955cbd09792fc7d-6048x4032-jpg/GettyImages-2299431620.jpg",
+   "credit": "Image: Peter Parks, Getty Images via Morning Brew. Story source: Morning Brew, November 8, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The slump ended at the top of the market",
+    "paragraphs": [
+     "Morning Brew reports that sales at Christie’s, Sotheby’s, and Phillips reached 6.8 billion dollars in the first half of this year, up 70 percent from a year earlier, after worldwide auction sales declined from 2022 through 2025. The global auction market has not performed this well since the first half of 2022, when it brought in 7.1 billion dollars, according to Bank of America.",
+     "The headline lots explain the heat. A Jackson Pollock sold for 181.2 million dollars, making it the fourth most expensive artwork ever sold at public auction, and a Mark Rothko went for 98.4 million dollars. At Art Basel in Switzerland, the median disclosed sale price nearly tripled to 287,500 dollars this year, per Maddox Gallery, a sign that spending picked up beyond the wealthiest collectors."
+    ]
+   },
+   {
+    "heading": "One November night could add another 450 million dollars",
+    "paragraphs": [
+     "The test continues on November 18 in New York, when Sotheby’s will auction a famous collection of 12 paintings that Morning Brew says has been likened to a small museum with almost mythical status in the art world. The collection is expected to bring in more than 450 million dollars in total.",
+     "Its star is a rare Van Gogh, Chataigniers en fleurs, projected to sell for at least 180 million dollars. That figure would break the artist public auction record of 117 million dollars set in 2022. Auction houses also got help from collectibles, the entry point category for many younger bidders, which includes trading cards, watches, and even dinosaur fossils, while fine art remains the most important category at Christie’s."
+    ]
+   },
+   {
+    "heading": "Galleries are struggling while auctions celebrate",
+    "paragraphs": [
+     "Here is the twist that matters for working artists. Morning Brew notes that galleries are struggling even as auctions post their best numbers in years, a point a former Art Basel global director made earlier this year. One reason may be that collectors are leaning away from emerging artists and embracing established, historical names, which happen to be exactly what auction houses sell best.",
+     "Read that as a market signal, not just art gossip. When money gets cautious, buyers run toward names that already carry proof. The same pattern hits photographers, filmmakers, and designers every cycle: clients pay premiums for portfolios with recognizable results and hesitate over new talent, even when the new work is strong. The gap is rarely about quality alone. It is about how much evidence a buyer can see before taking the risk."
+    ]
+   },
+   {
+    "heading": "What creators should steal from this rebound",
+    "paragraphs": [
+     "The practical lesson is to make your proof easy to find and easy to price. Collectibles became the on ramp that brought younger bidders into rooms where fine art sells. Your version is a clear entry offer that lets a new client start small, see the quality, and step up to the flagship work without a leap of faith. Entry points do not cheapen a brand when the ladder is designed on purpose.",
+     "Then keep feeding the top of your own market. Publish finished work with results attached, keep past clients close, and make repeat buying simple, because established names win cautious money. The auction world just showed what demand looks like when confidence returns: it flows first to the names buyers already trust. Build that trust in public, long before you need the sale."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Art auction rebound (November 8, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand spot pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "italian-chef-fired-pineapple-pizza-stand",
   "title": "An Italian Chef Refused to Put Pineapple on Pizza and It Cost Him His Job",
   "excerpt": "Chef Davide Tamburella told Australia Fair Work Commission that pineapple pizza is an insult to his culture. He lost the claim on a filing deadline and found a kitchen that agrees.",
