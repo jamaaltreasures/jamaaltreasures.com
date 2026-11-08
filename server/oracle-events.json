@@ -11190,5 +11190,24 @@
     "alt": "Dom Dolla Presents Good Fortune at Factory Town event flyer",
     "imageKey": "event-flyers/929-dom-dolla-factory-town-miami.jpg",
     "endDate": "2027-01-01"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Roots & Revival: Our Love Letter to Black Culture",
+    "date": "DECEMBER 2, 7 PM",
+    "headliners": "DJ S.O.S.",
+    "venue": "Co-Space, Miami Gardens",
+    "categories": [
+      "Arts",
+      "Music",
+      "Community"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.welcometocospace.com/event-details-registration/roots-revival-r-a-miami-art-week-event-2",
+    "flyerUrl": "https://www.welcometocospace.com/post/roots-revival-miami-art-week-2026",
+    "image": "/events/flyer/930-roots-revival-miami-gardens.jpg",
+    "alt": "Roots & Revival Miami Art Week event flyer",
+    "imageKey": "event-flyers/930-roots-revival-miami-gardens.jpg",
+    "endDate": "2026-12-02"
   }
 ]
