@@ -11643,5 +11643,77 @@
     "alt": "Currents Our Fates Lie In Tandem Tour at Jannus Live event flyer",
     "imageKey": "event-flyers/924-currents-our-fates-lie-in-tandem-at-jannus-live.jpg",
     "endDate": "2027-03-16"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "PAWSA at LIV Miami",
+    "date": "DECEMBER 4, 11:30 PM",
+    "headliners": "PAWSA",
+    "venue": "LIV Nightclub, Miami Beach",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261204/pawsa/",
+    "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261204/pawsa/",
+    "image": "/events/flyer/925-pawsa-at-liv-miami.jpg",
+    "alt": "PAWSA at LIV Miami event flyer",
+    "imageKey": "event-flyers/925-pawsa-at-liv-miami.jpg",
+    "endDate": "2026-12-05"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Loud Luxury at LIV Miami",
+    "date": "JANUARY 2, 11:30 PM",
+    "headliners": "Loud Luxury",
+    "venue": "LIV Nightclub, Miami Beach",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020270102/loud-luxury/",
+    "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020270102/loud-luxury/",
+    "image": "/events/flyer/926-loud-luxury-at-liv-miami.jpg",
+    "alt": "Loud Luxury at LIV Miami event flyer",
+    "imageKey": "event-flyers/926-loud-luxury-at-liv-miami.jpg",
+    "endDate": "2027-01-03"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Levi at LIV Miami",
+    "date": "JANUARY 9, 11:30 PM",
+    "headliners": "Levi",
+    "venue": "LIV Nightclub, Miami Beach",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020270109/levi/",
+    "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020270109/levi/",
+    "image": "/events/flyer/927-levi-at-liv-miami.jpg",
+    "alt": "Levi at LIV Miami event flyer",
+    "imageKey": "event-flyers/927-levi-at-liv-miami.jpg",
+    "endDate": "2027-01-10"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Two Friends at LIV Miami",
+    "date": "JANUARY 16, 11:30 PM",
+    "headliners": "Two Friends",
+    "venue": "LIV Nightclub, Miami Beach",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020270116/two-friends/",
+    "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020270116/two-friends/",
+    "image": "/events/flyer/928-two-friends-at-liv-miami.jpg",
+    "alt": "Two Friends at LIV Miami event flyer",
+    "imageKey": "event-flyers/928-two-friends-at-liv-miami.jpg",
+    "endDate": "2027-01-17"
   }
 ]
