@@ -10783,23 +10783,6 @@
   },
   {
     "section": "NOVEMBER",
-    "title": "6LACK: 10 Years of 6LACK Tour, Fort Lauderdale",
-    "date": "NOVEMBER 18, 8 PM",
-    "headliners": "6LACK, Eem Triplin",
-    "venue": "FTL War Memorial Auditorium, Fort Lauderdale",
-    "categories": [
-      "Music"
-    ],
-    "detailsLabel": "Get Tickets",
-    "detailsUrl": "https://concerts.consequence.net/events/6lack-at-ftl-war-memorial-auditorium-on-2026-11-18-20-00",
-    "flyerUrl": "https://consequence.net/2026/05/6lack-announces-10-years-of-6lack-world-tour/",
-    "image": "/events/flyer/934-6lack-10-years-of-6lack-tour-fort-lauderdale.jpg",
-    "alt": "6LACK 10 Years of 6LACK Tour poster, FTL War Memorial Auditorium Fort Lauderdale",
-    "imageKey": "event-flyers/934-6lack-10-years-of-6lack-tour-fort-lauderdale.jpg",
-    "endDate": "2026-11-18"
-  },
-  {
-    "section": "NOVEMBER",
     "title": "Bossman Dlow at NINE1NINE",
     "date": "NOVEMBER 13, 8 PM TO 10 AM",
     "headliners": "Bossman Dlow",
@@ -10833,5 +10816,95 @@
     "alt": "Manatee County Food Fest and Craft Fair flyer, Tom Bennett Park, Bradenton",
     "imageKey": "event-flyers/936-manatee-county-food-fest-craft-fair.jpg",
     "endDate": "2027-03-06"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "The Yard: HBCU Alumni and Friends Day Party",
+    "date": "NOVEMBER 20, 5 PM TO 9 PM",
+    "headliners": "Music by Boweezy and DJ Nasty 305",
+    "venue": "The Great Southern Box Co, Orlando",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.theorlandoclassic.com/",
+    "flyerUrl": "https://www.theorlandoclassic.com/",
+    "image": "/events/flyer/937-the-yard-hbcu-day-party-orlando.jpg",
+    "alt": "The Yard HBCU Alumni and Friends Day Party flyer, The Great Southern Box Co Orlando",
+    "imageKey": "event-flyers/937-the-yard-hbcu-day-party-orlando.jpg",
+    "endDate": "2026-11-20"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "PREMIUM: Orlando Classic Weekend at Mangos",
+    "date": "NOVEMBER 20, 10 PM TO 2 AM",
+    "headliners": "PREMIUM, the fly alumni pre game party, Orlando Classic Weekend",
+    "venue": "Mangos Tropical Cafe, Orlando",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.theorlandoclassic.com/",
+    "flyerUrl": "https://www.theorlandoclassic.com/",
+    "image": "/events/flyer/938-premium-orlando-classic-mangos.jpg",
+    "alt": "PREMIUM Orlando Classic Weekend flyer, Mangos Tropical Cafe Orlando",
+    "imageKey": "event-flyers/938-premium-orlando-classic-mangos.jpg",
+    "endDate": "2026-11-21"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Tastemakers: Official HBCU After Party",
+    "date": "NOVEMBER 21, 10 PM TO 2 AM",
+    "headliners": "Hosted by Muni Long, Simply R&B",
+    "venue": "Mangos Tropical Cafe, Orlando",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.theorlandoclassic.com/",
+    "flyerUrl": "https://www.theorlandoclassic.com/",
+    "image": "/events/flyer/939-tastemakers-muni-long-orlando.jpg",
+    "alt": "Tastemakers Official HBCU After Party flyer hosted by Muni Long, Mangos Tropical Cafe Orlando",
+    "imageKey": "event-flyers/939-tastemakers-muni-long-orlando.jpg",
+    "endDate": "2026-11-22"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Classique: Orlando Classic After Party",
+    "date": "NOVEMBER 21, 9 PM TO 2 AM",
+    "headliners": "Classique, where HBCU alumni gather in style, Orlando Classic Weekend",
+    "venue": "Blue Martini, Orlando",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.theorlandoclassic.com/",
+    "flyerUrl": "https://www.theorlandoclassic.com/",
+    "image": "/events/flyer/940-classique-blue-martini-orlando.jpg",
+    "alt": "Classique Orlando Classic After Party flyer, Blue Martini Orlando",
+    "imageKey": "event-flyers/940-classique-blue-martini-orlando.jpg",
+    "endDate": "2026-11-22"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Juvenile: Classic Concert Official After Party",
+    "date": "NOVEMBER 22, 10 PM TO 2 AM",
+    "headliners": "Juvenile, 400 Degrees",
+    "venue": "Mangos Tropical Cafe, Orlando",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.theorlandoclassic.com/",
+    "flyerUrl": "https://www.theorlandoclassic.com/",
+    "image": "/events/flyer/941-juvenile-classic-concert-after-party-orlando.jpg",
+    "alt": "Juvenile Classic Concert Official After Party flyer, Mangos Tropical Cafe Orlando",
+    "imageKey": "event-flyers/941-juvenile-classic-concert-after-party-orlando.jpg",
+    "endDate": "2026-11-23"
   }
 ]
