@@ -11226,5 +11226,56 @@
     "alt": "An Evening With Goose Hollywood event flyer",
     "imageKey": "event-flyers/931-goose-hollywood.jpg",
     "endDate": "2027-04-13"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jingle Bell Run Miami",
+    "date": "DECEMBER 12, 9 AM",
+    "headliners": "",
+    "venue": "Haulover Park, Miami",
+    "categories": [
+      "Wellness"
+    ],
+    "detailsLabel": "Register",
+    "detailsUrl": "https://events.arthritis.org/index.cfm?fuseaction=donordrive.event&eventID=2015",
+    "flyerUrl": "https://events.arthritis.org/index.cfm?fuseaction=donordrive.event&eventID=2015",
+    "image": "/events/flyer/932-jingle-bell-run.jpg",
+    "alt": "Jingle Bell Run Miami event photo",
+    "imageKey": "event-flyers/932-jingle-bell-run.jpg",
+    "endDate": "2026-12-12"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jingle Bell Run Orlando",
+    "date": "DECEMBER 12, 9 AM",
+    "headliners": "",
+    "venue": "Baldwin Park, Orlando",
+    "categories": [
+      "Wellness"
+    ],
+    "detailsLabel": "Register",
+    "detailsUrl": "https://events.arthritis.org/index.cfm?fuseaction=donordrive.event&eventID=1994",
+    "flyerUrl": "https://events.arthritis.org/index.cfm?fuseaction=donordrive.event&eventID=1994",
+    "image": "/events/flyer/932-jingle-bell-run.jpg",
+    "alt": "Jingle Bell Run Orlando event photo",
+    "imageKey": "event-flyers/932-jingle-bell-run.jpg",
+    "endDate": "2026-12-12"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jingle Bell Run Tampa",
+    "date": "DECEMBER 13, 10 AM",
+    "headliners": "",
+    "venue": "Al Lopez Park, Tampa",
+    "categories": [
+      "Wellness"
+    ],
+    "detailsLabel": "Register",
+    "detailsUrl": "https://events.arthritis.org/index.cfm?fuseaction=donordrive.event&eventID=2016",
+    "flyerUrl": "https://events.arthritis.org/index.cfm?fuseaction=donordrive.event&eventID=2016",
+    "image": "/events/flyer/932-jingle-bell-run.jpg",
+    "alt": "Jingle Bell Run Tampa event photo",
+    "imageKey": "event-flyers/932-jingle-bell-run.jpg",
+    "endDate": "2026-12-13"
   }
 ]
