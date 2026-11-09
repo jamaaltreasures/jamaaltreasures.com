@@ -10797,5 +10797,41 @@
     "alt": "6LACK 10 Years of 6LACK Tour poster, FTL War Memorial Auditorium Fort Lauderdale",
     "imageKey": "event-flyers/934-6lack-10-years-of-6lack-tour-fort-lauderdale.jpg",
     "endDate": "2026-11-18"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Bossman Dlow at NINE1NINE",
+    "date": "NOVEMBER 13, 8 PM TO 10 AM",
+    "headliners": "Bossman Dlow",
+    "venue": "E11EVEN Miami, Miami",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://speakeasygo.com/E11EVEN/BOSSMAN-DLOW-AT-NINE1NINE?eid=EVE-K34Z9E",
+    "flyerUrl": "https://speakeasygo.com/E11EVEN/BOSSMAN-DLOW-AT-NINE1NINE?eid=EVE-K34Z9E",
+    "image": "/events/flyer/935-bossman-dlow-at-nine1nine.jpg",
+    "alt": "Bossman Dlow at NINE1NINE event flyer for E11EVEN Miami on Friday November 13 2026",
+    "imageKey": "event-flyers/935-bossman-dlow-at-nine1nine.jpg",
+    "endDate": "2026-11-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Manatee County Food Fest & Craft Fair",
+    "date": "MARCH 6, 12 PM TO 9 PM",
+    "headliners": "",
+    "venue": "Tom Bennett Park, Bradenton",
+    "categories": [
+      "Food",
+      "Community"
+    ],
+    "detailsLabel": "Event Details",
+    "detailsUrl": "https://www.battlebrosevents.com/manateecountyfoodfest",
+    "flyerUrl": "https://www.battlebrosevents.com/manateecountyfoodfest",
+    "image": "/events/flyer/936-manatee-county-food-fest-craft-fair.jpg",
+    "alt": "Manatee County Food Fest and Craft Fair flyer, Tom Bennett Park, Bradenton",
+    "imageKey": "event-flyers/936-manatee-county-food-fest-craft-fair.jpg",
+    "endDate": "2027-03-06"
   }
 ]
