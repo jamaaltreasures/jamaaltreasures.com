@@ -11209,5 +11209,22 @@
     "alt": "Roots & Revival Miami Art Week event flyer",
     "imageKey": "event-flyers/930-roots-revival-miami-gardens.jpg",
     "endDate": "2026-12-02"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "An Evening With Goose, Hollywood",
+    "date": "APRIL 13, 7:30 PM",
+    "headliners": "Goose",
+    "venue": "Hard Rock Live, Hollywood",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/goose-tickets/artist/32316?ac_link=ursa_42e1e925-8ff7-4c8c-9013-28c4a6b71431_a_32316&page=1",
+    "flyerUrl": "https://consequence.net/2026/10/goose-spring-2027-us-tour/",
+    "image": "/events/flyer/931-goose-hollywood.jpg",
+    "alt": "An Evening With Goose Hollywood event flyer",
+    "imageKey": "event-flyers/931-goose-hollywood.jpg",
+    "endDate": "2027-04-13"
   }
 ]
