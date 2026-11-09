@@ -11277,5 +11277,22 @@
     "alt": "Jingle Bell Run Tampa event photo",
     "imageKey": "event-flyers/932-jingle-bell-run.jpg",
     "endDate": "2026-12-13"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "FYA Fest 13",
+    "date": "JANUARY 9 TO 10",
+    "headliners": "Knocked Loose, Floorpunch, Poison The Well, Carry On, Angel Du$t, Fiddlehead, Gods Hate, Arkangel, Earth Crisis, Harms Way, Ringworm",
+    "venue": "Orlando Warehouse, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://link.dice.fm/m3bb9cc87ea1",
+    "flyerUrl": "https://fyafest.net/event/fya-13floorpunch-poison-the-well-carry-on-angel-dust-fiddlehead-gods-hate-earth-crisis-etc/",
+    "image": "/events/flyer/933-fya-fest-13-orlando.jpg",
+    "alt": "FYA Fest 13 flyer, Orlando Warehouse, Orlando",
+    "imageKey": "event-flyers/933-fya-fest-13-orlando.jpg",
+    "endDate": "2027-01-10"
   }
 ]
