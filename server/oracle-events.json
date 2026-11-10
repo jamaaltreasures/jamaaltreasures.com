@@ -10925,5 +10925,73 @@
     "alt": "Grand Theft Auto VI The Festival official lineup poster with Travis Scott and Cardi B live at Mana Wynwood in Miami on November 21",
     "imageKey": "event-flyers/942-grand-theft-auto-vi-the-festival.jpg",
     "endDate": "2026-11-21"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "New Order, Miami Beach",
+    "date": "MARCH 20, 8 PM",
+    "headliners": "New Order with DJ Arthur Baker",
+    "venue": "The Fillmore Miami Beach at Jackie Gleason Theater, Miami Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/the-fillmore-miami-beach-at-jackie-tickets-miami-beach/venue/107452",
+    "flyerUrl": "https://consequence.net/wp-content/uploads/2026/11/snapgram.io_wz7fk2c6h7pl.jpg",
+    "image": "/events/flyer/943-new-order-2027-us-tour.jpg",
+    "alt": "New Order 2027 US Tour poster for The Fillmore Miami Beach at Jackie Gleason Theater",
+    "imageKey": "event-flyers/943-new-order-2027-us-tour.jpg",
+    "endDate": "2027-03-20"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "New Order, Miami Beach Night 2",
+    "date": "MARCH 21, 8 PM",
+    "headliners": "New Order with DJ Arthur Baker",
+    "venue": "The Fillmore Miami Beach at Jackie Gleason Theater, Miami Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/the-fillmore-miami-beach-at-jackie-tickets-miami-beach/venue/107452",
+    "flyerUrl": "https://consequence.net/wp-content/uploads/2026/11/snapgram.io_wz7fk2c6h7pl.jpg",
+    "image": "/events/flyer/943-new-order-2027-us-tour.jpg",
+    "alt": "New Order 2027 US Tour poster for The Fillmore Miami Beach at Jackie Gleason Theater",
+    "imageKey": "event-flyers/943-new-order-2027-us-tour.jpg",
+    "endDate": "2027-03-21"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Marc Anthony: The Last Dance World Tour, Tampa",
+    "date": "APRIL 25, 8 PM",
+    "headliners": "Marc Anthony",
+    "venue": "Benchmark International Arena, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/marc-anthony-tickets/artist/759949",
+    "flyerUrl": "https://consequence.net/wp-content/uploads/2026/11/Marc-Anthony-The-Last-Dance-World-Tour-Poster.jpg",
+    "image": "/events/flyer/944-marc-anthony-the-last-dance-world-tour.jpg",
+    "alt": "Marc Anthony The Last Dance World Tour poster with 2027 tour dates",
+    "imageKey": "event-flyers/944-marc-anthony-the-last-dance-world-tour.jpg",
+    "endDate": "2027-04-25"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Noah Kahan: The Last Of The Bugs World Tour, Tampa",
+    "date": "APRIL 29, 6:30 PM",
+    "headliners": "Noah Kahan",
+    "venue": "Raymond James Stadium, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/noah-kahan-tickets/artist/2385568",
+    "flyerUrl": "https://prismic-images.tmol.io/ticketmaster-tm-global/aYC8c90YXLCxVRMs_noah-kahan-2026-tour-dates.png",
+    "image": "/events/flyer/945-noah-kahan-the-last-of-the-bugs-world-tour.jpg",
+    "alt": "Noah Kahan The Last Of The Bugs World Tour poster with 2027 tour dates",
+    "imageKey": "event-flyers/945-noah-kahan-the-last-of-the-bugs-world-tour.jpg",
+    "endDate": "2027-04-29"
   }
 ]
