@@ -1,5 +1,390 @@
 [
  {
+  "slug": "tampa-bay-burger-week-2026",
+  "title": "Tampa Bay Burger Week 2026 Runs November 12 Through 22 With a Title on the Line",
+  "excerpt": "Creative Loafing and Feeding Tampa Bay bring back Burger Week for an eleventh year, with specials at dozens of restaurants, an Instagram contest, and the Ultimate Burger vote.",
+  "seoDescription": "Tampa Bay Burger Week 2026 runs November 12 through 22 with burger specials across the bay, support for Feeding Tampa Bay, and voting for the Ultimate Burger.",
+  "category": "events",
+  "serviceId": "event-coverage",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-10T13:00:00.000Z",
+  "updatedAt": "2026-11-10T13:00:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/tampa-bay-burger-week-2026-hero.webp",
+   "alt": "The DS Smash Burger from District South Kitchen in Tampa, a double patty burger with melted American cheese, pickles, tomato, and lettuce on a potato bun with fries",
+   "subject": "DS Smash Burger, a Tampa Bay Burger Week special",
+   "kind": "photo",
+   "sourceUrl": "https://tampabayburgerweek.com/assets/ds-smash-burger-wide-D0HMQu2F.jpg",
+   "credit": "Image: District South Kitchen, via Tampa Bay Burger Week. Story source: Creative Loafing Tampa Bay, November 9, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Eleven years in, Burger Week is a bay area ritual",
+    "paragraphs": [
+     "Creative Loafing Tampa Bay has announced the eleventh annual Tampa Bay Burger Week, running Thursday, November 12 through Sunday, November 22, 2026. Participating restaurants across Tampa and St. Petersburg offer exclusively priced burger specials for dine in and takeout, with deals on a beer option or cocktail at select locations. Outlaw Brewing is the official beer sponsor this year, pouring a light beer built to pair with any burger on the list.",
+     "The official site already lists the lineup, and it reads like a tour of the local scene: the Bangin Italin Smashburger at A Boy Named Sous, the Bulla Burger on South Howard, the Bacon Jam Double at Coastal Smash in Bradenton, the La Havana Frita at Flan Factory, the DS Smash Burger at District South Kitchen, and the Truffle Smash Burger at Juno and the Peacock in St. Petersburg, among many more."
+    ]
+   },
+   {
+    "heading": "Every burger also feeds the neighborhood",
+    "paragraphs": [
+     "Burger Week again teams Creative Loafing with Feeding Tampa Bay, and a portion of proceeds benefits the nonprofit. Feeding Tampa Bay is one of the largest hunger relief organizations in the country, serving nearly one million people across a ten county region, and it expects to serve more than 85 million meals this year. The model is simple and worth copying: a promotion people already want, wired to a cause people already respect.",
+     "That structure is why the event keeps growing instead of going stale. Restaurants get eleven days of motivated guests hunting specials. Diners get a reason to try places across the bay they would never otherwise drive to. And every check carries a small, real contribution to feeding local families, so the indulgence and the good deed arrive on the same plate. Events that align all three sides tend to become traditions, and traditions compound."
+    ]
+   },
+   {
+    "heading": "The Ultimate Burger vote turns diners into promoters",
+    "paragraphs": [
+     "Two mechanics turn eaters into marketers. First, the photo contest: snap a photo of your Burger Week burger, post it on Instagram with your location at the restaurant, tag the Creative Loafing account, and use the Burger Week hashtag, and you are entered to win gift certificates and VIP tickets to the next Creative Loafing event. Every location you visit and tag counts as another entry, which quietly rewards the diners who tour the most restaurants.",
+     "Second, the crown. Voting for Tampa Bay Ultimate Burger opens at 9 in the morning on Thursday, November 12 on the Burger Week site, and every participating location is eligible for the title. A public vote gives each restaurant a reason to rally its own regulars, which means dozens of businesses promote the same event to their own audiences for eleven straight days. That is distribution no single organizer could buy."
+    ]
+   },
+   {
+    "heading": "How to run your Burger Week like a local",
+    "paragraphs": [
+     "Plan the route before the hunger decides. Pick one Tampa stop and one St. Petersburg stop on the same day, check whether the special is dine in only or open to takeout, and ask for the Burger Week special by name when you order, since that is all it takes to get the deal. Prices on the official list run from about ten dollars to the mid twenties, so a two stop tour stays cheaper than one ordinary night out.",
+     "And if you run a restaurant, a food truck, or any local event, steal the playbook whole: a fixed window, a simple special, a charity partner with real local weight, a photo contest that pays guests in chances, and a public vote that turns pride into promotion. Burger Week is eleven years strong because it was built as a system, not a sale. Build your next promotion the same way, and it can come back bigger every single year."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "creative-loafing",
+    "title": "Creative Loafing Tampa Bay: Tampa Bay Burger Week 2026 kicks off November 12 (November 9, 2026)",
+    "url": "https://www.cltampa.com"
+   },
+   {
+    "id": "burger-week",
+    "title": "Tampa Bay Burger Week: Participating restaurants and specials",
+    "url": "https://tampabayburgerweek.com/restaurants"
+   },
+   {
+    "id": "feeding-tampa-bay",
+    "title": "Feeding Tampa Bay",
+    "url": "https://feedingtampabay.org"
+   }
+  ],
+  "relatedServiceIds": [
+   "event-coverage",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Cover my event",
+   "price": 2000,
+   "serviceId": "event-coverage"
+  },
+  "nextClick": {
+   "label": "See what is on the Event Radar",
+   "url": "https://jamaaltreasures.com/events"
+  }
+ },
+ {
+  "slug": "luxury-sheepdogs-thirty-thousand-dollars",
+  "title": "Trained Sheepdogs Now Sell for Thirty Thousand Dollars and Buyers Fly In",
+  "excerpt": "Border collies at auction in Skipton, England, break price records as hobbyists join farmers, and drones still cannot match a good dog herding eye and instinct.",
+  "seoDescription": "Trained sheepdogs sell for up to about 39,000 dollars, with a global herding market near 150 million dollars. Why craft, instinct, and proof still beat automation.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-10T12:56:00.000Z",
+  "updatedAt": "2026-11-10T12:56:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/luxury-sheepdogs-thirty-thousand-dollars-hero.webp",
+   "alt": "A black and white border collie standing alert in a field in front of a grazing flock of sheep, photographed for The Hustle sheepdog story",
+   "subject": "Border collie sheepdog standing before a flock",
+   "kind": "photo",
+   "sourceUrl": "https://thehustle.co/hs-fs/hubfs/Daily%20Templates%20-%202026%20Refresh%20(2)-2.png?width=1120&upscale=true&name=Daily%20Templates%20-%202026%20Refresh%20(2)-2.png",
+   "credit": "Image: The Hustle. Story source: The Hustle, November 10, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A working dog became a luxury asset",
+    "paragraphs": [
+     "The Hustle leads its November 10 issue with a market most city readers have never priced: trained sheepdogs. Once the tool of rural farmers, top border collies now draw international buyers willing to pay upwards of 30,000 dollars for a dog with the intelligence, athleticism, and what handlers call the herding eye. The global Highland sheepdog herding market reached an estimated 150 million dollars in 2025 and is projected to reach 180 million dollars by 2033.",
+     "The center of the trade is Craven Cattle Mart in Skipton, England, a town whose name means sheep town in Old English. Once a local sale, it now pulls buyers from around the world, and online only sales that began during the pandemic widened the room further, especially as Brexit made bringing dogs in from Ireland harder. Scarcity, travel friction, and reputation all push the hammer price in the same direction."
+    ]
+   },
+   {
+    "heading": "The record book keeps getting rewritten",
+    "paragraphs": [
+     "The prices are not rumors. In 2020, Megan, a two and a half year old border collie, sold for about 25,200 dollars to a farm in Oklahoma. In 2021, Kim, a one year old, sold for about 39,000 dollars and still holds the Guinness World Record for the most expensive sheepdog. That same year, a nine week old puppy set the record for an untrained sheepdog at about 10,000 dollars, which means buyers pay five figures for bloodline and promise alone.",
+     "The skill on display explains the money. At sheepdog trials, which began in New Zealand, Australia, the United Kingdom, and Ireland and have since spread worldwide, handlers guide dogs from fixed positions with verbal cues and whistles. From hundreds of yards away, the dogs gather sheep across uneven ground and through obstacles, earning points for precision. There is even a sheepdog Olympics. Buyers are not purchasing a pet. They are purchasing judgment at a distance."
+    ]
+   },
+   {
+    "heading": "The drones showed up, and the sheep ignored them",
+    "paragraphs": [
+     "Every valuable craft gets its automation pitch, and herding is no exception. The Hustle notes that several startups are testing drones and even robot dogs as cheaper alternatives. So far they cannot match the agility and instinct of the real thing, and sheep often get used to drones and simply ignore them. The tool that cannot adapt on the ground loses to the worker who reads the field in real time.",
+     "The deeper twist is that sheepdogs are teaching the machines. Researchers study how the dogs move flocks to design strategies for controlling drone swarms, autonomous vehicles, and other networked systems. In other words, the centuries old craft is now the research model for the technology meant to replace it. Mastery became the dataset, which is a far better position than competing with the dataset on price."
+    ]
+   },
+   {
+    "heading": "Proof, scarcity, and a room full of buyers",
+    "paragraphs": [
+     "Strip the story down and it is a pricing masterclass for any skilled trade. The value is proven in public, at trials where anyone can watch the work and score it. Supply is genuinely limited, because a great dog takes breeding, time, and training that cannot be rushed. And the auction gathers motivated buyers in one place, in person and online, where reputation travels fast and hesitation costs you the dog.",
+     "Creative work follows the same physics. Show the skill where buyers can judge it, keep your availability honestly scarce, and build rooms, lists, and followings where the right buyers gather before you need them. A border collie earns 39,000 dollars because its excellence is visible, rare, and witnessed. Any operator whose best work stays hidden is leaving the same premium unclaimed."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle: Dogs with jobs, the luxury sheepdog market is booming (November 10, 2026)",
+    "url": "https://thehustle.co"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand spot pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "seed-oil-free-snacks-billion-dollar-market",
+  "title": "Seed Oil Free Snacks Just Became a Billion Dollar Business",
+  "excerpt": "Sales of seed oil free products soared 72 percent to one billion dollars in a year, and big snack brands are reformulating even as dietitians dispute the fears.",
+  "seoDescription": "Seed oil free product sales jumped 72 percent to one billion dollars. How a health claim built a market before the science settled, and what brands should learn.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-10T12:52:00.000Z",
+  "updatedAt": "2026-11-10T12:52:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/seed-oil-free-snacks-billion-dollar-market-hero.webp",
+   "alt": "Morning Brew illustration of a nutrition label beside a green and white droplet badge reading Seed Oil Free Certified on a bright yellow green background",
+   "subject": "Seed Oil Free Certified badge illustration",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-11-09/image-93f61bff0b91fd88dffb953e06554918e57043dd-1500x1000-jpg/MBD_SeedOil_SM_1126.jpg",
+   "credit": "Image: Morning Brew. Story source: Morning Brew, November 10, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A billion dollars of snacks cooked in something else",
+    "paragraphs": [
+     "Morning Brew reports that sales of seed oil free products soared 72 percent to one billion dollars in the past year, citing Bloomberg reporting. Shoppers are seeking out foods made without canola, corn, sunflower, and other seed oils, and brands are racing to fill shelves with alternatives cooked in butter, beef tallow, and olive oil, even though those swaps cost more to produce.",
+     "The demand did not start in a lab. It started with health influencers in the MAHA movement promoting claims that seed oils lack valuable nutrients, contain toxins, and drive inflammation, with Health Secretary Robert F. Kennedy Jr. arguing the oils sit behind the rise in obesity. Whether or not the science supports the fear, the buying behavior is now measurable in nine figures and climbing."
+    ]
+   },
+   {
+    "heading": "The experts push back, and the market keeps moving",
+    "paragraphs": [
+     "Morning Brew gives dietitians their full say. Moderate seed oil intake is associated with improved heart health, since seed oils carry unsaturated fats while animal oils carry cholesterol raising saturated fats. Human studies have shown no causal link between seed oil consumption and increased inflammation, and one expert told NPR that fears about toxins in foods cooked with seed oils are unfounded. On the evidence, the panic looks shaky.",
+     "Experts still advise avoiding ultra processed foods, but for their sugar and salt, not their oils. None of that has slowed the shelf space. PepsiCo and Utz Brands are among the giants building seed oil free lines, because a shopper belief does not need a consensus statement to move a purchase order. The market is responding to what people feel at the grocery cart, not only to what studies conclude."
+    ]
+   },
+   {
+    "heading": "A label became the product",
+    "paragraphs": [
+     "Notice what is actually being sold. The winning package does not promise a better chip first. It promises an absence, certified and stamped on the front: no seed oils. A droplet badge reading Seed Oil Free Certified does the persuading before a single ingredient is compared, the same way gluten free and organic labels built premium categories out of what a product leaves out.",
+     "That is a lesson in how categories form. A clear enemy, a simple badge, and a story a shopper can repeat in one sentence. The brands winning this wave did not wait for the debate to settle. They reformulated, certified, and shipped while slower competitors were still drafting statements about the science, and they now own the shelf position everyone else has to chase."
+    ]
+   },
+   {
+    "heading": "What builders should take from the seed oil wave",
+    "paragraphs": [
+     "First, listen for the belief underneath the trend in your own market. Clients buy outcomes and reassurance long before they buy specifications, whether the product is a snack, a photo package, or a film. If your buyers share a worry you can honestly solve, naming that solution on the front of the offer is not pandering. It is clarity, as long as the claim you print is one you can stand behind.",
+     "Second, move at the speed of the shelf, not the seminar. You can respect the evidence, say plainly where experts disagree, and still serve the customer standing in front of you today. The seed oil story rewards the brands that did all three at once. In every industry, the gap between what people are asking for and what incumbents feel comfortable selling is where the next billion dollar category hides."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Seed oil rejection creates a one billion dollar industry (November 10, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand spot pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "meta-muse-ember-cheap-agent-tasks",
+  "title": "Meta Muse Ember Does Agent Grunt Work at a Third of the Rival Cost",
+  "excerpt": "Meta Muse Ember matches Claude Haiku 5.5 on intelligence scores while an average test task costs 14 cents against 41 cents, by using fewer tokens per job.",
+  "seoDescription": "Meta Muse Ember ties Claude Haiku 5.5 on intelligence at about a third of the per task cost. What cheap agent labor means for small teams.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-10T12:48:00.000Z",
+  "updatedAt": "2026-11-10T12:48:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/meta-muse-ember-cheap-agent-tasks-hero.webp",
+   "alt": "Artificial Analysis chart plotting intelligence against cost per task, with Muse Ember reaching a score of 36 near 13 cents while Claude Haiku 5.5 reaches the same score near 41 cents",
+   "subject": "Muse Ember intelligence versus cost per task chart",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/98c6e70c-610e-47b7-b539-8fa98bb93a87/ember.png?t=1794262156",
+   "credit": "Image: Artificial Analysis, via Meta. Story source: The Rundown AI, November 10, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The price war moved from chat to chores",
+    "paragraphs": [
+     "The Rundown AI reports that Meta has released Muse Ember, the smallest model in its Muse lineup, built for the routine high volume steps inside AI agents. Ember tied Anthropic budget model Claude Haiku 5.5 at 36 on the Artificial Analysis Intelligence Index, and it beat OpenAI comparable GPT 6 Luna, which scored 28, by a wide margin. On raw smarts for small jobs, the bargain model is no longer a compromise.",
+     "The cost story is sharper than the score story. Ember sticker price matches its rivals, and the savings come from efficiency: it uses fewer tokens to finish the same job. An average test task ran about 14 cents on Ember and about 41 cents on Haiku. Same neighborhood of quality, roughly a third of the bill, repeated thousands of times a day inside an agent that never sleeps."
+    ]
+   },
+   {
+    "heading": "Wonder plans and Ember carries the boxes",
+    "paragraphs": [
+     "Meta AI chief Alexandr Wang framed the pairing in one line quoted by The Rundown: wonder can plan, ember can handle the volume. The large Muse Wonder model does the thinking that needs judgment, and Ember runs the repetitive steps around it: tool calls, routing, data extraction, and long document reading. It is the oldest structure in business, a senior who decides and a fast junior who executes, rebuilt in software.",
+     "Meta also says Ember was trained using its larger Muse Wonder Full, the first model in the family built that way, and that even more efficient models are already in training. Meta shipped its first Muse model in April, and it now fields an answer at every tier Anthropic and OpenAI sell, from near frontier performance down to the bargain bin where agents actually spend most of their budget."
+    ]
+   },
+   {
+    "heading": "Why per task cost is the number that matters",
+    "paragraphs": [
+     "Most buyers still compare models by headline token prices, the way people compare cars by the price of gasoline. Agent work flips the math. What you pay for is a finished task: a lead researched, an inbox sorted, a transcript cleaned, a report drafted. A model that thinks longer and bills more tokens per step can cost triple while wearing the same sticker price, and the chart in this story shows exactly that gap.",
+     "For a small operator, that gap decides what automation is even allowed to exist. At 41 cents a task, a workflow that runs a few thousand times a month is a real line item that needs defending. At 14 cents, the same workflow becomes background infrastructure, cheap enough to run on every lead, every event, and every client file without a meeting about it first."
+    ]
+   },
+   {
+    "heading": "Split your own stack the Ember way",
+    "paragraphs": [
+     "Steal the structure even if you never touch Meta models. List the AI tasks your business runs every week and sort them into two piles: work that needs your best model and your full attention, like strategy, client facing writing, and final creative calls, and work that is pure volume, like sorting, tagging, extracting, formatting, and first pass summaries. Route the second pile to the cheapest model that clears your quality bar, and test it on real jobs before you trust it.",
+     "Then reinvest the savings where they compound. Cheaper grunt work is not the prize by itself. The prize is the hours and dollars it frees for the work clients actually pay a premium for: showing up, shooting well, deciding fast, and finishing strong. Meta is selling efficiency. Smart operators will buy back their attention with it."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Meta undercuts Anthropic and OpenAI on the cost of agents (November 10, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "disney-builds-custom-ai-models-adobe",
+  "title": "Disney Is Building Its Own AI Image Models and the Study Material Is Disney",
+  "excerpt": "Adobe and Disney announced a multi year alliance at Adobe MAX to build custom Firefly Foundry models trained on Disney characters, settings, and visual styles.",
+  "seoDescription": "Disney and Adobe are building custom AI models trained on Disney properties for parks, studios, and ESPN. Why owning the model is the new creative moat.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-10T12:44:00.000Z",
+  "updatedAt": "2026-11-10T12:44:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/disney-builds-custom-ai-models-adobe-hero.webp",
+   "alt": "Adobe Firefly Foundry screen showing a hand drawn ride vehicle sketch turned into a detailed stone and ivy themed concept, with Walt Disney Imagineering selected as the model",
+   "subject": "Adobe Firefly Foundry generating Disney Imagineering concept art",
+   "kind": "photo",
+   "sourceUrl": "https://chipandco.com/wp-content/uploads/2026/06/Walt-Disney-Imagineering-Partners-with-Adobe-Firefly-to-Use-AI-Models-for-Theme-Park-Design-2.jpg",
+   "credit": "Image: Adobe Firefly Foundry example, via Chip and Co. Story source: The Neuron, November 10, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The biggest studio in the world is not renting a general model",
+    "paragraphs": [
+     "The Neuron opens its November 10 issue with a move that should get the attention of every creator. Adobe announced a multi year alliance with The Walt Disney Company at Adobe MAX, its creativity conference in Miami Beach, and the centerpiece is custom image generators trained on Disney own characters, settings, and styles. General models learn from a huge slice of the internet. These models learn from Disney itself.",
+     "Adobe is now an official AI innovation partner of Disney, with early access to Firefly, Firefly Foundry, Premiere, and Photoshop, plus dedicated engineering and research support. The companies did not disclose financial terms, and neither did they treat this as a small software purchase. This is a creative foundation, built to sit inside the production pipeline for years."
+    ]
+   },
+   {
+    "heading": "Imagineering is already using it on real park work",
+    "paragraphs": [
+     "This is not a press release about a future experiment. Walt Disney Imagineering Research and Development already runs a model that turns hand drawn sketches into fully rendered concept art, and another that produces franchise accurate assets on brand. The June Adobe announcement adds a third path, taking 2D renderings into detailed 3D prototypes that help teams plan builds and estimate materials before ground breaks.",
+     "Disney plans to use the tools across its parks, cruise ships, production, marketing, and ESPN archives, with collaboration through StudioLAB at the studios and the ESPN Edge innovation center. A sketch on a napkin can now move toward a testable concept while the idea is still warm, and an archive built over a century becomes working material instead of storage."
+    ]
+   },
+   {
+    "heading": "Why a custom model beats a clever prompt",
+    "paragraphs": [
+     "A general model can imitate a style for a social post. It cannot guarantee that a character looks exactly right, that a color palette matches the franchise, or that the output is safe to use in commercial work. Disney is paying to remove that uncertainty. The model is tuned on licensed and proprietary assets, described by both companies as human centered and artist led, so the output starts inside the brand instead of wandering toward it.",
+     "That distinction matters far beyond theme parks. Any serious creative business has the same problem at a smaller scale: a look, a voice, and a library of past work that generic tools keep flattening into average. The advantage is not access to AI. Everyone has that now. The advantage is an AI that has studied your catalog, your rules, and your taste, and produces a first draft that already sounds like you."
+    ]
+   },
+   {
+    "heading": "What a small studio should copy from Disney",
+    "paragraphs": [
+     "You do not need a Disney sized deal to use this play. Start by treating your own archive as training material in the practical sense: your best edits, your approved color grades, your caption voice, your client winning frames, organized where you and your tools can actually find them. A tidy library of your strongest work is the small studio version of a proprietary model, because it sets the standard every new job gets measured against.",
+     "Then watch what other studios do next. The Neuron closes with the right question: whether rivals build their own models instead of renting general purpose ones. Expect clients to start asking the same thing of you. The winning answer will not be that you use AI. It will be that your AI, your process, and your taste are trained on a body of work nobody else can rent."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Disney is building its own AI image models (November 10, 2026)",
+    "url": "https://www.theneurondaily.com"
+   },
+   {
+    "id": "businesswire",
+    "title": "Business Wire: Adobe and The Walt Disney Company announce multi year strategic alliance (November 9, 2026)",
+    "url": "https://www.businesswire.com/news/home/20261109707511/en/Adobe-and-The-Walt-Disney-Company-Announce-Multi-Year-Strategic-Alliance-to-Support-Disney-Innovation-with-New-AI-Powered-Tools"
+   },
+   {
+    "id": "adobe",
+    "title": "Adobe News: Disney Imagineering brings Firefly Foundry to the theme park design toolkit (June 16, 2026)",
+    "url": "https://news.adobe.com/news/2026/06/adobe-and-disney-imagineering-collaborate"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "best-restaurant-lists-shape-kitchens",
   "title": "The Best Restaurant Lists Now Shape the Kitchens They Claim to Judge",
   "excerpt": "Chefs say top restaurant lists boost revenue while quietly bending the work toward the ranking itself, and the chase costs time, money, and attention every week.",
