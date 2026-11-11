@@ -1,5 +1,385 @@
 [
  {
+  "slug": "chatgpt-businesses-brands-claim-profile",
+  "title": "Brands Can Now Claim a Profile and Build an Agent Inside ChatGPT",
+  "excerpt": "OpenAI Businesses in ChatGPT lets brands claim a verified profile, see how often ChatGPT mentions them, and build an agent that answers buyers directly.",
+  "seoDescription": "OpenAI Businesses in ChatGPT gives brands a verified profile, mention tracking, and a shopper agent. Why AI search visibility is the new storefront.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-11T13:00:00.000Z",
+  "updatedAt": "2026-11-11T13:00:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/chatgpt-businesses-brands-claim-profile-hero.webp",
+   "alt": "OpenAI agent builder screen for a toy shop called Colorful Clatter, showing agent instructions, business context, a product feed, and a phone preview of the published agent",
+   "subject": "Businesses in ChatGPT agent builder for a retail brand",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/662854a3-7c2a-43ec-b4d0-db19d0bb70c6/businessclaim.png?t=1794352074",
+   "credit": "Image: OpenAI, via The Rundown AI. Story source: The Rundown AI, November 11, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The search listing just moved inside the chat",
+    "paragraphs": [
+     "The Rundown AI leads its November 11 issue with a shift every business owner should feel in their stomach. OpenAI has introduced Businesses in ChatGPT, a beta hub where brands claim a verified profile, track how often the chatbot mentions them, and set up their own AI agent for shoppers. Profiles are free to claim for eligible companies, and agents are live first for online retailers and digital service firms in the United States.",
+     "For decades, Google trained companies to obsess over their search listings, because the listing was where buying decisions started. That scramble has now moved. Buyers increasingly ask an assistant first and visit a website second, if they visit one at all. OpenAI just gave brands an official front door inside that first conversation, instead of leaving them to guess what the assistant says about them."
+    ]
+   },
+   {
+    "heading": "A dashboard for what the machine says about you",
+    "paragraphs": [
+     "The package has three parts. The profile is the verified identity, the part a shopper sees when the brand comes up. The dashboard shows how often ChatGPT mentions the brand and how many clicks it sends to the brand website, plus discovery topics that point to gaps in what the brand publishes about itself. And the agent is the storefront clerk: brands write its instructions and add product details, and shoppers open it from the profile in a labeled chat that sits apart from ChatGPT own answers.",
+     "The paid layer is already attached. OpenAI first piloted agents linked to ads in September, and brands can now pay to make their agent the landing spot for ads inside ChatGPT, with each paid spot labeled. Free profile, paid placement, and a direct line to the buyer: that is the same playbook as search and social, rebuilt for chat."
+    ]
+   },
+   {
+    "heading": "Why this matters more than another AI feature",
+    "paragraphs": [
+     "Until now, a brand had almost no visibility into its AI reputation. Owners guessed what ChatGPT told people, or paid outside specialists to probe it with test prompts. That guessing ends here. When the platform itself reports your mentions and your clicks, AI visibility becomes a number you manage, like search traffic or follower growth, and numbers you manage tend to become budgets you defend.",
+     "It also changes what good content has to do. A discovery topic telling you that shoppers ask about something your site never explains is a content brief written by demand itself. The brands that win this round will be the ones whose pages, feeds, and profiles answer real buyer questions so completely that the assistant has no reason to send the customer anywhere else."
+    ]
+   },
+   {
+    "heading": "What a small brand should do this week",
+    "paragraphs": [
+     "Start before your category fills up. If your business sells online or books services digitally, check whether you can claim the profile, and treat the setup like a storefront, not a form. Write the agent instructions in your real voice, load the product and service details a buyer actually asks about, and decide in advance which questions the agent may answer alone and which ones must reach a human.",
+     "Then audit what the assistants already say about you. Ask the major chatbots the questions your buyers ask, note every gap and error, and publish the missing answers on your own site where the models can find them. Google rewarded the businesses that took search seriously early. ChatGPT is now handing out the same early mover advantage, and the claim button is free."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: OpenAI invites brands to set up shop in ChatGPT (November 11, 2026)",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Businesses in ChatGPT, where companies claim a profile and add their own chatbot (November 11, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "claude-meetings-joins-your-calls",
+  "title": "Claude Now Joins Your Meetings and Builds the Spreadsheet While You Talk",
+  "excerpt": "Anthropic rolled out Claude Meetings, Sheets, and Whiteboards in one launch, with Claude Data generally available and work apps opening inside Claude itself.",
+  "seoDescription": "Claude Meetings joins your calls and drafts the plan live, while Sheets and Whiteboards rebuild office work inside the assistant. What teams should try first.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-11T12:56:00.000Z",
+  "updatedAt": "2026-11-11T12:56:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/claude-meetings-joins-your-calls-hero.webp",
+   "alt": "Claude Sheets spreadsheet with growth scenarios beside a Claude Whiteboards launch timeline for a pie company, with team cursors and an Ask Claude bar on both screens",
+   "subject": "Claude Sheets and Whiteboards working side by side",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/73b8f038-2fc4-4698-afae-b33e90a6e6ad/claudesheets.png?t=1794346390",
+   "credit": "Image: Anthropic, via The Rundown AI. Story source: The Neuron, November 11, 2026"
+  },
+  "sections": [
+   {
+    "heading": "One launch, four pieces of the workday",
+    "paragraphs": [
+     "The Neuron reports that Anthropic chose November 11 to ship a stack of office tools at once. Claude Meetings joins a Google Meet call as a visible participant, drafts the plan while people talk, and saves notes and action items afterward. Claude Sheets builds a working spreadsheet with formulas from a prompt and exports it to Excel. Claude Whiteboards maps a plan onto a shared board a team can edit together. Claude Data, the analytics tool that entered beta as Dashboards in October, is now generally available.",
+     "The Rundown AI adds the detail that makes this feel inevitable. Product lead Nicholas Lin said Claude joins nearly every Anthropic meeting after months of internal testing, and the Google Meet beta is coming to Team and Enterprise users. Claude will not join calls with outside guests unless an admin approves, and it leaves if one shows up. The guardrails ship with the feature, not after it."
+    ]
+   },
+   {
+    "heading": "The assistant is becoming the office",
+    "paragraphs": [
+     "Step back and the pattern is hard to miss. Claude already had documents, slides, and design tools. Now it has spreadsheets, boards, dashboards, and a seat in the meeting. The apps it has not rebuilt are being pulled inside anyway: upgraded connectors now open tools like Adobe and Atlassian fully within Claude, so the work happens in the assistant instead of across a dozen tabs.",
+     "The Neuron frames the shift plainly. The biggest change for most people is not a smarter model. It is where the upgrades show up. Work is moving toward AI drafting first and humans reviewing, whether that draft is a meeting plan written live, a narrated video built from company metrics, or a timeline a whole team edits on one board."
+    ]
+   },
+   {
+    "heading": "What changes for a small team",
+    "paragraphs": [
+     "Meetings are where small teams quietly lose their week. Someone talks, someone half listens, and the decisions scatter into memory. A participant that drafts the plan in real time and files the action items changes the meeting from a conversation into a work product. The person running the call still owns the call. The follow through, which is where projects usually die, gets written down by default.",
+     "Sheets and Whiteboards attack a different leak. Most small operators do not need a bigger spreadsheet program. They need the budget tracker, the launch timeline, and the client report to exist at all, without an afternoon lost to formulas and formatting. A prompt that returns a working file you can export and edit is not a novelty. It is the difference between a plan on paper and a plan that stayed in someones head."
+    ]
+   },
+   {
+    "heading": "Try one chore before you rebuild anything",
+    "paragraphs": [
+     "The Neuron gives the right starter advice: pick one chore this week. A budget tracker in Sheets, a project timeline on a Whiteboard, or one internal meeting with Claude taking notes. The tools need a paid plan, and the meeting feature starts with Team and Enterprise accounts, so check your tier before you promise your crew a new workflow.",
+     "Keep the human rules visible while you test. Claude Meetings announces itself, and that transparency is the standard to copy in your own business: clients and guests should always know when an AI is in the room, what it captured, and who signs off on the result. The teams that win with these tools will not be the ones that automate the most. They will be the ones whose review step stays sharp."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Will Claude join your meeting (November 11, 2026)",
+    "url": "https://www.theneurondaily.com"
+   },
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Anthropic stretches Claude across the office (November 11, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "ring-drone-cam-rover-patrol-robots",
+  "title": "Ring Built a Flying Guard for Your Home and a Rolling Guard for Your Store",
+  "excerpt": "Amazon Ring Drone Cam flies to the alarm inside your home for 249.99 dollars, while the 999.99 dollar Rover Cam patrols a business on wheels with a periscope camera.",
+  "seoDescription": "Ring Drone Cam and Rover Cam use AI mapping to patrol homes and stores on their own. Prices, ship dates, and what autonomous security means for owners.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-11T12:52:00.000Z",
+  "updatedAt": "2026-11-11T12:52:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/ring-drone-cam-rover-patrol-robots-hero.webp",
+   "alt": "The Ring Drone Cam, a small black indoor drone with caged propellers, flying through a bright kitchen and living room toward the camera",
+   "subject": "Ring Drone Cam flying a patrol inside a home",
+   "kind": "photo",
+   "sourceUrl": "https://storage.morningbrew.com/gif/2026-11-10/image-de78e776c3b8833ba64dc2bda16e8bfc0fe6237f-1500x1000-gif/MBD-RingDrone-1126.gif",
+   "credit": "Image: Amazon, via Morning Brew. Story source: Morning Brew, November 11, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A camera that goes to the problem",
+    "paragraphs": [
+     "Morning Brew reports that Amazon Ring has finally debuted the indoor flying security camera it first announced six years ago, alongside a rolling patrol robot for businesses. The Ring Drone Cam costs 249.99 dollars and sits in a dock out of sight with its camera off. When a Ring camera, sensor, or alarm trips, it takes flight, visits preset patrol points, and records 2K video while it turns a full circle to see the room.",
+     "The Neuron adds the operating details. Flights run about five to eight minutes on established paths, flashing LED lights warn anyone nearby that it is recording, and safeguards keep it from venturing outside, which would be illegal. You can also send it on scheduled routes, though schedules require a Ring Protect plan. It ships January 27, 2027, and it still needs FCC authorization before Amazon can sell it. Amazon also admits the propellers are not quiet."
+    ]
+   },
+   {
+    "heading": "The Rover is the same idea for a shop floor",
+    "paragraphs": [
+     "For businesses, the Rover Cam costs 999.99 dollars, is open for preorder, and ships December 16. It rolls to saved spots across floor space of up to 5,000 square feet, performs a full circle scan at each stop, and raises a periscope mast to peek over counters and shelves. Morning Brew notes its 4K streaming camera and light beamed toward the ceiling for tracking, and The Neuron lists the working kit around it: a siren, a light tower, and two way audio.",
+     "Amazon calls it a guard who never clocks out, and Morning Brew points out the family resemblance. Rover is a revised and cheaper descendant of Astro, the Amazon security robot that flopped after its 2021 release. The difference this time is the brain. Both new machines run on Ring AI Pilot, which uses cameras and vision models to map a space into a floor plan, label the rooms, and suggest patrol points like side doors, windows, and long hallways, then steers around furniture in real time."
+    ]
+   },
+   {
+    "heading": "Why one moving camera beats ten fixed ones",
+    "paragraphs": [
+     "The old answer to a blind spot was another camera, then another, until the walls looked like a casino. A patrol robot flips the economics. One device covers the hallway at noon, the stockroom at close, and the window that just rattled at 2 AM, and it brings the footage to you instead of asking you to scrub ten feeds. Coverage stops being a hardware count and becomes a route you design.",
+     "For event and retail operators, that route is the product to watch. A venue walkthrough after close, a periscope check over a counter, a siren and a voice from the speaker before a person ever drives over: that sequence handles most incidents without a payroll line for overnight security. The hardware is the headline, but the patrol plan is where the value lives."
+    ]
+   },
+   {
+    "heading": "The honest limits before you preorder",
+    "paragraphs": [
+     "Hold the excitement to the facts. The home drone cannot ship until the FCC allows it, its battery buys minutes rather than hours, and a loud little aircraft will announce itself to everyone in the house, pets included. The Rover asks a business to trust a rolling camera around customers and stock, and neither device replaces a person when a real situation needs judgment on the spot.",
+     "Still, the direction is clear. Security is moving from watching to patrolling, and the map the AI builds of your space becomes the asset everything else runs on. If you own a store, a studio, or a short term rental, start by walking your own patrol route on paper. Where are the doors, the windows, and the blind corners a camera on the move would check first. When these machines arrive, the owners with that route already drawn will get value on day one."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Amazon unveils drones to look after your home (November 11, 2026)",
+    "url": "https://www.morningbrew.com"
+   },
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Ring Drone Cam and Rover Cam patrol robots (November 11, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "beehiiv-drops-job-titles-team",
+  "title": "Beehiiv Deleted Every Job Title at the Company and Called It a Growth Move",
+  "excerpt": "Newsletter platform Beehiiv removed internal job titles for about 130 employees after title talks ate 15 hours of meetings, betting that roles beat ranks.",
+  "seoDescription": "Beehiiv eliminated job titles for its whole team to cut bureaucracy and serve customers faster. What small teams can steal, and what experts warn about.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-11T12:48:00.000Z",
+  "updatedAt": "2026-11-11T12:48:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/beehiiv-drops-job-titles-team-hero.webp",
+   "alt": "Morning Brew illustration by Niv Bavarsky showing a repeating pattern of cartoon bees in office shirts and ties, each holding a red coffee mug",
+   "subject": "Bee workers in office clothes, illustration for the Beehiiv job titles story",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-11-10/image-b00441cac512a9f241adfb212775f89adde4fc3a-1500x1000-jpg/MBD_11102026_Beehiiv_01.jpg",
+   "credit": "Image: Niv Bavarsky for Morning Brew. Story source: Morning Brew, November 11, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Fifteen hours of meetings about one word",
+    "paragraphs": [
+     "Morning Brew reports that Tyler Denk, cofounder of the newsletter platform Beehiiv, announced on LinkedIn that the company is doing away with internal job titles for its roughly 130 employees. Denk says the goal is blunt: eliminate bureaucracy and free up time to service customers, because time spent arguing about titles is time taken from growth and revenue.",
+     "The trigger was painfully ordinary. The company gave a recent hire a director title, which upset another employee doing similar work without that title. That single word led to about 15 hours of meetings with employees wanting to discuss salary and titles. Fifteen hours is two full workdays of a growing company spent negotiating labels instead of serving the people who pay for the product."
+    ]
+   },
+   {
+    "heading": "The Yankees argument, and the fine print",
+    "paragraphs": [
+     "Denk reached for a sports metaphor. The New York Yankees do not put player names on their jerseys, and in his telling the point is that ego comes second and winning comes first. Beehiiv staff still hold real roles, like shortstop and manager in his example. What disappears is the rank word in front of the role, the part that invites comparison shopping between coworkers.",
+     "The fine print matters. Employees may keep using job titles externally, where clients and partners still need to know who they are dealing with, and Denk currently calls himself team lead on LinkedIn. This is not a company pretending structure does not exist. It is a company deciding that internal status labels cost more than they pay, while the outside world keeps the clarity it needs."
+    ]
+   },
+   {
+    "heading": "It has been tried, and the warning is real",
+    "paragraphs": [
+     "Morning Brew is careful to note that Beehiiv is not the first to try this. An expert told Inc. that removing titles can work, but shadow politics are likely to emerge: influence does not vanish when the label does, it just becomes harder to see and harder to challenge. Gusto, Cloudflare, Zappos, Medium, and GitHub have all tried something similar, and many later abandoned or modified the original idea.",
+     "That warning is the difference between a bold move and a slogan. A title is also information. It tells a new hire who decides, who approves, and who to learn from. Strip the word without replacing that clarity and you have not removed hierarchy. You have only removed the map, and the people with the least connections pay for the missing map first."
+    ]
+   },
+   {
+    "heading": "What a small crew should actually steal",
+    "paragraphs": [
+     "Most small businesses do not have a title problem. They have a role clarity problem wearing a title costume. The stealable part of the Beehiiv move is the audit behind it: count the hours your team spends negotiating status, credit, and labels, and price those hours honestly. If a word on an org chart is eating days of meetings, the word is a business expense and should justify itself like one.",
+     "Then write down what each person actually owns: the decisions they make, the work they ship, and the results they answer for. Keep titles where they help a client trust the room, and drop the internal rank ladder where it only feeds comparison. Denk bet that a team called a team will serve customers faster. Your version of that bet is simpler: make the work so clear that nobody needs a fancy label to prove they matter."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Beehiiv eliminates job titles to increase revenue (November 11, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand spot pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "warby-parker-smart-glasses-google-samsung",
+  "title": "Warby Parker Smart Glasses Take On Ray Ban Meta With Gemini Inside",
+  "excerpt": "Warby Parker stock jumped over 40 percent ahead of its AI glasses launch with Google and Samsung, with preorders opening November 12 and shipping next month.",
+  "seoDescription": "Warby Parker AI glasses powered by Google Gemini launch against Ray Ban Meta, with a camera, translation, and navigation. Why design may decide the winner.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-11T12:44:00.000Z",
+  "updatedAt": "2026-11-11T12:44:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/warby-parker-smart-glasses-google-samsung-hero.webp",
+   "alt": "Two pairs of Warby Parker smart glasses resting on each other, a dark green clear lens pair and a burgundy tinted pair, each with a small camera lens visible at the front corner",
+   "subject": "Warby Parker smart glasses in green and burgundy",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-11-10/image-63be5ef7254c1d4fdb5632bb2dd834b883aa27bc-1920x1280-jpg/MBD-WarbyParkerSmartGlasses-1126.jpg",
+   "credit": "Image: Warby Parker, via Morning Brew. Story source: Morning Brew, November 11, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The stock moved before the glasses shipped",
+    "paragraphs": [
+     "In its Wednesday stock spotlight, Morning Brew reports that Warby Parker shares are up over 40 percent after strong earnings last week, powered by investor anticipation for this week launch of its AI enabled glasses, built in collaboration with Google and Samsung. Preorders start tomorrow, November 12, and the company expects to start shipping next month. The market is pricing the glasses before a single customer has worn them in public.",
+     "The product itself reads like a direct answer to Ray Ban Meta. The glasses are powered by Google Gemini and fitted with a camera. They can research objects you look at, give audio navigation directions, offer live translation, and snap photos. Warby Parker says a sleek design makes the face computers wearable all day, which is the whole ballgame in a category where earlier smart glasses died of embarrassment before they died of weak batteries."
+    ]
+   },
+   {
+    "heading": "A staredown with one clear difference",
+    "paragraphs": [
+     "Morning Brew frames the launch as a staredown with the Ray Ban Meta AI glasses in what it calls the fledgling smart eyewear market. Meta got there first and proved that ordinary looking glasses with a camera and an assistant can sell. Warby Parker brings a different asset to the fight: it is an eyewear company first. Its stores, its fitting culture, and its fashion credibility were built on faces, not feeds.",
+     "Google brings the other half. Gemini supplies the intelligence, Samsung the hardware muscle, and Warby Parker the thing tech companies keep renting from fashion brands: a look people choose before they know what the device does. If the glasses market follows the watch market, the winner will not be the pair with the longest feature list. It will be the pair people forget they are wearing."
+    ]
+   },
+   {
+    "heading": "Why creators should care about a glasses launch",
+    "paragraphs": [
+     "A camera at eye level changes the grammar of content. Hands free point of view footage, instant translation on a foreign shoot, and navigation spoken into your ear while your hands carry gear are not phone features moved to a new screen. They are a new shooting position, and every platform format of the last decade started as a new shooting position somebody took seriously early.",
+     "There is a client side too. Retail staff who can look at a shelf and ask what is missing, tour guides translating live, and venue teams documenting a walkthrough without a phone in hand all sit inside this launch. The businesses that learn to work on camera wearing the camera will set the visual style everyone else copies next year."
+    ]
+   },
+   {
+    "heading": "The skeptic case, stated fairly",
+    "paragraphs": [
+     "Morning Brew closes with the caution, and it deserves its place. Critics warn that growth in Warby Parker regular eyewear business has slowed, while the current valuation hinges on an untested future product. A 40 percent run ahead of preorders means the launch does not need to fail to disappoint the stock. It only needs to be ordinary.",
+     "That is exactly why the next month matters more than the announcement. Watch the preorder experience, the first real world reviews of battery life and photo quality, and whether people wear them outside a demo. If the answer is yes, smart glasses stop being a gadget story and become the next camera platform, and creators who shoot for a living should already be thinking in first person."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Wall Street eyes Warby Parker smart glasses (November 11, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "tampa-bay-burger-week-2026",
   "title": "Tampa Bay Burger Week 2026 Runs November 12 Through 22 With a Title on the Line",
   "excerpt": "Creative Loafing and Feeding Tampa Bay bring back Burger Week for an eleventh year, with specials at dozens of restaurants, an Instagram contest, and the Ultimate Burger vote.",
