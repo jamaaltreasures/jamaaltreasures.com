@@ -11450,5 +11450,94 @@
     "alt": "Saint Augustine Film Festival 2027 poster, Flagler College, St. Augustine",
     "imageKey": "event-flyers/972-saint-augustine-film-festival.jpg",
     "endDate": "2027-01-10"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Marco Carola, Silvie Loto, Ms. Mada and Bakke at Club Space",
+    "date": "DECEMBER 11, 11 PM",
+    "headliners": "Marco Carola, Silvie Loto, Ms. Mada, Bakke",
+    "venue": "Club Space, Miami",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.bandsintown.com/v/10003521-club-space",
+    "flyerUrl": "https://www.instagram.com/p/Dfnmys9zvU7/",
+    "image": "/events/flyer/973-marco-carola-club-space-miami.jpg",
+    "alt": "Marco Carola, Silvie Loto, Ms. Mada and Bakke at Club Space flyer, Miami",
+    "imageKey": "event-flyers/973-marco-carola-club-space-miami.jpg",
+    "endDate": "2026-12-12"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Sara Landry, OTTA, Coffintexts and Sister System at Club Space",
+    "date": "DECEMBER 27, 11 PM",
+    "headliners": "Sara Landry, OTTA, Coffintexts, Sister System",
+    "venue": "Club Space, Miami",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.bandsintown.com/v/10003521-club-space",
+    "flyerUrl": "https://www.instagram.com/p/DfngbgkT7AL/",
+    "image": "/events/flyer/974-sara-landry-club-space-miami.jpg",
+    "alt": "Sara Landry, OTTA, Coffintexts and Sister System at Club Space flyer, Miami",
+    "imageKey": "event-flyers/974-sara-landry-club-space-miami.jpg",
+    "endDate": "2026-12-28"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "ZooRun",
+    "date": "NOVEMBER 14, 6:30 AM TO 11 AM",
+    "headliners": "",
+    "venue": "Zoo Miami, Miami",
+    "categories": [
+      "Wellness"
+    ],
+    "detailsLabel": "Register",
+    "detailsUrl": "https://runsignup.com/Race/Events/FL/Miami/ZooRun5KZooKidsDashbenefitingWestKendal",
+    "flyerUrl": "https://www.instagram.com/p/DfcFpnuF7nn/",
+    "image": "/events/flyer/975-zoorun-miami.jpg",
+    "alt": "ZooRun flyer, Zoo Miami, Miami",
+    "imageKey": "event-flyers/975-zoorun-miami.jpg",
+    "endDate": "2026-11-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Gymreapers Wodapalooza Miami Beach",
+    "date": "MARCH 11 TO 14, 2027",
+    "headliners": "",
+    "venue": "Lummus Park, Miami Beach",
+    "categories": [
+      "Wellness",
+      "Festival"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.miamibeachfitfest.com/",
+    "flyerUrl": "https://www.instagram.com/reel/Ddo7AD4hdxq/",
+    "image": "/events/flyer/976-gymreapers-wodapalooza-miami-beach.jpg",
+    "alt": "Gymreapers Wodapalooza Miami Beach flyer, Lummus Park, Miami Beach",
+    "imageKey": "event-flyers/976-gymreapers-wodapalooza-miami-beach.jpg",
+    "endDate": "2027-03-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "16th Annual International Cuban Sandwich Festival",
+    "date": "MARCH 21, 2027",
+    "headliners": "",
+    "venue": "Centennial Park, Tampa",
+    "categories": [
+      "Food",
+      "Festival"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://www.cubansandwichfestival.com/",
+    "flyerUrl": "https://www.instagram.com/reel/DfnA0akPWx1/",
+    "image": "/events/flyer/977-cuban-sandwich-festival-tampa.jpg",
+    "alt": "16th Annual International Cuban Sandwich Festival flyer, Centennial Park, Tampa",
+    "imageKey": "event-flyers/977-cuban-sandwich-festival-tampa.jpg",
+    "endDate": "2027-03-21"
   }
 ]
