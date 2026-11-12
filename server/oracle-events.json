@@ -11539,5 +11539,76 @@
     "alt": "16th Annual International Cuban Sandwich Festival flyer, Centennial Park, Tampa",
     "imageKey": "event-flyers/977-cuban-sandwich-festival-tampa.jpg",
     "endDate": "2027-03-21"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "5th Annual Pig Roast Bowl Series",
+    "date": "DECEMBER 5, 2026",
+    "headliners": "",
+    "venue": "Tropical Park, Miami",
+    "categories": [
+      "Food",
+      "Community"
+    ],
+    "detailsLabel": "Event Details",
+    "detailsUrl": "https://pigroastbowl.com/",
+    "flyerUrl": "https://pigroastbowl.com/",
+    "image": "/events/flyer/978-pig-roast-bowl-series-miami.jpg",
+    "alt": "Pig Roast Bowl Series South Florida Law Enforcement Edition 2026 artwork, Tropical Park, Miami",
+    "imageKey": "event-flyers/978-pig-roast-bowl-series-miami.jpg",
+    "endDate": "2026-12-05"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "Naples Winter Wine Festival",
+    "date": "JANUARY 29 TO 31, 2027",
+    "headliners": "",
+    "venue": "The Ritz Carlton Naples Tiburon, Naples",
+    "categories": [
+      "Food",
+      "Festival"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://napleswinefestival.com/ticket-inquiry",
+    "flyerUrl": "https://napleswinefestival.com/news-releases/",
+    "image": "/events/flyer/979-naples-winter-wine-festival.jpg",
+    "alt": "Naples Winter Wine Festival 2027 artwork, The Ritz Carlton Naples Tiburon, Naples",
+    "imageKey": "event-flyers/979-naples-winter-wine-festival.jpg",
+    "endDate": "2027-01-31"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "7th Annual Holiday Cookie Throwdown",
+    "date": "DECEMBER 24, 12 PM",
+    "headliners": "",
+    "venue": "The Marker Key West Harbor Resort, Key West",
+    "categories": [
+      "Food",
+      "Community"
+    ],
+    "detailsLabel": "Event Details",
+    "detailsUrl": "https://www.soulofmiami.org/2026/11/02/7th-annual-holiday-cookie-throwdown-at-the-marker-key-west-12-24-26/",
+    "flyerUrl": "https://www.soulofmiami.org/2026/11/02/7th-annual-holiday-cookie-throwdown-at-the-marker-key-west-12-24-26/",
+    "image": "/events/flyer/980-holiday-cookie-throwdown-key-west.jpg",
+    "alt": "The Marker Key West Harbor Resort pool and palms, Key West",
+    "imageKey": "event-flyers/980-holiday-cookie-throwdown-key-west.jpg",
+    "endDate": "2026-12-24"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Run Santa Run Miami",
+    "date": "DECEMBER 20, 7 AM",
+    "headliners": "",
+    "venue": "Miami Beach Bandshell, Miami Beach",
+    "categories": [
+      "Wellness"
+    ],
+    "detailsLabel": "Register",
+    "detailsUrl": "https://miamibeachbandshell.com/events/",
+    "flyerUrl": "https://miamibeachbandshell.com/events/",
+    "image": "/events/flyer/981-run-santa-run-miami.jpg",
+    "alt": "Run Santa Run Miami runners in Santa suits, Miami Beach Bandshell, Miami Beach",
+    "imageKey": "event-flyers/981-run-santa-run-miami.jpg",
+    "endDate": "2026-12-20"
   }
 ]
