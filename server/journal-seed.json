@@ -1,5 +1,375 @@
 [
  {
+  "slug": "alphagenome-2-reads-dna-cell-type",
+  "title": "AlphaGenome 2 Asks Which Cell a DNA Typo Hurts, Not Just Whether It Hurts",
+  "excerpt": "Google DeepMind AlphaGenome 2 predicts what a single DNA change does inside each cell type, trained on more than 100 million cell profiles across 68 tissues.",
+  "seoDescription": "AlphaGenome 2 from Google DeepMind predicts DNA variant effects cell by cell. How it could aim drug research earlier and why it is research only for now.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-12T13:00:00.000Z",
+  "updatedAt": "2026-11-12T13:00:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/alphagenome-2-reads-dna-cell-type-hero.webp",
+   "alt": "The Neuron illustration for AlphaGenome 2 showing a cartoon cat scientist with a magnifying glass beside a DNA strand and two cells, one switched on and one switched off",
+   "subject": "AlphaGenome 2 DNA cell by cell illustration",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/a6779f1c-39e3-40d2-9394-8c6e71c67471/AlphaGenome_2__DNA_Cell_by_Cell.png?t=1794465487",
+   "credit": "Image: The Neuron. Story source: The Neuron, November 12, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Same DNA, very different outcomes",
+    "paragraphs": [
+     "Every cell in your body carries the same DNA, yet a single letter change can cause disease in one kind of cell and do nothing at all in another. The Neuron reports that Google DeepMind has released AlphaGenome 2, an AI model built to predict which cells a given DNA change actually affects. The Rundown AI carried the same release in its November 12 issue, calling it a more detailed view that could help trace diseases back to the cell types involved.",
+     "The setup matters. DNA holds genes, but it also holds regulatory switches, stretches that tell a cell how loudly to read a gene. Different cell types flip different switches. A typo in one switch can leave a gut immune cell and a brain cell with very different volume settings on the very same gene, which is why whole body answers were never enough."
+    ]
+   },
+   {
+    "heading": "Tasting each fruit instead of the whole smoothie",
+    "paragraphs": [
+     "Earlier approaches mostly looked at whole tissues, which blurs everything together. The Neuron uses a kitchen comparison: it is like trying to figure out which fruit made your smoothie sour by tasting the whole smoothie. AlphaGenome 2 tastes each fruit. You hand it a stretch of DNA one million letters long plus one condition, meaning a tissue, a cell type, or a cell state, and it predicts what that cell does with that DNA.",
+     "The scale behind it is serious. The model learned from more than 100 million individual cell profiles across 68 tissues from humans and mice, and scientists can even build a condition from their own single cell experiment. DeepMind also precomputed predictions for variants linked to traits across hundreds of conditions, covering traits from height to type 2 diabetes, so researchers do not have to run the model themselves for those."
+    ]
+   },
+   {
+    "heading": "What DeepMind says the numbers show",
+    "paragraphs": [
+     "DeepMind reports that the model found nearly twice as many gene changing variants in cells as the previous best model. On 28 immune cell types it scored 30 percent against 16 percent for causal variants, and 43 percent against 23 percent for effect direction. It reproduced a published gut disease finding on a computer, tying a far away switch to the ETS2 gene in gut macrophages, and it adapted to new cell states from a few dozen cells with no retraining.",
+     "Read those numbers with the right label on them. They come from DeepMind own evaluation, and the model is for research only. It is not validated for clinical or diagnostic use, and it will not be reading your genetic test results any time soon. The honest headline is a better research instrument, not a medical product."
+    ]
+   },
+   {
+    "heading": "Why a better question beats a bigger answer",
+    "paragraphs": [
+     "The shift worth remembering is the question itself. Instead of asking whether a typo is bad, scientists can now ask who it is bad for. That matters because drug development mostly fails, with only about 10 percent of programs that reach human trials winning approval, while targets backed by human genetics have been found to be far more likely to succeed. A genetic hit rarely says which cell is involved, and picking the right target earlier is where years and fortunes are saved or lost.",
+     "For creators and founders watching from outside medicine, the lesson travels well. Precision about where a problem lives beats a louder general answer every time. Whether the work is a drug target, a client campaign, or a video that is not converting, the winning move is to name the exact cell, the exact audience, the exact scene where the effect happens, then aim the next test there. AlphaGenome 2 is available now for non commercial research through the AlphaGenome API, with a private preview for commercial research. The results that count next will come from outside labs testing cells the model never saw."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: DeepMind AlphaGenome 2 predicts DNA typo effects by cell type (November 12, 2026)",
+    "url": "https://www.theneurondaily.com"
+   },
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Google new AlphaGenome traces disease to cells (November 12, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "claude-projects-take-their-own-notes",
+  "title": "Claude Projects Can Now Take Their Own Notes and Build Their Own Memory",
+  "excerpt": "Claude Projects on the web can now save research as knowledge files inside the project, so the context you built once keeps growing on its own schedule.",
+  "seoDescription": "Claude Projects now save their own knowledge files on the web. Why a memory that updates itself changes how small teams should set up AI projects.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-12T12:56:00.000Z",
+  "updatedAt": "2026-11-12T12:56:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/claude-projects-take-their-own-notes-hero.webp",
+   "alt": "Rundown illustration of a small robot filing a page into a large ring binder while two people watch a screen of browser windows, for the Claude Projects note taking story",
+   "subject": "Robot filing notes into a binder, Claude Projects illustration",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/f50ed5dc-d3a7-49f8-a0f0-61a60746c1c7/nates-notebook-projects-take-notes.png?t=1794426566",
+   "credit": "Image: The Rundown AI. Story source: The Rundown AI, November 12, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The small update that changes the whole habit",
+    "paragraphs": [
+     "The loudest AI demos this week involved a thousand agents building an operating system in eight days. The Rundown AI educator Nate Grahek argues the update that matters for real work is quieter. Claude Projects on the web can now save their own knowledge files, so a project can do research, pull out the main ideas, and file them away as new knowledge inside itself.",
+     "That sounds like a footnote until you remember how projects earn their keep. For three years, the teaching has been simple: Claude does its best work when it knows the way you do the work, in your role, at your organization. Set up a project once with the documents that show how a proposal is done right, and it reuses them again and again, on any device, shared with your team."
+    ]
+   },
+   {
+    "heading": "The catch that just disappeared",
+    "paragraphs": [
+     "The catch was that Claude could not add to its own library. If you wanted it to save this week research and compare it against next week research, you had to work locally, on one machine, which closed the door on your phone and on easy sharing with a team. The memory was real, but it only grew when a human stopped to feed it by hand.",
+     "Now the project can gather and curate its own knowledge, inside and outside your organization. Put it on a schedule and the filing happens whether or not anyone remembered to do it. Grahek calls Projects the killer feature of Claude, and says one tiny detail just made it better. Tiny detail, large consequence: a memory that updates itself changes a tool into a habit that runs in the background."
+    ]
+   },
+   {
+    "heading": "What this looks like for a working creator",
+    "paragraphs": [
+     "Picture the way a small production business actually runs. A project holds your rate logic, your best performing hooks, your client notes, and the style rules for your brand. Every week it saves fresh research on what is working in your niche, files it next to the old research, and flags where the new findings disagree with the old ones. Next month proposal does not start from a blank chat. It starts from a library that has been quietly keeping score.",
+     "That is the difference between using AI as a search box and using it as staff. A search box forgets you between visits. A project with its own growing files remembers your standards, your prices, and your past decisions, and it can show its work when you ask why it drafted something the way it did."
+    ]
+   },
+   {
+    "heading": "Set it up like you mean it",
+    "paragraphs": [
+     "The setup rules still decide everything. Load the project with documents that show good work, not slogans about good work: a finished proposal, a priced package, a script that performed, a recap that a client loved. Name the files clearly, because future you and future Claude both have to find them. Then give the project one scheduled research job with a narrow brief, and read what it files for the first few weeks before you trust the habit.",
+     "Keep one human rule on top of the automation. A memory that writes itself can also drift, saving confident summaries of weak sources, so the review step is not optional. Check the new files, delete what is off brand or out of date, and correct the record while it is small. Teams that treat the project library like a shared desk, kept tidy on purpose, will get compounding value from this. Teams that treat it like a junk drawer will get a faster junk drawer."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Claude Projects now take their own notes, Nate Notebook (November 12, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "united-blocks-ai-agents-booking",
+  "title": "United Told AI Agents to Stay Out of Its Booking System",
+  "excerpt": "United restricted outside AI agents from booking in its app, on its site, and through travel sellers, while Walmart chose permission based agent profiles instead.",
+  "seoDescription": "United Airlines blocked outside AI agents from booking flights, citing login risks and wrong purchases. Why platforms are fighting to own the agent door.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-12T12:52:00.000Z",
+  "updatedAt": "2026-11-12T12:52:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/united-blocks-ai-agents-booking-hero.webp",
+   "alt": "Two United Airlines jets parked at airport gates on a sunny day, with the United name in large blue letters across the white fuselage of the nearest aircraft",
+   "subject": "United Airlines jets at airport gates",
+   "kind": "photo",
+   "sourceUrl": "https://thepointsguy.global.ssl.fastly.net/us/originals/2025/03/SLC-SFO-HND-CTS-42.jpg",
+   "credit": "Image: The Points Guy. Story source: The Neuron, November 12, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The gate agent just checked your assistant ID",
+    "paragraphs": [
+     "Your AI assistant may remember the headphones you returned because they hurt your ears, but it still cannot get past the gate agent. The Neuron reports that United Airlines has restricted unauthorized outside AI agents from using its app and its site, and from booking through travel agencies and aggregators. These are the assistants that log in as you and click buy on your behalf.",
+     "United gave practical reasons, not just corporate ones. It cited exposed login details, accidental purchases, agents burning MileagePlus miles on the wrong flight, and conflicts with aviation rules that need a human sign off. Chief executive Scott Kirby told the Wall Street Journal that United does not want to create another middleman between the airline and its customers."
+    ]
+   },
+   {
+    "heading": "The real fight is who owns the front door",
+    "paragraphs": [
+     "Here is the fight underneath the policy. If your assistant becomes the place your trip starts, the airline loses the customer relationship, much like it lost it once before to online travel sites. Whoever owns the first screen owns the upsell, the loyalty pitch, and the data about what you almost bought. An outside agent that books the cheapest seat and leaves takes all three away.",
+     "Amazon is playing the same game from the other side of retail. It asked Perplexity to pull shopping from its Comet browser, blocked the Muse agent from Meta, and pushes its own Buy for Me tool instead. The pattern is consistent: platforms welcome agents they control, and they fence out agents that turn them into a warehouse with a checkout counter."
+    ]
+   },
+   {
+    "heading": "Walmart chose a door with rules on it",
+    "paragraphs": [
+     "The Neuron points to the contrasting move. Walmart went the other way with agent profiles, where outside assistants get permissions, spending limits, and approval on each purchase, though not every feature is confirmed live yet. That is not openness for its own sake. It is a door with rules on it: the agent may enter, but only with a named identity, a budget, and a human yes on the transaction.",
+     "That contrast is the whole story for any business building on agents right now. The choice platforms face is not agents or no agents. It is unmanaged agents acting on borrowed logins, or managed agents acting inside limits the platform can see and revoke. United picked the fence today. Walmart is building the gate. Expect most large sellers to end up at the gate, because the agent traffic is too valuable to refuse forever and too risky to leave unguarded."
+    ]
+   },
+   {
+    "heading": "What a small business should copy now",
+    "paragraphs": [
+     "If your business takes bookings or sells online, write your agent rules before an agent forces the question. Decide what an assistant may do on a customer behalf: hold a date, take a deposit, or only gather details for a human to confirm. Put spending limits and a clear approval step in writing, and keep a log of what the agent did, because the first wrong purchase will be judged on the record you kept.",
+     "And flip the lens around. When you use agents in your own work, prefer the ones that show their permissions plainly and ask before money moves. The platforms are teaching the market a new standard in public: access is earned with identity, limits, and receipts. Businesses that build that standard into their own booking flow now will look trustworthy on the day their customers arrive with an assistant in hand."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: United told AI agents to stay out of its booking system (November 12, 2026)",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "finland-embassy-closure-viral-meme",
+  "title": "A One Day Embassy Closure Got 11 Million Views and Brands Came Running",
+  "excerpt": "The Embassy of Finland in Canberra posted a plain closure notice over a northern lights timelapse and drew about 11 million views, memes, and a flash sale.",
+  "seoDescription": "A routine Finland embassy closure post hit 11 million views on Instagram and brands joined the joke. What creators can learn about timing and momentum.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-12T12:48:00.000Z",
+  "updatedAt": "2026-11-12T12:48:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/finland-embassy-closure-viral-meme-hero.webp",
+   "alt": "The flag of Finland, white with a blue Nordic cross, waving on a tall flagpole against a clear bright blue sky",
+   "subject": "Flag of Finland waving against a blue sky",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-11-11/image-3c6440b27d92dccce68c18682d3a899a75f77569-3700x2462-jpg/GettyImages-2184035291.jpg",
+   "credit": "Image: SOPA Images, Getty Images, via Morning Brew. Story source: Morning Brew, November 12, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The most boring post on the internet this week",
+    "paragraphs": [
+     "Morning Brew tells the strangest creator story of the week. The Embassy of Finland in Canberra posted a simple timelapse of the northern lights with plain text on top: the embassy would be temporarily closed on Tuesday, November 10, 2026, for a planning day, and regular hours would resume the next day. That is the whole post. No hook, no trend, no call to action.",
+     "It has drawn about 11 million views, and it inspired a flood of posts from creators, meme pages, and businesses jokingly mourning the closure. Finland ambassador to Australia told Guardian Australia that the team was having a nice planning day when someone said the post had gone completely viral. Nobody involved can fully explain it, which is exactly why it is worth studying."
+    ]
+   },
+   {
+    "heading": "Momentum was already sitting on the account",
+    "paragraphs": [
+     "Morning Brew offers one clue that matters more than the mystery. The embassy account, with about 24,000 followers, had already entered the spotlight the week before with a post promoting a Finnish dating program run by Visit Finland, which will fly 15 singles to Helsinki for dinner dates with Finns. That post drew millions of views on its own.",
+     "Algorithms reward accounts that are already moving. A warm account with a recent breakout is far more likely to get its next ordinary post tested on a huge audience than a cold account posting its first video in months. The closure notice did not create the momentum. It inherited it, and then the absurdity of a world reacting to a day off gave everyone a joke they could join in one second flat."
+    ]
+   },
+   {
+    "heading": "Brands that moved fast won the second wave",
+    "paragraphs": [
+     "The smartest player in the story may be American Airlines. It announced a flash sale on flights to Europe starting at 22,500 miles, framed as a response to the embassy closure. That is the second wave of every viral moment: the original post gets the views, but the fast, funny, relevant responses get the screenshots, the quote posts, and the press coverage.",
+     "Notice what the airline did not do. It did not explain the meme, and it did not wait for a committee to approve a campaign next week. It matched the tone, tied the joke to a real offer, and posted while the world was still laughing. Speed with relevance is a skill, and it can be rehearsed before the moment arrives."
+    ]
+   },
+   {
+    "heading": "The lesson for creators who post on schedule",
+    "paragraphs": [
+     "Most creators treat a viral moment as weather: pleasant when it happens, impossible to plan for. This story suggests a better posture. Keep posting through the quiet weeks, because the account that breaks out is usually warm when the strange moment lands. When one post starts moving, publish the follow up the same day, while the algorithm is still introducing you to strangers, instead of protecting a calendar that no longer matters.",
+     "And build your fast response muscle now. Keep a short list of offers you can announce within an hour, know who can approve a post without a meeting, and watch the jokes forming in your niche each morning. You cannot schedule a meme. You can absolutely be the brand that answers it best, and this week a one day closure in Canberra just proved how much that answer can be worth."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Finland embassy closed for one day, became meme (November 12, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand spot pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "maison-lineti-wine-whisky",
+  "title": "A French Distillery Used Winemaking to Rethink Whisky and Cut Years Off Aging",
+  "excerpt": "Maison Lineti ferments for seven days in concrete eggs with wine methods like lees aging, and experts call the young whisky remarkably complete at 3.5 years.",
+  "seoDescription": "Maison Lineti uses winemaking science to make whisky in France, cutting years off aging. What founders can learn about borrowing methods across industries.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-12T12:44:00.000Z",
+  "updatedAt": "2026-11-12T12:44:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/maison-lineti-wine-whisky-hero.webp",
+   "alt": "Polished copper stills with tall curved necks inside the Maison Lineti distillery, lit by hanging lamps against dark blue walls",
+   "subject": "Copper stills at the Maison Lineti distillery in France",
+   "kind": "photo",
+   "sourceUrl": "https://www.luxsure.fr/wp-content/uploads/2024/04/Maison-Lineti-Salle-des-alambics_cThomas-Liaunet-scaled.jpg",
+   "credit": "Image: Thomas Liaunet, via Luxsure. Story source: The Hustle, November 12, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Innovation showed up wearing the wrong uniform",
+    "paragraphs": [
+     "French wine country is famous for tradition and centuries old wineries. The Hustle reports that an eight year old company there, Maison Lineti, has become the site of serious innovation, not for wine, but for whisky. Wired has called what the distillery is doing the most innovative thing to happen to whisky in decades, and some experts have called it one of the most important distilleries in the world right now.",
+     "The founders explain the twist plainly. Magali Picard is a chemical engineer with a doctorate in oenology, the science of wine. Her partner in life and in business, Alex Cosculluela, built the company with her after its launch in 2018. Instead of treating whisky as a barrel problem, they treated it as a fermentation problem, and they brought the tools of their home industry with them."
+    ]
+   },
+   {
+    "heading": "Eggs, time, and a lot of data",
+    "paragraphs": [
+     "Traditional whisky making leans heavily on barrel aging. Maison Lineti starts much earlier. The team ferments in giant concrete eggs, whose shape gives better temperature control than stainless steel and keeps the liquid moving. Fermentation runs seven days, compared with two or three days for a typical Scotch, and wine methods do the rest of the work: lees aging, cold soaking, and malolactic fermentation, guided by detailed molecular experimentation and lots of data.",
+     "The result is a well rounded whisky with soft floral and mineral notes and a creamy mouthfeel that, at just 3.5 years old, has been impressing experts. The pre maturation process takes weeks longer than at traditional distilleries, yet the founders say it can shave two to four years off the aging process and yield a spirit of comparable quality. Less time in barrels also means less product lost to evaporation, which saves space, energy, and raw materials."
+    ]
+   },
+   {
+    "heading": "Nearly closed before the first bottle shipped",
+    "paragraphs": [
+     "The Hustle is honest about the cost of the road. Like other whisky and wine producers in recent years, the company faced financial difficulty and nearly shut down last year before ever releasing a product. Eight years of research is a long time to spend with nothing on a shelf, and the wine world patience that made the method possible also made the business fragile.",
+     "New funding changed the ending. The whisky has now launched in the United Kingdom, and the company plans to expand to the United States market in 2028. Drinks writer Becky Paskin expects other makers to eventually adopt the methods, and told Wired that the industry is only starting to see the tip of what Maison Lineti is capable of. Survival first, then influence: the order matters."
+    ]
+   },
+   {
+    "heading": "Borrow the method, not the product",
+    "paragraphs": [
+     "The transferable lesson has nothing to do with drinks. Every mature industry has a step everyone worships and a step everyone rushes. Whisky worshipped the barrel and rushed fermentation, so a founder trained in wine saw value exactly where the insiders were not looking. Ask of your own craft: which early step do competitors treat as a commodity, and what would change if an expert from a neighboring field ran that step with their standards instead.",
+     "For a video business, that might mean letting an events photographer set the lighting standard, or letting a wedding filmmaker own the delivery timeline clients feel. Cross industry borrowing works because the borrowed method arrives without the local blind spots. Maison Lineti did not out whisky the whisky makers. It brought wine discipline to the one stage whisky had stopped questioning, and the whole timeline moved."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle: How wine is shaking up the whisky industry, Maison Lineti (November 12, 2026)",
+    "url": "https://thehustle.co"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand spot pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "chatgpt-businesses-brands-claim-profile",
   "title": "Brands Can Now Claim a Profile and Build an Agent Inside ChatGPT",
   "excerpt": "OpenAI Businesses in ChatGPT lets brands claim a verified profile, see how often ChatGPT mentions them, and build an agent that answers buyers directly.",
