@@ -11550,5 +11550,59 @@
   "alt": "Levity at LIV Miami event flyer",
   "imageKey": "event-flyers/991-levity-at-liv-miami.jpg",
   "endDate": "2026-11-21"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Conep at LIV Miami",
+  "date": "DECEMBER 17, 11:30 PM",
+  "headliners": "Conep",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261217/conep/",
+  "flyerUrl": "https://www.instagram.com/p/DfkqJnbk2QD/",
+  "image": "/events/flyer/992-conep-at-liv-miami.jpg",
+  "alt": "Conep at LIV Miami event flyer",
+  "imageKey": "event-flyers/992-conep-at-liv-miami.jpg",
+  "endDate": "2026-12-18"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Tiësto at LIV Miami",
+  "date": "DECEMBER 29, 11:30 PM",
+  "headliners": "Tiësto",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261229/ti-sto/",
+  "flyerUrl": "https://www.instagram.com/p/Dfkdrz5k-lH/",
+  "image": "/events/flyer/993-tiesto-at-liv-miami.jpg",
+  "alt": "Tiësto at LIV Miami event flyer",
+  "imageKey": "event-flyers/993-tiesto-at-liv-miami.jpg",
+  "endDate": "2026-12-30"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Steve Aoki at LIV Miami",
+  "date": "JANUARY 1, 11:30 PM",
+  "headliners": "Steve Aoki",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020270101/steve-aoki/",
+  "flyerUrl": "https://www.instagram.com/p/DfnZATqkxaA/",
+  "image": "/events/flyer/994-steve-aoki-at-liv-miami.jpg",
+  "alt": "Steve Aoki at LIV Miami event flyer",
+  "imageKey": "event-flyers/994-steve-aoki-at-liv-miami.jpg",
+  "endDate": "2027-01-02"
  }
 ]
