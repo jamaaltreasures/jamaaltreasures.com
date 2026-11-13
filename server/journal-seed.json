@@ -1,5 +1,375 @@
 [
  {
+  "slug": "google-gemini-4-hydrogen-fast-model",
+  "title": "Gemini 4 Hydrogen Does the Running While a Bigger Model Does the Thinking",
+  "excerpt": "Google Gemini 4 Hydrogen is a fast and cheaper model for coding and agent work, built to execute steps while heavier models handle the planning.",
+  "seoDescription": "Gemini 4 Hydrogen is the fast and cheaper Google model for coding and agent work. The architect and contractor pattern for using it well.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-13T13:00:00.000Z",
+  "updatedAt": "2026-11-13T13:00:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/google-gemini-4-hydrogen-fast-model-hero.webp",
+   "alt": "Screenshot of a post by kimmonismus showing a futuristic city with glowing towers in the rain, built with Gemini 4 Hydrogen from one prompt and one follow up",
+   "subject": "Futuristic city built by Gemini 4 Hydrogen, shared by kimmonismus",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/ed316c20-b7cd-44c0-9098-77c81433a644/image.png?t=1794553953",
+   "credit": "Image: kimmonismus via The Neuron. Story source: The Neuron, November 13, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A model built to execute, not to ponder",
+    "paragraphs": [
+     "Google has added a sprinter to the Gemini 4 family. The Neuron reports that the Gemini 4 Hydrogen launch post describes it as the fast and lower cost model for everyday coding and agent work, built to execute quickly rather than reason deeply. The heavier Gemini 4 models, Carbon and Argon, take the long and hard thinking. Hydrogen is available in the Gemini app model dropdown, in the Gemini API, and in AI Studio, and The Rundown AI listed it among the trending tools of the day.",
+     "Early testers are already showing what fast execution looks like. The Neuron shared a post by kimmonismus, who got early access to Hydrogen in Antigravity and asked it to build a futuristic city you could actually fly through. After one prompt and one follow up, the result was a rainy Three.js world with procedural towers and flying traffic."
+    ]
+   },
+   {
+    "heading": "Google already splits the job this way",
+    "paragraphs": [
+     "This is not a theory Google is asking you to test alone. Its own coding tool, Antigravity, already splits the job between the two kinds of models. Its Orchestrator switches between Carbon and Hydrogen inside one session, and Google reports near Carbon results with about 24 percent less quota and 19 percent faster completion on its own coding tests. Read those as vendor numbers, but the direction is plain: the lab that built both models routes work this way itself.",
+     "The Neuron frames the pattern as architect and contractor. The architect decides what to build and in what order. The contractor follows the blueprint quickly. Paying the architect to hammer every nail is slow and pricey, and asking the contractor to design the building is how you get a door that opens into a wall."
+    ]
+   },
+   {
+    "heading": "Run the pattern in four moves",
+    "paragraphs": [
+     "First, plan with your strongest model. Ask it to turn the job into numbered steps, each written to stand alone, with a done looks like check you can verify in 30 seconds, and ask it to mark any step that needs real judgment rather than execution. Second, run one step at a time on Hydrogen. Pick it in the model dropdown, paste the full plan for context, then tell it to do only that one step. Hydrogen follows tone, format, and specific rules closely, which is exactly what an execution step needs.",
+     "Third, match the thinking depth to the step. Hydrogen has four thinking levels: low, medium, high as the default, and an extra high setting that is new. You pay and wait only for the depth a task needs, so save the deepest setting for the one tricky step. Fourth, send only the failures back upstairs. If a step misses its check, hand that step and its output back to the big model for a ruling, instead of paying it to redo passing work."
+    ]
+   },
+   {
+    "heading": "Test the speed claim on your own work",
+    "paragraphs": [
+     "One caution before you reorganize your stack around the headline number. Google measured Hydrogen at 2.5 times faster at its high default setting against an older model, Gemini 3.8 Flash. The Neuron suggests timing one of your own tasks at a lower thinking level first. Speed on a vendor chart and speed on your Tuesday workload are different measurements, and only one of them pays your bills.",
+     "The deeper point comes from the same issue of The Neuron, where Simon Willison argues that price per token no longer tells you much, because reasoning models use very different token counts. Cost per finished task is the better yardstick. For creators, that means testing Hydrogen on real steps: caption batches, research pulls, edit checklists, first drafts of show notes. Keep the planning with the model that thinks best, let the fast model run the steps, and judge the pair by finished work per dollar."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron: Let a big model plan and Gemini 4 Hydrogen do the work (November 13, 2026)",
+    "url": "https://www.theneurondaily.com"
+   },
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Google debuts Gemini 4 Hydrogen (November 13, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "ai-coaches-your-calls-claude-granola",
+  "title": "Let AI Coach Your Calls Instead of Just Taking Notes",
+  "excerpt": "Rowan Cheung records his calls with Granola, sends the transcripts to Claude, and grades his own talk ratio, dodges, promises, and answers to pushback.",
+  "seoDescription": "Rowan Cheung uses Granola and Claude to coach his own calls, tracking talk ratio, promises, and objections. How creators can copy the review habit.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-13T12:56:00.000Z",
+  "updatedAt": "2026-11-13T12:56:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/ai-coaches-your-calls-claude-granola-hero.webp",
+   "alt": "Two men seated on stools in conversation during a Forbes interview in a teal studio with glowing panels, the younger man gesturing as he speaks",
+   "subject": "Forbes interview still used for the Rowan call coaching story",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/3e4ef3d0-4562-4f7d-b4f4-c66d5f5e727a/Screenshot_2026-11-12_at_1.40.03_PM.png?t=1794508808",
+   "credit": "Image: Forbes via The Rundown AI. Story source: The Rundown AI, November 13, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Most people ask AI for a summary",
+    "paragraphs": [
+     "Most people point a meeting tool at a call and ask for the polite version: a summary, a list of action items, a few next steps. Rowan Cheung, who writes The Rundown AI, does the opposite. After every high stakes call, he lets AI tear apart his own performance. He says the habit started as a weird quirk several months ago and has quietly become one of the most useful things he does.",
+     "The setup is simple enough for anyone to copy. He records his meetings with Granola, noting that any meeting note taker would work, connects the transcripts to Claude, and instead of pulling summaries, he makes the model look backward at how he handled the conversation. The call becomes film study, and he is the player on the tape."
+    ]
+   },
+   {
+    "heading": "Four reviews worth stealing",
+    "paragraphs": [
+     "The first review is his talk ratio on sales calls, flagged whenever it passes 50 percent, because on a good sales call you want to talk less and learn more. The second is harder to hear: every moment he dodged a hard topic or put off a decision he could have made on the spot. Most of us leave a call remembering the parts that went well. This review remembers the parts we avoided.",
+     "The third review is a commitment log of everything he promised, including every let me think about it, and those promises get pushed into his to do lists so nothing quietly expires. The fourth is an objection library: every pushback partners raised this year, collected in one place, with a stronger answer drafted for each one. Put together, the four reviews turn one call into training material for the next ten calls."
+    ]
+   },
+   {
+    "heading": "Exact quotes make the coaching honest",
+    "paragraphs": [
+     "His one quick tip is the detail that makes the whole system work. Ask for exact quotes, so Claude or ChatGPT puts your own words next to what you should have said. A summary lets you nod along. A quote makes you wince, and the wince is where the learning lives. You can hear the sentence that lost the room, and you can practice the sentence that would have held it.",
+     "Rowan is clear that this travels well beyond his own calls. The same workflow fits recruiting calls, sales calls, leadership meetings, and even podcasts and interview recordings. If it is recorded, it can coach you. For a creator who sells event coverage, that means the discovery call and the pricing call are both reviewable. The night after a call, you can find the exact moment the budget talk went soft and rewrite it while the memory is still warm."
+    ]
+   },
+   {
+    "heading": "Build the habit this week",
+    "paragraphs": [
+     "Start small and keep it honest. Record your calls with permission, keep the transcripts in one trusted place, and run the same four reviews after each important conversation: talk ratio, dodged topics, promises made, and pushback received. Save the objection library where you will actually see it before the next call, and add one stronger answer each week. Within a month you will own a playbook written from your own evidence, not from a guru thread.",
+     "One guardrail matters. Transcripts hold client details, prices, and plans that were shared in confidence, so keep them in tools you trust and share only what a review needs. Used with care, this is the rare AI habit that makes a person better at the human part of the job. The model takes the notes. You still have to take the notes to heart, and then show up to the next call saying the better sentence out loud."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: How I use AI to coach my calls (November 13, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "claude-sheets-builds-shared-trackers",
+  "title": "Claude Now Builds the Spreadsheet and Leaves the Formulas Showing",
+  "excerpt": "Claude Sheets turns a plain description into a working tracker with live formulas in the cells, ready to share with a team for editing.",
+  "seoDescription": "Claude Sheets builds a shared tracker from a description and leaves formulas visible for checking. A practical setup guide for small teams.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-13T12:52:00.000Z",
+  "updatedAt": "2026-11-13T12:52:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/claude-sheets-builds-shared-trackers-hero.webp",
+   "alt": "Graphic reading Build spreadsheets with Claude beside a Claude spreadsheet window showing a campaign tracker with tasks, owners, due dates, and status labels",
+   "subject": "Claude Sheets campaign tracker graphic",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/6535e1fa-4b6b-4a3d-b6a9-293cebcb848b/Build_Spreadsheets_with_Claude.png?t=1794528535",
+   "credit": "Image: The Rundown AI. Story source: The Rundown AI, November 13, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A tracker built from one description",
+    "paragraphs": [
+     "Every small team runs on one spreadsheet it is slightly afraid of. The Rundown AI training guide for November 13 shows a calmer way to build one. Claude now builds its own spreadsheets, turning a plain description into a table and leaving the formulas in the cells, so you can check every number yourself. In the guide, you build a campaign tracker with status and budget columns, then share it with a teammate for editing.",
+     "The detail that matters is the formulas. Plenty of tools will hand you a finished looking table with numbers typed into the totals. A typed number never updates. A formula does. By leaving real formulas in the cells, Claude gives you a sheet that keeps working after the chat ends, and a way to audit what it did before you trust it with a real budget."
+    ]
+   },
+   {
+    "heading": "The steps, in order",
+    "paragraphs": [
+     "Go to claude.ai and open Artifacts, click the green Sheets tile under Make something new, and describe the tracker in full: every column, the dropdown values each column allows, and which cells should hold formulas. Then click a total and read the formula bar to confirm the math is real. Next, select the table, click Ask Claude, and ask it to point out any cell holding a typed number instead of a formula, since only formulas update when the Spent figure changes.",
+     "That audit step is the one most people will skip, and it is the one worth keeping. A single typed number hiding in a column of formulas is how budgets quietly break: the sheet looks alive, the totals look confident, and one stale figure rides along for months. Asking the builder to flag its own shortcuts takes ten seconds and turns a neat demo into a tool you can run a business on."
+    ]
+   },
+   {
+    "heading": "Clean it, date it, share it",
+    "paragraphs": [
+     "With the math checked, ask Claude to highlight tasks that are past their due date and not marked Done, so the overdue work glows instead of hiding in the middle of the list. Then paste your own tasks over the sample rows and have Claude delete the leftovers, so the tracker holds your real work and nothing else. Sample data that survives into a live sheet has a way of getting quoted in meetings, so clear it on day one.",
+     "Sharing is the last step. Click Share, invite a teammate with Can edit access, and leave General access on Only you. The Rundown notes that on paid plans, people you share with can edit cells but cannot ask Claude for changes, which keeps one hand on the design of the sheet. For a production business, that split is healthy: the team updates the work, and one owner controls the structure."
+    ]
+   },
+   {
+    "heading": "Keep a backup before you trust it",
+    "paragraphs": [
+     "The guide closes with a pro tip that sounds boring and saves careers. Before any big change, open Share, then the Export tab, and download an Excel copy. If an edit goes wrong, you still hold the tracker as it was. For a bad build, Undo on the Claude updated notice takes the whole change back at once. Version safety is what separates a shared tracker from a shared accident.",
+     "Think about where this fits a creator business: a shoot schedule with owners and due dates, a content calendar with status labels, an invoice tracker where the totals must be right when rent is due. Build the sheet from a careful description, audit the formulas, clear the samples, share it with limits, and keep an export before every big edit. The spreadsheet stops being the file everyone fears and becomes the one place the whole team can read the truth."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI: Build a shared tracker in Claude Sheets (November 13, 2026)",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "tressfecta-plait-pilot-braiding-prep",
+  "title": "Braiding Takes Eight Hours. This Startup Attacks the First One.",
+  "excerpt": "Tressfecta founder Aisata Diallo built the Plait Pilot to cut the hour of prep inside an eight hour braiding appointment, in a market worth over 15 billion dollars.",
+  "seoDescription": "Tressfecta Plait Pilot tackles braiding prep time for textured hair. A founder story about building for a huge market the beauty industry skipped.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-13T12:48:00.000Z",
+  "updatedAt": "2026-11-13T12:48:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/tressfecta-plait-pilot-braiding-prep-hero.webp",
+   "alt": "A stylist braiding a seated client hair into neat cornrows against a dark textured wall, holding a comb and working with focused hands",
+   "subject": "Stylist braiding a client hair, The Hustle image for the Tressfecta story",
+   "kind": "photo",
+   "sourceUrl": "https://thehustle.co/hs-fs/hubfs/Daily%20Templates%20-%202026%20Refresh%20(2)%20copy-2.png?width=1120&upscale=true&name=Daily%20Templates%20-%202026%20Refresh%20(2)%20copy-2.png",
+   "credit": "Image: The Hustle. Story source: The Hustle, November 13, 2026"
+  },
+  "sections": [
+   {
+    "heading": "An eight hour appointment with a hidden first hour",
+    "paragraphs": [
+     "Hairstyles have always been a powerful way for people to show identity, culture, and confidence. Yet The Hustle reports that haircare brands and beauty schools have often had limited education on textured hair, which represents 65 percent of the United States population. Only eight states legally require cosmetology schools to train and educate on textured hair as part of their mandatory licensing curriculum, so the gap is built into the training itself.",
+     "The gap shows up in the chair. Braiding textured hair can take eight hours for one appointment, and on average about one of those hours is spent preparing before a single braid is even started, according to Aisata Diallo, founder of the textured hair tech company Tressfecta. One hour of prep inside every eight hour job, repeated across millions of appointments, is not a detail. It is an industry hiding inside an industry."
+    ]
+   },
+   {
+    "heading": "She lived the problem before she built for it",
+    "paragraphs": [
+     "Diallo had been braiding her own hair long before college, but she noticed that many of her friends at school struggled to afford or access textured hair care appointments, since braided styles often cost 200 dollars or more. She braided her cohort hair for about three years, often working on weekends and during summer breaks. That is three years of field research conducted with her own hands, one head at a time.",
+     "During that time she came up with the idea that became the Plait Pilot, and then she waited. She told The Hustle she honestly sat on the idea for a few years, studying business without the technical knowledge she felt she needed to move forward. Her reason for building anyway is the line every founder should underline. You would have to have that frustration to understand why this is something worth innovating towards."
+    ]
+   },
+   {
+    "heading": "The Plait Pilot and the company taking shape",
+    "paragraphs": [
+     "The Plait Pilot is a prep tool that separates braiding hair into sections before the appointment starts. Notice the discipline in that scope: Tressfecta is focused on braiding prep, not braiding itself. The company is not promising a robot stylist. It is promising to hand the stylist back the first hour of every appointment, with the creative and skilled work left exactly where it belongs, in human hands.",
+     "The company is entering at the right time, with the textured hair market valued at more than 15 billion dollars in 2026. Tressfecta has a prototype in development with multiple versions so far, a private community of more than 50 braiders and stylists including salon owners, and a place among TechCrunch Startup Battlefield 200 companies this year. It is preparing to fundraise and targeting hardware and beauty tech investors who understand both sides of that description."
+    ]
+   },
+   {
+    "heading": "Build for the hour everyone else ignores",
+    "paragraphs": [
+     "Diallo names her two real challenges plainly: investing and education. She finds herself leaning into the educational framing of her pitch, because the issue is so specific that an investor almost has to come from the styling experience to feel its weight. That is the tax on building for an overlooked market. The opportunity is enormous precisely because incumbents skipped it, and the pitch is harder for the same reason.",
+     "Every craft has a hidden first hour. In video work it is the prep before the shoot and the file handling after it, the parts clients never see and schedules always underestimate. Tressfecta shows the move: find the unglamorous hour inside a long job, measure it honestly, and build the tool that shortens it without touching the artistry people pay for. Diallo says she is starting to see real innovation in the textured hair category at last, and expects something very positive in the next five years. The first hour is where that future starts."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle: Braiding takes 8 hours, this startup automates one (November 13, 2026)",
+    "url": "https://thehustle.co"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand spot pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "burberry-trench-coat-turnaround-sales",
+  "title": "Burberry Bet on the Trench Coat and the Shoppers Came Back",
+  "excerpt": "Burberry comparable store sales rose 4 percent last quarter as the brand pushed its trench coat and more reachable prices under a new chief executive.",
+  "seoDescription": "Burberry sales rose as the brand focused on trench coats and aspirational shoppers. What a heritage brand turnaround teaches smaller brands.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-13T12:44:00.000Z",
+  "updatedAt": "2026-11-13T12:44:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/burberry-trench-coat-turnaround-sales-hero.webp",
+   "alt": "A woman wearing a long tan trench coat with a checked lining, a blue shirt, and jeans, walking outside a brick building while holding a small bag",
+   "subject": "Woman wearing a trench coat, photographed for the Burberry story",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-11-12/image-60b8bcc6561ef7949ed08ee997773dc3ce5ede82-8246x5497-jpg/GettyImages-2273732901.jpg",
+   "credit": "Image: Edward Berthelot, Getty Images via Morning Brew. Story source: Morning Brew, November 13, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A luxury brand that is actually growing",
+    "paragraphs": [
+     "At a time when luxury brands are begging to stay relevant, Burberry is actually doing it. Morning Brew reports that the British brand posted better than expected sales last quarter, with comparable store sales up 4 percent in the three months ending on September 26. Growth showed up in every segment, even handbags, an area that has historically underperformed for the house.",
+     "The half year picture tells the same story. Revenue for the first half of the year came in at about 1.46 billion dollars, up from about 1.36 billion dollars in the same period a year earlier. This is not a viral moment or a single celebrity placement. It is a famous old brand moving its numbers in the right direction, quarter by quarter, by selling more of the thing it is famous for."
+    ]
+   },
+   {
+    "heading": "It even weathered the China pullback",
+    "paragraphs": [
+     "The detail that should make rival executives nervous is where the growth held up. Burberry managed to weather the pullback of Chinese customers that has hurt the rest of the sector. Sales in China increased 5 percent last quarter, while rivals like Gucci and Balenciaga parent company Kering, and the LVMH group, reported that demand in China has slowed recently. Growing where your competitors are shrinking is the cleanest proof that a turnaround is real.",
+     "The home front helped too. Burberry retail sales in the United States were up 11 percent, the strongest regional figure in the report. A brand can survive a soft market at home or a soft market abroad. Growing in both at once, while your category complains about the weather, means the offer itself is doing the work, not the economy."
+    ]
+   },
+   {
+    "heading": "The Check turnaround, named for its pattern",
+    "paragraphs": [
+     "Morning Brew calls the strategy the Check turnaround, after the famous pattern on the lining. Joshua Schulman became Burberry chief executive in 2024 and directed the brand to attract aspirational shoppers by lowering prices on more reachable pieces and waving its recognizable scarves at them. The customer who cannot yet buy the full luxury life can still buy a true piece of the house, at a price that feels like a reach rather than a fantasy.",
+     "Schulman also locked in on selling trench coats, which had already been gaining momentum as an investment piece and a recession proof staple. That focus is the whole lesson in one move. Instead of chasing every trend in the building, the brand put its weight behind the single garment the world already associates with its name, priced the entry points within reach, and let the icon carry the story."
+    ]
+   },
+   {
+    "heading": "Lead with the icon you already own",
+    "paragraphs": [
+     "Most small brands read a story like this and reach for the wrong moral: copy the trench coat. The transferable moral is about focus and reach. Burberry did not invent a new identity, hire a louder voice, or discount the whole store. It named its signature product, made honest entry versions of the world around it, and repeated that offer until the numbers moved in every segment and on two continents.",
+     "Ask the same question of your own business. What is the one offer your market already connects with your name, and is there a reachable first step that lets a new customer own a real piece of it this month? For a services business that might be one signature package with a clear starting scope, sold with the same confidence as the flagship. Icons are not born in a rebrand meeting. They are the products you decide to lead with, at prices real people can reach, until the market agrees."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: Burberry trench coats are so hot right now (November 13, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand spot pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "alphagenome-2-reads-dna-cell-type",
   "title": "AlphaGenome 2 Asks Which Cell a DNA Typo Hurts, Not Just Whether It Hurts",
   "excerpt": "Google DeepMind AlphaGenome 2 predicts what a single DNA change does inside each cell type, trained on more than 100 million cell profiles across 68 tissues.",
