@@ -1,5 +1,5 @@
 [
- {
+{
   "section": "NOVEMBER",
   "title": "Bryant Myers Millo Gangster Club Tour",
   "date": "NOVEMBER 14, DOORS AT 10 PM",
@@ -17,7 +17,7 @@
   "imageKey": "event-flyers/52-DdZWAI4REzi.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Rolling Loud",
   "date": "MAY 7 TO 9, 2027",
@@ -34,7 +34,7 @@
   "imageKey": "event-flyers/53-rolling-loud.jpg",
   "endDate": "2027-05-09"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Ultra Music Festival",
   "date": "MARCH 26 TO 28, 2027",
@@ -51,7 +51,7 @@
   "imageKey": "event-flyers/54-ultra-music-festival.jpg",
   "endDate": "2027-03-28"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Art Basel Miami Beach",
   "date": "DECEMBER 4 TO 6, 2026",
@@ -68,7 +68,7 @@
   "imageKey": "event-flyers/56-art-basel-miami-beach.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Florida Black Lawyers Summit and Judicial Reception",
   "date": "FRIDAY NOVEMBER 20, 2026, 9 AM TO 7:30 PM",
@@ -85,7 +85,7 @@
   "imageKey": "event-flyers/64-florida-black-lawyers-summit-and-judicia.jpg",
   "endDate": "2026-11-20"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Food Network South Beach Wine and Food Festival",
   "date": "FEBRUARY 25 TO FEBRUARY 28",
@@ -102,7 +102,7 @@
   "imageKey": "event-flyers/67-food-network-south-beach-wine-and-food-f.jpg",
   "endDate": "2027-02-28"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Coconut Grove Arts Festival",
   "date": "FEBRUARY 13 TO FEBRUARY 15",
@@ -119,7 +119,7 @@
   "imageKey": "event-flyers/68-coconut-grove-arts-festival.jpg",
   "endDate": "2027-02-15"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Raymond James Gasparilla Festival of the Arts",
   "date": "MARCH 6 TO MARCH 7",
@@ -136,7 +136,7 @@
   "imageKey": "event-flyers/69-raymond-james-gasparilla-festival-of-the.jpg",
   "endDate": "2027-03-07"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Art Miami",
   "date": "DECEMBER 1 TO DECEMBER 6",
@@ -153,7 +153,7 @@
   "imageKey": "event-flyers/70-art-miami.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Miami Book Fair",
   "date": "NOVEMBER 15 TO NOVEMBER 22",
@@ -170,7 +170,7 @@
   "imageKey": "event-flyers/71-miami-book-fair.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Publix Gasparilla Distance Classic",
   "date": "FEBRUARY 20 TO FEBRUARY 21",
@@ -187,7 +187,7 @@
   "imageKey": "event-flyers/72-publix-gasparilla-distance-classic.jpg",
   "endDate": "2027-02-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The R&B Tour: Usher & Chris Brown, Miami",
   "date": "DECEMBER 3 AND 5, 7 PM",
@@ -204,7 +204,7 @@
   "imageKey": "event-flyers/96-rb-tour-usher-chris-brown-miami.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The R&B Tour: Usher & Chris Brown, Tampa",
   "date": "DECEMBER 11 AND 12, 7 PM",
@@ -221,7 +221,7 @@
   "imageKey": "event-flyers/97-rb-tour-usher-chris-brown-tampa.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "A Boogie Wit da Hoodie: 10 Years of Artist",
   "date": "DECEMBER 5, 8 PM",
@@ -239,7 +239,7 @@
   "imageKey": "event-flyers/107-a-boogie-orlando.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Future Wealth Summit 2026",
   "date": "DECEMBER 4 TO 6",
@@ -256,7 +256,7 @@
   "imageKey": "event-flyers/111-future-wealth-summit.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "R&B ONLY LIVE, Tampa",
   "date": "NOVEMBER 13, 8 PM TO 1 AM",
@@ -274,24 +274,7 @@
   "imageKey": "event-flyers/116-rnb-only-live-tampa.jpg",
   "endDate": "2026-11-14"
  },
- {
-  "section": "NOVEMBER",
-  "title": "Doja Cat, Tour Ma Vie World Tour with Latto, Tampa",
-  "date": "NOVEMBER 13, 7:30 PM",
-  "headliners": "Doja Cat, Latto",
-  "venue": "Benchmark International Arena, Tampa",
-  "categories": [
-   "Music"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://www.ticketmaster.com/doja-cat-tickets/artist/2062205",
-  "flyerUrl": "https://www.benchmarkintlarena.com/news/detail/release-doja-cat-announces-2026-dates-for-tour-ma-vie-world-tour-coming-to-tampa",
-  "image": "/events/flyer/59-doja-cat-tour-ma-vie-world-tour-with-lat.jpg",
-  "alt": "Doja Cat Tour Ma Vie World Tour 2026 promo image, Tampa",
-  "imageKey": "event-flyers/59-doja-cat-tour-ma-vie-world-tour-with-lat.jpg",
-  "endDate": "2026-11-13"
- },
- {
+{
   "section": "NOVEMBER",
   "title": "Doja Cat, Tour Ma Vie World Tour with Latto, Orlando",
   "date": "NOVEMBER 14, 7:30 PM",
@@ -308,7 +291,7 @@
   "imageKey": "event-flyers/59-doja-cat-tour-ma-vie-world-tour-with-lat.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Rod Wave: Don't Look Down Tour with Fridayy, Sunrise",
   "date": "NOVEMBER 14 AND 15, 8:30 PM",
@@ -325,7 +308,7 @@
   "imageKey": "event-flyers/75-rod-wave-don-t-look-down-tour-with-frida.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Hunxho: 2Night Only Tour, Fort Lauderdale",
   "date": "NOVEMBER 18, 8 PM",
@@ -342,7 +325,7 @@
   "imageKey": "event-flyers/121-hunxho-2night-only-tour.jpg",
   "endDate": "2026-11-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Hunxho: 2Night Only Tour, St. Petersburg",
   "date": "NOVEMBER 19, 8 PM",
@@ -359,7 +342,7 @@
   "imageKey": "event-flyers/121-hunxho-2night-only-tour.jpg",
   "endDate": "2026-11-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Hunxho: 2Night Only Tour, Orlando",
   "date": "NOVEMBER 20, 8 PM",
@@ -376,7 +359,7 @@
   "imageKey": "event-flyers/121-hunxho-2night-only-tour.jpg",
   "endDate": "2026-11-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Trippie Redd: The NDA Tour, Orlando",
   "date": "NOVEMBER 25, 8 PM",
@@ -393,7 +376,7 @@
   "imageKey": "event-flyers/122-trippie-redd-nda-tour.jpg",
   "endDate": "2026-11-25"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Trippie Redd: The NDA Tour, Miami Beach",
   "date": "NOVEMBER 27, 8 PM",
@@ -410,7 +393,7 @@
   "imageKey": "event-flyers/122-trippie-redd-nda-tour.jpg",
   "endDate": "2026-11-27"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Trippie Redd: The NDA Tour, St. Petersburg",
   "date": "NOVEMBER 28, 7 PM",
@@ -427,7 +410,7 @@
   "imageKey": "event-flyers/122-trippie-redd-nda-tour.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Olivia Rodrigo: The Unraveled Tour, Orlando",
   "date": "NOVEMBER 15 AND 16, 7 PM",
@@ -444,7 +427,7 @@
   "imageKey": "event-flyers/126-olivia-rodrigo-the-unraveled-tour.jpg",
   "endDate": "2026-11-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Olivia Rodrigo: The Unraveled Tour, Sunrise",
   "date": "NOVEMBER 19 AND 20, 7 PM",
@@ -461,7 +444,7 @@
   "imageKey": "event-flyers/126-olivia-rodrigo-the-unraveled-tour.jpg",
   "endDate": "2026-11-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Welcome to Jamrock Reggae Cruise",
   "date": "NOVEMBER 11 TO 16",
@@ -479,7 +462,7 @@
   "imageKey": "event-flyers/131-jamrock-reggae-cruise-miami.jpg",
   "endDate": "2026-11-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "14th Annual Tampa Bay Veg Fest",
   "date": "NOVEMBER 14, 11 AM TO 5 PM",
@@ -497,7 +480,7 @@
   "imageKey": "event-flyers/133-tampa-bay-veg-fest.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Elderbrook DJ Set at Tempo Daylife Pool Party",
   "date": "NOVEMBER 15, 11 AM",
@@ -515,7 +498,7 @@
   "imageKey": "event-flyers/140-elderbrook-tempo-daylife-tampa.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Run-A-Boat Culture and Food Festival",
   "date": "NOVEMBER 14, 3 PM TO 9 PM",
@@ -533,7 +516,7 @@
   "imageKey": "event-flyers/146-run-a-boat-culture-food-festival-tamarac.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "R&B Before Dark Day Party: Classic Weekend FAMU vs BCU",
   "date": "NOVEMBER 21, 5 PM TO 10 PM",
@@ -551,7 +534,7 @@
   "imageKey": "event-flyers/147-rnb-before-dark-classic-weekend-orlando.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Verses Showdown: Who's the Real Crowd Pleaser",
   "date": "NOVEMBER 25, 6 PM TO 12 AM",
@@ -569,7 +552,7 @@
   "imageKey": "event-flyers/148-verses-showdown-crowd-pleaser-jacksonville.jpg",
   "endDate": "2026-11-26"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Black Friday Experience",
   "date": "NOVEMBER 27, 8:30 PM TO 1 AM",
@@ -587,7 +570,7 @@
   "imageKey": "event-flyers/150-black-friday-experience-jacksonville.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Reggae Sound Splash Fest",
   "date": "NOVEMBER 15, 4 PM",
@@ -605,7 +588,7 @@
   "imageKey": "event-flyers/151-reggae-sound-splash-fest-clearwater.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "UB40: The Unstoppable Tour, St. Petersburg",
   "date": "NOVEMBER 14, 8 PM",
@@ -622,7 +605,7 @@
   "imageKey": "event-flyers/152-ub40-st-petersburg.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Shipwrecked Music Festival 2027",
   "date": "JANUARY 30, 4 PM",
@@ -639,7 +622,7 @@
   "imageKey": "event-flyers/153-shipwrecked-music-festival-tampa.jpg",
   "endDate": "2027-01-30"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Cyclops Cove 4",
   "date": "DECEMBER 4 TO 6, 2 PM",
@@ -656,7 +639,7 @@
   "imageKey": "event-flyers/154-cyclops-cove-boca-raton.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Suncoast Food and Wine Fest",
   "date": "NOVEMBER 14, 1 PM TO 4 PM",
@@ -673,7 +656,7 @@
   "imageKey": "event-flyers/157-suncoast-food-wine-fest.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "I LOVE R&B PARTY",
   "date": "NOVEMBER 27, 8 PM",
@@ -691,7 +674,7 @@
   "imageKey": "event-flyers/164-i-love-rnb-party-tampa.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Sixth Annual Riverwalk International Food Festival",
   "date": "NOVEMBER 14, 12 PM TO 4 PM",
@@ -708,7 +691,7 @@
   "imageKey": "event-flyers/167-riverwalk-international-food-festival-fort-lauderdale.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Vans Warped Tour Orlando",
   "date": "NOVEMBER 14 TO 15",
@@ -726,7 +709,7 @@
   "imageKey": "event-flyers/172-vans-warped-tour-orlando.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Orlando Beer Festival",
   "date": "NOVEMBER 14, 2 PM TO 5 PM",
@@ -743,7 +726,7 @@
   "imageKey": "event-flyers/173-orlando-beer-festival.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Nick Cannon Presents: Wild 'N Out Live, The Next Generation, Miami",
   "date": "NOVEMBER 28, 8 PM",
@@ -760,7 +743,7 @@
   "imageKey": "event-flyers/177-wild-n-out.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Nick Cannon Presents: Wild 'N Out Live, The Next Generation, Tampa",
   "date": "NOVEMBER 30, 8 PM",
@@ -777,7 +760,7 @@
   "imageKey": "event-flyers/177-wild-n-out.jpg",
   "endDate": "2026-11-30"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Jodeci: 35th Anniversary Tour of Forever My Lady",
   "date": "DECEMBER 13, 7 PM",
@@ -794,7 +777,7 @@
   "imageKey": "event-flyers/175-jodeci-st-petersburg.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Eternal NYE",
   "date": "DECEMBER 30 TO 31",
@@ -812,7 +795,7 @@
   "imageKey": "event-flyers/174-eternal-nye-orlando.jpg",
   "endDate": "2027-01-01"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "AfroSocaLove: Orlando One Love Festival",
   "date": "DECEMBER 12, 3 PM TO 8 PM",
@@ -830,7 +813,7 @@
   "imageKey": "event-flyers/181-afrosocalove-orlando-one-love-festival.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Zen Awakening Festival 2026",
   "date": "NOVEMBER 12 TO 15, 4 PM TO 11:30 PM",
@@ -848,24 +831,7 @@
   "imageKey": "event-flyers/182-zen-awakening-festival.jpg",
   "endDate": "2026-11-15"
  },
- {
-  "section": "NOVEMBER",
-  "title": "UB40: The Unstoppable Tour, Orlando",
-  "date": "NOVEMBER 13, 8 PM",
-  "headliners": "UB40",
-  "venue": "Hard Rock Live Orlando, Orlando",
-  "categories": [
-   "Music"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://www.ticketmaster.com/ub40-tickets/artist/736366",
-  "flyerUrl": "https://casino.hardrock.com/hollywood/events/ub40",
-  "image": "/events/flyer/186-ub40-unstoppable-tour.jpg",
-  "alt": "UB40 The Unstoppable Tour flyer, Hard Rock Live Orlando",
-  "imageKey": "event-flyers/186-ub40-unstoppable-tour.jpg",
-  "endDate": "2026-11-13"
- },
- {
+{
   "section": "NOVEMBER",
   "title": "UB40: The Unstoppable Tour, Hollywood",
   "date": "NOVEMBER 15, 7 PM",
@@ -882,7 +848,7 @@
   "imageKey": "event-flyers/186-ub40-unstoppable-tour.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "STING 3.0 Tour, Orlando",
   "date": "NOVEMBER 24, 8 PM",
@@ -899,7 +865,7 @@
   "imageKey": "event-flyers/185-sting-3-0-tour.jpg",
   "endDate": "2026-11-24"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "STING 3.0 Tour, Hollywood",
   "date": "NOVEMBER 25, 8 PM",
@@ -916,7 +882,7 @@
   "imageKey": "event-flyers/185-sting-3-0-tour.jpg",
   "endDate": "2026-11-25"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Silvestre Dangond: El Baile de Todos, Hollywood",
   "date": "DECEMBER 5, 8 PM",
@@ -933,7 +899,7 @@
   "imageKey": "event-flyers/188-silvestre-dangond-el-baile-de-todos.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Silvestre Dangond: El Baile de Todos, Tampa",
   "date": "DECEMBER 6, 8 PM",
@@ -950,7 +916,7 @@
   "imageKey": "event-flyers/188-silvestre-dangond-el-baile-de-todos.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Menudo 50th Anniversary Tour",
   "date": "DECEMBER 4, 8 PM",
@@ -967,7 +933,7 @@
   "imageKey": "event-flyers/189-menudo-50th-anniversary-tour.jpg",
   "endDate": "2026-12-04"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Living Arts Festival Sarasota",
   "date": "NOVEMBER 8 TO 15",
@@ -984,7 +950,7 @@
   "imageKey": "event-flyers/192-living-arts-festival-sarasota.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The 36th Suncoast Jazz Festival",
   "date": "NOVEMBER 20 TO 22",
@@ -1001,7 +967,7 @@
   "imageKey": "event-flyers/193-suncoast-jazz-festival.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "37th Annual St. Armands Circle Art Festival",
   "date": "NOVEMBER 14 TO 15, 10 AM TO 5 PM",
@@ -1018,7 +984,7 @@
   "imageKey": "event-flyers/194-st-armands-circle-art-festival.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Southwest Florida New Year's Rockin' Eve",
   "date": "DECEMBER 31, 2 PM TO 2 AM",
@@ -1035,7 +1001,7 @@
   "imageKey": "event-flyers/195-southwest-florida-new-years-rockin-eve.jpg",
   "endDate": "2027-01-01"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Small Business Marketplace",
   "date": "NOVEMBER 22, 12 PM TO 5 PM",
@@ -1052,24 +1018,7 @@
   "imageKey": "event-flyers/208-small-business-marketplace-miramar.jpg",
   "endDate": "2026-11-22"
  },
- {
-  "section": "NOVEMBER",
-  "title": "Yelawolf, Jacksonville",
-  "date": "NOVEMBER 13, 6 PM TO 10 PM",
-  "headliners": "Yelawolf",
-  "venue": "River City Railway, Jacksonville",
-  "categories": [
-   "Music"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://www.eventbrite.com/e/yelawolf-jacksonville-tickets-1990420652753",
-  "flyerUrl": "https://www.eventbrite.com/e/yelawolf-jacksonville-tickets-1990420652753",
-  "image": "/events/flyer/213-yelawolf-jacksonville.jpg",
-  "alt": "Yelawolf flyer, River City Railway Jacksonville",
-  "imageKey": "event-flyers/213-yelawolf-jacksonville.jpg",
-  "endDate": "2026-11-13"
- },
- {
+{
   "section": "NOVEMBER",
   "title": "Holiday Market Networking Mixer",
   "date": "DECEMBER 1, 6 PM TO 8:30 PM",
@@ -1086,7 +1035,7 @@
   "imageKey": "event-flyers/215-holiday-market-networking-mixer.jpg",
   "endDate": "2026-12-01"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Body Mind Spirit Celebration",
   "date": "NOVEMBER 14 TO 15",
@@ -1103,7 +1052,7 @@
   "imageKey": "event-flyers/216-body-mind-spirit-celebration.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Florida Classic Concert: YFN Lucci Live",
   "date": "NOVEMBER 21, 10 PM TO 2 AM",
@@ -1121,7 +1070,7 @@
   "imageKey": "event-flyers/218-florida-classic-concert-yfn-lucci.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Miami Nice 2026 Art Basel Weekend All Black Yacht Party",
   "date": "DECEMBER 5, 9:30 PM TO 2 AM",
@@ -1139,7 +1088,7 @@
   "imageKey": "event-flyers/222-miami-nice-art-basel-yacht-party.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "French Montana at LIV Miami",
   "date": "NOVEMBER 13, 11:30 PM",
@@ -1157,7 +1106,7 @@
   "imageKey": "event-flyers/230-french-montana-at-liv-miami.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "JAX Food Competition and Marketplace",
   "date": "NOVEMBER 14, 11 AM TO 3 PM",
@@ -1175,7 +1124,7 @@
   "imageKey": "event-flyers/231-jax-food-competition-marketplace.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Soul by The Bay Music Festival",
   "date": "NOVEMBER 28, 8 PM TO 1 AM",
@@ -1193,7 +1142,7 @@
   "imageKey": "event-flyers/234-soul-by-the-bay-music-festival.jpg",
   "endDate": "2026-11-29"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Ian Asher at LIV Miami",
   "date": "NOVEMBER 14, 11:30 PM",
@@ -1211,7 +1160,7 @@
   "imageKey": "event-flyers/239-ian-asher-at-liv-miami.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "D.O.D at LIV Miami",
   "date": "NOVEMBER 21, 11:30 PM",
@@ -1229,7 +1178,7 @@
   "imageKey": "event-flyers/240-dod-at-liv-miami.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Sonny Fodera at LIV Miami",
   "date": "DECEMBER 12, 11:00 PM",
@@ -1247,7 +1196,7 @@
   "imageKey": "event-flyers/241-sonny-fodera-at-liv-miami.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Adriatique at LIV Miami",
   "date": "DECEMBER 31, 11:30 PM",
@@ -1265,25 +1214,7 @@
   "imageKey": "event-flyers/242-adriatique-at-liv-miami.jpg",
   "endDate": "2027-01-01"
  },
- {
-  "section": "NOVEMBER",
-  "title": "Bolo at LIV Miami",
-  "date": "NOVEMBER 12, 11:30 PM",
-  "headliners": "Bolo",
-  "venue": "LIV Nightclub, Miami Beach",
-  "categories": [
-   "Music",
-   "Nightlife"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261112/bolo/",
-  "flyerUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261112/bolo/",
-  "image": "/events/flyer/246-bolo-at-liv-miami.jpg",
-  "alt": "Bolo at LIV Miami event flyer",
-  "imageKey": "event-flyers/246-bolo-at-liv-miami.jpg",
-  "endDate": "2026-11-13"
- },
- {
+{
   "section": "NOVEMBER",
   "title": "Shop Small Business Saturday Expo 2026",
   "date": "NOVEMBER 28, 10 AM TO 3 PM",
@@ -1300,7 +1231,7 @@
   "imageKey": "event-flyers/247-shop-small-business-saturday-expo-orlando.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Circoloco Miami (Factory Basel 2026)",
   "date": "DECEMBER 5, 10 PM TO 7 AM",
@@ -1318,7 +1249,7 @@
   "imageKey": "event-flyers/249-circoloco-miami-factory-town.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "elrow Miami (Factory Basel 2026 Closing Party)",
   "date": "DECEMBER 6, 10 PM",
@@ -1336,7 +1267,7 @@
   "imageKey": "event-flyers/250-elrow-miami-factory-basel-closing.jpg",
   "endDate": "2026-12-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Carl Cox and Carlita at Club Space",
   "date": "NOVEMBER 14, 11 PM",
@@ -1354,7 +1285,7 @@
   "imageKey": "event-flyers/251-carl-cox-carlita-club-space-miami.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Music On (Space Basel) with Marco Carola",
   "date": "DECEMBER 4, 11 PM",
@@ -1372,7 +1303,7 @@
   "imageKey": "event-flyers/252-music-on-marco-carola-club-space-miami.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Slim From 112 (Soulful and So Fly)",
   "date": "NOVEMBER 21, 8 PM TO 11:59 PM",
@@ -1389,7 +1320,7 @@
   "imageKey": "event-flyers/253-slim-of-112-tampa.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "WAX and DJ Hoppa, Highway Hotel Tour",
   "date": "DECEMBER 13, 7 PM TO 11 PM",
@@ -1407,7 +1338,7 @@
   "imageKey": "event-flyers/254-wax-dj-hoppa-tampa.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Soundtuary at LIV Miami",
   "date": "NOVEMBER 28, 11:30 PM",
@@ -1425,7 +1356,7 @@
   "imageKey": "event-flyers/257-soundtuary-at-liv-miami.jpg",
   "endDate": "2026-11-29"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Teletech at Club Space",
   "date": "NOVEMBER 27, 11 PM",
@@ -1443,7 +1374,7 @@
   "imageKey": "event-flyers/261-teletech-club-space.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "ANOTR at Watson Island Park",
   "date": "DECEMBER 4, 4 PM TO 11 PM",
@@ -1461,7 +1392,7 @@
   "imageKey": "event-flyers/262-anotr-watson-island.jpg",
   "endDate": "2026-12-04"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Michael Bibi One Life at Hialeah Park Casino",
   "date": "DECEMBER 5, 5 PM TO 1 AM",
@@ -1479,7 +1410,7 @@
   "imageKey": "event-flyers/263-michael-bibi-one-life-hialeah.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Prophecy at Club Space",
   "date": "DECEMBER 1, 11 PM",
@@ -1497,7 +1428,7 @@
   "imageKey": "event-flyers/265-prophecy-club-space.jpg",
   "endDate": "2026-12-02"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "UNREAL at Factory Town",
   "date": "NOVEMBER 13, 10 PM",
@@ -1515,7 +1446,7 @@
   "imageKey": "event-flyers/270-unreal-factory-town.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "ODESZA (DJ Set)",
   "date": "NOVEMBER 14, 10 PM",
@@ -1533,7 +1464,7 @@
   "imageKey": "event-flyers/271-odesza-dj-set-factory-town.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Chris Lorenzo at Club Space",
   "date": "NOVEMBER 20, 11 PM",
@@ -1551,7 +1482,7 @@
   "imageKey": "event-flyers/272-chris-lorenzo-club-space.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "South Florida Business Conference and Expo",
   "date": "NOVEMBER 18, 1 PM TO 9 PM",
@@ -1568,7 +1499,7 @@
   "imageKey": "event-flyers/280-south-florida-business-conference-expo.jpg",
   "endDate": "2026-11-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "EPCOT International Festival of the Holidays",
   "date": "NOVEMBER 27 TO DECEMBER 30",
@@ -1586,7 +1517,7 @@
   "imageKey": "event-flyers/279-epcot-festival-of-the-holidays.jpg",
   "endDate": "2026-12-30"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Beltools (Space Basel)",
   "date": "DECEMBER 2, 11 PM",
@@ -1604,7 +1535,7 @@
   "imageKey": "event-flyers/273-beltools-club-space.jpg",
   "endDate": "2026-12-03"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Paradise (Space Basel) with Jamie Jones",
   "date": "DECEMBER 3, 11 PM",
@@ -1622,7 +1553,7 @@
   "imageKey": "event-flyers/274-paradise-space-basel-jamie-jones.jpg",
   "endDate": "2026-12-04"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Hugel Presents Make The Girls Dance, On The Beach",
   "date": "DECEMBER 3, 3 PM TO 11 PM",
@@ -1640,7 +1571,7 @@
   "imageKey": "event-flyers/275-hugel-make-the-girls-dance-dec3.jpg",
   "endDate": "2026-12-03"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Hugel Presents Make The Girls Dance, On The Beach Night 2",
   "date": "DECEMBER 4, 3 PM",
@@ -1658,7 +1589,7 @@
   "imageKey": "event-flyers/276-hugel-make-the-girls-dance-dec4.jpg",
   "endDate": "2026-12-04"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "III Points Basel: Kaytranada, Yung Lean, Arca and Shygirl",
   "date": "DECEMBER 4, 7 PM",
@@ -1677,7 +1608,7 @@
   "imageKey": "event-flyers/277-iii-points-basel-kaytranada-hialeah.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "GOLFOS Open Air",
   "date": "DECEMBER 6, 5 PM TO 12 AM",
@@ -1695,7 +1626,7 @@
   "imageKey": "event-flyers/278-golfos-open-air-miami.jpg",
   "endDate": "2026-12-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Franky Rizardo and East End Dubs at Club Space",
   "date": "NOVEMBER 25, 11 PM",
@@ -1713,7 +1644,7 @@
   "imageKey": "event-flyers/286-franky-rizardo-east-end-dubs-club-space.jpg",
   "endDate": "2026-11-26"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Two and a Half Cats at Club Space",
   "date": "NOVEMBER 28, 11 PM",
@@ -1731,7 +1662,7 @@
   "imageKey": "event-flyers/287-two-and-a-half-cats-club-space.jpg",
   "endDate": "2026-11-29"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "III Points Basel: Latin Mafia and Friends",
   "date": "DECEMBER 3, 8 PM",
@@ -1750,7 +1681,7 @@
   "imageKey": "event-flyers/288-iii-points-basel-latin-mafia.jpg",
   "endDate": "2026-12-04"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Bob Moses at Palm Tree Club Miami",
   "date": "NOVEMBER 14, 4 PM TO 10 PM",
@@ -1768,7 +1699,7 @@
   "imageKey": "event-flyers/297-bob-moses-palm-tree-club-miami.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Klingande at Palm Tree Club Miami",
   "date": "NOVEMBER 21, 4 PM TO 10 PM",
@@ -1786,7 +1717,7 @@
   "imageKey": "event-flyers/298-klingande-palm-tree-club-miami.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Purple at Palm Tree Club Miami",
   "date": "NOVEMBER 28, 4 PM TO 10 PM",
@@ -1804,7 +1735,7 @@
   "imageKey": "event-flyers/299-purple-palm-tree-club-miami.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Frank Walker at Palm Tree Club Miami",
   "date": "DECEMBER 12, 4 PM TO 10 PM",
@@ -1822,7 +1753,7 @@
   "imageKey": "event-flyers/300-frank-walker-palm-tree-club-miami.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Nelly at Palm Tree Club Miami",
   "date": "DECEMBER 19, 4 PM TO 10 PM",
@@ -1840,7 +1771,7 @@
   "imageKey": "event-flyers/301-nelly-palm-tree-club-miami.jpg",
   "endDate": "2026-12-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Sounds of Rituals at Palm Tree Club Miami",
   "date": "DECEMBER 26, 4 PM TO 10 PM",
@@ -1858,26 +1789,7 @@
   "imageKey": "event-flyers/302-sounds-of-rituals-palm-tree-club-miami.jpg",
   "endDate": "2026-12-26"
  },
- {
-  "section": "NOVEMBER",
-  "title": "Rico Love Presents Blazers and Pearls",
-  "date": "NOVEMBER 12, 8 PM TO 2 AM",
-  "headliners": "Rico Love",
-  "venue": "Blackbird Ordinary, Miami",
-  "categories": [
-   "Music",
-   "Nightlife",
-   "Culture"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://www.eventbrite.com/e/rico-love-presents-blazers-pearls-tickets-1992953977997",
-  "flyerUrl": "https://www.eventbrite.com/e/rico-love-presents-blazers-pearls-tickets-1992953977997",
-  "image": "/events/flyer/308-rico-love-blazers-and-pearls-miami.jpg",
-  "alt": "Rico Love Presents Blazers and Pearls event flyer, Blackbird Ordinary Miami",
-  "imageKey": "event-flyers/308-rico-love-blazers-and-pearls-miami.jpg",
-  "endDate": "2026-11-13"
- },
- {
+{
   "section": "NOVEMBER",
   "title": "Above & Beyond at The Vanguard",
   "date": "NOVEMBER 13, 10 PM TO 2:30 AM",
@@ -1895,7 +1807,7 @@
   "imageKey": "event-flyers/303-above-and-beyond-vanguard-orlando.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Kapo Live at The Vanguard Orlando",
   "date": "NOVEMBER 19, 7 PM TO 11 PM",
@@ -1913,7 +1825,7 @@
   "imageKey": "event-flyers/304-kapo-vanguard-orlando.jpg",
   "endDate": "2026-11-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Marie Vaunt at The Vanguard",
   "date": "NOVEMBER 25, 9 PM TO 2 AM",
@@ -1931,7 +1843,7 @@
   "imageKey": "event-flyers/305-marie-vaunt-vanguard-orlando.jpg",
   "endDate": "2026-11-26"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "We Belong Here Tampa Bay",
   "date": "DECEMBER 11 TO 13",
@@ -1949,7 +1861,7 @@
   "imageKey": "event-flyers/312-we-belong-here-tampa-bay.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "BARELY ALIVE Presents RECONNECT Tour at Decca Live",
   "date": "NOVEMBER 27, 10 PM TO 3 AM",
@@ -1967,7 +1879,7 @@
   "imageKey": "event-flyers/313-barely-alive-reconnect-decca-live-jacksonville.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "GorillaT Presents The Inner Mind Tour at Decca Live",
   "date": "DECEMBER 12, 10 PM TO 3 AM",
@@ -1985,7 +1897,7 @@
   "imageKey": "event-flyers/314-gorillat-inner-mind-decca-live-jacksonville.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Miami Pre-Thanksgiving Freestyle Concert",
   "date": "NOVEMBER 21, 6 PM TO 11:59 PM",
@@ -2002,7 +1914,7 @@
   "imageKey": "event-flyers/316-miami-pre-thanksgiving-freestyle-concert.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Jay Wheeler: La Voz Favorita Tour, Estero",
   "date": "MARCH 7, 8 PM",
@@ -2019,7 +1931,7 @@
   "imageKey": "event-flyers/317-jay-wheeler-la-voz-favorita-tour-estero.jpg",
   "endDate": "2027-03-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Jay Wheeler: La Voz Favorita Tour, Miami",
   "date": "MARCH 11, 8 PM",
@@ -2036,7 +1948,7 @@
   "imageKey": "event-flyers/318-jay-wheeler-la-voz-favorita-tour-miami.jpg",
   "endDate": "2027-03-11"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Tyla: The A*POP World Tour, Tampa",
   "date": "DECEMBER 5, 8 PM",
@@ -2053,7 +1965,7 @@
   "imageKey": "event-flyers/319-tyla-apop-world-tour-tampa.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "John Summit: CTRL ESCAPE Tour, Miami",
   "date": "NOVEMBER 20 AND 21, 8 PM",
@@ -2071,7 +1983,7 @@
   "imageKey": "event-flyers/320-john-summit-ctrl-escape-tour-miami.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "26th Annual Downtown Delray Beach Art Festival on 4th",
   "date": "DECEMBER 5 TO 6, 10 AM TO 5 PM",
@@ -2088,7 +2000,7 @@
   "imageKey": "event-flyers/324-downtown-delray-beach-art-festival-on-4th.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "TGIF Hosted By Big Latto",
   "date": "NOVEMBER 13",
@@ -2106,7 +2018,7 @@
   "imageKey": "event-flyers/326-tgif-hosted-by-big-latto.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Culture Shock: Reggae x Afrobeats x Soca",
   "date": "JANUARY 15, 8 PM TO 2 AM",
@@ -2125,7 +2037,7 @@
   "imageKey": "event-flyers/328-culture-shock-reggae-afrobeats-soca.jpg",
   "endDate": "2027-01-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "24th Annual Juno Beach Craft Festival on the Ocean",
   "date": "NOVEMBER 14, 10 AM TO 5 PM AND NOVEMBER 15, 10 AM TO 4 PM",
@@ -2142,7 +2054,7 @@
   "imageKey": "event-flyers/330-juno-beach-craft-festival-on-the-ocean.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "16th Annual Coconut Point Art Festival",
   "date": "NOVEMBER 21 TO 22, 10 AM TO 5 PM",
@@ -2159,7 +2071,7 @@
   "imageKey": "event-flyers/331-coconut-point-art-festival.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "2026 Classic Weekend Drunk N Love RnB Concert",
   "date": "NOVEMBER 20, 9 PM TO 2 AM",
@@ -2177,7 +2089,7 @@
   "imageKey": "event-flyers/334-classic-weekend-drunk-n-love-rnb-concert.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Soul Train Cruise Fall 2026",
   "date": "NOVEMBER 7 TO 14",
@@ -2195,7 +2107,7 @@
   "imageKey": "event-flyers/335-soul-train-cruise-fall-2026.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "The Grand Tasting",
   "date": "JANUARY 23, 12 PM",
@@ -2212,7 +2124,7 @@
   "imageKey": "event-flyers/336-the-grand-tasting.jpg",
   "endDate": "2027-01-23"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "WAX and DJ Hoppa, Highway Hotel Tour, St. Augustine",
   "date": "DECEMBER 9, 6 PM TO 10 PM",
@@ -2230,7 +2142,7 @@
   "imageKey": "event-flyers/339-wax-dj-hoppa-st-augustine.jpg",
   "endDate": "2026-12-09"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Krewella at Decca Live",
   "date": "DECEMBER 5, 10 PM TO 3 AM",
@@ -2248,7 +2160,7 @@
   "imageKey": "event-flyers/340-krewella-decca-live-jacksonville.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "I LOVE R&B PARTY, Miami",
   "date": "DECEMBER 18, 9 PM TO 2 AM",
@@ -2266,7 +2178,7 @@
   "imageKey": "event-flyers/342-i-love-rnb-party-miami.jpg",
   "endDate": "2026-12-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Rawayana: ¿Dónde es el After? World Tour, Miami",
   "date": "DECEMBER 4, 8 PM",
@@ -2283,7 +2195,7 @@
   "imageKey": "event-flyers/349-rawayana-donde-es-el-after-tour.jpg",
   "endDate": "2026-12-04"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Rawayana: ¿Dónde es el After? World Tour, Miami Night 2",
   "date": "DECEMBER 5, 8 PM",
@@ -2300,7 +2212,7 @@
   "imageKey": "event-flyers/349-rawayana-donde-es-el-after-tour.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Janet Jackson: Control 40 Live Concert, Sunrise",
   "date": "DECEMBER 12, 8 PM",
@@ -2317,7 +2229,7 @@
   "imageKey": "event-flyers/350-janet-jackson-control-40.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Trans-Siberian Orchestra: The Ghosts of Christmas Eve, Orlando",
   "date": "DECEMBER 19, 7:30 PM",
@@ -2334,7 +2246,7 @@
   "imageKey": "event-flyers/351-trans-siberian-orchestra-ghosts-of-christmas-eve.jpg",
   "endDate": "2026-12-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Don Omar: The Last King World Tour, Tampa 2027",
   "date": "MARCH 10, 8 PM",
@@ -2351,7 +2263,7 @@
   "imageKey": "event-flyers/352-don-omar-last-king-2027.jpg",
   "endDate": "2027-03-10"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Don Omar: The Last King World Tour, Miami 2027",
   "date": "MARCH 12, 8 PM",
@@ -2368,7 +2280,7 @@
   "imageKey": "event-flyers/352-don-omar-last-king-2027.jpg",
   "endDate": "2027-03-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Don Omar: The Last King World Tour, Orlando 2027",
   "date": "MARCH 14, 8 PM",
@@ -2385,7 +2297,7 @@
   "imageKey": "event-flyers/352-don-omar-last-king-2027.jpg",
   "endDate": "2027-03-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Hans Zimmer Live: The Next Level, Orlando",
   "date": "MARCH 11, 7:30 PM",
@@ -2402,7 +2314,7 @@
   "imageKey": "event-flyers/353-hans-zimmer-live-next-level.jpg",
   "endDate": "2027-03-11"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Hans Zimmer Live: The Next Level, Miami",
   "date": "MARCH 13, 8 PM",
@@ -2419,7 +2331,7 @@
   "imageKey": "event-flyers/353-hans-zimmer-live-next-level.jpg",
   "endDate": "2027-03-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Rawayana: ¿Dónde es el After? World Tour, Orlando",
   "date": "DECEMBER 3, 8 PM",
@@ -2436,7 +2348,7 @@
   "imageKey": "event-flyers/354-rawayana-orlando-dec3.jpg",
   "endDate": "2026-12-03"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Rawayana: ¿Dónde es el After? World Tour, Miami Night 3",
   "date": "DECEMBER 6, 8 PM",
@@ -2453,7 +2365,7 @@
   "imageKey": "event-flyers/355-rawayana-miami-night3.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Ryan Castro Presents: Los Chorros Con Richy Tour, Miami",
   "date": "DECEMBER 19, 8:30 PM",
@@ -2470,7 +2382,7 @@
   "imageKey": "event-flyers/356-ryan-castro-miami.jpg",
   "endDate": "2026-12-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Pablo Alborán: Global Tour KM0, Miami",
   "date": "FEBRUARY 6, 8 PM",
@@ -2487,7 +2399,7 @@
   "imageKey": "event-flyers/357-pablo-alboran-miami.jpg",
   "endDate": "2027-02-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Pablo Alborán: Global Tour KM0, Orlando",
   "date": "FEBRUARY 7, 7 PM",
@@ -2504,7 +2416,7 @@
   "imageKey": "event-flyers/358-pablo-alboran-orlando.jpg",
   "endDate": "2027-02-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Hans Zimmer Live: The Next Level, Tampa",
   "date": "MARCH 14, 7:30 PM",
@@ -2521,7 +2433,7 @@
   "imageKey": "event-flyers/359-hans-zimmer-tampa.jpg",
   "endDate": "2027-03-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Trans-Siberian Orchestra: The Ghosts of Christmas Eve, Sunrise",
   "date": "DECEMBER 18, 7 PM",
@@ -2538,7 +2450,7 @@
   "imageKey": "event-flyers/351-trans-siberian-orchestra-ghosts-of-christmas-eve.jpg",
   "endDate": "2026-12-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Trans-Siberian Orchestra: The Ghosts of Christmas Eve, Jacksonville",
   "date": "DECEMBER 17, 7 PM",
@@ -2555,7 +2467,7 @@
   "imageKey": "event-flyers/351-trans-siberian-orchestra-ghosts-of-christmas-eve.jpg",
   "endDate": "2026-12-17"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "RUM IN THE SUN: Caribbean Day Party Experience 1 Year Anniversary",
   "date": "NOVEMBER 15, 4 PM TO 9 PM",
@@ -2573,7 +2485,7 @@
   "imageKey": "event-flyers/370-rum-in-the-sun.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Its Just A Damn Day Party: Classic Weekend Edition",
   "date": "NOVEMBER 22, 5 PM TO 10 PM",
@@ -2591,7 +2503,7 @@
   "imageKey": "event-flyers/372-its-just-a-damn-day-party.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Carlo Vieux Live in Concert",
   "date": "DECEMBER 12, 10 PM TO 4 AM",
@@ -2609,7 +2521,7 @@
   "imageKey": "event-flyers/373-carlo-vieux-live-in-concert.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "DJ Fresh: The R&B Tour Concert Afterparty",
   "date": "DECEMBER 3, 9 PM TO 11:30 PM",
@@ -2627,7 +2539,7 @@
   "imageKey": "event-flyers/374-dj-fresh-rb-tour-afterparty.jpg",
   "endDate": "2026-12-03"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "CHROMA 2026",
   "date": "DECEMBER 2, 4 PM TO 7 PM",
@@ -2644,7 +2556,7 @@
   "imageKey": "event-flyers/375-chroma-2026.jpg",
   "endDate": "2026-12-02"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Gente de Zona: Isla Viva Tour",
   "date": "DECEMBER 11, 8 PM",
@@ -2661,7 +2573,7 @@
   "imageKey": "event-flyers/377-gente-de-zona-isla-viva-tour.jpg",
   "endDate": "2026-12-11"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "FITCE 2026: 11th Annual Florida International Trade and Cultural Expo",
   "date": "NOVEMBER 18 TO 19, 7 AM TO 8 PM",
@@ -2679,7 +2591,7 @@
   "imageKey": "event-flyers/379-fitce-2026-fort-lauderdale.jpg",
   "endDate": "2026-11-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "I LOVE R&B PARTY, Jacksonville",
   "date": "NOVEMBER 28, 8 PM",
@@ -2697,7 +2609,7 @@
   "imageKey": "event-flyers/380-i-love-rnb-party-jacksonville.jpg",
   "endDate": "2026-11-29"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "17th Annual Riverwalk Stone Crab & Seafood Festival",
   "date": "JANUARY 9, 11 AM TO 4 PM",
@@ -2714,7 +2626,7 @@
   "imageKey": "event-flyers/381-riverwalk-stone-crab-seafood-festival.jpg",
   "endDate": "2027-01-09"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Suncoast's Largest Food Truck Festival 10",
   "date": "NOVEMBER 14, 11 AM TO 9 PM",
@@ -2731,7 +2643,7 @@
   "imageKey": "event-flyers/382-suncoast-largest-food-truck-festival.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Jimmy Eat World: 25 Years of Bleed American, Tampa",
   "date": "NOVEMBER 14, 7 PM",
@@ -2748,7 +2660,7 @@
   "imageKey": "event-flyers/384-jimmy-eat-world-tampa.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Beartooth: Pure Ecstasy Tour, St. Augustine",
   "date": "DECEMBER 4, 6 PM",
@@ -2765,7 +2677,7 @@
   "imageKey": "event-flyers/385-beartooth-st-augustine.jpg",
   "endDate": "2026-12-04"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Beartooth: Pure Ecstasy Tour, Fort Lauderdale",
   "date": "DECEMBER 5, 6:30 PM",
@@ -2782,7 +2694,7 @@
   "imageKey": "event-flyers/386-beartooth-fort-lauderdale.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "MICO: IN:BETWEEN Tour, Jacksonville",
   "date": "FEBRUARY 23, 8 PM",
@@ -2799,7 +2711,7 @@
   "imageKey": "event-flyers/387-mico-jacksonville.jpg",
   "endDate": "2027-02-23"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "MICO: IN:BETWEEN Tour, Fort Lauderdale",
   "date": "FEBRUARY 25, 7 PM",
@@ -2816,7 +2728,7 @@
   "imageKey": "event-flyers/388-mico-fort-lauderdale.jpg",
   "endDate": "2027-02-25"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "MICO: IN:BETWEEN Tour, St. Petersburg",
   "date": "FEBRUARY 26, 7 PM",
@@ -2833,7 +2745,7 @@
   "imageKey": "event-flyers/389-mico-st-petersburg.jpg",
   "endDate": "2027-02-26"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "MICO: IN:BETWEEN Tour, Orlando",
   "date": "FEBRUARY 27, 7 PM",
@@ -2850,7 +2762,7 @@
   "imageKey": "event-flyers/390-mico-orlando.jpg",
   "endDate": "2027-02-27"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Hondo Rodeo Fest",
   "date": "FEBRUARY 26 TO FEBRUARY 28",
@@ -2867,7 +2779,7 @@
   "imageKey": "event-flyers/391-hondo-rodeo-fest.jpg",
   "endDate": "2027-02-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Power Ball 2026: Big Boogie Bday Bash",
   "date": "NOVEMBER 21, 10 PM TO 3 AM",
@@ -2885,7 +2797,7 @@
   "imageKey": "event-flyers/394-power-ball-big-boogie-bday-bash.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "USA TODAY Wine and Food Experience, Naples",
   "date": "NOVEMBER 14, 12 PM TO 4 PM",
@@ -2903,7 +2815,7 @@
   "imageKey": "event-flyers/400-usa-today-wine-food-experience-naples.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Publix Run to the Arts 5K",
   "date": "FEBRUARY 7, 2027",
@@ -2920,7 +2832,7 @@
   "imageKey": "event-flyers/403-publix-run-to-the-arts-5k.jpg",
   "endDate": "2027-02-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "FLO: Therapy At The Club Tour, Orlando",
   "date": "FEBRUARY 9, 7 PM",
@@ -2937,7 +2849,7 @@
   "imageKey": "event-flyers/404-flo-therapy-at-the-club-tour-orlando.jpg",
   "endDate": "2027-02-09"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "36th Annual American Sand Sculpting Championship",
   "date": "NOVEMBER 19 TO 23, 10 AM TO 5 PM",
@@ -2954,7 +2866,7 @@
   "imageKey": "event-flyers/405-american-sand-sculpting-championship.jpg",
   "endDate": "2026-11-23"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "K. Michelle: Jesus & Whiskey, Orlando",
   "date": "NOVEMBER 29, 7 PM",
@@ -2971,7 +2883,7 @@
   "imageKey": "event-flyers/406-k-michelle-jesus-and-whiskey-orlando.jpg",
   "endDate": "2026-11-29"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Montell Fish: The Nest Tour, Orlando",
   "date": "DECEMBER 5, 8 PM",
@@ -2988,7 +2900,7 @@
   "imageKey": "event-flyers/407-montell-fish-the-nest-tour-orlando.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Lyfe Jennings, Orlando",
   "date": "DECEMBER 19, 7 PM",
@@ -3005,7 +2917,7 @@
   "imageKey": "event-flyers/408-lyfe-jennings-orlando.jpg",
   "endDate": "2026-12-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Fantasia, Anthony Hamilton and October London: The Love of Soul Tour, Orlando",
   "date": "MARCH 27, 8 PM",
@@ -3022,7 +2934,7 @@
   "imageKey": "event-flyers/409-fantasia-love-of-soul-tour-orlando.jpg",
   "endDate": "2027-03-27"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "John Legend: An Evening of Songs and Stories, Fort Lauderdale",
   "date": "MARCH 6, 6:30 PM",
@@ -3039,7 +2951,7 @@
   "imageKey": "event-flyers/413-john-legend-fort-lauderdale.jpg",
   "endDate": "2027-03-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "John Legend: An Evening of Songs and Stories, St. Augustine",
   "date": "MARCH 7, 7:30 PM",
@@ -3056,7 +2968,7 @@
   "imageKey": "event-flyers/414-john-legend-st-augustine.jpg",
   "endDate": "2027-03-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "DaBaby, Jacksonville",
   "date": "NOVEMBER 28, 8 PM",
@@ -3073,7 +2985,7 @@
   "imageKey": "event-flyers/415-dababy-jacksonville.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "EPCOT International Festival of the Arts 2027",
   "date": "JANUARY 15 TO MARCH 1, 2027",
@@ -3090,7 +3002,7 @@
   "imageKey": "event-flyers/417-epcot-international-festival-of-the-arts.jpg",
   "endDate": "2027-03-01"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Gasparilla Pirate Fest",
   "date": "JANUARY 30, 10 AM TO 8 PM",
@@ -3107,7 +3019,7 @@
   "imageKey": "event-flyers/418-gasparilla-pirate-fest.jpg",
   "endDate": "2027-01-30"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Florida Strawberry Festival",
   "date": "MARCH 4 TO 14, 2027",
@@ -3124,7 +3036,7 @@
   "imageKey": "event-flyers/419-florida-strawberry-festival.jpg",
   "endDate": "2027-03-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Yebba: Jean Tour, Orlando",
   "date": "NOVEMBER 15, 7 PM",
@@ -3141,7 +3053,7 @@
   "imageKey": "event-flyers/420-yebba-orlando.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Yebba: Jean Tour, Miami Beach",
   "date": "NOVEMBER 16, 8 PM",
@@ -3158,7 +3070,7 @@
   "imageKey": "event-flyers/421-yebba-miami-beach.jpg",
   "endDate": "2026-11-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Jodeci: 35th Anniversary Tour of Forever My Lady, Jacksonville",
   "date": "DECEMBER 15, 8 PM",
@@ -3175,7 +3087,7 @@
   "imageKey": "event-flyers/423-jodeci-jacksonville.jpg",
   "endDate": "2026-12-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Jodeci: 35th Anniversary Tour of Forever My Lady, Miami Beach",
   "date": "DECEMBER 16, 8 PM",
@@ -3192,7 +3104,7 @@
   "imageKey": "event-flyers/424-jodeci-miami-beach.jpg",
   "endDate": "2026-12-16"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "The Feast: An Evening of Italian Culture and Flavor",
   "date": "JANUARY 21, 7 PM",
@@ -3209,7 +3121,7 @@
   "imageKey": "event-flyers/430-the-feast.jpg",
   "endDate": "2027-01-21"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "BBQ at the Beach",
   "date": "JANUARY 22, 7 PM",
@@ -3226,7 +3138,7 @@
   "imageKey": "event-flyers/431-bbq-at-the-beach.jpg",
   "endDate": "2027-01-22"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Beachside Brunch",
   "date": "JANUARY 24, 1 PM",
@@ -3243,7 +3155,7 @@
   "imageKey": "event-flyers/432-beachside-brunch.jpg",
   "endDate": "2027-01-24"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "James Hype and HILLS at Club Space",
   "date": "NOVEMBER 13, 11 PM",
@@ -3261,7 +3173,7 @@
   "imageKey": "event-flyers/434-james-hype-hills-club-space.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Picnic in the Park",
   "date": "JANUARY 24, 12 PM TO 4 PM",
@@ -3278,7 +3190,7 @@
   "imageKey": "event-flyers/450-picnic-in-the-park.jpg",
   "endDate": "2027-01-24"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "ArtiGras Fine Arts Festival",
   "date": "FEBRUARY 6 TO 7, 10 AM TO 5 PM",
@@ -3295,7 +3207,7 @@
   "imageKey": "event-flyers/451-artigras-fine-arts-festival.jpg",
   "endDate": "2027-02-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Snoop Dogg at E11EVEN",
   "date": "DECEMBER 11, 8 PM TO 10 AM",
@@ -3313,7 +3225,7 @@
   "imageKey": "event-flyers/452-snoop-dogg-at-e11even.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Sarasota Seafood and Music Festival",
   "date": "JANUARY 8 TO 10",
@@ -3331,7 +3243,7 @@
   "imageKey": "event-flyers/453-sarasota-seafood-and-music-festival.jpg",
   "endDate": "2027-01-10"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Punta Gorda Seafood and Music Festival",
   "date": "JANUARY 15 TO 17",
@@ -3349,7 +3261,7 @@
   "imageKey": "event-flyers/454-punta-gorda-seafood-and-music-festival.jpg",
   "endDate": "2027-01-17"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Fort Myers Seafood and Music Festival",
   "date": "JANUARY 29 TO 31",
@@ -3367,7 +3279,7 @@
   "imageKey": "event-flyers/455-fort-myers-seafood-and-music-festival.jpg",
   "endDate": "2027-01-31"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Gorgon City at The Ritz Ybor",
   "date": "DECEMBER 5, 10 PM TO 2:45 AM",
@@ -3385,7 +3297,7 @@
   "imageKey": "event-flyers/456-gorgon-city-at-the-ritz-ybor.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Holidaze Fest Florida 2026",
   "date": "NOVEMBER 14 TO 15, 3 PM TO 10 PM",
@@ -3403,7 +3315,7 @@
   "imageKey": "event-flyers/457-holidaze-fest-florida.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Reggae Rise Up Florida Festival 2027",
   "date": "MARCH 11 TO 14, 2027",
@@ -3421,7 +3333,7 @@
   "imageKey": "event-flyers/458-reggae-rise-up-florida-festival.jpg",
   "endDate": "2027-03-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "St. Pete Country Fest",
   "date": "NOVEMBER 20 TO 22, 1 PM TO 10 PM",
@@ -3439,7 +3351,7 @@
   "imageKey": "event-flyers/460-st-pete-country-fest.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "St. Pete BikeFest",
   "date": "NOVEMBER 19 TO 22",
@@ -3457,7 +3369,7 @@
   "imageKey": "event-flyers/462-st-pete-bikefest.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Ely Oaks at The Vanguard",
   "date": "FEBRUARY 19, 10 PM TO 2:30 AM",
@@ -3475,7 +3387,7 @@
   "imageKey": "event-flyers/467-ely-oaks-at-the-vanguard.jpg",
   "endDate": "2027-02-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Greta Van Fleet: Into The Beginning, Tampa",
   "date": "FEBRUARY 5, 7 PM",
@@ -3492,7 +3404,7 @@
   "imageKey": "event-flyers/468-greta-van-fleet-into-the-beginning-tampa.jpg",
   "endDate": "2027-02-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Greta Van Fleet: Into The Beginning, Jacksonville",
   "date": "FEBRUARY 6, 7 PM",
@@ -3509,7 +3421,7 @@
   "imageKey": "event-flyers/469-greta-van-fleet-into-the-beginning-jacksonville.jpg",
   "endDate": "2027-02-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Lukas Graham, Tampa",
   "date": "MARCH 5, 6 PM",
@@ -3526,7 +3438,7 @@
   "imageKey": "event-flyers/470-lukas-graham-tampa.jpg",
   "endDate": "2027-03-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "MANILOW: The Last Orlando Concert",
   "date": "JANUARY 21, 7 PM",
@@ -3543,7 +3455,7 @@
   "imageKey": "event-flyers/471-manilow-the-last-orlando-concert.jpg",
   "endDate": "2027-01-21"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Mile 0 Fest Key West",
   "date": "JANUARY 26 TO 30, 2027",
@@ -3561,7 +3473,7 @@
   "imageKey": "event-flyers/472-mile-0-fest-key-west.jpg",
   "endDate": "2027-01-30"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "JACK WHITE LIVE 2026, Orlando",
   "date": "NOVEMBER 16, 8 PM",
@@ -3578,7 +3490,7 @@
   "imageKey": "event-flyers/474-jack-white-live-2026-orlando.jpg",
   "endDate": "2026-11-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "JACK WHITE LIVE 2026, Miami Beach",
   "date": "NOVEMBER 17, 8 PM",
@@ -3595,7 +3507,7 @@
   "imageKey": "event-flyers/475-jack-white-live-2026-miami-beach.jpg",
   "endDate": "2026-11-17"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "JACK WHITE LIVE 2026, Miami Beach Night 2",
   "date": "NOVEMBER 18, 8 PM",
@@ -3612,7 +3524,7 @@
   "imageKey": "event-flyers/476-jack-white-live-2026-miami-beach-night-2.jpg",
   "endDate": "2026-11-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "for KING and COUNTRY A Drummer Boy Christmas, Orlando",
   "date": "NOVEMBER 28, 7 PM",
@@ -3629,7 +3541,7 @@
   "imageKey": "event-flyers/477-for-king-and-country-a-drummer-boy-christmas-orlando.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "for KING and COUNTRY A Drummer Boy Christmas, Tampa",
   "date": "NOVEMBER 29, 7 PM",
@@ -3646,7 +3558,7 @@
   "imageKey": "event-flyers/478-for-king-and-country-a-drummer-boy-christmas-tampa.jpg",
   "endDate": "2026-11-29"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Trans Siberian Orchestra The Ghosts Of Christmas Eve, Tampa",
   "date": "DECEMBER 20, 3 PM AND 7:30 PM",
@@ -3663,7 +3575,7 @@
   "imageKey": "event-flyers/479-trans-siberian-orchestra-the-ghosts-of-christmas-eve-tampa.jpg",
   "endDate": "2026-12-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Barry Manilow, Sunrise",
   "date": "JANUARY 15, 7 PM",
@@ -3680,7 +3592,7 @@
   "imageKey": "event-flyers/480-barry-manilow-sunrise.jpg",
   "endDate": "2027-01-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "MANILOW The Last Estero Concert",
   "date": "JANUARY 16, 7 PM",
@@ -3697,7 +3609,7 @@
   "imageKey": "event-flyers/481-manilow-the-last-estero-concert.jpg",
   "endDate": "2027-01-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "MANILOW The Last Estero Concert Night 2",
   "date": "JANUARY 17, 7 PM",
@@ -3714,7 +3626,7 @@
   "imageKey": "event-flyers/482-manilow-the-last-estero-concert-night-2.jpg",
   "endDate": "2027-01-17"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "MANILOW The Last Tampa Concert",
   "date": "JANUARY 20, 7 PM",
@@ -3731,7 +3643,7 @@
   "imageKey": "event-flyers/483-manilow-the-last-tampa-concert.jpg",
   "endDate": "2027-01-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Staind Break The Cycle 25th Anniversary Tour, Tampa",
   "date": "MARCH 12, 6 PM",
@@ -3748,7 +3660,7 @@
   "imageKey": "event-flyers/484-staind-break-the-cycle-25th-anniversary-tour-tampa.jpg",
   "endDate": "2027-03-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Staind Break The Cycle 25th Anniversary Tour, West Palm Beach",
   "date": "MARCH 13, 6 PM",
@@ -3765,7 +3677,7 @@
   "imageKey": "event-flyers/485-staind-break-the-cycle-25th-anniversary-tour-west-palm-beach.jpg",
   "endDate": "2027-03-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Cristian Castro Nada Solo Exitos Tour 2027, Orlando",
   "date": "MARCH 12, 8 PM",
@@ -3782,7 +3694,7 @@
   "imageKey": "event-flyers/486-cristian-castro-nada-solo-exitos-tour-2027-orlando.jpg",
   "endDate": "2027-03-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Cristian Castro Nada Solo Exitos Tour 2027, Miami",
   "date": "MARCH 13, 8 PM",
@@ -3799,7 +3711,7 @@
   "imageKey": "event-flyers/487-cristian-castro-nada-solo-exitos-tour-2027-miami.jpg",
   "endDate": "2027-03-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Paul Oakenfold and The Crystal Method: Mission Underground Tour, St. Petersburg",
   "date": "NOVEMBER 14, 7 PM",
@@ -3817,7 +3729,7 @@
   "imageKey": "event-flyers/488-paul-oakenfold-and-the-crystal-method-st-petersburg.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Yung Miami and Boston Richey Live: Florida Classic Weekend",
   "date": "NOVEMBER 21, 9 PM TO 2 AM",
@@ -3835,7 +3747,7 @@
   "imageKey": "event-flyers/490-yung-miami-boston-richey-florida-classic.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Rockabillaque Florida",
   "date": "NOVEMBER 13 AND NOVEMBER 14, 11 AM TO MIDNIGHT",
@@ -3853,7 +3765,7 @@
   "imageKey": "event-flyers/495-rockabillaque-florida.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Nickelback: Everything Under The Sun Tour, Hollywood",
   "date": "FEBRUARY 26, 6:30 PM",
@@ -3870,7 +3782,7 @@
   "imageKey": "event-flyers/496-nickelback-hollywood.jpg",
   "endDate": "2027-02-26"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Rod Stewart, Hollywood",
   "date": "MARCH 12, 8 PM",
@@ -3887,7 +3799,7 @@
   "imageKey": "event-flyers/497-rod-stewart-hollywood.jpg",
   "endDate": "2027-03-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Maroon 5, Hollywood",
   "date": "DECEMBER 28, 8 PM",
@@ -3904,7 +3816,7 @@
   "imageKey": "event-flyers/498-maroon-5-hollywood.jpg",
   "endDate": "2026-12-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Maroon 5, Hollywood Night 2",
   "date": "DECEMBER 29, 8 PM",
@@ -3921,24 +3833,7 @@
   "imageKey": "event-flyers/499-maroon-5-hollywood-night-2.jpg",
   "endDate": "2026-12-29"
  },
- {
-  "section": "NOVEMBER",
-  "title": "O.A.R.: Three Decades Tour, Hollywood",
-  "date": "NOVEMBER 13, 6:30 PM",
-  "headliners": "O.A.R., Gavin DeGraw, KT Tunstall",
-  "venue": "Hard Rock Live, Hollywood",
-  "categories": [
-   "Music"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://casino.hardrock.com/hollywood/events/oar",
-  "flyerUrl": "https://casino.hardrock.com/hollywood/events/oar",
-  "image": "/events/flyer/500-oar-hollywood.jpg",
-  "alt": "O.A.R. Three Decades Tour flyer, Hard Rock Live Hollywood",
-  "imageKey": "event-flyers/500-oar-hollywood.jpg",
-  "endDate": "2026-11-13"
- },
- {
+{
   "section": "NOVEMBER",
   "title": "Greta Van Fleet: Into The Beginning Tour, Tampa",
   "date": "FEBRUARY 5, 7 PM",
@@ -3955,7 +3850,7 @@
   "imageKey": "event-flyers/501-greta-van-fleet-tampa.jpg",
   "endDate": "2027-02-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Greta Van Fleet: Into The Beginning Tour, Jacksonville",
   "date": "FEBRUARY 6, 7 PM",
@@ -3972,7 +3867,7 @@
   "imageKey": "event-flyers/502-greta-van-fleet-jacksonville.jpg",
   "endDate": "2027-02-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Hans Zimmer Live, Orlando",
   "date": "MARCH 11, 7:30 PM",
@@ -3989,7 +3884,7 @@
   "imageKey": "event-flyers/503-hans-zimmer-orlando.jpg",
   "endDate": "2027-03-11"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Hans Zimmer Live, Miami",
   "date": "MARCH 13, 8 PM",
@@ -4006,7 +3901,7 @@
   "imageKey": "event-flyers/504-hans-zimmer-miami.jpg",
   "endDate": "2027-03-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Hans Zimmer Live, Tampa",
   "date": "MARCH 14, 7:30 PM",
@@ -4023,7 +3918,7 @@
   "imageKey": "event-flyers/505-hans-zimmer-tampa.jpg",
   "endDate": "2027-03-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "2026 Florida Coffee Festival",
   "date": "NOVEMBER 15, 11 AM TO 4 PM",
@@ -4041,7 +3936,7 @@
   "imageKey": "event-flyers/508-florida-coffee-festival.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Mount Dora Arts Festival",
   "date": "FEBRUARY 6 TO 7, 2027",
@@ -4058,7 +3953,7 @@
   "imageKey": "event-flyers/509-mount-dora-arts-festival.jpg",
   "endDate": "2027-02-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "URGE Miami Festival 2026",
   "date": "NOVEMBER 27 TO 30",
@@ -4076,7 +3971,7 @@
   "imageKey": "event-flyers/510-urge-miami-festival.jpg",
   "endDate": "2026-11-30"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Solardo at Decca Live",
   "date": "NOVEMBER 21, 10 PM TO 3 AM",
@@ -4094,7 +3989,7 @@
   "imageKey": "event-flyers/515-solardo-decca-live-jacksonville.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Westend at Decca Live",
   "date": "DECEMBER 11, 10 PM TO 3 AM",
@@ -4112,7 +4007,7 @@
   "imageKey": "event-flyers/516-westend-decca-live-jacksonville.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "15th Annual Tequesta Chili Cook-Off",
   "date": "NOVEMBER 14, 2 PM TO 6 PM",
@@ -4130,7 +4025,7 @@
   "imageKey": "event-flyers/520-tequesta-chili-cook-off-jupiter.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Florida Blue Battle of the Bands",
   "date": "NOVEMBER 20, 7 PM",
@@ -4147,7 +4042,7 @@
   "imageKey": "event-flyers/521-florida-blue-battle-of-the-bands-orlando.jpg",
   "endDate": "2026-11-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Plant City Pig Jam",
   "date": "NOVEMBER 20, 5 PM TO 10 PM AND NOVEMBER 21, 10 AM TO 8 PM",
@@ -4165,7 +4060,7 @@
   "imageKey": "event-flyers/522-plant-city-pig-jam.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Island SPACE Rum Cake and Caribbean Black Cake Fest 2026",
   "date": "NOVEMBER 15, 2 PM TO 6 PM",
@@ -4183,7 +4078,7 @@
   "imageKey": "event-flyers/526-island-space-rum-cake-fest-fort-lauderdale.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Andrea Bocelli: Romanza 30th Anniversary World Tour, Orlando",
   "date": "FEBRUARY 10, 8 PM",
@@ -4200,7 +4095,7 @@
   "imageKey": "event-flyers/527-andrea-bocelli-romanza-orlando.jpg",
   "endDate": "2027-02-10"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Morat YEM World Tour 2027, Orlando",
   "date": "MARCH 18, 8 PM",
@@ -4217,7 +4112,7 @@
   "imageKey": "event-flyers/528-morat-yem-world-tour-orlando.jpg",
   "endDate": "2027-03-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Morat YEM World Tour 2027, Miami",
   "date": "MARCH 20, 8 PM",
@@ -4234,7 +4129,7 @@
   "imageKey": "event-flyers/529-morat-yem-world-tour-miami.jpg",
   "endDate": "2027-03-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Death Cab for Cutie: I Built You A Tower Tour, St. Augustine",
   "date": "MARCH 17, 8 PM",
@@ -4251,7 +4146,7 @@
   "imageKey": "event-flyers/530-death-cab-for-cutie-st-augustine.jpg",
   "endDate": "2027-03-17"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Death Cab for Cutie: I Built You A Tower Tour, Miami Beach",
   "date": "MARCH 18, 8 PM",
@@ -4268,7 +4163,7 @@
   "imageKey": "event-flyers/531-death-cab-for-cutie-miami-beach.jpg",
   "endDate": "2027-03-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Death Cab for Cutie: I Built You A Tower Tour, Orlando",
   "date": "MARCH 20, 8 PM",
@@ -4285,7 +4180,7 @@
   "imageKey": "event-flyers/532-death-cab-for-cutie-orlando.jpg",
   "endDate": "2027-03-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "11th Annual Jimmy Jam BBQ Slam",
   "date": "JANUARY 9, 10 AM TO 6 PM",
@@ -4303,7 +4198,7 @@
   "imageKey": "event-flyers/533-jimmy-jam-bbq-slam-st-augustine.jpg",
   "endDate": "2027-01-09"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Calle Ocho Music Festival",
   "date": "MARCH 14, 11 AM TO 7 PM",
@@ -4321,7 +4216,7 @@
   "imageKey": "event-flyers/535-calle-ocho-music-festival-miami.jpg",
   "endDate": "2027-03-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Tampa SKECHERS Hot Chocolate Run",
   "date": "DECEMBER 13, 5K AT 7 AM, 10K AND 15K AT 8 AM",
@@ -4338,7 +4233,7 @@
   "imageKey": "event-flyers/536-tampa-skechers-hot-chocolate-run.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Life Time Miami Marathon and Half",
   "date": "JANUARY 31, 6 AM",
@@ -4355,7 +4250,7 @@
   "imageKey": "event-flyers/537-life-time-miami-marathon-and-half.jpg",
   "endDate": "2027-01-31"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Life Time Tropical 5K",
   "date": "JANUARY 30",
@@ -4372,7 +4267,7 @@
   "imageKey": "event-flyers/538-life-time-tropical-5k-miami.jpg",
   "endDate": "2027-01-30"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "South Florida Tacos and Treats Festival",
   "date": "JANUARY 23, 12 PM TO 9 PM",
@@ -4390,7 +4285,7 @@
   "imageKey": "event-flyers/539-south-florida-tacos-treats-festival-boca-raton.jpg",
   "endDate": "2027-01-23"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Earth, Wind & Fire, West Palm Beach",
   "date": "MARCH 6, 7 PM",
@@ -4407,7 +4302,7 @@
   "imageKey": "event-flyers/540-earth-wind-fire-west-palm-beach.jpg",
   "endDate": "2027-03-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "TobyMac: Hits Deep Tour, Tampa",
   "date": "FEBRUARY 4, 7 PM",
@@ -4424,7 +4319,7 @@
   "imageKey": "event-flyers/541-tobymac-hits-deep-tour-tampa.jpg",
   "endDate": "2027-02-04"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "TobyMac: Hits Deep Tour, Sunrise",
   "date": "FEBRUARY 5, 7 PM",
@@ -4441,7 +4336,7 @@
   "imageKey": "event-flyers/542-tobymac-hits-deep-tour-sunrise.jpg",
   "endDate": "2027-02-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "TobyMac: Hits Deep Tour, Orlando",
   "date": "FEBRUARY 6, 7 PM",
@@ -4458,7 +4353,7 @@
   "imageKey": "event-flyers/543-tobymac-hits-deep-tour-orlando.jpg",
   "endDate": "2027-02-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "TobyMac: Hits Deep Tour, Estero",
   "date": "FEBRUARY 7, 6:30 PM",
@@ -4475,7 +4370,7 @@
   "imageKey": "event-flyers/544-tobymac-hits-deep-tour-estero.jpg",
   "endDate": "2027-02-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "TobyMac: Hits Deep Tour, Pensacola",
   "date": "FEBRUARY 11, 7 PM",
@@ -4492,7 +4387,7 @@
   "imageKey": "event-flyers/545-tobymac-hits-deep-tour-pensacola.jpg",
   "endDate": "2027-02-11"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "TobyMac: Hits Deep Tour, Jacksonville",
   "date": "FEBRUARY 25, 7 PM",
@@ -4509,7 +4404,7 @@
   "imageKey": "event-flyers/546-tobymac-hits-deep-tour-jacksonville.jpg",
   "endDate": "2027-02-25"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "U.S. Polo Assn. Palm Beaches Marathon",
   "date": "DECEMBER 12 TO 13",
@@ -4526,7 +4421,7 @@
   "imageKey": "event-flyers/547-us-polo-assn-palm-beaches-marathon.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Life Time Turkey Trot Miami",
   "date": "NOVEMBER 26, 7:30 AM",
@@ -4543,7 +4438,7 @@
   "imageKey": "event-flyers/548-life-time-turkey-trot-miami.jpg",
   "endDate": "2026-11-26"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Achieva Clearwater Turkey Trot",
   "date": "NOVEMBER 26, 7 AM",
@@ -4560,7 +4455,7 @@
   "imageKey": "event-flyers/549-achieva-clearwater-turkey-trot.jpg",
   "endDate": "2026-11-26"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Space Coast Marathon and Half Marathon",
   "date": "NOVEMBER 22, 6 AM",
@@ -4577,7 +4472,7 @@
   "imageKey": "event-flyers/550-space-coast-marathon-half-marathon-cocoa.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "OUC Orlando Half Marathon",
   "date": "DECEMBER 5, 7:15 AM",
@@ -4594,7 +4489,7 @@
   "imageKey": "event-flyers/551-ouc-orlando-half-marathon.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Camelot Days Medieval Festival",
   "date": "NOVEMBER 7 TO 22, WEEKENDS, 10 AM TO 5:30 PM",
@@ -4611,7 +4506,7 @@
   "imageKey": "event-flyers/552-camelot-days-medieval-festival-hollywood.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Florida Renaissance Festival",
   "date": "FEBRUARY 6 TO MARCH 28, 2027",
@@ -4628,7 +4523,7 @@
   "imageKey": "event-flyers/553-florida-renaissance-festival-deerfield-beach.jpg",
   "endDate": "2027-03-28"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Florida State Fair",
   "date": "FEBRUARY 4 TO 15, 2027",
@@ -4645,7 +4540,7 @@
   "imageKey": "event-flyers/554-florida-state-fair-tampa.jpg",
   "endDate": "2027-02-15"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "South Florida Fair",
   "date": "JANUARY 15 TO 31, 2027",
@@ -4662,7 +4557,7 @@
   "imageKey": "event-flyers/555-south-florida-fair-west-palm-beach.jpg",
   "endDate": "2027-01-31"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Wiz Khalifa at E11EVEN",
   "date": "NOVEMBER 14, 8 PM TO 10 AM",
@@ -4680,7 +4575,7 @@
   "imageKey": "event-flyers/558-wiz-khalifa-e11even-miami.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Key West Half Marathon and Runfest",
   "date": "JANUARY 16 TO 17, 7 AM",
@@ -4697,7 +4592,7 @@
   "imageKey": "event-flyers/557-key-west-half-marathon-runfest.jpg",
   "endDate": "2027-01-17"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Seminole Hard Rock Winterfest Black Tie Ball",
   "date": "DECEMBER 5, 6 PM TO MIDNIGHT",
@@ -4715,7 +4610,7 @@
   "imageKey": "event-flyers/559-seminole-hard-rock-winterfest-black-tie-ball.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "GroundUP Music Festival",
   "date": "MARCH 12 TO 14",
@@ -4733,7 +4628,7 @@
   "imageKey": "event-flyers/560-groundup-music-festival-miami-beach.jpg",
   "endDate": "2027-03-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Original Florida Key Lime Pie Festival",
   "date": "NOVEMBER 14, 10 AM TO 6 PM",
@@ -4752,7 +4647,7 @@
   "imageKey": "event-flyers/561-original-florida-key-lime-pie-festival.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Art Battle Ormond Beach",
   "date": "DECEMBER 19, DOORS AT 5 PM",
@@ -4770,7 +4665,7 @@
   "imageKey": "event-flyers/563-art-battle-ormond-beach.jpg",
   "endDate": "2026-12-19"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Gate River Run",
   "date": "MARCH 6, 8 AM",
@@ -4787,7 +4682,7 @@
   "imageKey": "event-flyers/566-gate-river-run-jacksonville.jpg",
   "endDate": "2027-03-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Sanding Ovations Masters Cup",
   "date": "NOVEMBER 19 TO 22",
@@ -4805,7 +4700,7 @@
   "imageKey": "event-flyers/567-sanding-ovations-masters-cup-treasure-island.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Lucky Daye: The ALOUD! Tour, Orlando",
   "date": "MARCH 2, 7 PM",
@@ -4822,7 +4717,7 @@
   "imageKey": "event-flyers/569-lucky-daye-aloud-tour-orlando.jpg",
   "endDate": "2027-03-02"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Lucky Daye: The ALOUD! Tour, St. Petersburg",
   "date": "MARCH 3, 6 PM",
@@ -4839,7 +4734,7 @@
   "imageKey": "event-flyers/570-lucky-daye-aloud-tour-st-petersburg.jpg",
   "endDate": "2027-03-03"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "12th Annual Central Florida Fall EggFest",
   "date": "NOVEMBER 14, 9 AM TO 5 PM",
@@ -4857,7 +4752,7 @@
   "imageKey": "event-flyers/571-central-florida-fall-eggfest-longwood.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Blues, Brews, & BBQ",
   "date": "NOVEMBER 14, 1 PM TO 4 PM",
@@ -4875,7 +4770,7 @@
   "imageKey": "event-flyers/573-blues-brews-bbq-destin.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "8th Annual Chili Cook Off",
   "date": "NOVEMBER 21, 4 PM TO 6 PM",
@@ -4893,7 +4788,7 @@
   "imageKey": "event-flyers/575-8th-annual-chili-cook-off-niceville.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Pensacola EggFest",
   "date": "NOVEMBER 15, 12 PM TO 3 PM",
@@ -4911,7 +4806,7 @@
   "imageKey": "event-flyers/579-pensacola-eggfest.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Prospa at LIV Miami",
   "date": "DECEMBER 3, 11:30 PM",
@@ -4929,7 +4824,7 @@
   "imageKey": "event-flyers/580-prospa-at-liv-miami.jpg",
   "endDate": "2026-12-04"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Butts & Clucks Cook-Off on the Bay",
   "date": "JANUARY 29 TO 30, 2027",
@@ -4947,7 +4842,7 @@
   "imageKey": "event-flyers/581-butts-and-clucks-cook-off-on-the-bay.jpg",
   "endDate": "2027-01-30"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Pi'erre Bourne: Made In Paris Part 2, Fort Lauderdale",
   "date": "NOVEMBER 29, 7 PM",
@@ -4965,7 +4860,7 @@
   "imageKey": "event-flyers/582-pierre-bourne-made-in-paris-part-2-fort-lauderdale.jpg",
   "endDate": "2026-11-29"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "7th Annual Beer B Que Music Festival",
   "date": "NOVEMBER 14, 2 PM",
@@ -4985,7 +4880,7 @@
   "imageKey": "event-flyers/583-7th-annual-beer-b-que-music-festival-lauderhill.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "50th Annual Longwood Arts & Crafts Festival",
   "date": "NOVEMBER 21 TO 22",
@@ -5002,7 +4897,7 @@
   "imageKey": "event-flyers/586-longwood-arts-and-crafts-festival.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Lindsey Stirling: The Snow Waltz Tour, Hollywood",
   "date": "NOVEMBER 18, 7 PM",
@@ -5019,7 +4914,7 @@
   "imageKey": "event-flyers/589-lindsey-stirling-snow-waltz-tour.jpg",
   "endDate": "2026-11-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Lindsey Stirling: The Snow Waltz Tour, Clearwater",
   "date": "NOVEMBER 19",
@@ -5036,7 +4931,7 @@
   "imageKey": "event-flyers/589-lindsey-stirling-snow-waltz-tour.jpg",
   "endDate": "2026-11-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Lindsey Stirling: The Snow Waltz Tour, Fort Myers",
   "date": "NOVEMBER 20, 7 PM",
@@ -5053,7 +4948,7 @@
   "imageKey": "event-flyers/589-lindsey-stirling-snow-waltz-tour.jpg",
   "endDate": "2026-11-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Lindsey Stirling: The Snow Waltz Tour, Orlando",
   "date": "NOVEMBER 21",
@@ -5070,7 +4965,7 @@
   "imageKey": "event-flyers/589-lindsey-stirling-snow-waltz-tour.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Lindsey Stirling: The Snow Waltz Tour, Tallahassee",
   "date": "NOVEMBER 23, 7 PM",
@@ -5087,7 +4982,7 @@
   "imageKey": "event-flyers/589-lindsey-stirling-snow-waltz-tour.jpg",
   "endDate": "2026-11-23"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Native Rhythms Festival",
   "date": "NOVEMBER 13 TO 15",
@@ -5106,7 +5001,7 @@
   "imageKey": "event-flyers/592-native-rhythms-festival.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Pouya: The Foreverglades Tour, Jacksonville",
   "date": "DECEMBER 9, 8 PM",
@@ -5123,7 +5018,7 @@
   "imageKey": "event-flyers/593-pouya-foreverglades-tour-jacksonville.jpg",
   "endDate": "2026-12-09"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "3rd Annual Treasure Coast BBQ Pig Jam Battle and Showdown",
   "date": "JANUARY 16 TO 17, 2027",
@@ -5141,7 +5036,7 @@
   "imageKey": "event-flyers/594-treasure-coast-bbq-pig-jam.jpg",
   "endDate": "2027-01-17"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "6th Annual Pinellas Taco Fest",
   "date": "JANUARY 23, 10 AM TO 7 PM AND JANUARY 24, 10 AM TO 5 PM",
@@ -5159,7 +5054,7 @@
   "imageKey": "event-flyers/595-pinellas-taco-fest.jpg",
   "endDate": "2027-01-24"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Siesta Key Crystal Classic International Sand Sculpting Festival",
   "date": "NOVEMBER 13 TO 16",
@@ -5178,7 +5073,7 @@
   "imageKey": "event-flyers/599-siesta-key-crystal-classic.jpg",
   "endDate": "2026-11-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Trap RnB at Celine Orlando",
   "date": "NOVEMBER 20, 10 PM TO 2 AM",
@@ -5196,7 +5091,7 @@
   "imageKey": "event-flyers/601-trap-rnb-celine-orlando.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "17th Annual Riverfest",
   "date": "NOVEMBER 21 TO 22",
@@ -5215,7 +5110,7 @@
   "imageKey": "event-flyers/600-riverfest-ormond-beach.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "2nd Annual Classic Concert, Orlando",
   "date": "NOVEMBER 22, 7 PM",
@@ -5232,7 +5127,7 @@
   "imageKey": "event-flyers/602-classic-concert-orlando.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Chino y Nacho, Miami Beach",
   "date": "NOVEMBER 20, 8 PM",
@@ -5249,7 +5144,7 @@
   "imageKey": "event-flyers/603-chino-y-nacho-miami-beach.jpg",
   "endDate": "2026-11-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "El Gran Combo, Coral Gables",
   "date": "NOVEMBER 27, 8 PM",
@@ -5266,7 +5161,7 @@
   "imageKey": "event-flyers/604-el-gran-combo-coral-gables.jpg",
   "endDate": "2026-11-27"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Olga Tañón & El Gran Combo, Tampa",
   "date": "NOVEMBER 28, 8 PM",
@@ -5283,7 +5178,7 @@
   "imageKey": "event-flyers/605-olga-tanon-el-gran-combo-tampa.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Aitana, Miami Beach",
   "date": "NOVEMBER 29, 8 PM",
@@ -5300,7 +5195,7 @@
   "imageKey": "event-flyers/606-aitana-miami-beach.jpg",
   "endDate": "2026-11-29"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Laura Pausini: Yo Canto, Hollywood",
   "date": "MARCH 14, 7:30 PM",
@@ -5317,7 +5212,7 @@
   "imageKey": "event-flyers/607-laura-pausini-hollywood.jpg",
   "endDate": "2027-03-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "44th Annual Chili Cook-Off",
   "date": "NOVEMBER 14, 11 AM TO 4 PM",
@@ -5335,7 +5230,7 @@
   "imageKey": "event-flyers/608-44th-annual-chili-cook-off-port-st-lucie.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "76th Annual Beaux Arts Festival of Art",
   "date": "JANUARY 16 TO 17",
@@ -5354,7 +5249,7 @@
   "imageKey": "event-flyers/609-beaux-arts-festival-of-art.jpg",
   "endDate": "2027-01-17"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "11th Annual Backyard BBQ Cook-Off and Family Fest",
   "date": "FEBRUARY 27, 11 AM TO 3 PM",
@@ -5373,7 +5268,7 @@
   "imageKey": "event-flyers/610-efsc-backyard-bbq-cook-off-and-family-fest.jpg",
   "endDate": "2027-02-27"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Home for the Holidays, Clearwater",
   "date": "NOVEMBER 30, 8 PM",
@@ -5390,7 +5285,7 @@
   "imageKey": "event-flyers/611-home-for-the-holidays-clearwater.jpg",
   "endDate": "2026-11-30"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Leslie Odom, Jr. The Christmas Tour, Jacksonville",
   "date": "DECEMBER 13, 7 PM",
@@ -5407,7 +5302,7 @@
   "imageKey": "event-flyers/612-leslie-odom-jr-christmas-tour-jacksonville.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Leslie Odom, Jr. The Christmas Tour, Sarasota",
   "date": "DECEMBER 14, 7 PM",
@@ -5424,7 +5319,7 @@
   "imageKey": "event-flyers/613-leslie-odom-jr-christmas-tour-sarasota.jpg",
   "endDate": "2026-12-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Leslie Odom, Jr. The Christmas Tour, West Palm Beach",
   "date": "DECEMBER 15, 7:30 PM",
@@ -5441,7 +5336,7 @@
   "imageKey": "event-flyers/614-leslie-odom-jr-christmas-tour-west-palm-beach.jpg",
   "endDate": "2026-12-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Gregory Porter, Jacksonville",
   "date": "JANUARY 23, 7 PM",
@@ -5458,7 +5353,7 @@
   "imageKey": "event-flyers/615-gregory-porter-jacksonville.jpg",
   "endDate": "2027-01-23"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "4th Annual Chili Cook Off",
   "date": "DECEMBER 5, 2 PM TO 4 PM",
@@ -5476,7 +5371,7 @@
   "imageKey": "event-flyers/616-4th-annual-chili-cook-off-dunedin.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Andrea Bocelli: Romanza 30th Anniversary World Tour, Hollywood",
   "date": "FEBRUARY 12 TO 13, 8 PM",
@@ -5493,7 +5388,7 @@
   "imageKey": "event-flyers/617-andrea-bocelli-romanza-hollywood.jpg",
   "endDate": "2027-02-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "St. Paul and the Broken Bones, Fort Lauderdale",
   "date": "JANUARY 8, 7:30 PM",
@@ -5510,7 +5405,7 @@
   "imageKey": "event-flyers/618-st-paul-and-the-broken-bones-fort-lauderdale.jpg",
   "endDate": "2027-01-08"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Demola: DEMOLA LIVE, Fort Lauderdale",
   "date": "JANUARY 29, 8 PM",
@@ -5527,7 +5422,7 @@
   "imageKey": "event-flyers/619-demola-live-fort-lauderdale.jpg",
   "endDate": "2027-01-29"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Demola: DEMOLA LIVE, Jacksonville",
   "date": "JANUARY 30, 8 PM",
@@ -5544,7 +5439,7 @@
   "imageKey": "event-flyers/620-demola-live-jacksonville.jpg",
   "endDate": "2027-01-30"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Demola, Orlando",
   "date": "JANUARY 31, 7:30 PM",
@@ -5561,25 +5456,7 @@
   "imageKey": "event-flyers/621-demola-live-orlando.jpg",
   "endDate": "2027-01-31"
  },
- {
-  "section": "NOVEMBER",
-  "title": "honestav: The Sweet American Boy Tour, Miami",
-  "date": "NOVEMBER 13, 8 PM",
-  "headliners": "honestav",
-  "venue": "Midline Miami, Miami",
-  "categories": [
-   "Music",
-   "Nightlife"
-  ],
-  "detailsLabel": "Event Details",
-  "detailsUrl": "https://themusicuniverse.com/honestav-announces-sweet-american-boy-tour/",
-  "flyerUrl": "https://themusicuniverse.com/honestav-announces-sweet-american-boy-tour/",
-  "image": "/events/flyer/624-honestav-miami.jpg",
-  "alt": "honestav Sweet American Boy Tour artist photo, Midline Miami",
-  "imageKey": "event-flyers/624-honestav-miami.jpg",
-  "endDate": "2026-11-13"
- },
- {
+{
   "section": "NOVEMBER",
   "title": "ABC Central Florida Chili Cook Off",
   "date": "DECEMBER 3, 5 PM TO 7:30 PM",
@@ -5597,7 +5474,7 @@
   "imageKey": "event-flyers/625-abc-central-florida-chili-cook-off-geneva.jpg",
   "endDate": "2026-12-03"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour, Sunrise",
   "date": "NOVEMBER 24, 7 PM",
@@ -5614,7 +5491,7 @@
   "imageKey": "event-flyers/626-disney-worlds-collide-sunrise.jpg",
   "endDate": "2026-11-24"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour, Orlando",
   "date": "NOVEMBER 25, 7 PM",
@@ -5631,7 +5508,7 @@
   "imageKey": "event-flyers/627-disney-worlds-collide-orlando.jpg",
   "endDate": "2026-11-25"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour, Tampa",
   "date": "NOVEMBER 28, 7 PM",
@@ -5648,7 +5525,7 @@
   "imageKey": "event-flyers/628-disney-worlds-collide-tampa.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "David Bisbal: Tour Eternos 2026, Orlando",
   "date": "DECEMBER 18, 8 PM",
@@ -5665,7 +5542,7 @@
   "imageKey": "event-flyers/629-david-bisbal-orlando.jpg",
   "endDate": "2026-12-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "David Bisbal: Tour Eternos 2026, Miami",
   "date": "DECEMBER 19, 8 PM",
@@ -5682,7 +5559,7 @@
   "imageKey": "event-flyers/630-david-bisbal-miami.jpg",
   "endDate": "2026-12-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Red Clay Strays: Grateful Tour, Estero",
   "date": "FEBRUARY 25, 7 PM",
@@ -5699,7 +5576,7 @@
   "imageKey": "event-flyers/631-red-clay-strays-estero.jpg",
   "endDate": "2027-02-25"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Red Clay Strays: Grateful Tour, Jacksonville",
   "date": "FEBRUARY 26, 7 PM",
@@ -5716,7 +5593,7 @@
   "imageKey": "event-flyers/632-red-clay-strays-jacksonville.jpg",
   "endDate": "2027-02-26"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Tampa Bay Snack Fest & Craft Fair",
   "date": "JANUARY 30, 10 AM TO 6 PM AND JANUARY 31, 10 AM TO 6 PM",
@@ -5734,7 +5611,7 @@
   "imageKey": "event-flyers/633-tampa-bay-snack-fest-pinellas-park.jpg",
   "endDate": "2027-01-31"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Kem, Orlando",
   "date": "JANUARY 16, 8 PM",
@@ -5751,7 +5628,7 @@
   "imageKey": "event-flyers/634-kem-orlando.jpg",
   "endDate": "2027-01-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Warren Zeiders: No Brakes Tour, Orlando",
   "date": "MARCH 25, 6:30 PM",
@@ -5768,7 +5645,7 @@
   "imageKey": "event-flyers/636-warren-zeiders-orlando.jpg",
   "endDate": "2027-03-25"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Warren Zeiders: No Brakes Tour, Hollywood",
   "date": "MARCH 26, 8 PM",
@@ -5785,7 +5662,7 @@
   "imageKey": "event-flyers/637-warren-zeiders-hollywood.jpg",
   "endDate": "2027-03-26"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Chicago, Pensacola",
   "date": "JANUARY 29, 8 PM",
@@ -5802,7 +5679,7 @@
   "imageKey": "event-flyers/638-chicago-pensacola.jpg",
   "endDate": "2027-01-29"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Chicago, Melbourne",
   "date": "FEBRUARY 7, 7:30 PM",
@@ -5819,7 +5696,7 @@
   "imageKey": "event-flyers/639-chicago-melbourne.jpg",
   "endDate": "2027-02-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Chicago, Daytona Beach",
   "date": "FEBRUARY 8, 7:30 PM",
@@ -5836,7 +5713,7 @@
   "imageKey": "event-flyers/640-chicago-daytona-beach.jpg",
   "endDate": "2027-02-08"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Chicago, Hollywood",
   "date": "FEBRUARY 11, 8 PM",
@@ -5853,7 +5730,7 @@
   "imageKey": "event-flyers/641-chicago-hollywood.jpg",
   "endDate": "2027-02-11"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Chicago, Fort Myers",
   "date": "FEBRUARY 12, 7:30 PM",
@@ -5870,7 +5747,7 @@
   "imageKey": "event-flyers/642-chicago-fort-myers.jpg",
   "endDate": "2027-02-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Air Supply: A Matter of Time Tour, Jacksonville",
   "date": "NOVEMBER 22, 7 PM",
@@ -5887,7 +5764,7 @@
   "imageKey": "event-flyers/643-air-supply-jacksonville.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Air Supply: A Matter of Time Tour, Sarasota",
   "date": "JANUARY 24, 7 PM",
@@ -5904,7 +5781,7 @@
   "imageKey": "event-flyers/644-air-supply-sarasota.jpg",
   "endDate": "2027-01-24"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Air Supply: A Matter of Time Tour, Hollywood",
   "date": "JANUARY 29, 8 PM",
@@ -5921,7 +5798,7 @@
   "imageKey": "event-flyers/645-air-supply-hollywood.jpg",
   "endDate": "2027-01-29"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "KC & the Sunshine Band, Hollywood",
   "date": "FEBRUARY 25, 8 PM",
@@ -5938,7 +5815,7 @@
   "imageKey": "event-flyers/646-kc-sunshine-band-hollywood.jpg",
   "endDate": "2027-02-25"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Revivalists, St. Petersburg",
   "date": "NOVEMBER 18, 6 PM",
@@ -5955,7 +5832,7 @@
   "imageKey": "event-flyers/647-revivalists-st-petersburg.jpg",
   "endDate": "2026-11-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Revivalists, Tallahassee",
   "date": "NOVEMBER 19, 7 PM",
@@ -5972,7 +5849,7 @@
   "imageKey": "event-flyers/648-revivalists-tallahassee.jpg",
   "endDate": "2026-11-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Revivalists, St. Augustine",
   "date": "NOVEMBER 21, 7 PM",
@@ -5989,7 +5866,7 @@
   "imageKey": "event-flyers/649-revivalists-st-augustine.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Joe Bonamassa, St. Augustine",
   "date": "MARCH 13, 8 PM",
@@ -6006,7 +5883,7 @@
   "imageKey": "event-flyers/650-joe-bonamassa-st-augustine.jpg",
   "endDate": "2027-03-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Little Feat with Old Crow Medicine Show, St. Augustine",
   "date": "MARCH 6, 7 PM",
@@ -6023,7 +5900,7 @@
   "imageKey": "event-flyers/651-little-feat-old-crow-st-augustine.jpg",
   "endDate": "2027-03-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Little Feat, Pompano Beach",
   "date": "MARCH 5, 7:30 PM",
@@ -6040,7 +5917,7 @@
   "imageKey": "event-flyers/652-little-feat-pompano-beach.jpg",
   "endDate": "2027-03-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Little Feat, Tallahassee",
   "date": "MARCH 3, 8 PM",
@@ -6057,7 +5934,7 @@
   "imageKey": "event-flyers/653-little-feat-tallahassee.jpg",
   "endDate": "2027-03-03"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "O.A.R. Three Decades Tour, St. Augustine",
   "date": "NOVEMBER 14, 6:30 PM",
@@ -6074,7 +5951,7 @@
   "imageKey": "event-flyers/655-oar-three-decades-tour-st-augustine.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "O.A.R. Three Decades Tour, Orlando",
   "date": "NOVEMBER 15, 6:30 PM",
@@ -6091,7 +5968,7 @@
   "imageKey": "event-flyers/656-oar-three-decades-tour-orlando.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Black Label Society, Orlando",
   "date": "NOVEMBER 28, 7:30 PM",
@@ -6108,7 +5985,7 @@
   "imageKey": "event-flyers/657-black-label-society-orlando.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Sabaton: Legends on Tour, Orlando",
   "date": "DECEMBER 11, 7 PM",
@@ -6125,7 +6002,7 @@
   "imageKey": "event-flyers/658-sabaton-legends-on-tour-orlando.jpg",
   "endDate": "2026-12-11"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Sabaton: Legends on Tour, Fort Lauderdale",
   "date": "DECEMBER 12, 7 PM",
@@ -6142,7 +6019,7 @@
   "imageKey": "event-flyers/659-sabaton-legends-on-tour-fort-lauderdale.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Bachman-Turner Overdrive: No Speed Limit Tour 2027, Orlando",
   "date": "JANUARY 7, 7:30 PM",
@@ -6159,7 +6036,7 @@
   "imageKey": "event-flyers/660-bachman-turner-overdrive-orlando.jpg",
   "endDate": "2027-01-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Queensryche, Orlando",
   "date": "JANUARY 8, 8 PM",
@@ -6176,7 +6053,7 @@
   "imageKey": "event-flyers/661-queensryche-orlando.jpg",
   "endDate": "2027-01-08"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Bachman-Turner Overdrive, Naples",
   "date": "JANUARY 10, 7 PM",
@@ -6193,7 +6070,7 @@
   "imageKey": "event-flyers/662-bachman-turner-overdrive-naples.jpg",
   "endDate": "2027-01-10"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Daughtry, Melbourne",
   "date": "JANUARY 25, 7 PM",
@@ -6210,7 +6087,7 @@
   "imageKey": "event-flyers/663-daughtry-melbourne.jpg",
   "endDate": "2027-01-25"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Daughtry: 20 Years Unplugged Tour, Orlando",
   "date": "JANUARY 27, 7 PM",
@@ -6227,7 +6104,7 @@
   "imageKey": "event-flyers/664-daughtry-20-years-unplugged-orlando.jpg",
   "endDate": "2027-01-27"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Kansas, Pensacola",
   "date": "JANUARY 31, 7 PM",
@@ -6244,7 +6121,7 @@
   "imageKey": "event-flyers/665-kansas-pensacola.jpg",
   "endDate": "2027-01-31"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Kansas, Orlando",
   "date": "FEBRUARY 12, 8 PM",
@@ -6261,7 +6138,7 @@
   "imageKey": "event-flyers/666-kansas-orlando.jpg",
   "endDate": "2027-02-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Kansas, Immokalee",
   "date": "FEBRUARY 13, 8 PM",
@@ -6278,7 +6155,7 @@
   "imageKey": "event-flyers/667-kansas-immokalee.jpg",
   "endDate": "2027-02-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Polyphia: BE NOT AFRAID World Tour, Orlando",
   "date": "MARCH 13, 7:30 PM",
@@ -6295,7 +6172,7 @@
   "imageKey": "event-flyers/668-polyphia-be-not-afraid-orlando.jpg",
   "endDate": "2027-03-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Polyphia: BE NOT AFRAID World Tour, St. Petersburg",
   "date": "MARCH 14",
@@ -6312,7 +6189,7 @@
   "imageKey": "event-flyers/669-polyphia-be-not-afraid-st-petersburg.jpg",
   "endDate": "2027-03-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Bowling for Soup, Fort Lauderdale",
   "date": "NOVEMBER 15, 6:30 PM",
@@ -6329,7 +6206,7 @@
   "imageKey": "event-flyers/674-bowling-for-soup-fort-lauderdale.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Matt Maeson with Sam MacPherson, Tampa",
   "date": "NOVEMBER 19, 8 PM",
@@ -6346,7 +6223,7 @@
   "imageKey": "event-flyers/675-matt-maeson-with-sam-macpherson-tampa.jpg",
   "endDate": "2026-11-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "DragonForce: Inhuman Rampage 20th Anniversary, Orlando",
   "date": "NOVEMBER 20, 6:30 PM",
@@ -6363,7 +6240,7 @@
   "imageKey": "event-flyers/676-dragonforce-inhuman-rampage-20th-anniversary-orlando.jpg",
   "endDate": "2026-11-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "DragonForce: Inhuman Rampage 20th Anniversary, Tampa",
   "date": "NOVEMBER 21, 5:30 PM",
@@ -6380,7 +6257,7 @@
   "imageKey": "event-flyers/677-dragonforce-inhuman-rampage-20th-anniversary-tampa.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Matt Maeson with Sam MacPherson, Orlando",
   "date": "NOVEMBER 21, 8 PM",
@@ -6397,7 +6274,7 @@
   "imageKey": "event-flyers/678-matt-maeson-with-sam-macpherson-orlando.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Matt Maeson with Sam MacPherson, Ponte Vedra Beach",
   "date": "NOVEMBER 22, 7 PM",
@@ -6414,7 +6291,7 @@
   "imageKey": "event-flyers/679-matt-maeson-with-sam-macpherson-ponte-vedra-beach.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Dark Star Orchestra, Jacksonville",
   "date": "DECEMBER 2, 7 PM",
@@ -6431,7 +6308,7 @@
   "imageKey": "event-flyers/680-dark-star-orchestra-jacksonville.jpg",
   "endDate": "2026-12-02"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Dark Star Orchestra, Fort Lauderdale",
   "date": "DECEMBER 3, 7:30 PM",
@@ -6448,7 +6325,7 @@
   "imageKey": "event-flyers/681-dark-star-orchestra-fort-lauderdale.jpg",
   "endDate": "2026-12-03"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Dark Star Orchestra, Fort Lauderdale Night 2",
   "date": "DECEMBER 4, 7:30 PM",
@@ -6465,7 +6342,7 @@
   "imageKey": "event-flyers/682-dark-star-orchestra-fort-lauderdale-night-2.jpg",
   "endDate": "2026-12-04"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Dark Star Orchestra, Clearwater",
   "date": "DECEMBER 5, 7 PM",
@@ -6482,7 +6359,7 @@
   "imageKey": "event-flyers/683-dark-star-orchestra-clearwater.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "State Champs: 10 Years of Around the World and Back, St. Petersburg",
   "date": "DECEMBER 5, 6 PM",
@@ -6499,7 +6376,7 @@
   "imageKey": "event-flyers/684-state-champs-10-years-of-around-the-world-and-back-st-petersburg.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "State Champs: 10 Years of Around the World and Back, Orlando",
   "date": "DECEMBER 6, 6 PM",
@@ -6516,7 +6393,7 @@
   "imageKey": "event-flyers/685-state-champs-10-years-of-around-the-world-and-back-orlando.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Jason Bonham's Led Zeppelin Evening, Hollywood",
   "date": "DECEMBER 13, 8 PM",
@@ -6533,7 +6410,7 @@
   "imageKey": "event-flyers/686-jason-bonhams-led-zeppelin-evening-hollywood.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Air Supply: A Matter of Time Tour, Fort Pierce",
   "date": "JANUARY 21, 8 PM",
@@ -6550,7 +6427,7 @@
   "imageKey": "event-flyers/687-air-supply-a-matter-of-time-tour-fort-pierce.jpg",
   "endDate": "2027-01-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Air Supply: A Matter of Time Tour, Daytona Beach",
   "date": "JANUARY 22, 8 PM",
@@ -6567,7 +6444,7 @@
   "imageKey": "event-flyers/688-air-supply-a-matter-of-time-tour-daytona-beach.jpg",
   "endDate": "2027-01-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Air Supply: A Matter of Time Tour, Immokalee",
   "date": "JANUARY 30, 8 PM",
@@ -6584,7 +6461,7 @@
   "imageKey": "event-flyers/689-air-supply-a-matter-of-time-tour-immokalee.jpg",
   "endDate": "2027-01-30"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Little River Band with David Pack, Clearwater",
   "date": "MARCH 6, 7 PM",
@@ -6601,7 +6478,7 @@
   "imageKey": "event-flyers/690-little-river-band-with-david-pack-clearwater.jpg",
   "endDate": "2027-03-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Little Feat with Old Crow Medicine Show, Clearwater",
   "date": "MARCH 7, 6:30 PM",
@@ -6618,7 +6495,7 @@
   "imageKey": "event-flyers/691-little-feat-with-old-crow-medicine-show-clearwater.jpg",
   "endDate": "2027-03-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Blue Oyster Cult, Jacksonville",
   "date": "DECEMBER 1, 8 PM",
@@ -6635,7 +6512,7 @@
   "imageKey": "event-flyers/692-blue-oyster-cult-jacksonville.jpg",
   "endDate": "2026-12-01"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Blue Oyster Cult, Immokalee",
   "date": "DECEMBER 4, 8 PM",
@@ -6652,7 +6529,7 @@
   "imageKey": "event-flyers/693-blue-oyster-cult-immokalee.jpg",
   "endDate": "2026-12-04"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Blue Oyster Cult, Okeechobee",
   "date": "DECEMBER 5, 8 PM",
@@ -6669,7 +6546,7 @@
   "imageKey": "event-flyers/694-blue-oyster-cult-okeechobee.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Cheap Trick: All Washed Up Tour, Immokalee",
   "date": "FEBRUARY 20, 8 PM",
@@ -6686,7 +6563,7 @@
   "imageKey": "event-flyers/695-cheap-trick-all-washed-up-tour-immokalee.jpg",
   "endDate": "2027-02-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Kameron Marlowe: Take You Down With Me Tour, Orlando",
   "date": "FEBRUARY 25, 7 PM",
@@ -6703,7 +6580,7 @@
   "imageKey": "event-flyers/696-kameron-marlowe-take-you-down-with-me-tour-orlando.jpg",
   "endDate": "2027-02-25"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Kameron Marlowe: Take You Down With Me Tour, Orlando Night 2",
   "date": "FEBRUARY 26, 7 PM",
@@ -6720,7 +6597,7 @@
   "imageKey": "event-flyers/697-kameron-marlowe-take-you-down-with-me-tour-orlando-night-2.jpg",
   "endDate": "2027-02-26"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Pedro Capo: Fulanito Tour 2027, Miami Beach",
   "date": "MARCH 11, 8 PM",
@@ -6737,7 +6614,7 @@
   "imageKey": "event-flyers/698-pedro-capo-fulanito-tour-2027-miami-beach.jpg",
   "endDate": "2027-03-11"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Pedro Capo, Orlando",
   "date": "MARCH 12, 7 PM",
@@ -6754,7 +6631,7 @@
   "imageKey": "event-flyers/699-pedro-capo-orlando.jpg",
   "endDate": "2027-03-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Braxton Keith: Told You Once Tour, St. Petersburg",
   "date": "FEBRUARY 18, 7 PM",
@@ -6771,7 +6648,7 @@
   "imageKey": "event-flyers/700-braxton-keith-told-you-once-tour-st-petersburg.jpg",
   "endDate": "2027-02-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Braxton Keith: Told You Once Tour, Orlando",
   "date": "FEBRUARY 19, 7 PM",
@@ -6788,7 +6665,7 @@
   "imageKey": "event-flyers/701-braxton-keith-told-you-once-tour-orlando.jpg",
   "endDate": "2027-02-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Braxton Keith: Told You Once Tour, Jacksonville",
   "date": "FEBRUARY 20, 7 PM",
@@ -6805,7 +6682,7 @@
   "imageKey": "event-flyers/702-braxton-keith-told-you-once-tour-jacksonville.jpg",
   "endDate": "2027-02-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Matisyahu: Festival of Lights, Orlando",
   "date": "DECEMBER 17, 7 PM",
@@ -6822,7 +6699,7 @@
   "imageKey": "event-flyers/703-matisyahu-festival-of-lights-orlando.jpg",
   "endDate": "2026-12-17"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Little River Band with David Pack, Jacksonville",
   "date": "MARCH 5, 8 PM",
@@ -6839,7 +6716,7 @@
   "imageKey": "event-flyers/704-little-river-band-with-david-pack-jacksonville.jpg",
   "endDate": "2027-03-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Kenny G: The Miracles Holiday and Hits Tour, Pensacola",
   "date": "DECEMBER 5, 7:30 PM",
@@ -6856,7 +6733,7 @@
   "imageKey": "event-flyers/705-kenny-g-the-miracles-holiday-and-hits-tour-pensacola.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Kenny G, Fort Myers",
   "date": "DECEMBER 9, 7:30 PM",
@@ -6873,7 +6750,7 @@
   "imageKey": "event-flyers/706-kenny-g-fort-myers.jpg",
   "endDate": "2026-12-09"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Kenny G: The Miracles Holiday and Hits Tour, Daytona Beach",
   "date": "DECEMBER 11, 7:30 PM",
@@ -6890,7 +6767,7 @@
   "imageKey": "event-flyers/707-kenny-g-the-miracles-holiday-and-hits-tour-daytona-beach.jpg",
   "endDate": "2026-12-11"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Kenny G: The Miracles Holiday and Hits Tour, Fort Lauderdale",
   "date": "DECEMBER 13, 7 PM",
@@ -6907,7 +6784,7 @@
   "imageKey": "event-flyers/708-kenny-g-the-miracles-holiday-and-hits-tour-fort-lauderdale.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Matteo Bocelli, Ponte Vedra Beach",
   "date": "DECEMBER 5, 8 PM",
@@ -6924,7 +6801,7 @@
   "imageKey": "event-flyers/709-matteo-bocelli-ponte-vedra-beach.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Dave Koz Christmas, Sarasota",
   "date": "DECEMBER 3, 7 PM",
@@ -6941,7 +6818,7 @@
   "imageKey": "event-flyers/710-dave-koz-christmas-sarasota.jpg",
   "endDate": "2026-12-03"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Dave Koz, Fort Pierce",
   "date": "DECEMBER 5, 8 PM",
@@ -6958,7 +6835,7 @@
   "imageKey": "event-flyers/711-dave-koz-fort-pierce.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Samantha Fish with Cedric Burnside and Daddy Long Legs, Fort Lauderdale",
   "date": "DECEMBER 5, 7 PM",
@@ -6975,7 +6852,7 @@
   "imageKey": "event-flyers/712-samantha-fish-fort-lauderdale.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Allman Betts Family Revival, Sarasota",
   "date": "DECEMBER 13, 7 PM",
@@ -6992,7 +6869,7 @@
   "imageKey": "event-flyers/713-allman-betts-family-revival-sarasota.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Allman Betts Family Revival, Fort Pierce",
   "date": "DECEMBER 15, 7:30 PM",
@@ -7009,7 +6886,7 @@
   "imageKey": "event-flyers/714-allman-betts-family-revival-fort-pierce.jpg",
   "endDate": "2026-12-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "AJ Croce, Fort Myers",
   "date": "NOVEMBER 29, 8 PM",
@@ -7026,7 +6903,7 @@
   "imageKey": "event-flyers/715-aj-croce-fort-myers.jpg",
   "endDate": "2026-11-29"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Tommy Emmanuel with Trey Hensley, Ponte Vedra Beach",
   "date": "DECEMBER 10, 7 PM",
@@ -7043,7 +6920,7 @@
   "imageKey": "event-flyers/716-tommy-emmanuel-ponte-vedra-beach.jpg",
   "endDate": "2026-12-10"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Tommy Emmanuel with Trey Hensley, Orlando",
   "date": "DECEMBER 11, 8 PM",
@@ -7060,7 +6937,7 @@
   "imageKey": "event-flyers/717-tommy-emmanuel-orlando.jpg",
   "endDate": "2026-12-11"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Temptations, Fort Pierce",
   "date": "NOVEMBER 14, 8 PM",
@@ -7077,7 +6954,7 @@
   "imageKey": "event-flyers/719-temptations-fort-pierce.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Straight No Chaser, Sarasota",
   "date": "DECEMBER 28, 7 PM",
@@ -7094,7 +6971,7 @@
   "imageKey": "event-flyers/720-straight-no-chaser-sarasota.jpg",
   "endDate": "2026-12-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Straight No Chaser, Fort Myers",
   "date": "DECEMBER 29, 7:30 PM",
@@ -7111,7 +6988,7 @@
   "imageKey": "event-flyers/721-straight-no-chaser-fort-myers.jpg",
   "endDate": "2026-12-29"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Straight No Chaser, Jacksonville",
   "date": "DECEMBER 30, 7:30 PM",
@@ -7128,7 +7005,7 @@
   "imageKey": "event-flyers/722-straight-no-chaser-jacksonville.jpg",
   "endDate": "2026-12-30"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Straight No Chaser, Fort Pierce",
   "date": "DECEMBER 31, 7:30 PM",
@@ -7145,7 +7022,7 @@
   "imageKey": "event-flyers/723-straight-no-chaser-fort-pierce.jpg",
   "endDate": "2026-12-31"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Lettuce, Miami Beach",
   "date": "DECEMBER 31, 8:30 PM",
@@ -7162,7 +7039,7 @@
   "imageKey": "event-flyers/724-lettuce-miami-beach.jpg",
   "endDate": "2027-01-01"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Pink Martini, Jacksonville",
   "date": "JANUARY 12, 7:30 PM",
@@ -7179,7 +7056,7 @@
   "imageKey": "event-flyers/725-pink-martini-jacksonville.jpg",
   "endDate": "2027-01-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Pink Martini, Fort Lauderdale",
   "date": "JANUARY 17, 7 PM",
@@ -7196,7 +7073,7 @@
   "imageKey": "event-flyers/726-pink-martini-fort-lauderdale.jpg",
   "endDate": "2027-01-17"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Chris Botti, Naples",
   "date": "JANUARY 30, 7:30 PM",
@@ -7213,7 +7090,7 @@
   "imageKey": "event-flyers/727-chris-botti-naples.jpg",
   "endDate": "2027-01-30"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Chris Botti, Fort Lauderdale",
   "date": "JANUARY 31, 7 PM",
@@ -7230,7 +7107,7 @@
   "imageKey": "event-flyers/728-chris-botti-fort-lauderdale.jpg",
   "endDate": "2027-01-31"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Chris Botti, Sarasota",
   "date": "FEBRUARY 3, 7 PM",
@@ -7247,7 +7124,7 @@
   "imageKey": "event-flyers/729-chris-botti-sarasota.jpg",
   "endDate": "2027-02-03"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Chris Botti, Jacksonville",
   "date": "FEBRUARY 4, 7:30 PM",
@@ -7264,7 +7141,7 @@
   "imageKey": "event-flyers/730-chris-botti-jacksonville.jpg",
   "endDate": "2027-02-04"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Temptations, Sarasota",
   "date": "FEBRUARY 16, 7 PM",
@@ -7281,7 +7158,7 @@
   "imageKey": "event-flyers/731-temptations-sarasota.jpg",
   "endDate": "2027-02-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Righteous Brothers, Fort Lauderdale",
   "date": "MARCH 18, 7:30 PM",
@@ -7298,7 +7175,7 @@
   "imageKey": "event-flyers/732-righteous-brothers-fort-lauderdale.jpg",
   "endDate": "2027-03-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Righteous Brothers, Immokalee",
   "date": "MARCH 19, 8 PM",
@@ -7315,7 +7192,7 @@
   "imageKey": "event-flyers/733-righteous-brothers-immokalee.jpg",
   "endDate": "2027-03-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Righteous Brothers, Jacksonville",
   "date": "MARCH 24, 7:30 PM",
@@ -7332,7 +7209,7 @@
   "imageKey": "event-flyers/734-righteous-brothers-jacksonville.jpg",
   "endDate": "2027-03-24"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "American Football, Fort Lauderdale",
   "date": "DECEMBER 11, 7 PM",
@@ -7349,7 +7226,7 @@
   "imageKey": "event-flyers/735-american-football-fort-lauderdale.jpg",
   "endDate": "2026-12-11"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "American Football, Tampa",
   "date": "DECEMBER 12, 7 PM",
@@ -7366,7 +7243,7 @@
   "imageKey": "event-flyers/736-american-football-tampa.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "American Football, Orlando",
   "date": "DECEMBER 13, 8 PM",
@@ -7383,7 +7260,7 @@
   "imageKey": "event-flyers/737-american-football-orlando.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "American Football, Jacksonville",
   "date": "DECEMBER 15, 8 PM",
@@ -7400,7 +7277,7 @@
   "imageKey": "event-flyers/738-american-football-jacksonville.jpg",
   "endDate": "2026-12-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Gillian Welch and David Rawlings, Orlando",
   "date": "JANUARY 17, 7:30 PM",
@@ -7417,7 +7294,7 @@
   "imageKey": "event-flyers/739-gillian-welch-david-rawlings-orlando.jpg",
   "endDate": "2027-01-17"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Gillian Welch and David Rawlings, Fort Lauderdale",
   "date": "JANUARY 18, 7:30 PM",
@@ -7434,7 +7311,7 @@
   "imageKey": "event-flyers/740-gillian-welch-david-rawlings-fort-lauderdale.jpg",
   "endDate": "2027-01-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Gillian Welch and David Rawlings, Clearwater",
   "date": "JANUARY 19, 7:30 PM",
@@ -7451,7 +7328,7 @@
   "imageKey": "event-flyers/741-gillian-welch-david-rawlings-clearwater.jpg",
   "endDate": "2027-01-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Herman's Hermits Starring Peter Noone, Fort Lauderdale",
   "date": "JANUARY 7, 7:30 PM",
@@ -7468,7 +7345,7 @@
   "imageKey": "event-flyers/742-hermans-hermits-fort-lauderdale.jpg",
   "endDate": "2027-01-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Melvin Seals and JGB, Fort Lauderdale",
   "date": "JANUARY 17, 7 PM",
@@ -7485,7 +7362,7 @@
   "imageKey": "event-flyers/743-melvin-seals-jgb-fort-lauderdale.jpg",
   "endDate": "2027-01-17"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Micky Dolenz: 60 Years of the Monkees, Fort Lauderdale",
   "date": "JANUARY 22, 7:30 PM",
@@ -7502,7 +7379,7 @@
   "imageKey": "event-flyers/744-micky-dolenz-fort-lauderdale.jpg",
   "endDate": "2027-01-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Commodores, Sarasota",
   "date": "FEBRUARY 18, 7 PM",
@@ -7519,7 +7396,7 @@
   "imageKey": "event-flyers/745-commodores-sarasota.jpg",
   "endDate": "2027-02-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Micky Dolenz: 60 Years of the Monkees, Ponte Vedra Beach",
   "date": "JANUARY 24, 7 PM",
@@ -7536,7 +7413,7 @@
   "imageKey": "event-flyers/746-micky-dolenz-ponte-vedra-beach.jpg",
   "endDate": "2027-01-24"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Sevendust, St. Petersburg",
   "date": "DECEMBER 29, 7 PM",
@@ -7553,7 +7430,7 @@
   "imageKey": "event-flyers/751-sevendust-st-petersburg.jpg",
   "endDate": "2026-12-29"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Sevendust: WJRR's Heavy New Year, Orlando",
   "date": "DECEMBER 31, 8 PM",
@@ -7570,7 +7447,7 @@
   "imageKey": "event-flyers/752-sevendust-orlando.jpg",
   "endDate": "2026-12-31"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Lemonheads: The Love Chant Tour, Miami",
   "date": "FEBRUARY 17, 7 PM",
@@ -7587,7 +7464,7 @@
   "imageKey": "event-flyers/753-lemonheads-miami.jpg",
   "endDate": "2027-02-17"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Lemonheads: The Love Chant Tour, Orlando",
   "date": "FEBRUARY 19, 7 PM",
@@ -7604,7 +7481,7 @@
   "imageKey": "event-flyers/754-lemonheads-orlando.jpg",
   "endDate": "2027-02-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Styx with Don Felder, St. Augustine",
   "date": "MARCH 5, 7 PM",
@@ -7621,7 +7498,7 @@
   "imageKey": "event-flyers/755-styx-st-augustine.jpg",
   "endDate": "2027-03-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Styx, Hollywood",
   "date": "MARCH 7, 7 PM",
@@ -7638,7 +7515,7 @@
   "imageKey": "event-flyers/756-styx-hollywood.jpg",
   "endDate": "2027-03-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "MercyMe with Ben Fuller and Peter Burton, Pensacola",
   "date": "MARCH 24, 7 PM",
@@ -7655,7 +7532,7 @@
   "imageKey": "event-flyers/757-mercyme-pensacola.jpg",
   "endDate": "2027-03-24"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "MercyMe with Ben Fuller and Peter Burton, Orlando",
   "date": "MARCH 25, 7 PM",
@@ -7672,7 +7549,7 @@
   "imageKey": "event-flyers/758-mercyme-orlando.jpg",
   "endDate": "2027-03-25"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "MercyMe with Ben Fuller and Peter Burton, Tallahassee",
   "date": "MARCH 26, 7 PM",
@@ -7689,24 +7566,7 @@
   "imageKey": "event-flyers/759-mercyme-tallahassee.jpg",
   "endDate": "2027-03-26"
  },
- {
-  "section": "NOVEMBER",
-  "title": "Common With Nu Deco Ensemble, Orlando",
-  "date": "NOVEMBER 13, 8 PM",
-  "headliners": "Common, Nu Deco Ensemble",
-  "venue": "Walt Disney Theater at Dr. Phillips Center, Orlando",
-  "categories": [
-   "Music"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://nu-deco.org/tickets",
-  "flyerUrl": "https://media.ticketmaster.co.uk/tm/en-gb/dam/a/853/5bc5c0d9-dd36-4aa5-a76a-a88013152853_1079091_CUSTOM.jpg",
-  "image": "/events/flyer/761-common-nu-deco-orlando.jpg",
-  "alt": "Common live in Orlando with Nu Deco Ensemble",
-  "imageKey": "event-flyers/761-common-nu-deco-orlando.jpg",
-  "endDate": "2026-11-13"
- },
- {
+{
   "section": "NOVEMBER",
   "title": "Common with Tallahassee Symphony Orchestra, Tallahassee",
   "date": "NOVEMBER 14, 7:30 PM",
@@ -7723,7 +7583,7 @@
   "imageKey": "event-flyers/762-common-tallahassee-symphony-tallahassee.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Insomnium & Amorphis, Orlando",
   "date": "DECEMBER 11, 6:30 PM",
@@ -7740,7 +7600,7 @@
   "imageKey": "event-flyers/763-insomnium-amorphis-orlando.jpg",
   "endDate": "2026-12-11"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Insomnium & Amorphis, Jacksonville",
   "date": "DECEMBER 12, 6:30 PM",
@@ -7757,7 +7617,7 @@
   "imageKey": "event-flyers/764-insomnium-amorphis-jacksonville.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Pete Yorn, Tampa",
   "date": "FEBRUARY 3, 7 PM",
@@ -7774,7 +7634,7 @@
   "imageKey": "event-flyers/765-pete-yorn-tampa.jpg",
   "endDate": "2027-02-03"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Pete Yorn, Orlando",
   "date": "FEBRUARY 4, 7 PM",
@@ -7791,7 +7651,7 @@
   "imageKey": "event-flyers/766-pete-yorn-orlando.jpg",
   "endDate": "2027-02-04"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Pete Yorn, Key West",
   "date": "FEBRUARY 6, 8 PM",
@@ -7808,7 +7668,7 @@
   "imageKey": "event-flyers/767-pete-yorn-key-west.jpg",
   "endDate": "2027-02-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Pete Yorn, Fort Lauderdale",
   "date": "FEBRUARY 7, 8 PM",
@@ -7825,7 +7685,7 @@
   "imageKey": "event-flyers/768-pete-yorn-fort-lauderdale.jpg",
   "endDate": "2027-02-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Jorge Celedon: La Historia Mia, Orlando",
   "date": "FEBRUARY 26, 8 PM",
@@ -7842,7 +7702,7 @@
   "imageKey": "event-flyers/769-jorge-celedon-orlando.jpg",
   "endDate": "2027-02-26"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Jorge Celedon: La Historia Mia, Doral",
   "date": "FEBRUARY 27, 8 PM",
@@ -7859,7 +7719,7 @@
   "imageKey": "event-flyers/770-jorge-celedon-doral.jpg",
   "endDate": "2027-02-27"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Jack & Jack, Tampa",
   "date": "MARCH 10, 8 PM",
@@ -7876,7 +7736,7 @@
   "imageKey": "event-flyers/771-jack-and-jack-tampa.jpg",
   "endDate": "2027-03-10"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Jack & Jack, Orlando",
   "date": "MARCH 11, 8 PM",
@@ -7893,7 +7753,7 @@
   "imageKey": "event-flyers/772-jack-and-jack-orlando.jpg",
   "endDate": "2027-03-11"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Brit Floyd, Jacksonville",
   "date": "MARCH 27, 8 PM",
@@ -7910,7 +7770,7 @@
   "imageKey": "event-flyers/773-brit-floyd-jacksonville.jpg",
   "endDate": "2027-03-27"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "R&B ONLY LIVE, Miami Beach",
   "date": "DECEMBER 19, 8 PM TO 1 AM",
@@ -7927,7 +7787,7 @@
   "imageKey": "event-flyers/775-rnb-only-live-miami-beach.jpg",
   "endDate": "2026-12-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "La Mafia: Epic Tour 46, Miami",
   "date": "NOVEMBER 21, 8 PM",
@@ -7944,7 +7804,7 @@
   "imageKey": "event-flyers/776-la-mafia-miami.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Pimpinela: USA Tour Leyendas, Miami",
   "date": "NOVEMBER 22, 8 PM",
@@ -7961,7 +7821,7 @@
   "imageKey": "event-flyers/777-pimpinela-miami.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Willy Chirino & Lissette: Navidad en Familia, Miami Beach",
   "date": "DECEMBER 5, 8 PM",
@@ -7978,7 +7838,7 @@
   "imageKey": "event-flyers/778-willy-chirino-lissette-miami-beach.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "El Cuarteto de Nos, Miami Beach",
   "date": "NOVEMBER 14, 8 PM",
@@ -7995,7 +7855,7 @@
   "imageKey": "event-flyers/779-el-cuarteto-de-nos-miami-beach.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Dany Ome & Kevincito El 13: Tendencia US Tour 2026, Orlando",
   "date": "NOVEMBER 27, 10 PM",
@@ -8012,7 +7872,7 @@
   "imageKey": "event-flyers/780-dany-ome-kevincito-orlando.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Leoni Torres, Miami",
   "date": "FEBRUARY 13, 8 PM",
@@ -8029,7 +7889,7 @@
   "imageKey": "event-flyers/781-leoni-torres-miami.jpg",
   "endDate": "2027-02-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Alvaro Torres, Miami",
   "date": "FEBRUARY 14, 7 PM",
@@ -8046,41 +7906,7 @@
   "imageKey": "event-flyers/782-alvaro-torres-miami.jpg",
   "endDate": "2027-02-14"
  },
- {
-  "section": "NOVEMBER",
-  "title": "Hot Mulligan, Miami Beach",
-  "date": "NOVEMBER 13, 7 PM",
-  "headliners": "Hot Mulligan",
-  "venue": "Miami Beach Bandshell, Miami Beach",
-  "categories": [
-   "Music"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
-  "flyerUrl": "https://s1.ticketm.net/dam/a/d5f/25f3ce49-b3ab-44c8-9494-df6c20eddd5f_RETINA_PORTRAIT_3_2.jpg",
-  "image": "/events/flyer/783-hot-mulligan-miami-beach.jpg",
-  "alt": "Hot Mulligan live in Miami Beach",
-  "imageKey": "event-flyers/783-hot-mulligan-miami-beach.jpg",
-  "endDate": "2026-11-13"
- },
- {
-  "section": "NOVEMBER",
-  "title": "The Faint, Miami",
-  "date": "NOVEMBER 13, 7 PM",
-  "headliners": "The Faint",
-  "venue": "Las Rosas, Miami",
-  "categories": [
-   "Music"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://www.ticketmaster.com/the-faint-billets/artist/717900",
-  "flyerUrl": "https://s1.ticketm.net/dam/a/aad/3254c4c5-53ca-4e68-b192-94ae8bb37aad_RETINA_PORTRAIT_3_2.jpg",
-  "image": "/events/flyer/784-the-faint-miami.jpg",
-  "alt": "The Faint live in Miami",
-  "imageKey": "event-flyers/784-the-faint-miami.jpg",
-  "endDate": "2026-11-13"
- },
- {
+{
   "section": "NOVEMBER",
   "title": "George Clanton, Miami",
   "date": "NOVEMBER 16, 8 PM",
@@ -8097,7 +7923,7 @@
   "imageKey": "event-flyers/785-george-clanton-miami.jpg",
   "endDate": "2026-11-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "George Clanton, Orlando",
   "date": "NOVEMBER 18, 7 PM",
@@ -8114,7 +7940,7 @@
   "imageKey": "event-flyers/786-george-clanton-orlando.jpg",
   "endDate": "2026-11-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Voyage: Celebrating The Music of Journey, Fort Lauderdale",
   "date": "DECEMBER 11, 7:30 PM",
@@ -8131,7 +7957,7 @@
   "imageKey": "event-flyers/787-voyage-fort-lauderdale.jpg",
   "endDate": "2026-12-11"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Voyage: Celebrating The Music of Journey, Orlando",
   "date": "DECEMBER 12, 7:30 PM",
@@ -8148,7 +7974,7 @@
   "imageKey": "event-flyers/788-voyage-orlando.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Sister Hazel, Ponte Vedra Beach",
   "date": "JANUARY 14, 8 PM",
@@ -8165,7 +7991,7 @@
   "imageKey": "event-flyers/789-sister-hazel-ponte-vedra-beach.jpg",
   "endDate": "2027-01-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Sister Hazel, Fort Lauderdale",
   "date": "JANUARY 15, 7:30 PM",
@@ -8182,7 +8008,7 @@
   "imageKey": "event-flyers/790-sister-hazel-fort-lauderdale.jpg",
   "endDate": "2027-01-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Sister Hazel, Orlando",
   "date": "JANUARY 16, 7 PM",
@@ -8199,7 +8025,7 @@
   "imageKey": "event-flyers/791-sister-hazel-orlando.jpg",
   "endDate": "2027-01-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Yacht Rock Revue, Key West",
   "date": "JANUARY 20, 7:30 PM",
@@ -8216,7 +8042,7 @@
   "imageKey": "event-flyers/792-yacht-rock-revue-key-west.jpg",
   "endDate": "2027-01-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Yacht Rock Revue, Fort Lauderdale",
   "date": "JANUARY 21, 7:30 PM",
@@ -8233,7 +8059,7 @@
   "imageKey": "event-flyers/793-yacht-rock-revue-fort-lauderdale.jpg",
   "endDate": "2027-01-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Yacht Rock Revue, Fort Myers",
   "date": "JANUARY 22, 7:30 PM",
@@ -8250,7 +8076,7 @@
   "imageKey": "event-flyers/794-yacht-rock-revue-fort-myers.jpg",
   "endDate": "2027-01-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Yacht Rock Revue, Orlando",
   "date": "JANUARY 26, 7 PM",
@@ -8267,7 +8093,7 @@
   "imageKey": "event-flyers/795-yacht-rock-revue-orlando.jpg",
   "endDate": "2027-01-26"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Yacht Rock Revue, Melbourne",
   "date": "JANUARY 27, 7:30 PM",
@@ -8284,7 +8110,7 @@
   "imageKey": "event-flyers/796-yacht-rock-revue-melbourne.jpg",
   "endDate": "2027-01-27"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Yacht Rock Revue, Jacksonville",
   "date": "JANUARY 29, 7:30 PM",
@@ -8301,7 +8127,7 @@
   "imageKey": "event-flyers/797-yacht-rock-revue-jacksonville.jpg",
   "endDate": "2027-01-29"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Nonpoint, Fort Lauderdale",
   "date": "JANUARY 30, 7 PM",
@@ -8318,7 +8144,7 @@
   "imageKey": "event-flyers/798-nonpoint-fort-lauderdale.jpg",
   "endDate": "2027-01-30"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Dinosaur Jr., Orlando",
   "date": "FEBRUARY 23, 7:30 PM",
@@ -8335,7 +8161,7 @@
   "imageKey": "event-flyers/799-dinosaur-jr-orlando.jpg",
   "endDate": "2027-02-23"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Jerk and Jam Festival, Gainesville",
   "date": "NOVEMBER 14 TO 15, 12 PM TO 6 PM",
@@ -8352,7 +8178,7 @@
   "imageKey": "event-flyers/800-jerk-and-jam-festival-gainesville.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "People's Choice Seafood Foodie Fest, Lakeland",
   "date": "NOVEMBER 21, 2 PM TO 8 PM",
@@ -8369,7 +8195,7 @@
   "imageKey": "event-flyers/801-peoples-choice-seafood-foodie-fest-lakeland.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Underoath, Tampa",
   "date": "DECEMBER 18, 6 PM",
@@ -8386,24 +8212,7 @@
   "imageKey": "event-flyers/802-underoath-tampa.jpg",
   "endDate": "2026-12-18"
  },
- {
-  "section": "NOVEMBER",
-  "title": "Avery Anna, Jacksonville",
-  "date": "NOVEMBER 13, 8 PM",
-  "headliners": "Avery Anna",
-  "venue": "FIVE, Jacksonville",
-  "categories": [
-   "Music"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://www.ticketmaster.com/avery-anna-tickets/artist/2880441",
-  "flyerUrl": "https://s1.ticketm.net/dam/a/cd1/a54b0fa1-4896-4405-af3a-e3ad915a5cd1_RETINA_PORTRAIT_3_2.jpg",
-  "image": "/events/flyer/810-avery-anna-jacksonville.jpg",
-  "alt": "Avery Anna live in Jacksonville",
-  "imageKey": "event-flyers/810-avery-anna-jacksonville.jpg",
-  "endDate": "2026-11-13"
- },
- {
+{
   "section": "NOVEMBER",
   "title": "Avery Anna, Orlando",
   "date": "NOVEMBER 14, 7 PM",
@@ -8420,7 +8229,7 @@
   "imageKey": "event-flyers/811-avery-anna-orlando.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "LOCASH, Jacksonville",
   "date": "NOVEMBER 15, 7 PM",
@@ -8437,7 +8246,7 @@
   "imageKey": "event-flyers/812-locash-jacksonville.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Blue October, Jacksonville",
   "date": "NOVEMBER 19, 8 PM",
@@ -8454,7 +8263,7 @@
   "imageKey": "event-flyers/813-blue-october-jacksonville.jpg",
   "endDate": "2026-11-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Blue October, Clearwater",
   "date": "NOVEMBER 20, 8 PM",
@@ -8471,7 +8280,7 @@
   "imageKey": "event-flyers/814-blue-october-clearwater.jpg",
   "endDate": "2026-11-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Blue October, Orlando",
   "date": "NOVEMBER 21, 8 PM",
@@ -8488,7 +8297,7 @@
   "imageKey": "event-flyers/815-blue-october-orlando.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "KOTA The Friend, Jacksonville",
   "date": "DECEMBER 4, 8 PM",
@@ -8505,7 +8314,7 @@
   "imageKey": "event-flyers/816-kota-the-friend-jacksonville.jpg",
   "endDate": "2026-12-04"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Antonio Orozco, Miami Beach",
   "date": "MARCH 4, 8 PM",
@@ -8522,7 +8331,7 @@
   "imageKey": "event-flyers/817-antonio-orozco-miami-beach.jpg",
   "endDate": "2027-03-04"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Dancing with the Stars Live, Orlando",
   "date": "MARCH 6, 7:30 PM",
@@ -8539,7 +8348,7 @@
   "imageKey": "event-flyers/818-dancing-with-the-stars-live-orlando.jpg",
   "endDate": "2027-03-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Dancing with the Stars Live, Tampa",
   "date": "MARCH 9, 7:30 PM",
@@ -8557,7 +8366,7 @@
   "imageKey": "event-flyers/819-dancing-with-the-stars-live-tampa.jpg",
   "endDate": "2027-03-09"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Rod Stewart, St. Augustine",
   "date": "MARCH 16, 7:30 PM",
@@ -8575,24 +8384,7 @@
   "imageKey": "event-flyers/820-rod-stewart-st-augustine.jpg",
   "endDate": "2027-03-16"
  },
- {
-  "section": "NOVEMBER",
-  "title": "311, Jacksonville",
-  "date": "NOVEMBER 13, 7 PM",
-  "headliners": "311, Sitting On Saturn",
-  "venue": "Jax Amphitheater, Jacksonville",
-  "categories": [
-   "Music"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://jacksonvillefair.com/event/311-with-guests-sitting-on-saturn/jax-amphitheater/",
-  "flyerUrl": "https://jacksonvillefair.com/wp-content/uploads/2026/08/311-with-guests-sitting-on-saturn.jpeg",
-  "image": "/events/flyer/827-311-jacksonville.jpg",
-  "alt": "311 with Sitting On Saturn live in Jacksonville at the Jacksonville Fair",
-  "imageKey": "event-flyers/827-311-jacksonville.jpg",
-  "endDate": "2026-11-13"
- },
- {
+{
   "section": "NOVEMBER",
   "title": "LOCASH, Melbourne",
   "date": "NOVEMBER 14, 5:30 PM",
@@ -8609,7 +8401,7 @@
   "imageKey": "event-flyers/828-locash-melbourne.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "LOCASH, Sarasota",
   "date": "DECEMBER 5, 8:45 PM",
@@ -8626,7 +8418,7 @@
   "imageKey": "event-flyers/829-locash-sarasota.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Unwrapped: An Acoustic Holiday, St. Augustine",
   "date": "DECEMBER 1, 6 PM",
@@ -8643,7 +8435,7 @@
   "imageKey": "event-flyers/830-unwrapped-an-acoustic-holiday-st-augustine.jpg",
   "endDate": "2026-12-01"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Roger Waters Presents LEGACY: A Pink Floyd Show, Clearwater",
   "date": "FEBRUARY 17, 7 PM",
@@ -8660,7 +8452,7 @@
   "imageKey": "event-flyers/831-roger-waters-presents-legacy-clearwater.jpg",
   "endDate": "2027-02-17"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Roger Waters Presents LEGACY: A Pink Floyd Show, Fort Myers",
   "date": "FEBRUARY 19, 7 PM",
@@ -8677,7 +8469,7 @@
   "imageKey": "event-flyers/832-roger-waters-presents-legacy-fort-myers.jpg",
   "endDate": "2027-02-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Roger Waters Presents LEGACY: A Pink Floyd Show, St. Augustine",
   "date": "FEBRUARY 20, 7:30 PM",
@@ -8694,7 +8486,7 @@
   "imageKey": "event-flyers/833-roger-waters-presents-legacy-st-augustine.jpg",
   "endDate": "2027-02-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Roger Waters Presents LEGACY: A Pink Floyd Show, Fort Lauderdale",
   "date": "FEBRUARY 21, 7 PM",
@@ -8711,7 +8503,7 @@
   "imageKey": "event-flyers/834-roger-waters-presents-legacy-fort-lauderdale.jpg",
   "endDate": "2027-02-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Dancing with the Stars Live, Sunrise",
   "date": "MARCH 5, 7:30 PM",
@@ -8728,7 +8520,7 @@
   "imageKey": "event-flyers/835-dancing-with-the-stars-live-sunrise.jpg",
   "endDate": "2027-03-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Little Stranger with Shwayze, Jacksonville",
   "date": "MARCH 5, 8 PM",
@@ -8745,7 +8537,7 @@
   "imageKey": "event-flyers/836-little-stranger-jacksonville.jpg",
   "endDate": "2027-03-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Little Stranger, Orlando",
   "date": "MARCH 6, 7 PM",
@@ -8762,7 +8554,7 @@
   "imageKey": "event-flyers/837-little-stranger-orlando.jpg",
   "endDate": "2027-03-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Corey Smith, Destin",
   "date": "MARCH 18, 8 PM",
@@ -8779,7 +8571,7 @@
   "imageKey": "event-flyers/838-corey-smith-destin.jpg",
   "endDate": "2027-03-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Ho99o9 & N8NOFACE, Miami",
   "date": "NOVEMBER 20, 7 PM",
@@ -8796,7 +8588,7 @@
   "imageKey": "event-flyers/839-ho99o9-n8noface-miami.jpg",
   "endDate": "2026-11-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Ho99o9 & N8NOFACE, Winter Park",
   "date": "NOVEMBER 21, 7 PM",
@@ -8813,7 +8605,7 @@
   "imageKey": "event-flyers/840-ho99o9-n8noface-winter-park.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "AJ McLean presents Alexander James, Orlando",
   "date": "NOVEMBER 22, 8 PM",
@@ -8830,7 +8622,7 @@
   "imageKey": "event-flyers/841-aj-mclean-orlando.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "AJ McLean presents Alexander James, Fort Lauderdale",
   "date": "NOVEMBER 24, 7 PM",
@@ -8847,7 +8639,7 @@
   "imageKey": "event-flyers/842-aj-mclean-fort-lauderdale.jpg",
   "endDate": "2026-11-24"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Alex Jean, Orlando",
   "date": "NOVEMBER 27, 8 PM",
@@ -8864,7 +8656,7 @@
   "imageKey": "event-flyers/843-alex-jean-orlando.jpg",
   "endDate": "2026-11-27"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Roger Waters Presents LEGACY: A Pink Floyd Show, Orlando",
   "date": "FEBRUARY 23, 7:30 PM",
@@ -8881,7 +8673,7 @@
   "imageKey": "event-flyers/844-roger-waters-presents-legacy-orlando.jpg",
   "endDate": "2027-02-23"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "KC & the Sunshine Band, Clearwater",
   "date": "FEBRUARY 26, 8 PM",
@@ -8898,7 +8690,7 @@
   "imageKey": "event-flyers/845-kc-sunshine-band-clearwater.jpg",
   "endDate": "2027-02-26"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "KC & the Sunshine Band, Orlando",
   "date": "FEBRUARY 27, 7:30 PM",
@@ -8915,7 +8707,7 @@
   "imageKey": "event-flyers/846-kc-sunshine-band-orlando.jpg",
   "endDate": "2027-02-27"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "NEEDTOBREATHE, Orlando",
   "date": "MARCH 14, 7 PM",
@@ -8932,7 +8724,7 @@
   "imageKey": "event-flyers/847-needtobreathe-orlando.jpg",
   "endDate": "2027-03-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "RuPaul's Drag Race Werq The World, Orlando",
   "date": "FEBRUARY 20, 8 PM",
@@ -8949,7 +8741,7 @@
   "imageKey": "event-flyers/848-rupauls-drag-race-werq-the-world-orlando.jpg",
   "endDate": "2027-02-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "RuPaul's Drag Race Werq The World, Pensacola",
   "date": "FEBRUARY 21, 7:30 PM",
@@ -8966,7 +8758,7 @@
   "imageKey": "event-flyers/849-rupauls-drag-race-werq-the-world-pensacola.jpg",
   "endDate": "2027-02-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "R&B ONLY LIVE, Orlando",
   "date": "JANUARY 30, 8 PM TO 1 AM",
@@ -8984,7 +8776,7 @@
   "imageKey": "event-flyers/850-rb-only-live-orlando.jpg",
   "endDate": "2027-01-31"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Pepsi National Battle of the Bands, Boca Raton",
   "date": "JANUARY 16, 3 PM",
@@ -9001,7 +8793,7 @@
   "imageKey": "event-flyers/851-pepsi-national-battle-of-the-bands-boca-raton.jpg",
   "endDate": "2027-01-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "RuPaul's Drag Race Werq The World, Jacksonville",
   "date": "FEBRUARY 18, 8 PM",
@@ -9018,7 +8810,7 @@
   "imageKey": "event-flyers/852-rupauls-drag-race-werq-the-world-jacksonville.jpg",
   "endDate": "2027-02-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "RuPaul's Drag Race Werq The World, Clearwater",
   "date": "FEBRUARY 19, 8 PM",
@@ -9035,7 +8827,7 @@
   "imageKey": "event-flyers/853-rupauls-drag-race-werq-the-world-clearwater.jpg",
   "endDate": "2027-02-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "2nd Annual Treasure Coast Holiday Food Fest & Craft Fair",
   "date": "DECEMBER 12, 12 PM TO 9 PM",
@@ -9054,7 +8846,7 @@
   "imageKey": "event-flyers/860-treasure-coast-holiday-food-fest.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "3rd Annual Treasure Coast Food Fest & Craft Fair",
   "date": "JANUARY 9, 12 PM TO 9 PM",
@@ -9073,7 +8865,7 @@
   "imageKey": "event-flyers/861-treasure-coast-food-fest-craft-fair.jpg",
   "endDate": "2027-01-09"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "7th Annual 321: Food Fest & Craft Fair",
   "date": "FEBRUARY 13, 12 PM TO 8 PM AND FEBRUARY 14, 11 AM TO 6 PM",
@@ -9092,7 +8884,7 @@
   "imageKey": "event-flyers/862-321-food-fest-craft-fair.jpg",
   "endDate": "2027-02-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Space Coast Holiday Food Fest & Craft Fair",
   "date": "DECEMBER 5, 12 PM TO 9 PM",
@@ -9111,7 +8903,7 @@
   "imageKey": "event-flyers/863-space-coast-holiday-food-fest.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "CARIB WINTER: An All Inclusive Christmas Party",
   "date": "DECEMBER 13, 5 PM TO 9 PM",
@@ -9130,7 +8922,7 @@
   "imageKey": "event-flyers/864-carib-winter-jacksonville.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Mural Masters Miami 2026",
   "date": "DECEMBER 4 TO 5, 2 PM TO 6 PM",
@@ -9148,7 +8940,7 @@
   "imageKey": "event-flyers/865-mural-masters-miami.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Gingerbread Wars 5",
   "date": "DECEMBER 7, 6 PM TO 9:30 PM",
@@ -9166,7 +8958,7 @@
   "imageKey": "event-flyers/866-gingerbread-wars-5-fort-lauderdale.jpg",
   "endDate": "2026-12-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Festival del Platano, Miami",
   "date": "NOVEMBER 15, 12 PM TO 6 PM",
@@ -9185,7 +8977,7 @@
   "imageKey": "event-flyers/869-festival-del-platano-miami.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "20th Annual Barktoberfest, Pensacola",
   "date": "NOVEMBER 15, 10 AM TO 4 PM",
@@ -9203,7 +8995,7 @@
   "imageKey": "event-flyers/872-barktoberfest-pensacola.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "David Guetta: New Years Eve at Fontainebleau Miami Beach",
   "date": "DECEMBER 31, 9 PM TO 2 AM",
@@ -9221,7 +9013,7 @@
   "imageKey": "event-flyers/873-david-guetta-nye-fontainebleau.jpg",
   "endDate": "2027-01-01"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Hillsborough County Fair",
   "date": "NOVEMBER 5 TO 15",
@@ -9239,7 +9031,7 @@
   "imageKey": "event-flyers/874-hillsborough-county-fair-dover.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Wellen Park Wine Festival",
   "date": "NOVEMBER 14, 1 PM TO 4 PM",
@@ -9257,7 +9049,7 @@
   "imageKey": "event-flyers/876-wellen-park-wine-festival-venice.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "FusionFest 2026",
   "date": "NOVEMBER 28 TO 29",
@@ -9276,7 +9068,7 @@
   "imageKey": "event-flyers/878-fusionfest-orlando.jpg",
   "endDate": "2026-11-29"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Winter Jam 2027, Jacksonville",
   "date": "JANUARY 15",
@@ -9294,7 +9086,7 @@
   "imageKey": "event-flyers/879-winter-jam-2027-jacksonville.jpg",
   "endDate": "2027-01-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Winter Jam 2027, Tampa",
   "date": "JANUARY 16, 6 PM",
@@ -9312,7 +9104,7 @@
   "imageKey": "event-flyers/880-winter-jam-2027-tampa.jpg",
   "endDate": "2027-01-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "National Singer-Songwriter Competition",
   "date": "FEBRUARY 5, 6 PM TO 8 PM",
@@ -9330,7 +9122,7 @@
   "imageKey": "event-flyers/881-national-singer-songwriter-competition-davie.jpg",
   "endDate": "2027-02-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "South Florida Singer-Songwriter Competition",
   "date": "JANUARY 10, 2 PM TO 5 PM",
@@ -9348,7 +9140,7 @@
   "imageKey": "event-flyers/882-south-florida-singer-songwriter-competition-hollywood.jpg",
   "endDate": "2027-01-10"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Sarasota Medieval Fair",
   "date": "NOVEMBER 7 TO DECEMBER 6, WEEKENDS, 9:45 AM TO 5:30 PM",
@@ -9365,7 +9157,7 @@
   "imageKey": "event-flyers/884-sarasota-medieval-fair.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Tortuga Music Festival 2027",
   "date": "APRIL 2 TO 4, 2027",
@@ -9382,7 +9174,7 @@
   "imageKey": "event-flyers/885-tortuga-music-festival-2027.jpg",
   "endDate": "2027-04-04"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "30th Annual Lakeland Pigfest",
   "date": "JANUARY 22 TO 23, 2027",
@@ -9400,7 +9192,7 @@
   "imageKey": "event-flyers/886-lakeland-pigfest.jpg",
   "endDate": "2027-01-23"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Volusia County Fair and Youth Show",
   "date": "NOVEMBER 5 TO 15",
@@ -9417,7 +9209,7 @@
   "imageKey": "event-flyers/887-volusia-county-fair.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "2nd Annual Mac & Cheese Cook-Off",
   "date": "NOVEMBER 14, 6 PM TO 8 PM",
@@ -9435,7 +9227,7 @@
   "imageKey": "event-flyers/889-2nd-annual-mac-and-cheese-cook-off-fort-lauderdale.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Hurricane Wisdom: Weathering The World",
   "date": "NOVEMBER 24, 8 PM",
@@ -9452,7 +9244,7 @@
   "imageKey": "event-flyers/890-hurricane-wisdom-weathering-the-world-tampa.jpg",
   "endDate": "2026-11-24"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Florida Manatee Festival",
   "date": "JANUARY 16 TO 17, 2027, SATURDAY 9 AM TO 5 PM, SUNDAY 9 AM TO 4 PM",
@@ -9470,7 +9262,7 @@
   "imageKey": "event-flyers/891-florida-manatee-festival.jpg",
   "endDate": "2027-01-17"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Central Florida Fair",
   "date": "MARCH 4 TO 14, 2027",
@@ -9487,7 +9279,7 @@
   "imageKey": "event-flyers/892-central-florida-fair.jpg",
   "endDate": "2027-03-14"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "33rd Annual Super Chili Bowl Cook-Off",
   "date": "FEBRUARY 13, 12 PM TO 2 PM",
@@ -9505,7 +9297,7 @@
   "imageKey": "event-flyers/893-flora-bama-super-chili-bowl-cook-off-pensacola.jpg",
   "endDate": "2027-02-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Kodak Black at DAER Nightclub",
   "date": "NOVEMBER 13, 10 PM",
@@ -9523,7 +9315,7 @@
   "imageKey": "event-flyers/894-kodak-black-daer-nightclub.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Fabolous at DAER Nightclub",
   "date": "NOVEMBER 20, 10 PM",
@@ -9541,7 +9333,7 @@
   "imageKey": "event-flyers/895-fabolous-daer-nightclub.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Snoop Dogg at DAER Nightclub",
   "date": "DECEMBER 11, 10 PM",
@@ -9559,7 +9351,7 @@
   "imageKey": "event-flyers/896-snoop-dogg-daer-nightclub.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Rock the Universe 2027",
   "date": "JANUARY 22 AND 23, 4 PM TO 1 AM",
@@ -9577,7 +9369,7 @@
   "imageKey": "event-flyers/897-rock-the-universe-2027-orlando.jpg",
   "endDate": "2027-01-23"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "SIDEPIECE at The Ritz Ybor",
   "date": "NOVEMBER 21, 10 PM TO 3 AM",
@@ -9595,7 +9387,7 @@
   "imageKey": "event-flyers/898-sidepiece-at-the-ritz-ybor.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Tinlicker DJ Set at The Ritz Ybor",
   "date": "DECEMBER 12, 10 PM TO 3 AM",
@@ -9613,7 +9405,7 @@
   "imageKey": "event-flyers/899-tinlicker-dj-set-at-the-ritz-ybor.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Deathpact: From Darkness, Comes Light: Eclipsed",
   "date": "DECEMBER 18, 10 PM TO 3 AM",
@@ -9631,7 +9423,7 @@
   "imageKey": "event-flyers/900-deathpact-at-the-ritz-ybor.jpg",
   "endDate": "2026-12-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Svdden Death at The Ritz Ybor",
   "date": "DECEMBER 26, 10 PM TO 3 AM",
@@ -9649,7 +9441,7 @@
   "imageKey": "event-flyers/901-svdden-death-at-the-ritz-ybor.jpg",
   "endDate": "2026-12-27"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Discip: NYE at The Ritz Ybor",
   "date": "DECEMBER 31, 10 PM TO 2:45 AM",
@@ -9667,7 +9459,7 @@
   "imageKey": "event-flyers/902-discip-nye-at-the-ritz-ybor.jpg",
   "endDate": "2027-01-01"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Feid: FERXXO The Green Star Tour, Orlando",
   "date": "FEBRUARY 5, 8 PM",
@@ -9684,7 +9476,7 @@
   "imageKey": "event-flyers/903-feid-ferxxo-the-green-star-tour.jpg",
   "endDate": "2027-02-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Feid: FERXXO The Green Star Tour, Tampa",
   "date": "FEBRUARY 6, 8 PM",
@@ -9701,7 +9493,7 @@
   "imageKey": "event-flyers/903-feid-ferxxo-the-green-star-tour.jpg",
   "endDate": "2027-02-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Feid: FERXXO The Green Star Tour, Miami",
   "date": "FEBRUARY 11, 8 PM",
@@ -9718,7 +9510,7 @@
   "imageKey": "event-flyers/903-feid-ferxxo-the-green-star-tour.jpg",
   "endDate": "2027-02-11"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "HEYZ: The Something Different Tour at The Ritz Ybor",
   "date": "JANUARY 22, 10 PM TO 2:45 AM",
@@ -9736,7 +9528,7 @@
   "imageKey": "event-flyers/904-heyz-at-the-ritz-ybor.jpg",
   "endDate": "2027-01-23"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Bryce Alakai at The Ritz Ybor",
   "date": "NOVEMBER 14, 10 PM TO 3 AM",
@@ -9754,7 +9546,7 @@
   "imageKey": "event-flyers/905-bryce-alakai-at-the-ritz-ybor.jpg",
   "endDate": "2026-11-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Bryce Alakai at The Ritz Ybor Night 2",
   "date": "NOVEMBER 15, 10 PM TO 3 AM",
@@ -9772,7 +9564,7 @@
   "imageKey": "event-flyers/905-bryce-alakai-at-the-ritz-ybor.jpg",
   "endDate": "2026-11-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Know Good at The Ritz Ybor",
   "date": "NOVEMBER 20, 10 PM TO 3 AM",
@@ -9790,7 +9582,7 @@
   "imageKey": "event-flyers/906-know-good-at-the-ritz-ybor.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "DJ Meredith Marks at The Ritz Ybor",
   "date": "NOVEMBER 28, 8 PM",
@@ -9808,7 +9600,7 @@
   "imageKey": "event-flyers/907-dj-meredith-marks-at-the-ritz-ybor.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Close Friends Only at The Ritz Ybor",
   "date": "DECEMBER 4, 10:30 PM TO 3 AM",
@@ -9826,7 +9618,7 @@
   "imageKey": "event-flyers/908-close-friends-only-at-the-ritz-ybor.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Out Of Office at The Ritz Ybor",
   "date": "DECEMBER 5, 5 PM TO 9 PM",
@@ -9844,7 +9636,7 @@
   "imageKey": "event-flyers/909-out-of-office-at-the-ritz-ybor.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "GorillaT presents The Inner Mind Tour at The Ritz Ybor",
   "date": "DECEMBER 11, 10 PM TO 3 AM",
@@ -9862,7 +9654,7 @@
   "imageKey": "event-flyers/910-gorillat-at-the-ritz-ybor.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "2nd Annual South Florida Hospitality & Tourism Summit",
   "date": "DECEMBER 12, 8 AM TO 5 PM",
@@ -9879,7 +9671,7 @@
   "imageKey": "event-flyers/911-south-florida-hospitality-tourism-summit.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Central Florida Flavor Fest & Craft Fair",
   "date": "FEBRUARY 6, 12 PM TO 9 PM",
@@ -9897,7 +9689,7 @@
   "imageKey": "event-flyers/912-central-florida-flavor-fest-winter-springs.jpg",
   "endDate": "2027-02-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Bumpin Uglies at Jannus Live",
   "date": "JANUARY 30, 7 PM TO 11 PM",
@@ -9914,7 +9706,7 @@
   "imageKey": "event-flyers/913-bumpin-uglies-jannus-live.jpg",
   "endDate": "2027-01-30"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Tropidelic: A New Dawn Tour at Jannus Live",
   "date": "FEBRUARY 5, 7 PM TO 11 PM",
@@ -9931,7 +9723,7 @@
   "imageKey": "event-flyers/914-tropidelic-jannus-live.jpg",
   "endDate": "2027-02-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Tropidelic: A New Dawn Tour, St. Augustine",
   "date": "FEBRUARY 7, 6 PM TO 10 PM",
@@ -9948,7 +9740,7 @@
   "imageKey": "event-flyers/915-tropidelic-st-augustine.jpg",
   "endDate": "2027-02-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Gryffin at The Cuban Club",
   "date": "JANUARY 2, 8 PM TO 1 AM",
@@ -9966,7 +9758,7 @@
   "imageKey": "event-flyers/916-gryffin-at-the-cuban-club.jpg",
   "endDate": "2027-01-03"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The String Cheese Incident: Say Cheese Tour, Jacksonville",
   "date": "JANUARY 14, 7:15 PM",
@@ -9983,7 +9775,7 @@
   "imageKey": "event-flyers/917-the-string-cheese-incident-say-cheese-tour.jpg",
   "endDate": "2027-01-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The String Cheese Incident: Say Cheese Tour, Fort Lauderdale",
   "date": "JANUARY 15, 7:15 PM",
@@ -10000,7 +9792,7 @@
   "imageKey": "event-flyers/917-the-string-cheese-incident-say-cheese-tour.jpg",
   "endDate": "2027-01-15"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The String Cheese Incident: Say Cheese Tour, St. Petersburg",
   "date": "JANUARY 16, 7:15 PM",
@@ -10017,7 +9809,7 @@
   "imageKey": "event-flyers/917-the-string-cheese-incident-say-cheese-tour.jpg",
   "endDate": "2027-01-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The String Cheese Incident: Say Cheese Tour, St. Petersburg Night 2",
   "date": "JANUARY 17, 7:15 PM",
@@ -10034,7 +9826,7 @@
   "imageKey": "event-flyers/917-the-string-cheese-incident-say-cheese-tour.jpg",
   "endDate": "2027-01-17"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Surfer Girl at Jannus Live",
   "date": "FEBRUARY 12, 7 PM TO 11 PM",
@@ -10051,7 +9843,7 @@
   "imageKey": "event-flyers/918-surfer-girl-at-jannus-live.jpg",
   "endDate": "2027-02-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Club 90s presents 2000s Night at The Ritz Ybor",
   "date": "JANUARY 16, 9:30 PM TO 1 AM",
@@ -10069,7 +9861,7 @@
   "imageKey": "event-flyers/919-club-90s-2000s-night-at-the-ritz-ybor.jpg",
   "endDate": "2027-01-17"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Dayshift at The Ritz Ybor",
   "date": "JANUARY 23, 5 PM TO 9 PM",
@@ -10087,7 +9879,7 @@
   "imageKey": "event-flyers/920-dayshift-at-the-ritz-ybor.jpg",
   "endDate": "2027-01-23"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Sunset On The River Music & Arts Festival",
   "date": "FEBRUARY 20 TO 21, 3 PM TO 11:30 PM",
@@ -10105,7 +9897,7 @@
   "imageKey": "event-flyers/921-sunset-on-the-river-music-arts-festival-tampa.jpg",
   "endDate": "2027-02-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Richard Finger at The Ritz Ybor",
   "date": "FEBRUARY 26, 10 PM TO 3 AM",
@@ -10123,7 +9915,7 @@
   "imageKey": "event-flyers/922-richard-finger-at-the-ritz-ybor.jpg",
   "endDate": "2027-02-27"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Ricky Montgomery: The Monty Tour at The Ritz Ybor",
   "date": "APRIL 10, 7 PM",
@@ -10140,7 +9932,7 @@
   "imageKey": "event-flyers/923-ricky-montgomery-the-monty-tour-at-the-ritz-ybor.jpg",
   "endDate": "2027-04-10"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Currents at Jannus Live",
   "date": "MARCH 16, 6 PM",
@@ -10157,7 +9949,7 @@
   "imageKey": "event-flyers/924-currents-our-fates-lie-in-tandem-at-jannus-live.jpg",
   "endDate": "2027-03-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "PAWSA at LIV Miami",
   "date": "DECEMBER 4, 11:30 PM",
@@ -10175,7 +9967,7 @@
   "imageKey": "event-flyers/925-pawsa-at-liv-miami.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Loud Luxury at LIV Miami",
   "date": "JANUARY 2, 11:30 PM",
@@ -10193,7 +9985,7 @@
   "imageKey": "event-flyers/926-loud-luxury-at-liv-miami.jpg",
   "endDate": "2027-01-03"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Levi at LIV Miami",
   "date": "JANUARY 9, 11:30 PM",
@@ -10211,7 +10003,7 @@
   "imageKey": "event-flyers/927-levi-at-liv-miami.jpg",
   "endDate": "2027-01-10"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Two Friends at LIV Miami",
   "date": "JANUARY 16, 11:30 PM",
@@ -10229,7 +10021,7 @@
   "imageKey": "event-flyers/928-two-friends-at-liv-miami.jpg",
   "endDate": "2027-01-17"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Dom Dolla Presents Good Fortune at Factory Town",
   "date": "DECEMBER 31, 9 PM TO 6 AM",
@@ -10247,7 +10039,7 @@
   "imageKey": "event-flyers/929-dom-dolla-factory-town-miami.jpg",
   "endDate": "2027-01-01"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Roots & Revival: Our Love Letter to Black Culture",
   "date": "DECEMBER 2, 7 PM",
@@ -10266,7 +10058,7 @@
   "imageKey": "event-flyers/930-roots-revival-miami-gardens.jpg",
   "endDate": "2026-12-02"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "An Evening With Goose, Hollywood",
   "date": "APRIL 13, 7:30 PM",
@@ -10283,7 +10075,7 @@
   "imageKey": "event-flyers/931-goose-hollywood.jpg",
   "endDate": "2027-04-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Jingle Bell Run Miami",
   "date": "DECEMBER 12, 9 AM",
@@ -10300,7 +10092,7 @@
   "imageKey": "event-flyers/932-jingle-bell-run.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Jingle Bell Run Orlando",
   "date": "DECEMBER 12, 9 AM",
@@ -10317,7 +10109,7 @@
   "imageKey": "event-flyers/932-jingle-bell-run.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Jingle Bell Run Tampa",
   "date": "DECEMBER 13, 10 AM",
@@ -10334,7 +10126,7 @@
   "imageKey": "event-flyers/932-jingle-bell-run.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "FYA Fest 13",
   "date": "JANUARY 9 TO 10",
@@ -10351,7 +10143,7 @@
   "imageKey": "event-flyers/933-fya-fest-13-orlando.jpg",
   "endDate": "2027-01-10"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Bossman Dlow at NINE1NINE",
   "date": "NOVEMBER 13, 8 PM TO 10 AM",
@@ -10369,7 +10161,7 @@
   "imageKey": "event-flyers/935-bossman-dlow-at-nine1nine.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Manatee County Food Fest & Craft Fair",
   "date": "MARCH 6, 12 PM TO 9 PM",
@@ -10387,7 +10179,7 @@
   "imageKey": "event-flyers/936-manatee-county-food-fest-craft-fair.jpg",
   "endDate": "2027-03-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Yard: HBCU Alumni and Friends Day Party",
   "date": "NOVEMBER 20, 5 PM TO 9 PM",
@@ -10405,7 +10197,7 @@
   "imageKey": "event-flyers/937-the-yard-hbcu-day-party-orlando.jpg",
   "endDate": "2026-11-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "PREMIUM: Orlando Classic Weekend at Mangos",
   "date": "NOVEMBER 20, 10 PM TO 2 AM",
@@ -10423,7 +10215,7 @@
   "imageKey": "event-flyers/938-premium-orlando-classic-mangos.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Tastemakers: Official HBCU After Party",
   "date": "NOVEMBER 21, 10 PM TO 2 AM",
@@ -10441,7 +10233,7 @@
   "imageKey": "event-flyers/939-tastemakers-muni-long-orlando.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Classique: Orlando Classic After Party",
   "date": "NOVEMBER 21, 9 PM TO 2 AM",
@@ -10459,7 +10251,7 @@
   "imageKey": "event-flyers/940-classique-blue-martini-orlando.jpg",
   "endDate": "2026-11-22"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Juvenile: Classic Concert Official After Party",
   "date": "NOVEMBER 22, 10 PM TO 2 AM",
@@ -10477,7 +10269,7 @@
   "imageKey": "event-flyers/941-juvenile-classic-concert-after-party-orlando.jpg",
   "endDate": "2026-11-23"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Grand Theft Auto VI: The Festival",
   "date": "NOVEMBER 21",
@@ -10496,7 +10288,7 @@
   "imageKey": "event-flyers/942-grand-theft-auto-vi-the-festival.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "New Order, Miami Beach",
   "date": "MARCH 20, 8 PM",
@@ -10513,7 +10305,7 @@
   "imageKey": "event-flyers/943-new-order-2027-us-tour.jpg",
   "endDate": "2027-03-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "New Order, Miami Beach Night 2",
   "date": "MARCH 21, 8 PM",
@@ -10530,7 +10322,7 @@
   "imageKey": "event-flyers/943-new-order-2027-us-tour.jpg",
   "endDate": "2027-03-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Marc Anthony: The Last Dance World Tour, Tampa",
   "date": "APRIL 25, 8 PM",
@@ -10547,7 +10339,7 @@
   "imageKey": "event-flyers/944-marc-anthony-the-last-dance-world-tour.jpg",
   "endDate": "2027-04-25"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Noah Kahan: The Last Of The Bugs World Tour, Tampa",
   "date": "APRIL 29, 6:30 PM",
@@ -10564,7 +10356,7 @@
   "imageKey": "event-flyers/945-noah-kahan-the-last-of-the-bugs-world-tour.jpg",
   "endDate": "2027-04-29"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Uptown 5K on the Runway",
   "date": "NOVEMBER 14, 7:30 AM TO 11 AM",
@@ -10582,7 +10374,7 @@
   "imageKey": "event-flyers/946-uptown-5k-on-the-runway.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Psychedelic Furs, Tallahassee",
   "date": "APRIL 7, 7:30 PM",
@@ -10599,7 +10391,7 @@
   "imageKey": "event-flyers/947-psychedelic-furs-living-colour-tour.jpg",
   "endDate": "2027-04-07"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Psychedelic Furs, St. Petersburg",
   "date": "APRIL 8, 8 PM",
@@ -10616,7 +10408,7 @@
   "imageKey": "event-flyers/947-psychedelic-furs-living-colour-tour.jpg",
   "endDate": "2027-04-08"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Psychedelic Furs, Miami Beach",
   "date": "APRIL 10, 8 PM",
@@ -10633,7 +10425,7 @@
   "imageKey": "event-flyers/947-psychedelic-furs-living-colour-tour.jpg",
   "endDate": "2027-04-10"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Psychedelic Furs, Orlando",
   "date": "APRIL 11, 8 PM",
@@ -10650,7 +10442,7 @@
   "imageKey": "event-flyers/947-psychedelic-furs-living-colour-tour.jpg",
   "endDate": "2027-04-11"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Psychedelic Furs, Jacksonville",
   "date": "APRIL 14, 8 PM",
@@ -10667,7 +10459,7 @@
   "imageKey": "event-flyers/947-psychedelic-furs-living-colour-tour.jpg",
   "endDate": "2027-04-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Spirit Fest Sarasota",
   "date": "DECEMBER 5 TO 6, 2026",
@@ -10684,7 +10476,7 @@
   "imageKey": "event-flyers/948-spirit-fest-sarasota.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Billy Strings, Tampa",
   "date": "APRIL 6, 7:30 PM",
@@ -10701,7 +10493,7 @@
   "imageKey": "event-flyers/949-billy-strings-spring-27-tour.jpg",
   "endDate": "2027-04-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Billy Strings, St. Augustine",
   "date": "APRIL 8",
@@ -10718,7 +10510,7 @@
   "imageKey": "event-flyers/949-billy-strings-spring-27-tour.jpg",
   "endDate": "2027-04-08"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Billy Strings, St. Augustine Night 2",
   "date": "APRIL 9",
@@ -10735,7 +10527,7 @@
   "imageKey": "event-flyers/949-billy-strings-spring-27-tour.jpg",
   "endDate": "2027-04-09"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Billy Strings, St. Augustine Night 3",
   "date": "APRIL 10",
@@ -10752,7 +10544,7 @@
   "imageKey": "event-flyers/949-billy-strings-spring-27-tour.jpg",
   "endDate": "2027-04-10"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Billy Strings, St. Augustine Night 4",
   "date": "APRIL 12",
@@ -10769,7 +10561,7 @@
   "imageKey": "event-flyers/949-billy-strings-spring-27-tour.jpg",
   "endDate": "2027-04-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Billy Strings, St. Augustine Night 5",
   "date": "APRIL 13",
@@ -10786,7 +10578,7 @@
   "imageKey": "event-flyers/949-billy-strings-spring-27-tour.jpg",
   "endDate": "2027-04-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Alan Walker: World of Walker Season Two Legend of Atlantis Tour, St. Petersburg",
   "date": "FEBRUARY 3, 7 PM",
@@ -10804,7 +10596,7 @@
   "imageKey": "event-flyers/950-alan-walker-world-of-walker-st-petersburg.jpg",
   "endDate": "2027-02-03"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Cody Jinks and The Tonedeaf Hippies: The Working Man Tour, Cocoa",
   "date": "FEBRUARY 5",
@@ -10821,7 +10613,7 @@
   "imageKey": "event-flyers/951-cody-jinks-working-man-tour-florida.jpg",
   "endDate": "2027-02-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Cody Jinks and The Tonedeaf Hippies: The Working Man Tour, Apopka",
   "date": "FEBRUARY 6",
@@ -10838,7 +10630,7 @@
   "imageKey": "event-flyers/951-cody-jinks-working-man-tour-florida.jpg",
   "endDate": "2027-02-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "XLOV: US Tour 2026, Miami Beach",
   "date": "DECEMBER 3, 7:30 PM",
@@ -10855,7 +10647,7 @@
   "imageKey": "event-flyers/952-xlov-us-tour-miami-beach.jpg",
   "endDate": "2026-12-03"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Crazyhood Day 2026",
   "date": "NOVEMBER 28, 4 PM TO 12 AM",
@@ -10873,7 +10665,7 @@
   "imageKey": "event-flyers/953-crazyhood-day-2026-miami.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "State Of Emergency 4",
   "date": "NOVEMBER 28, 8 PM",
@@ -10890,7 +10682,7 @@
   "imageKey": "event-flyers/954-state-of-emergency-4-jacksonville.jpg",
   "endDate": "2026-11-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Alan Walker: World of Walker Season Two Legend of Atlantis Tour, Jacksonville",
   "date": "FEBRUARY 2, 8 PM",
@@ -10908,7 +10700,7 @@
   "imageKey": "event-flyers/955-alan-walker-world-of-walker-jacksonville.jpg",
   "endDate": "2027-02-02"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Alan Walker: World of Walker Season Two Legend of Atlantis Tour, Orlando",
   "date": "FEBRUARY 4, 7 PM",
@@ -10926,7 +10718,7 @@
   "imageKey": "event-flyers/956-alan-walker-world-of-walker-orlando.jpg",
   "endDate": "2027-02-04"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Soulection and Friends The Gathering",
   "date": "DECEMBER 5, 3 PM TO 9:30 PM",
@@ -10944,7 +10736,7 @@
   "imageKey": "event-flyers/957-soulection-and-friends-the-gathering-miami.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Conway The Machine with Rome Streetz Live in Miami",
   "date": "DECEMBER 5, 8 PM TO 2 AM",
@@ -10962,7 +10754,7 @@
   "imageKey": "event-flyers/958-conway-the-machine-live-in-miami.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Max Styler at Club Space",
   "date": "DECEMBER 12, 11 PM",
@@ -10980,7 +10772,7 @@
   "imageKey": "event-flyers/959-max-styler-club-space-miami.jpg",
   "endDate": "2026-12-13"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Sidepiece and Westend at Club Space",
   "date": "DECEMBER 18, 11 PM",
@@ -10998,7 +10790,7 @@
   "imageKey": "event-flyers/960-sidepiece-westend-club-space-miami.jpg",
   "endDate": "2026-12-19"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "NOVO Flow Art Basel Pool Party",
   "date": "DECEMBER 4 TO 6, 1 PM TO 7 PM",
@@ -11016,7 +10808,7 @@
   "imageKey": "event-flyers/961-novo-flow-art-basel-pool-party-miami.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Crankdat, Cyclops Cove 4 Afterparty",
   "date": "DECEMBER 4, 10 PM",
@@ -11034,7 +10826,7 @@
   "imageKey": "event-flyers/962-crankdat-cyclops-cove-4-afterparty-hollywood.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "RL Grime, Cyclops Cove 4 Afterparty",
   "date": "DECEMBER 5, 10 PM",
@@ -11052,7 +10844,7 @@
   "imageKey": "event-flyers/963-rl-grime-cyclops-cove-4-afterparty-hollywood.jpg",
   "endDate": "2026-12-06"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "RNB AT 9AM",
   "date": "DECEMBER 5, 9 AM TO 3 PM",
@@ -11070,7 +10862,7 @@
   "imageKey": "event-flyers/964-rnb-at-9am-miami.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Seniors First Turkey Trot 5K",
   "date": "NOVEMBER 26, 8 AM",
@@ -11087,7 +10879,7 @@
   "imageKey": "event-flyers/965-seniors-first-turkey-trot-5k-orlando.jpg",
   "endDate": "2026-11-26"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "The Wellness Oasis Presented by Google Health",
   "date": "DECEMBER 3 AND 4, 8:30 AM TO 6 PM",
@@ -11104,7 +10896,7 @@
   "imageKey": "event-flyers/966-the-wellness-oasis-miami-beach.jpg",
   "endDate": "2026-12-04"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Cape Coral Art Festival",
   "date": "JANUARY 9 AND 10",
@@ -11121,7 +10913,7 @@
   "imageKey": "event-flyers/967-cape-coral-art-festival.jpg",
   "endDate": "2027-01-10"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Key West Food and Wine Festival",
   "date": "JANUARY 27 TO 31",
@@ -11139,7 +10931,7 @@
   "imageKey": "event-flyers/968-key-west-food-and-wine-festival.jpg",
   "endDate": "2027-01-31"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Central Fla PHOTO SWAP",
   "date": "DECEMBER 1, 7 PM",
@@ -11157,7 +10949,7 @@
   "imageKey": "event-flyers/969-central-fla-photo-swap-orlando.jpg",
   "endDate": "2026-12-01"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Malie Donn Live in Concert, Troopa Traloopa Celebrity Birthday Bash",
   "date": "DECEMBER 13, 6 PM TO 12 AM",
@@ -11175,7 +10967,7 @@
   "imageKey": "event-flyers/970-malie-donn-live-in-concert-orlando.jpg",
   "endDate": "2026-12-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Pensacon 2027",
   "date": "FEBRUARY 19 TO 21",
@@ -11193,7 +10985,7 @@
   "imageKey": "event-flyers/971-pensacon-pensacola.jpg",
   "endDate": "2027-02-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Saint Augustine Film Festival",
   "date": "JANUARY 7 TO 10",
@@ -11211,7 +11003,7 @@
   "imageKey": "event-flyers/972-saint-augustine-film-festival.jpg",
   "endDate": "2027-01-10"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Marco Carola, Silvie Loto, Ms. Mada and Bakke at Club Space",
   "date": "DECEMBER 11, 11 PM",
@@ -11229,7 +11021,7 @@
   "imageKey": "event-flyers/973-marco-carola-club-space-miami.jpg",
   "endDate": "2026-12-12"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Sara Landry, OTTA, Coffintexts and Sister System at Club Space",
   "date": "DECEMBER 27, 11 PM",
@@ -11247,7 +11039,7 @@
   "imageKey": "event-flyers/974-sara-landry-club-space-miami.jpg",
   "endDate": "2026-12-28"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "ZooRun",
   "date": "NOVEMBER 14, 6:30 AM TO 11 AM",
@@ -11264,7 +11056,7 @@
   "imageKey": "event-flyers/975-zoorun-miami.jpg",
   "endDate": "2026-11-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Gymreapers Wodapalooza Miami Beach",
   "date": "MARCH 11 TO 14, 2027",
@@ -11282,7 +11074,7 @@
   "imageKey": "event-flyers/976-gymreapers-wodapalooza-miami-beach.jpg",
   "endDate": "2027-03-14"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "16th Annual International Cuban Sandwich Festival",
   "date": "MARCH 21, 2027",
@@ -11300,7 +11092,7 @@
   "imageKey": "event-flyers/977-cuban-sandwich-festival-tampa.jpg",
   "endDate": "2027-03-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "5th Annual Pig Roast Bowl Series",
   "date": "DECEMBER 5, 2026",
@@ -11318,7 +11110,7 @@
   "imageKey": "event-flyers/978-pig-roast-bowl-series-miami.jpg",
   "endDate": "2026-12-05"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Naples Winter Wine Festival",
   "date": "JANUARY 29 TO 31, 2027",
@@ -11336,7 +11128,7 @@
   "imageKey": "event-flyers/979-naples-winter-wine-festival.jpg",
   "endDate": "2027-01-31"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "7th Annual Holiday Cookie Throwdown",
   "date": "DECEMBER 24, 12 PM",
@@ -11354,7 +11146,7 @@
   "imageKey": "event-flyers/980-holiday-cookie-throwdown-key-west.jpg",
   "endDate": "2026-12-24"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Run Santa Run Miami",
   "date": "DECEMBER 20, 7 AM",
@@ -11371,7 +11163,7 @@
   "imageKey": "event-flyers/981-run-santa-run-miami.jpg",
   "endDate": "2026-12-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Arodes, Chris Avantgarde, Genesi, Jord and Layla Benitez at Club Space",
   "date": "DECEMBER 19, 11 PM",
@@ -11389,7 +11181,7 @@
   "imageKey": "event-flyers/982-arodes-chris-avantgarde-club-space-miami.jpg",
   "endDate": "2026-12-20"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Two Friends New Years Eve Pool Party at Tempo Daylife",
   "date": "DECEMBER 31, 9 PM",
@@ -11407,7 +11199,7 @@
   "imageKey": "event-flyers/983-two-friends-new-years-eve-pool-party-tampa.jpg",
   "endDate": "2027-01-01"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Everglades Seafood Festival 2027",
   "date": "FEBRUARY 19 TO 21, 2027",
@@ -11425,7 +11217,7 @@
   "imageKey": "event-flyers/984-everglades-seafood-festival-2027.jpg",
   "endDate": "2027-02-21"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "St Barbara Greek Festival, 43rd Annual Glendi",
   "date": "FEBRUARY 19 TO 21, 2027",
@@ -11443,7 +11235,7 @@
   "imageKey": "event-flyers/985-st-barbara-greek-festival-glendi-sarasota.jpg",
   "endDate": "2027-02-21"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "ArtFest Fort Myers",
   "date": "FEBRUARY 5 TO 7, 2027",
@@ -11461,7 +11253,7 @@
   "imageKey": "event-flyers/986-artfest-fort-myers.jpg",
   "endDate": "2027-02-07"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "38th Annual Venice Italian Feast and Carnival",
   "date": "FEBRUARY 25 TO 28, 2027",
@@ -11479,7 +11271,7 @@
   "imageKey": "event-flyers/987-venice-italian-feast-carnival.jpg",
   "endDate": "2027-02-28"
  },
- {
+{
   "section": "MAJOR ANNUALS",
   "title": "Forbidden Kingdom 2027",
   "date": "APRIL 23 TO 25, 2027",
@@ -11497,7 +11289,7 @@
   "imageKey": "event-flyers/988-forbidden-kingdom-2027.jpg",
   "endDate": "2027-04-25"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Yung Bleu at ZeyZey Miami",
   "date": "DECEMBER 17, 7 PM",
@@ -11515,7 +11307,7 @@
   "imageKey": "event-flyers/989-yung-bleu-zeyzey-miami.jpg",
   "endDate": "2026-12-17"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Fridayy at LIV Miami",
   "date": "NOVEMBER 15, 11:30 PM",
@@ -11533,7 +11325,7 @@
   "imageKey": "event-flyers/990-fridayy-at-liv-miami.jpg",
   "endDate": "2026-11-16"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Levity at LIV Miami",
   "date": "NOVEMBER 20, 11:30 PM",
@@ -11551,7 +11343,7 @@
   "imageKey": "event-flyers/991-levity-at-liv-miami.jpg",
   "endDate": "2026-11-21"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Conep at LIV Miami",
   "date": "DECEMBER 17, 11:30 PM",
@@ -11569,7 +11361,7 @@
   "imageKey": "event-flyers/992-conep-at-liv-miami.jpg",
   "endDate": "2026-12-18"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Tiësto at LIV Miami",
   "date": "DECEMBER 29, 11:30 PM",
@@ -11587,7 +11379,7 @@
   "imageKey": "event-flyers/993-tiesto-at-liv-miami.jpg",
   "endDate": "2026-12-30"
  },
- {
+{
   "section": "NOVEMBER",
   "title": "Steve Aoki at LIV Miami",
   "date": "JANUARY 1, 11:30 PM",
