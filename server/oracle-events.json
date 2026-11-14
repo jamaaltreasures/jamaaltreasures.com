@@ -11396,5 +11396,24 @@
   "alt": "Steve Aoki at LIV Miami event flyer",
   "imageKey": "event-flyers/994-steve-aoki-at-liv-miami.jpg",
   "endDate": "2027-01-02"
+ },
+{
+  "section": "NOVEMBER",
+  "title": "Family Style Food Festival",
+  "date": "DECEMBER 5, 2 PM TO 10 PM",
+  "headliners": "Silent Addy, DZA, Odalys, Littlerok, Sheets and Pillows, Sounds of Reality",
+  "venue": "Maurice A. Ferre Park, Miami",
+  "categories": [
+   "Food",
+   "Festival",
+   "Arts"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://feverup.com/m/829431",
+  "flyerUrl": "https://www.instagram.com/p/DfPysU9BHkx/",
+  "image": "/events/flyer/995-family-style-food-festival-miami.jpg",
+  "alt": "Family Style Food Festival flyer, Maurice A. Ferre Park, Miami",
+  "imageKey": "event-flyers/995-family-style-food-festival-miami.jpg",
+  "endDate": "2026-12-05"
  }
 ]
