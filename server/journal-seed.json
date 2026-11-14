@@ -1,5 +1,151 @@
 [
  {
+  "slug": "faa-ground-stop-four-hours-nationwide-flights",
+  "title": "For Four Hours, Every Departing Flight in America Stood Still",
+  "excerpt": "The FAA halted all departing flights nationwide on Friday, canceling more than 8,100 flights and stranding an estimated 1.5 million travelers.",
+  "seoDescription": "The FAA grounded all departing US flights for four hours on Friday, canceling over 8,100 flights. What event pros should build into travel plans.",
+  "category": "events",
+  "serviceId": "event-coverage",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-14T12:58:00.000Z",
+  "updatedAt": "2026-11-14T12:58:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/faa-ground-stop-four-hours-nationwide-flights-hero.webp",
+   "alt": "A white passenger jet seen from directly above, stopped on a gray runway marked with yellow lines, casting a long shadow on the concrete",
+   "subject": "Passenger jet on a runway seen from above",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-06-08/image-f3c2d39507226a6c6ae3cb4404c9666076b642e9-1500x1000-jpg/MKT_AirlineProfits_SM_06082026.jpg",
+   "credit": "Image: Thiago Trevisan, Adobe Stock via Morning Brew. Story source: Morning Brew, November 14, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Only the second national ground stop since 2001",
+    "paragraphs": [
+     "From just before 4pm Eastern until 8:15pm on Friday, the Federal Aviation Administration issued a national ground stop that halted all planes departing in the United States, citing extraordinary circumstances and reasons of safety. Morning Brew reports it was only the second time since September 11, 2001 that a national ground stop has gone into effect. For four hours, the busiest air system on earth simply did not move.",
+     "The bill came due fast. By 9:30pm Eastern, more than 6,600 flights had been canceled for Friday and another 1,500 for Saturday. Travel data firm Cirium estimated that 1.5 million travelers were stranded by the cancellations. All air cargo and parcel operations were halted during the stop as well, which means the delay reached packages and supply chains, not just passengers with suitcases."
+    ]
+   },
+   {
+    "heading": "New technology overwhelmed an aging system",
+    "paragraphs": [
+     "At a White House press conference held just after the stop was lifted, Homeland Security Secretary Markwayne Mullin said the incident stemmed from new technology upgrades overwhelming the aging air traffic control communication system, and that it did not appear to be the result of a cyberattack or anything nefarious. Transportation Secretary Sean Duffy admitted of those upgrades, I did not anticipate that we would have an outage like this.",
+     "Duffy urged Congress to allocate 50 billion dollars to fix the aging system and warned that more disruptions like this would happen unless the technical underpinnings were completely overhauled. He added that getting air travel back to its baseline was going to be slow, because planes, pilots, and crews were left out of position across the country, though he did not expect disruptions during Thanksgiving travel in a couple of weeks."
+    ]
+   },
+   {
+    "heading": "Sports, freight, and every plan built on a flight",
+    "paragraphs": [
+     "The ripple hit the parts of the weekend built on arrivals. Sports teams ranging from college football to the NHL and the NBA, all traveling for games, were hard hit, and NFL teams had to wonder whether their flights for weekend games would get jostled in the aftermath. Anyone who has ever flown in to cover an event on a tight call time can feel that sentence in their stomach.",
+     "That is the real lesson for event professionals. A national stop is rare, but an ordinary delay chain is not, and the math is the same at smaller scale. When the crew, the gear, and the client all depend on one arrival, a four hour problem becomes a lost day, and a lost day at an event that happens once cannot be rescheduled. The show does not wait for the plane."
+    ]
+   },
+   {
+    "heading": "Build the buffer before you need it",
+    "paragraphs": [
+     "The practical moves are unglamorous and they work. Fly in the day before any event you are paid to cover, never the morning of. Keep the cameras and the cards with you in the cabin, so a lost bag cannot end the job. Keep a local contact in the destination city who could shoot in an emergency, and tell the client early and plainly when travel trouble starts, with the new plan attached, not just the problem.",
+     "Friday showed how quickly a single system can stop a whole country mid motion: new tools laid over old pipes, one busy afternoon, and 1.5 million people sleeping in the wrong city. You cannot control the air system. You can control whether your business treats travel as a hope or as a plan with slack built in. Build the buffer while the sky is quiet, because when it stops, it stops for everyone at once."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: For 4 hours, all US flights ground to a halt (November 14, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "event-coverage",
+   "photography",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book event coverage",
+   "price": 2000,
+   "serviceId": "event-coverage"
+  },
+  "nextClick": {
+   "label": "See coverage pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "microsoft-outage-world-stands-still-seven-billion",
+  "title": "The Day Microsoft Stood Still Cost the World Billions",
+  "excerpt": "A Microsoft outage hit Outlook, Teams, and Copilot in more than 70 countries, with one estimate putting lost productivity at 7 billion dollars or more.",
+  "seoDescription": "The Microsoft outage disrupted Outlook and Teams in over 70 countries and may have cost 7 billion dollars. The backup plan every small team needs.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-14T12:54:00.000Z",
+  "updatedAt": "2026-11-14T12:54:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/microsoft-outage-world-stands-still-seven-billion-hero.webp",
+   "alt": "Illustration of the four colored Microsoft squares as a power outlet with a shocked face, sparks flying, and an orange plug pulled out in front",
+   "subject": "Microsoft logo as an unplugged power outlet, Morning Brew illustration",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-11-13/image-2ecc853549a6e3f5ce8e2a10cc3eb1734b9d94dc-3000x2000-png/MBD_20261113_MSOUTAGE_03.png",
+   "credit": "Image: Nick Iluzada via Morning Brew. Story source: Morning Brew, November 14, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Email, meetings, and AI went dark together",
+    "paragraphs": [
+     "Outlook, Teams, and other Microsoft services slowly began returning to normal yesterday after a massive outage on Thursday disrupted business as usual around the world. Morning Brew reports the outage hit Microsoft Outlook, Teams, Copilot, cloud, and security software users in more than 70 countries and territories, according to the outage tracker Downdetector. For some workers it played out like a syllabus day. Others resorted to fax machines.",
+     "Government offices, public transit networks, retailers, banks, and countless companies were affected. All in all, the outage could cost at least 7 billion dollars in lost productivity from tens of millions of Microsoft users, according to a Michigan think tank. Read that number slowly. One company had a bad day, and the estimated damage has twelve figures of company behind it."
+    ]
+   },
+   {
+    "heading": "A technical issue, with an apology attached",
+    "paragraphs": [
+     "Microsoft said on X that it was deeply sorry, noted encouraging recovery progress, and warned that intermittent issues might continue. On the cause, the company said this was a technical issue unrelated to AI, with no indication that it was the result of malicious or cyber activity. It referenced an elevated load and said it will share more information as it reviews the incident.",
+     "That limited explanation is part of the story. When your email, your meetings, your files, and your AI assistant all live inside one account, a vague status note is all you get while your workday drains away. You cannot call the engineer. You cannot see the repair. You refresh, you wait, and you explain to your own clients why the link, the deck, and the invoice are all late at the same time."
+    ]
+   },
+   {
+    "heading": "One vendor is a single point of failure",
+    "paragraphs": [
+     "Morning Brew zooms out to the structural point: the modern economy runs on a small set of hyperscalers, and one company having technical difficulties can mess with an entire planet of daily operations. Similar concerns arose when Cloudflare and Amazon Web Services crashed huge swaths of the internet last year. Thursday was the same movie with a different logo, and it will play again with another one.",
+     "Small teams feel this harder than big ones. A large company has an IT department and a backup tenant and a war room. A creator business has one laptop and a shoot at noon. If your call sheet, your client list, your delivery links, and your calendar all sit behind one sign in, then one outage does not slow your business down. It switches it off, politely, with a loading spinner."
+    ]
+   },
+   {
+    "heading": "The backup stack takes one afternoon",
+    "paragraphs": [
+     "The fix is boring, cheap, and best done before you need it. Keep an offline copy of every active call sheet, shot list, and client contact list on the machine you actually carry. Keep a second way to reach every client that does not depend on the same account, even if it is just phone numbers in your phone. Export your calendar and your key files somewhere outside the main account once a month, and know which of your tools still work with no cloud at all.",
+     "None of this makes you outage proof. It makes you outage tolerant, which is the realistic goal. The teams that kept moving on Thursday were not the ones with the biggest software bill. They were the ones who could still find the address, reach the client, and open the file while everyone else watched a status page. Build that small layer of independence now, while standing still is still a choice."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew: World recovers from the day Microsoft stood still (November 14, 2026)",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "google-gemini-4-hydrogen-fast-model",
   "title": "Gemini 4 Hydrogen Does the Running While a Bigger Model Does the Thinking",
   "excerpt": "Google Gemini 4 Hydrogen is a fast and cheaper model for coding and agent work, built to execute steps while heavier models handle the planning.",
