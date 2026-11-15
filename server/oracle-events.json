@@ -10740,5 +10740,73 @@
     "alt": "Jackie Hill Perry Blameless Tour event flyer, The Plaza Live, Orlando",
     "imageKey": "event-flyers/997-jackie-hill-perry-blameless-tour-orlando.jpg",
     "endDate": "2027-03-06"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Alex Warren: Finding (More) Family On The Road, Hollywood",
+    "date": "APRIL 9, 7:30 PM",
+    "headliners": "Alex Warren, Bebe Stockwell",
+    "venue": "Hard Rock Live, Hollywood",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/hard-rock-live-tickets-hollywood/venue/107337?page=2",
+    "flyerUrl": "https://news.pollstar.com/2026/11/13/alex-warren-announces-north-american-leg-for-world-tour/",
+    "image": "/events/flyer/998-alex-warren-hollywood.jpg",
+    "alt": "Alex Warren Finding (More) Family On The Road tour poster, Hard Rock Live, Hollywood",
+    "imageKey": "event-flyers/998-alex-warren-hollywood.jpg",
+    "endDate": "2027-04-09"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Alex Warren: Finding (More) Family On The Road, Orlando",
+    "date": "APRIL 10, 7:30 PM",
+    "headliners": "Alex Warren, Bebe Stockwell",
+    "venue": "Kia Center, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://lockedinmagazine.com/alex-warren-announces-north-american-dates/",
+    "flyerUrl": "https://news.pollstar.com/2026/11/13/alex-warren-announces-north-american-leg-for-world-tour/",
+    "image": "/events/flyer/999-alex-warren-orlando.jpg",
+    "alt": "Alex Warren Finding (More) Family On The Road tour poster, Kia Center, Orlando",
+    "imageKey": "event-flyers/999-alex-warren-orlando.jpg",
+    "endDate": "2027-04-10"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Alex Warren: Finding (More) Family On The Road, Tampa",
+    "date": "APRIL 12, 7:30 PM",
+    "headliners": "Alex Warren, Bebe Stockwell",
+    "venue": "Benchmark International Arena, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.thatericalper.com/2026/11/13/alex-warren-expands-finding-more-family-on-the-road-with-26-north-american-shows/",
+    "flyerUrl": "https://news.pollstar.com/2026/11/13/alex-warren-announces-north-american-leg-for-world-tour/",
+    "image": "/events/flyer/1000-alex-warren-tampa.jpg",
+    "alt": "Alex Warren Finding (More) Family On The Road tour poster, Benchmark International Arena, Tampa",
+    "imageKey": "event-flyers/1000-alex-warren-tampa.jpg",
+    "endDate": "2027-04-12"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Alex Warren: Finding (More) Family On The Road, Jacksonville",
+    "date": "APRIL 13, 7:30 PM",
+    "headliners": "Alex Warren, Bebe Stockwell",
+    "venue": "VyStar Veterans Memorial Arena, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.thatericalper.com/2026/11/13/alex-warren-expands-finding-more-family-on-the-road-with-26-north-american-shows/",
+    "flyerUrl": "https://news.pollstar.com/2026/11/13/alex-warren-announces-north-american-leg-for-world-tour/",
+    "image": "/events/flyer/1001-alex-warren-jacksonville.jpg",
+    "alt": "Alex Warren Finding (More) Family On The Road tour poster, VyStar Veterans Memorial Arena, Jacksonville",
+    "imageKey": "event-flyers/1001-alex-warren-jacksonville.jpg",
+    "endDate": "2027-04-13"
   }
 ]
