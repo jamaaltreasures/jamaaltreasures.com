@@ -10826,5 +10826,40 @@
     "alt": "UpTown Art Expo 2027 festival poster for the art show at Cranes Roost Park in Altamonte Springs",
     "imageKey": "event-flyers/1002-uptown-art-expo-altamonte-springs.jpg",
     "endDate": "2027-03-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Steve Aoki at Tempo Daylife Pool Party",
+    "date": "DECEMBER 27, 11 AM",
+    "headliners": "Steve Aoki",
+    "venue": "Tempo Daylife, Seminole Hard Rock Hotel and Casino Tampa",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://casino.hardrock.com/tampa/newsroom/2026/11/steve-aoki-scheduled-for-tempo-daylife-pool-party-at-seminole-hard-rock-hotel-and-casino-tampa-sunday-december-27-at-11-am",
+    "flyerUrl": "https://casino.hardrock.com/tampa/newsroom/2026/11/steve-aoki-scheduled-for-tempo-daylife-pool-party-at-seminole-hard-rock-hotel-and-casino-tampa-sunday-december-27-at-11-am",
+    "image": "/events/flyer/1003-steve-aoki-tempo-daylife-tampa.jpg",
+    "alt": "Steve Aoki Tempo Daylife Pool Party flyer, Seminole Hard Rock Hotel and Casino Tampa, Tampa",
+    "imageKey": "event-flyers/1003-steve-aoki-tempo-daylife-tampa.jpg",
+    "endDate": "2026-12-27"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Earth, Wind & Fire, St. Augustine",
+    "date": "APRIL 14, 7:30 PM",
+    "headliners": "Earth, Wind & Fire",
+    "venue": "St. Augustine Amphitheatre, St. Augustine",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.theamp.com/events/detail/earth-wind-fire-2027",
+    "flyerUrl": "https://www.theamp.com/events/detail/earth-wind-fire-2027",
+    "image": "/events/flyer/1004-earth-wind-fire-st-augustine.jpg",
+    "alt": "Earth, Wind and Fire promo art for the concert at St. Augustine Amphitheatre in St. Augustine",
+    "imageKey": "event-flyers/1004-earth-wind-fire-st-augustine.jpg",
+    "endDate": "2027-04-14"
   }
 ]
