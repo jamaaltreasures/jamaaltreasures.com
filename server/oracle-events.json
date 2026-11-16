@@ -10434,5 +10434,41 @@
     "alt": "Phoebe Bridgers The Lost Tour 2027 poster for Orlando with a blue car on a twilight street",
     "imageKey": "event-flyers/1009-phoebe-bridgers-the-lost-tour-orlando.jpg",
     "endDate": "2027-04-27"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Biohackers World Conference & Expo, Miami",
+    "date": "JANUARY 16 TO 17, 9 AM TO 6 PM",
+    "headliners": "",
+    "venue": "InterContinental Miami by IHG, Miami",
+    "categories": [
+      "Wellness"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.biohackers.world/buy-ticket/m2027",
+    "flyerUrl": "https://www.biohackers.world/buy-ticket/m2027",
+    "image": "/events/flyer/1010-biohackers-world-conference-expo-miami.jpg",
+    "alt": "Biohackers World Conference and Expo poster for Miami, January 16 to 17, 2027 over a Miami waterfront view",
+    "imageKey": "event-flyers/1010-biohackers-world-conference-expo-miami.jpg",
+    "endDate": "2027-01-17"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Miami Soca Weekend, Miami",
+    "date": "MARCH 17 TO 21, 2027",
+    "headliners": "Sinistar, Tony X, Private Ryan, Kevin Crown, Riggo Suave",
+    "venue": "Multiple venues, Miami",
+    "categories": [
+      "Culture",
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/miami-soca-wknd-2027-combo-ticket-tickets-2004785278736",
+    "flyerUrl": "https://www.instagram.com/p/DfTEcdqITqj/",
+    "image": "/events/flyer/1011-miami-soca-weekend-miami.jpg",
+    "alt": "Miami Soca Weekend flyer for Spring Break 2027, March 17 to 21 in Miami with eight events over five days",
+    "imageKey": "event-flyers/1011-miami-soca-weekend-miami.jpg",
+    "endDate": "2027-03-22"
   }
 ]
