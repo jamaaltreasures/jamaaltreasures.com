@@ -10383,5 +10383,56 @@
     "alt": "The Fourth Space flyer, Ms. Lauryn Hill and Wyclef Jean, Faena Forum Miami Beach",
     "imageKey": "event-flyers/1006-the-fourth-space-lauryn-hill-wyclef-jean.jpg",
     "endDate": "2026-12-06"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Phoebe Bridgers: The Lost Tour, Tampa",
+    "date": "APRIL 22, 7:30 PM",
+    "headliners": "Phoebe Bridgers, Christian Lee Hutson",
+    "venue": "Benchmark International Arena, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/phoebe-bridgers-tickets/artist/2133305",
+    "flyerUrl": "https://www.instagram.com/p/DfpVfHiiapi/",
+    "image": "/events/flyer/1007-phoebe-bridgers-the-lost-tour-tampa.jpg",
+    "alt": "Phoebe Bridgers The Lost Tour 2027 poster for Tampa with a blue car on a twilight street",
+    "imageKey": "event-flyers/1007-phoebe-bridgers-the-lost-tour-tampa.jpg",
+    "endDate": "2027-04-22"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Phoebe Bridgers: The Lost Tour, Miami",
+    "date": "APRIL 24, 7:30 PM",
+    "headliners": "Phoebe Bridgers, Christian Lee Hutson",
+    "venue": "Kaseya Center, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/phoebe-bridgers-tickets/artist/2133305",
+    "flyerUrl": "https://www.instagram.com/p/DfpVI38F3VG/",
+    "image": "/events/flyer/1008-phoebe-bridgers-the-lost-tour-miami.jpg",
+    "alt": "Phoebe Bridgers The Lost Tour 2027 poster for Miami with a blue car on a twilight street",
+    "imageKey": "event-flyers/1008-phoebe-bridgers-the-lost-tour-miami.jpg",
+    "endDate": "2027-04-24"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Phoebe Bridgers: The Lost Tour, Orlando",
+    "date": "APRIL 27, 7:30 PM",
+    "headliners": "Phoebe Bridgers, Christian Lee Hutson",
+    "venue": "Kia Center, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/phoebe-bridgers-tickets/artist/2133305",
+    "flyerUrl": "https://www.instagram.com/p/DfpZYbrl9rs/",
+    "image": "/events/flyer/1009-phoebe-bridgers-the-lost-tour-orlando.jpg",
+    "alt": "Phoebe Bridgers The Lost Tour 2027 poster for Orlando with a blue car on a twilight street",
+    "imageKey": "event-flyers/1009-phoebe-bridgers-the-lost-tour-orlando.jpg",
+    "endDate": "2027-04-27"
   }
 ]
