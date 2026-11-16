@@ -10861,5 +10861,39 @@
     "alt": "Earth, Wind and Fire promo art for the concert at St. Augustine Amphitheatre in St. Augustine",
     "imageKey": "event-flyers/1004-earth-wind-fire-st-augustine.jpg",
     "endDate": "2027-04-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "JBeatz: 15th Anniversary It's Getting Late Concert Tour, Fort Lauderdale",
+    "date": "DECEMBER 19, 9 PM",
+    "headliners": "JBeatz",
+    "venue": "FTL War Memorial Auditorium, Fort Lauderdale",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ftlwarmemorial.com/events/detail/jbeatz",
+    "flyerUrl": "https://www.ftlwarmemorial.com/events/detail/jbeatz",
+    "image": "/events/flyer/1005-jbeatz-fort-lauderdale.jpg",
+    "alt": "JBeatz It's Getting Late Concert Tour flyer, FTL War Memorial Auditorium, Fort Lauderdale",
+    "imageKey": "event-flyers/1005-jbeatz-fort-lauderdale.jpg",
+    "endDate": "2026-12-19"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Nick Cannon Presents: Wild 'N Out Live, The Next Generation, Jacksonville",
+    "date": "DECEMBER 26, 8 PM",
+    "headliners": "Nick Cannon and the Wild 'N Out cast",
+    "venue": "VyStar Veterans Memorial Arena, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/nick-cannon-presents-wild-n-out-tickets/artist/2502535",
+    "flyerUrl": "https://www.ticketmaster.com/nick-cannon-presents-mtv-wild-n-out-live-tickets/artist/2502535",
+    "image": "/events/flyer/177-wild-n-out.jpg",
+    "alt": "Wild 'N Out Live The Next Generation Tour flyer, VyStar Veterans Memorial Arena Jacksonville",
+    "imageKey": "event-flyers/177-wild-n-out.jpg",
+    "endDate": "2026-12-26"
   }
 ]
