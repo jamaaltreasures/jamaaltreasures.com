@@ -10753,5 +10753,41 @@
     "alt": "WHYNOTUS at Club Space event flyer",
     "imageKey": "event-flyers/1036-whynotus-club-space-miami.jpg",
     "endDate": "2026-12-27"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Solomun at Club Space",
+    "date": "DECEMBER 5, 12 AM",
+    "headliners": "Solomun, Pachanga Boys, Magdalena, Miluhska, Max Stern, Siegel",
+    "venue": "Club Space, Miami",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://dice.fm/event/6ace5fff2f9e660001e2b288?lng=en-US",
+    "flyerUrl": "https://www.instagram.com/p/Df2vYAhS_Fz/",
+    "image": "/events/flyer/1037-solomun-club-space-miami.jpg",
+    "alt": "Solomun at Club Space event flyer",
+    "imageKey": "event-flyers/1037-solomun-club-space-miami.jpg",
+    "endDate": "2026-12-06"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "30+ Hour Space Basel Closing Party at Club Space",
+    "date": "DECEMBER 6, 11 PM",
+    "headliners": "",
+    "venue": "Club Space, Miami",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://dice.fm/event/6ace5f28c629dc00013339ff?lng=en-US",
+    "flyerUrl": "https://www.instagram.com/p/Df28UjlTdic/",
+    "image": "/events/flyer/1038-space-basel-closing-party-club-space-miami.jpg",
+    "alt": "30+ Hour Space Basel Closing Party at Club Space event flyer",
+    "imageKey": "event-flyers/1038-space-basel-closing-party-club-space-miami.jpg",
+    "endDate": "2026-12-08"
   }
 ]
