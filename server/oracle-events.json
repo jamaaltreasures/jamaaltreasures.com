@@ -10735,5 +10735,23 @@
     "alt": "Saint Levant Afandi World Tour flyer, The Fillmore Miami Beach, Miami Beach",
     "imageKey": "event-flyers/1035-saint-levant-afandi-world-tour-miami-beach.jpg",
     "endDate": "2027-04-16"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "WHYNOTUS at Club Space",
+    "date": "DECEMBER 26, 11 PM",
+    "headliners": "Nic Fanciulli, Malone Morez, Tony Guerra, Calussa, Ramyen, Andrea Quintero, Edgar V, Monoky",
+    "venue": "Club Space, Miami",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://dice.fm/event/6aea21817426be0001f0121d?lng=en-US",
+    "flyerUrl": "https://www.instagram.com/p/Df2UQEqTXWA/",
+    "image": "/events/flyer/1036-whynotus-club-space-miami.jpg",
+    "alt": "WHYNOTUS at Club Space event flyer",
+    "imageKey": "event-flyers/1036-whynotus-club-space-miami.jpg",
+    "endDate": "2026-12-27"
   }
 ]
