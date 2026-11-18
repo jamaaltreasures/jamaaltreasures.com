@@ -10700,5 +10700,23 @@
     "alt": "Rick Ross Decca Live Year Two poster for Saturday January 23, 2027 at Decca Live in Jacksonville",
     "imageKey": "event-flyers/1033-rick-ross-decca-live-jacksonville.jpg",
     "endDate": "2027-01-23"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "2nd Annual Venice Chili Cook Off",
+    "date": "JANUARY 9, 12 PM TO 10 PM",
+    "headliners": "",
+    "venue": "Hotel Venezia, Venice",
+    "categories": [
+      "Food",
+      "Community"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventbrite.com/e/2nd-annual-venice-chili-cook-off-live-music-by-howi-spangler-of-ballyhoo-tickets-2003665427230",
+    "flyerUrl": "https://www.eventbrite.com/e/2nd-annual-venice-chili-cook-off-live-music-by-howi-spangler-of-ballyhoo-tickets-2003665427230",
+    "image": "/events/flyer/1034-venice-chili-cook-off.jpg",
+    "alt": "2nd Annual Venice Chili Cook Off flyer, Hotel Venezia, Venice",
+    "imageKey": "event-flyers/1034-venice-chili-cook-off.jpg",
+    "endDate": "2027-01-09"
   }
 ]
