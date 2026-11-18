@@ -10665,5 +10665,57 @@
     "alt": "Tori Kelly God Must Really Love Me World Tour poster with special guest Hillari for March 31, 2027 at Jannus Live in St Petersburg",
     "imageKey": "event-flyers/1030-tori-kelly-world-tour-st-petersburg.jpg",
     "endDate": "2027-03-31"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jhené Aiko: Ark to Agartha, Orlando",
+    "date": "APRIL 12, 7:30 PM",
+    "headliners": "Jhené Aiko, H.E.R., Swae Lee, Karri",
+    "venue": "Kia Center, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/jhene-aiko-tickets/artist/1790091",
+    "flyerUrl": "https://www.instagram.com/p/Df2NFR1l4xy/",
+    "image": "/events/flyer/1031-jhene-aiko-ark-to-agartha-orlando.jpg",
+    "alt": "Jhené Aiko Ark to Agartha poster with special guest H.E.R. and featuring Swae Lee and Karri for April 12, 2027 at Kia Center in Orlando",
+    "imageKey": "event-flyers/1031-jhene-aiko-ark-to-agartha-orlando.jpg",
+    "endDate": "2027-04-12"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jhené Aiko: Ark to Agartha, Sunrise",
+    "date": "APRIL 14, 7:30 PM",
+    "headliners": "Jhené Aiko, H.E.R., Swae Lee, Karri",
+    "venue": "Amerant Bank Arena, Sunrise",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/jhene-aiko-tickets/artist/1790091",
+    "flyerUrl": "https://www.instagram.com/p/Df2M-Lzpi12/",
+    "image": "/events/flyer/1032-jhene-aiko-ark-to-agartha-sunrise.jpg",
+    "alt": "Jhené Aiko Ark to Agartha poster with special guest H.E.R. and featuring Swae Lee and Karri for April 14, 2027 at Amerant Bank Arena in Sunrise",
+    "imageKey": "event-flyers/1032-jhene-aiko-ark-to-agartha-sunrise.jpg",
+    "endDate": "2027-04-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Rick Ross at Decca Live",
+    "date": "JANUARY 23, 10 PM",
+    "headliners": "Rick Ross",
+    "venue": "Decca Live, Jacksonville",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.stubhub.com/rick-ross-tickets/performer/420898?utm_source=jambase&clickref=&t=t1.aff.partnerize_jambase-publisher_program-Content-1101l799-0&utm_source=partnerize_jambase&utm_medium=publisher_program&utm_sub_medium=Content&utm_campaign=1101l799&utm_content=0&PCID=partnerize_all",
+    "flyerUrl": "https://www.instagram.com/p/DfqE_1BD7mB/",
+    "image": "/events/flyer/1033-rick-ross-decca-live-jacksonville.jpg",
+    "alt": "Rick Ross Decca Live Year Two poster for Saturday January 23, 2027 at Decca Live in Jacksonville",
+    "imageKey": "event-flyers/1033-rick-ross-decca-live-jacksonville.jpg",
+    "endDate": "2027-01-23"
   }
 ]
