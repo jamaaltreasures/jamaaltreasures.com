@@ -10807,5 +10807,90 @@
     "alt": "Franky Rizardo presents FLOW at Factory Town event flyer",
     "imageKey": "event-flyers/1039-franky-rizardo-flow-factory-town-miami.jpg",
     "endDate": "2026-12-03"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jay Wheeler: La Voz Favorita Tour, Orlando",
+    "date": "APRIL 15, 8 PM",
+    "headliners": "Jay Wheeler",
+    "venue": "Kia Center, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/jay-wheeler-tickets/artist/2795427",
+    "flyerUrl": "https://www.instagram.com/p/DeHe6r0l2FE/",
+    "image": "/events/flyer/1040-jay-wheeler-la-voz-favorita-tour-orlando.jpg",
+    "alt": "Jay Wheeler LVF World Tour poster, Kia Center, Orlando",
+    "imageKey": "event-flyers/1040-jay-wheeler-la-voz-favorita-tour-orlando.jpg",
+    "endDate": "2027-04-15"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Niall Horan: Dinner Party Live On Tour, Orlando",
+    "date": "APRIL 17, 7:30 PM",
+    "headliners": "Niall Horan",
+    "venue": "Kia Center, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/niall-horan-tickets/artist/2297125",
+    "flyerUrl": "https://www.instagram.com/p/DYNGlTimOwz/",
+    "image": "/events/flyer/1041-niall-horan-dinner-party-orlando.jpg",
+    "alt": "Niall Horan Dinner Party Live On Tour poster, Kia Center, Orlando",
+    "imageKey": "event-flyers/1041-niall-horan-dinner-party-orlando.jpg",
+    "endDate": "2027-04-17"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Fonseca: Antes Que El Tiempo Se Vaya Tour, Miami",
+    "date": "APRIL 10, 8 PM",
+    "headliners": "Fonseca",
+    "venue": "Kaseya Center, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/fonseca-tickets/artist/1108359",
+    "flyerUrl": "https://www.instagram.com/p/DehO-ill17g/",
+    "image": "/events/flyer/1042-fonseca-antes-que-el-tiempo-se-vaya-miami.jpg",
+    "alt": "Fonseca Antes Que El Tiempo Se Vaya Tour poster, Kaseya Center, Miami",
+    "imageKey": "event-flyers/1042-fonseca-antes-que-el-tiempo-se-vaya-miami.jpg",
+    "endDate": "2027-04-10"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Fonseca: Antes Que El Tiempo Se Vaya Tour, Orlando",
+    "date": "APRIL 11, 7:30 PM",
+    "headliners": "Fonseca",
+    "venue": "Kia Center, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/fonseca-tickets/artist/1108359",
+    "flyerUrl": "https://www.instagram.com/p/DehO-ill17g/",
+    "image": "/events/flyer/1043-fonseca-antes-que-el-tiempo-se-vaya-orlando.jpg",
+    "alt": "Fonseca Antes Que El Tiempo Se Vaya Tour poster, Kia Center, Orlando",
+    "imageKey": "event-flyers/1043-fonseca-antes-que-el-tiempo-se-vaya-orlando.jpg",
+    "endDate": "2027-04-11"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Calema: International Origin Tour, Miami Beach",
+    "date": "APRIL 3, 8 PM",
+    "headliners": "Calema",
+    "venue": "Miami Beach Bandshell, Miami Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.eventworld.com/calema-tickets/performer/16322",
+    "flyerUrl": "https://www.instagram.com/p/DdUONwEpysr/",
+    "image": "/events/flyer/1044-calema-international-origin-tour-miami-beach.jpg",
+    "alt": "Calema International Origin Tour poster with Miami Beach Bandshell tour date",
+    "imageKey": "event-flyers/1044-calema-international-origin-tour-miami-beach.jpg",
+    "endDate": "2027-04-03"
   }
 ]
