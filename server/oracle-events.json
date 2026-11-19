@@ -11070,5 +11070,23 @@
     "alt": "Ben Folds Five On Tour poster with Clearwater Florida date",
     "imageKey": "event-flyers/1060-ben-folds-five-clearwater.jpg",
     "endDate": "2027-04-17"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "South Florida Sugar Rush Festival",
+    "date": "MARCH 6 TO 7, 2027",
+    "headliners": "",
+    "venue": "Yesteryear Village at South Florida Fairgrounds, West Palm Beach",
+    "categories": [
+      "Food",
+      "Festival"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.sugarrushfestival.com/",
+    "flyerUrl": "https://www.sugarrushfestival.com/",
+    "image": "/events/flyer/1061-south-florida-sugar-rush-festival.jpg",
+    "alt": "South Florida Sugar Rush Festival event poster with desserts and a beach sunset in West Palm Beach",
+    "imageKey": "event-flyers/1061-south-florida-sugar-rush-festival.jpg",
+    "endDate": "2027-03-07"
   }
 ]
