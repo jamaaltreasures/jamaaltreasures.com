@@ -10928,5 +10928,39 @@
     "alt": "Gainesville Folk Festival poster with two herons holding mandolins, January 16 to 17, 2027 at Heartwood Soundstage",
     "imageKey": "event-flyers/1046-gainesville-folk-festival.jpg",
     "endDate": "2027-01-17"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Chiodos: All the World's a Stage Tour, St. Petersburg",
+    "date": "MARCH 27, 6 PM",
+    "headliners": "Chiodos, Hail the Sun, Emery, Buried in Spring",
+    "venue": "Jannus Live, St. Petersburg",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/chiodos-tickets/artist/987092",
+    "flyerUrl": "https://www.instagram.com/p/Df2M9PblTU8/",
+    "image": "/events/flyer/1047-chiodos-st-petersburg.jpg",
+    "alt": "Chiodos: All the World's a Stage Tour, St. Petersburg event flyer",
+    "imageKey": "event-flyers/1047-chiodos-st-petersburg.jpg",
+    "endDate": "2027-03-27"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Chiodos: All the World's a Stage Tour, Fort Lauderdale",
+    "date": "MARCH 28, 7 PM",
+    "headliners": "Chiodos, Hail the Sun, Emery, Buried in Spring",
+    "venue": "Revolution Live, Fort Lauderdale",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/chiodos-tickets/artist/987092",
+    "flyerUrl": "https://www.instagram.com/p/Df2NMi7xywF/",
+    "image": "/events/flyer/1048-chiodos-fort-lauderdale.jpg",
+    "alt": "Chiodos: All the World's a Stage Tour, Fort Lauderdale event flyer",
+    "imageKey": "event-flyers/1048-chiodos-fort-lauderdale.jpg",
+    "endDate": "2027-03-28"
   }
 ]
