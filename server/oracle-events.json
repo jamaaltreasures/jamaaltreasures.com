@@ -10930,5 +10930,76 @@
     "alt": "Palm Tree Music Festival 2027 event flyer",
     "imageKey": "event-flyers/1052-palm-tree-music-festival-west-palm-beach.jpg",
     "endDate": "2027-02-07"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "ONYX at Kemistry Nightclub",
+    "date": "DECEMBER 5, 7 PM TO 11 PM",
+    "headliners": "ONYX, DJ Epps, DJ Tito Luv, Donny Brocs",
+    "venue": "Kemistry Nightclub, Fort Lauderdale",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://dice.fm/event/onyx-5th-dec-kemistry-fort-lauderdale-tickets",
+    "flyerUrl": "https://www.instagram.com/p/DfhybmwvT44/",
+    "image": "/events/flyer/1053-onyx-at-kemistry-nightclub.jpg",
+    "alt": "ONYX performing live at Kemistry Nightclub Fort Lauderdale event flyer",
+    "imageKey": "event-flyers/1053-onyx-at-kemistry-nightclub.jpg",
+    "endDate": "2026-12-05"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "GTA VI Official Launch Party ft ANOTR and JT",
+    "date": "NOVEMBER 20, 8 PM TO 10 AM",
+    "headliners": "ANOTR, JT",
+    "venue": "E11EVEN Miami, Miami",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.11miami.com/events/e11even-miami-friday-night-2026-11-20",
+    "flyerUrl": "https://www.instagram.com/p/Df2LS4Clm-7/",
+    "image": "/events/flyer/1054-gta-vi-official-launch-party-anotr-jt.jpg",
+    "alt": "GTA VI Official Launch Party flyer with ANOTR and JT at E11EVEN Miami",
+    "imageKey": "event-flyers/1054-gta-vi-official-launch-party-anotr-jt.jpg",
+    "endDate": "2026-11-21"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "A Boogie Wit da Hoodie at NINE1NINE",
+    "date": "NOVEMBER 21, 8 PM TO 10 AM",
+    "headliners": "A Boogie Wit da Hoodie",
+    "venue": "E11EVEN Miami, Miami",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.11miami.com/events/e11even-miami-saturday-night-2026-11-21",
+    "flyerUrl": "https://www.instagram.com/reel/Df3kLaGhXEQ/",
+    "image": "/events/flyer/1055-a-boogie-wit-da-hoodie-at-nine1nine.jpg",
+    "alt": "A Boogie Wit da Hoodie at NINE1NINE E11EVEN Miami event flyer",
+    "imageKey": "event-flyers/1055-a-boogie-wit-da-hoodie-at-nine1nine.jpg",
+    "endDate": "2026-11-22"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Westlife 25: The Anniversary World Tour, Orlando",
+    "date": "MARCH 13, 7:30 PM",
+    "headliners": "Westlife, O-Town",
+    "venue": "Addition Financial Arena, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/westlife-tickets/artist/711587",
+    "flyerUrl": "https://www.instagram.com/p/DfzlaAKBbOk/",
+    "image": "/events/flyer/1056-westlife-25-anniversary-tour-orlando.jpg",
+    "alt": "Westlife 25 The Anniversary World Tour poster with the Orlando date",
+    "imageKey": "event-flyers/1056-westlife-25-anniversary-tour-orlando.jpg",
+    "endDate": "2027-03-13"
   }
 ]
