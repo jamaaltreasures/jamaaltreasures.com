@@ -11001,5 +11001,74 @@
     "alt": "Westlife 25 The Anniversary World Tour poster with the Orlando date",
     "imageKey": "event-flyers/1056-westlife-25-anniversary-tour-orlando.jpg",
     "endDate": "2027-03-13"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Roc Marciano Live in Miami",
+    "date": "DECEMBER 4, 8 PM TO 2 AM",
+    "headliners": "Roc Marciano, DJ Heron",
+    "venue": "Lincoln's Beard Brewery, Miami",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.tixr.com/groups/clockworkmusic/events/clockworkmusic-roc-marciano-live-miami-dec-4th-211644",
+    "flyerUrl": "https://www.instagram.com/p/DfvlO7rOi_l/",
+    "image": "/events/flyer/1057-roc-marciano-live-in-miami.jpg",
+    "alt": "Roc Marciano live in Miami Art Basel Weekend flyer with Conway The Machine",
+    "imageKey": "event-flyers/1057-roc-marciano-live-in-miami.jpg",
+    "endDate": "2026-12-05"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Ben Folds Five, Jacksonville",
+    "date": "APRIL 15, 8 PM",
+    "headliners": "Ben Folds Five, Andrew McMahon",
+    "venue": "Florida Theatre, Jacksonville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/ben-folds-five-tickets/artist/869242",
+    "flyerUrl": "https://www.instagram.com/p/DexgTCdxYFx/",
+    "image": "/events/flyer/1058-ben-folds-five-jacksonville.jpg",
+    "alt": "Ben Folds Five On Tour poster with Jacksonville Florida date",
+    "imageKey": "event-flyers/1058-ben-folds-five-jacksonville.jpg",
+    "endDate": "2027-04-15"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Ben Folds Five, Pompano Beach",
+    "date": "APRIL 16, 8 PM",
+    "headliners": "Ben Folds Five",
+    "venue": "Pompano Beach Amphitheater, Pompano Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/ben-folds-five-tickets/artist/869242",
+    "flyerUrl": "https://www.instagram.com/p/DexgTCdxYFx/",
+    "image": "/events/flyer/1059-ben-folds-five-pompano-beach.jpg",
+    "alt": "Ben Folds Five On Tour poster with Pompano Beach Florida date",
+    "imageKey": "event-flyers/1059-ben-folds-five-pompano-beach.jpg",
+    "endDate": "2027-04-16"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Ben Folds Five, Clearwater",
+    "date": "APRIL 17, 8 PM",
+    "headliners": "Ben Folds Five, Andrew McMahon",
+    "venue": "The BayCare Sound, Clearwater",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.rutheckerdhall.com/events",
+    "flyerUrl": "https://www.instagram.com/p/DexgTCdxYFx/",
+    "image": "/events/flyer/1060-ben-folds-five-clearwater.jpg",
+    "alt": "Ben Folds Five On Tour poster with Clearwater Florida date",
+    "imageKey": "event-flyers/1060-ben-folds-five-clearwater.jpg",
+    "endDate": "2027-04-17"
   }
 ]
