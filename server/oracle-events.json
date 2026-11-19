@@ -10892,5 +10892,41 @@
     "alt": "Calema International Origin Tour poster with Miami Beach Bandshell tour date",
     "imageKey": "event-flyers/1044-calema-international-origin-tour-miami-beach.jpg",
     "endDate": "2027-04-03"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "NYE at Club Space: Dennis Cruz, DJ Harvey and The Martinez Brothers",
+    "date": "DECEMBER 31, 11 PM",
+    "headliners": "Dennis Cruz, DJ Harvey, The Martinez Brothers, Thunderpony B2B Mai Iachetti",
+    "venue": "Club Space, Miami",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://dice.fm/event/6aea29511b1d7a0001fad588",
+    "flyerUrl": "https://www.instagram.com/p/Df5W83yzxE9/",
+    "image": "/events/flyer/1045-nye-at-club-space-miami.jpg",
+    "alt": "NYE at Club Space: Dennis Cruz, DJ Harvey and The Martinez Brothers event flyer",
+    "imageKey": "event-flyers/1045-nye-at-club-space-miami.jpg",
+    "endDate": "2027-01-01"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Gainesville Folk Festival",
+    "date": "JANUARY 16 TO JANUARY 17",
+    "headliners": "Liam Purcell & Cane Mill Road, The Firewater Tent Revival, Miriam Hacksaw, The Wire Birds, The Wire Jays, Sawgrass Slims, Uncle Mosie, Weaver, Patchwork",
+    "venue": "Heartwood Soundstage, Gainesville",
+    "categories": [
+      "Music",
+      "Festival"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.heartwoodsoundstage.com/shows/gainesville-folk-festival-2027-16-jan",
+    "flyerUrl": "https://www.instagram.com/p/DfiVqMXmoh0/",
+    "image": "/events/flyer/1046-gainesville-folk-festival.jpg",
+    "alt": "Gainesville Folk Festival poster with two herons holding mandolins, January 16 to 17, 2027 at Heartwood Soundstage",
+    "imageKey": "event-flyers/1046-gainesville-folk-festival.jpg",
+    "endDate": "2027-01-17"
   }
 ]
