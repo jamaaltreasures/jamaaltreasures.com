@@ -10860,5 +10860,58 @@
     "alt": "Chiodos: All the World's a Stage Tour, Fort Lauderdale event flyer",
     "imageKey": "event-flyers/1048-chiodos-fort-lauderdale.jpg",
     "endDate": "2027-03-28"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Kenny Chesney: The Original Vibe Room Tour, Tampa",
+    "date": "APRIL 24, 4:30 PM",
+    "headliners": "Kenny Chesney, Eric Church, Sheryl Crow, Greylan James",
+    "venue": "Raymond James Stadium, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/kenny-chesney-tickets/artist/767989",
+    "flyerUrl": "https://www.facebook.com/100050196622484/posts/pfbid0mSuRpyFwurESBniCHS9mYyQaLS2HmkoLsrTeLdyG39eZ8CJwTV3XUrEwnyT5AbZ6l/",
+    "image": "/events/flyer/1049-kenny-chesney-original-vibe-room-tour-tampa.jpg",
+    "alt": "Kenny Chesney The Original Vibe Room Tour flyer with Eric Church at Raymond James Stadium",
+    "imageKey": "event-flyers/1049-kenny-chesney-original-vibe-room-tour-tampa.jpg",
+    "endDate": "2027-04-24"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "30A Songwriters Festival",
+    "date": "JANUARY 15 TO 18, 2027",
+    "headliners": "Gillian Welch and David Rawlings, Dawes, St. Paul and The Broken Bones, Larkin Poe, Booker T. Jones, Tommy Emmanuel",
+    "venue": "Multiple Venues, Walton County",
+    "categories": [
+      "Music",
+      "Festival"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://30asongwritersfestival.com",
+    "flyerUrl": "https://www.instagram.com/p/DfskY-SS4uC/",
+    "image": "/events/flyer/1050-30a-songwriters-festival.jpg",
+    "alt": "30A Songwriters Festival lineup poster for Walton County Florida",
+    "imageKey": "event-flyers/1050-30a-songwriters-festival.jpg",
+    "endDate": "2027-01-18"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "50 Cent at E11EVEN",
+    "date": "DECEMBER 12, 8 PM TO 10 AM",
+    "headliners": "50 Cent",
+    "venue": "E11EVEN Miami, Miami",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.11miami.com/events/50-cent-2026-12-12",
+    "flyerUrl": "https://www.instagram.com/reel/Df5Htmmhljk/",
+    "image": "/events/flyer/1051-50-cent-at-e11even.jpg",
+    "alt": "50 Cent at E11EVEN Miami event flyer for Saturday December 12",
+    "imageKey": "event-flyers/1051-50-cent-at-e11even.jpg",
+    "endDate": "2026-12-13"
   }
 ]
