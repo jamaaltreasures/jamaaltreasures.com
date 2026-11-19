@@ -11088,5 +11088,41 @@
     "alt": "South Florida Sugar Rush Festival event poster with desserts and a beach sunset in West Palm Beach",
     "imageKey": "event-flyers/1061-south-florida-sugar-rush-festival.jpg",
     "endDate": "2027-03-07"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "The Stompdown National Championship Step Show",
+    "date": "JANUARY 23, 6 PM",
+    "headliners": "",
+    "venue": "Mary McLeod Bethune Performing Arts Center, Daytona Beach",
+    "categories": [
+      "Competition",
+      "Arts"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "http://www.thestompdown.com/",
+    "flyerUrl": "https://www.instagram.com/p/DdML4K0x5AQ/",
+    "image": "/events/flyer/1062-stompdown-national-championship-step-show-daytona-beach.jpg",
+    "alt": "The Stompdown National Championship Step Show event flyer",
+    "imageKey": "event-flyers/1062-stompdown-national-championship-step-show-daytona-beach.jpg",
+    "endDate": "2027-01-23"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jamie xx at Club Space",
+    "date": "DECEMBER 30, 11 PM",
+    "headliners": "Jamie xx, Avalon Emerson, Natalia Roth, Gio Elia, Wise Guys (Jonny From Space, Sinopoli, True Vine)",
+    "venue": "Club Space, Miami",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://dice.fm/venue/club-space-miami-wlav?lng=en-US",
+    "flyerUrl": "https://www.instagram.com/p/Df75aYNz70G/",
+    "image": "/events/flyer/1063-jamie-xx-club-space-miami.jpg",
+    "alt": "Jamie xx at Club Space event flyer",
+    "imageKey": "event-flyers/1063-jamie-xx-club-space-miami.jpg",
+    "endDate": "2026-12-31"
   }
 ]
