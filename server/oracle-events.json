@@ -11124,5 +11124,41 @@
     "alt": "Jamie xx at Club Space event flyer",
     "imageKey": "event-flyers/1063-jamie-xx-club-space-miami.jpg",
     "endDate": "2026-12-31"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "deadmau5 at DAER Nightclub",
+    "date": "THURSDAY DECEMBER 31, 2026, 9 PM",
+    "headliners": "deadmau5",
+    "venue": "DAER Nightclub, Hollywood",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://tixr.com/e/207892",
+    "flyerUrl": "https://www.hardrocknightlife.com/events",
+    "image": "/events/flyer/1064-deadmau5-at-daer-nightclub.jpg",
+    "alt": "deadmau5 New Years Eve 2027 flyer for DAER Nightclub at Seminole Hard Rock Hollywood with premium open bar 9 PM to 12 AM",
+    "imageKey": "event-flyers/1064-deadmau5-at-daer-nightclub.jpg",
+    "endDate": "2027-01-01"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Quavo at DAER Nightclub",
+    "date": "FRIDAY NOVEMBER 27, 2026, 10 PM",
+    "headliners": "Quavo",
+    "venue": "DAER Nightclub, Hollywood",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://tixr.com/e/206020",
+    "flyerUrl": "https://www.instagram.com/p/Df5uuJrOOHy/",
+    "image": "/events/flyer/1065-quavo-at-daer-nightclub.jpg",
+    "alt": "Quavo Thanksgiving Weekend flyer for DAER Nightclub at Seminole Hard Rock Hollywood on Friday November 27",
+    "imageKey": "event-flyers/1065-quavo-at-daer-nightclub.jpg",
+    "endDate": "2026-11-28"
   }
 ]
