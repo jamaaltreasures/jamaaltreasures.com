@@ -9939,24 +9939,6 @@
  },
  {
   "section": "NOVEMBER",
-  "title": "Fabolous at LIV Miami",
-  "date": "NOVEMBER 22, 11:30 PM",
-  "headliners": "Fabolous",
-  "venue": "LIV Nightclub, Miami Beach",
-  "categories": [
-   "Music",
-   "Nightlife"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261122/fabolous/",
-  "flyerUrl": "https://www.instagram.com/p/DfQUIVegd5x/",
-  "image": "/events/flyer/1013-fabolous-at-liv-miami.jpg",
-  "alt": "Fabolous at LIV Miami event flyer for the Black and Red Scorpio Celebration on Sunday November 22 at Fontainebleau Miami Beach",
-  "imageKey": "event-flyers/1013-fabolous-at-liv-miami.jpg",
-  "endDate": "2026-11-23"
- },
- {
-  "section": "NOVEMBER",
   "title": "Trey Songz at LIV Miami",
   "date": "NOVEMBER 29, 11:30 PM",
   "headliners": "Trey Songz",
@@ -10977,5 +10959,59 @@
   "alt": "Lincolnville Porch Fest flyer for February 20 2027 in Lincolnville and surrounding downtown St Augustine Florida",
   "imageKey": "event-flyers/1071-lincolnville-porch-fest-st-augustine.jpg",
   "endDate": "2027-02-20"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Gunna at LIV Miami",
+  "date": "NOVEMBER 22, 11:30 PM",
+  "headliners": "Gunna",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261122/gunna/",
+  "flyerUrl": "https://www.instagram.com/p/Df-M_YmvsL2/",
+  "image": "/events/flyer/1072-gunna-at-liv-miami.jpg",
+  "alt": "Gunna at LIV Miami event flyer",
+  "imageKey": "event-flyers/1072-gunna-at-liv-miami.jpg",
+  "endDate": "2026-11-23"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Chris Brown at LIV Miami",
+  "date": "DECEMBER 6, 11:30 PM",
+  "headliners": "Chris Brown",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261206/chris-brown/",
+  "flyerUrl": "https://www.instagram.com/p/Df5F7FluwM-/",
+  "image": "/events/flyer/1073-chris-brown-at-liv-miami.jpg",
+  "alt": "Chris Brown at LIV Miami event flyer",
+  "imageKey": "event-flyers/1073-chris-brown-at-liv-miami.jpg",
+  "endDate": "2026-12-07"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Chromeo at ZeyZey Miami",
+  "date": "DECEMBER 30, 8 PM",
+  "headliners": "Chromeo",
+  "venue": "ZeyZey Miami, Miami",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/chromeo-tickets/artist/936569",
+  "flyerUrl": "https://www.instagram.com/p/De0a6UIRW1k/",
+  "image": "/events/flyer/1074-chromeo-at-zeyzey-miami.jpg",
+  "alt": "Chromeo at ZeyZey Miami event flyer",
+  "imageKey": "event-flyers/1074-chromeo-at-zeyzey-miami.jpg",
+  "endDate": "2026-12-30"
  }
 ]
