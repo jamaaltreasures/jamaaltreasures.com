@@ -11427,5 +11427,39 @@
     "alt": "St. Augustine Celtic Festival and Highland Games event poster",
     "imageKey": "event-flyers/1086-st-augustine-celtic-festival.jpg",
     "endDate": "2027-03-13"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Boy George & Culture Club, Hollywood",
+    "date": "MARCH 3, 8 PM",
+    "headliners": "Boy George & Culture Club",
+    "venue": "Hard Rock Live, Hollywood",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://casino.hardrock.com/hollywood/events/boy-george-and-culture-club",
+    "flyerUrl": "https://casino.hardrock.com/hollywood/events/boy-george-and-culture-club",
+    "image": "/events/flyer/1087-boy-george-culture-club-hollywood.jpg",
+    "alt": "Boy George & Culture Club flyer, Hard Rock Live Hollywood",
+    "imageKey": "event-flyers/1087-boy-george-culture-club-hollywood.jpg",
+    "endDate": "2027-03-03"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Heart, Hollywood",
+    "date": "FEBRUARY 28, 8 PM",
+    "headliners": "Heart",
+    "venue": "Hard Rock Live, Hollywood",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://casino.hardrock.com/hollywood/events/heart",
+    "flyerUrl": "https://casino.hardrock.com/hollywood/events/heart",
+    "image": "/events/flyer/1088-heart-hollywood.jpg",
+    "alt": "Heart flyer, Hard Rock Live Hollywood",
+    "imageKey": "event-flyers/1088-heart-hollywood.jpg",
+    "endDate": "2027-02-28"
   }
 ]
