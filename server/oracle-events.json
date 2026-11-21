@@ -10905,5 +10905,41 @@
   "alt": "SpringDaze Food and Music Festival flyer for April 10 2027 at Apopka Amphitheater in Apopka Florida with Lloyd as the first artist secured",
   "imageKey": "event-flyers/1067-springdaze-food-and-music-festival-lloyd-live.jpg",
   "endDate": "2027-04-10"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Diplo at E11EVEN",
+  "date": "DECEMBER 2, 8 PM TO 10 AM",
+  "headliners": "Diplo, Leo",
+  "venue": "E11EVEN Miami, Miami",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.11miami.com/events/nine1nine-miami-art-week-ft-diplo-2026-12-02",
+  "flyerUrl": "https://www.instagram.com/reel/Df8EILNxnTH/",
+  "image": "/events/flyer/1068-diplo-at-e11even.jpg",
+  "alt": "Diplo at E11EVEN Miami NINE1NINE Vice City flyer for Wednesday December 2 2026",
+  "imageKey": "event-flyers/1068-diplo-at-e11even.jpg",
+  "endDate": "2026-12-03"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Florida Bohemian Fest",
+  "date": "MARCH 20 TO 21, 2027",
+  "headliners": "",
+  "venue": "Florida Agricultural Museum, Palm Coast",
+  "categories": [
+   "Wellness",
+   "Festival"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.floridabohemianfestival.com",
+  "flyerUrl": "https://www.instagram.com/p/Df5eivElz3r/",
+  "image": "/events/flyer/1069-florida-bohemian-fest-palm-coast.jpg",
+  "alt": "Florida Bohemian Fest flyer for March 20 and 21 2027 at Florida Agricultural Museum in Palm Coast Florida",
+  "imageKey": "event-flyers/1069-florida-bohemian-fest-palm-coast.jpg",
+  "endDate": "2027-03-21"
  }
 ]
