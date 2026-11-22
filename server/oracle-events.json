@@ -11950,5 +11950,90 @@
     "alt": "Kenny Wayne Shepherd Ledbetter Heights 30th Anniversary Tour poster for Sunday April 11 at Peabody Auditorium in Daytona Beach",
     "imageKey": "event-flyers/1112-kenny-wayne-shepherd-daytona-beach.jpg",
     "endDate": "2027-04-11"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "brakence, Miami Beach",
+    "date": "MARCH 14, 8 PM",
+    "headliners": "brakence",
+    "venue": "The Fillmore Miami Beach at Jackie Gleason Theater, Miami Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/brakence-tickets/artist/2798436",
+    "flyerUrl": "https://www.instagram.com/p/DfA4aBQFyot/",
+    "image": "/events/flyer/1113-brakence-miami-beach.jpg",
+    "alt": "brakence the marroW tour poster for March 14 at The Fillmore in Miami Beach",
+    "imageKey": "event-flyers/1113-brakence-miami-beach.jpg",
+    "endDate": "2027-03-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "brakence, Orlando",
+    "date": "MARCH 16, 7 PM",
+    "headliners": "brakence",
+    "venue": "House of Blues Orlando, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/brakence-tickets/artist/2798436",
+    "flyerUrl": "https://www.instagram.com/p/DfAPTTDl_Ne/",
+    "image": "/events/flyer/1114-brakence-orlando.jpg",
+    "alt": "brakence the marroW tour poster for March 16 at House of Blues in Orlando",
+    "imageKey": "event-flyers/1114-brakence-orlando.jpg",
+    "endDate": "2027-03-16"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Liquid Stranger: Electric Helix Tour, Clearwater",
+    "date": "JANUARY 23, 6 PM",
+    "headliners": "Liquid Stranger, Sully, Twopercent, Chozen",
+    "venue": "The BayCare Sound, Clearwater",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.axs.com/artists/115405/liquid-stranger-tickets",
+    "flyerUrl": "https://www.instagram.com/p/DfSebZdFHBI/",
+    "image": "/events/flyer/1115-liquid-stranger-clearwater.jpg",
+    "alt": "Liquid Stranger Electric Helix Tour poster for January 23 at The BayCare Sound in Clearwater",
+    "imageKey": "event-flyers/1115-liquid-stranger-clearwater.jpg",
+    "endDate": "2027-01-23"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Daily Bread, Clearwater",
+    "date": "FEBRUARY 6, 6 PM",
+    "headliners": "Daily Bread, Ravenscoon, Thought Process, pheel",
+    "venue": "The BayCare Sound, Clearwater",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.bandsintown.com/v/10011928-the-baycare-sound",
+    "flyerUrl": "https://www.instagram.com/p/Df2hjh-m5SB/",
+    "image": "/events/flyer/1116-daily-bread-clearwater.jpg",
+    "alt": "Daily Bread Vanishing Point Phase 2 poster for February 6 at The BayCare Sound in Clearwater",
+    "imageKey": "event-flyers/1116-daily-bread-clearwater.jpg",
+    "endDate": "2027-02-06"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Fantasia, Anthony Hamilton and October London: The Love of Soul Tour, Hollywood",
+    "date": "APRIL 17, 8 PM",
+    "headliners": "Fantasia, Anthony Hamilton, October London",
+    "venue": "Hard Rock Live, Hollywood",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/fantasia-tickets/artist/1438797",
+    "flyerUrl": "https://www.facebook.com/hardrockholly/posts/pfbid03gbtbZyV1rsEk8nteF2Z1Km1eddPNhG9n1wgvueGiEyYvt5XpbyDUnUXYQ1r4Lipl",
+    "image": "/events/flyer/1117-fantasia-love-of-soul-tour-hollywood.jpg",
+    "alt": "The Love of Soul Tour poster with Fantasia, Anthony Hamilton and October London for April 17 at Hard Rock Live in Hollywood",
+    "imageKey": "event-flyers/1117-fantasia-love-of-soul-tour-hollywood.jpg",
+    "endDate": "2027-04-17"
   }
 ]
