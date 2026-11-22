@@ -12325,5 +12325,23 @@
     "alt": "WONHO poster for January 23 at The Vanguard in Orlando",
     "imageKey": "event-flyers/1133-wonho-vanguard.jpg",
     "endDate": "2027-01-23"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "SUN 'n FUN Aerospace Expo",
+    "date": "APRIL 6 TO 11, 2027",
+    "headliners": "U.S. Navy Blue Angels",
+    "venue": "Lakeland Linder International Airport, Lakeland",
+    "categories": [
+      "Arts",
+      "Festival"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://flysnf.org/",
+    "flyerUrl": "https://flysnf.org/uncategorized/behind-the-poster-a-world-to-sea-at-53/",
+    "image": "/events/flyer/1134-sun-n-fun-aerospace-expo.jpg",
+    "alt": "SUN n FUN Aerospace Expo official 2027 poster for April 6 to 11 in Lakeland",
+    "imageKey": "event-flyers/1134-sun-n-fun-aerospace-expo.jpg",
+    "endDate": "2027-04-11"
   }
 ]
