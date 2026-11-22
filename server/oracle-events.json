@@ -12152,5 +12152,73 @@
     "alt": "The Movement Winter Tour 2027 poster with Mike Love, Vinyl Music Hall, Pensacola",
     "imageKey": "event-flyers/1099-the-movement-mike-love-pensacola.jpg",
     "endDate": "2027-03-07"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Chelsea Cutler: IS THIS THE END? Tour, St. Petersburg",
+    "date": "JANUARY 29, 7 PM",
+    "headliners": "Chelsea Cutler",
+    "venue": "Jannus Live, St. Petersburg",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/chelsea-cutler-tickets/artist/2437092",
+    "flyerUrl": "https://www.instagram.com/p/Dd9Lnt-DSxI/",
+    "image": "/events/flyer/1100-chelsea-cutler-is-this-the-end-tour-st-petersburg.jpg",
+    "alt": "Chelsea Cutler IS THIS THE END Tour poster, Jannus Live, St. Petersburg",
+    "imageKey": "event-flyers/1100-chelsea-cutler-is-this-the-end-tour-st-petersburg.jpg",
+    "endDate": "2027-01-29"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "The Gipsy Kings featuring Nicolas Reyes, Clearwater",
+    "date": "FEBRUARY 4, 7:30 PM",
+    "headliners": "The Gipsy Kings, Nicolas Reyes",
+    "venue": "Ruth Eckerd Hall, Clearwater",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://seatgeek.com/gipsy-kings-featuring-nicolas-reyes-1-tickets?aid=12331",
+    "flyerUrl": "https://www.instagram.com/p/DfP2MhlDrcB/",
+    "image": "/events/flyer/1101-the-gipsy-kings-nicolas-reyes-clearwater.jpg",
+    "alt": "The Gipsy Kings featuring Nicolas Reyes poster, Ruth Eckerd Hall, Clearwater",
+    "imageKey": "event-flyers/1101-the-gipsy-kings-nicolas-reyes-clearwater.jpg",
+    "endDate": "2027-02-04"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Dinosaur Jr., St. Petersburg",
+    "date": "FEBRUARY 20, 8 PM",
+    "headliners": "Dinosaur Jr.",
+    "venue": "Jannus Live, St. Petersburg",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/dinosaur-jr-tickets/artist/966351",
+    "flyerUrl": "https://www.instagram.com/p/DclvdbBDvwa/",
+    "image": "/events/flyer/1102-dinosaur-jr-st-petersburg.jpg",
+    "alt": "Dinosaur Jr. Spring Tour 2027 poster, Jannus Live, St. Petersburg",
+    "imageKey": "event-flyers/1102-dinosaur-jr-st-petersburg.jpg",
+    "endDate": "2027-02-20"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Herb Alpert and The Tijuana Brass, Pensacola",
+    "date": "MARCH 16, 7:30 PM",
+    "headliners": "Herb Alpert, The Tijuana Brass",
+    "venue": "Pensacola Saenger Theatre, Pensacola",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/herb-alpert-tickets/artist/K8vZ91714xV",
+    "flyerUrl": "https://www.instagram.com/p/DcJNbb4m19y/",
+    "image": "/events/flyer/1103-herb-alpert-tijuana-brass-pensacola.jpg",
+    "alt": "Herb Alpert and The Tijuana Brass poster, Saenger Theatre, Pensacola",
+    "imageKey": "event-flyers/1103-herb-alpert-tijuana-brass-pensacola.jpg",
+    "endDate": "2027-03-16"
   }
 ]
