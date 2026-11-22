@@ -12172,5 +12172,39 @@
     "alt": "80th Annual Pasco County Fair poster for February 15 to 21 in Dade City",
     "imageKey": "event-flyers/1124-pasco-county-fair.jpg",
     "endDate": "2027-02-21"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "The Wailers, Gainesville",
+    "date": "APRIL 9, 7 PM",
+    "headliners": "The Wailers",
+    "venue": "Heartwood Soundstage, Gainesville",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/the-wailers-billets/artist/848111",
+    "flyerUrl": "https://www.instagram.com/p/Dd9Ew0slrPH/",
+    "image": "/events/flyer/1125-the-wailers-gainesville.jpg",
+    "alt": "The Wailers Exodus 2027 World Tour poster for April 9 at Heartwood Soundstage in Gainesville",
+    "imageKey": "event-flyers/1125-the-wailers-gainesville.jpg",
+    "endDate": "2027-04-09"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Blackberry Smoke, Pensacola",
+    "date": "APRIL 8, 7:30 PM",
+    "headliners": "Blackberry Smoke",
+    "venue": "Pensacola Saenger Theatre, Pensacola",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/blackberry-smoke-tickets/artist/1043636",
+    "flyerUrl": "https://www.instagram.com/p/Df2NDCkDFaA/",
+    "image": "/events/flyer/1126-blackberry-smoke-pensacola.jpg",
+    "alt": "Blackberry Smoke All Over The Road Tour 2027 poster for April 8 at Saenger Theatre in Pensacola",
+    "imageKey": "event-flyers/1126-blackberry-smoke-pensacola.jpg",
+    "endDate": "2027-04-08"
   }
 ]
