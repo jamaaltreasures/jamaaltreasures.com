@@ -12220,5 +12220,73 @@
     "alt": "Herb Alpert and The Tijuana Brass poster, Saenger Theatre, Pensacola",
     "imageKey": "event-flyers/1103-herb-alpert-tijuana-brass-pensacola.jpg",
     "endDate": "2027-03-16"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Vincent Mason, St. Petersburg",
+    "date": "APRIL 1, 8 PM",
+    "headliners": "Vincent Mason, Jacob Hackworth",
+    "venue": "Jannus Live, St. Petersburg",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/jannus-live-tickets-st-petersburg/venue/106731?page=1",
+    "flyerUrl": "https://www.instagram.com/p/DfSHKRxiaH1/",
+    "image": "/events/flyer/1104-vincent-mason-st-petersburg.jpg",
+    "alt": "Vincent Mason When You Are Not Around Tour 2027 poster with Jacob Hackworth, Jannus Live, St. Petersburg",
+    "imageKey": "event-flyers/1104-vincent-mason-st-petersburg.jpg",
+    "endDate": "2027-04-01"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "The Interrupters, St. Petersburg",
+    "date": "MARCH 26, 6 PM",
+    "headliners": "The Interrupters, The Aquabats!, The Mainliners",
+    "venue": "Jannus Live, St. Petersburg",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/the-interrupters-tickets/artist/1860963",
+    "flyerUrl": "https://www.instagram.com/p/DfPvVDilNL8/",
+    "image": "/events/flyer/1105-the-interrupters-st-petersburg.jpg",
+    "alt": "The Interrupters 2027 North America Tour poster, Jannus Live, St. Petersburg",
+    "imageKey": "event-flyers/1105-the-interrupters-st-petersburg.jpg",
+    "endDate": "2027-03-26"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Joe Russo's Almost Dead, Clearwater",
+    "date": "FEBRUARY 26, 7 PM",
+    "headliners": "Joe Russo's Almost Dead",
+    "venue": "The BayCare Sound, Clearwater",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://seatgeek.com/joe-russo-s-almost-dead-tickets?aid=12331",
+    "flyerUrl": "https://www.instagram.com/p/DfsJfr7CT53/",
+    "image": "/events/flyer/1106-joe-russos-almost-dead-clearwater.jpg",
+    "alt": "Joe Russo's Almost Dead poster, The BayCare Sound, Clearwater",
+    "imageKey": "event-flyers/1106-joe-russos-almost-dead-clearwater.jpg",
+    "endDate": "2027-02-26"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Joe Russo's Almost Dead, Pompano Beach",
+    "date": "FEBRUARY 25, 7 PM",
+    "headliners": "Joe Russo's Almost Dead",
+    "venue": "Pompano Beach Amphitheater, Pompano Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://seatgeek.com/joe-russo-s-almost-dead-tickets?aid=12331",
+    "flyerUrl": "https://www.instagram.com/p/Dfh0XL7xQ9k/",
+    "image": "/events/flyer/1107-joe-russos-almost-dead-pompano-beach.jpg",
+    "alt": "Joe Russo's Almost Dead Florida dates poster, Pompano Beach Amphitheater, Pompano Beach",
+    "imageKey": "event-flyers/1107-joe-russos-almost-dead-pompano-beach.jpg",
+    "endDate": "2027-02-25"
   }
 ]
