@@ -12206,5 +12206,56 @@
     "alt": "Blackberry Smoke All Over The Road Tour 2027 poster for April 8 at Saenger Theatre in Pensacola",
     "imageKey": "event-flyers/1126-blackberry-smoke-pensacola.jpg",
     "endDate": "2027-04-08"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "The Wailers, Ponte Vedra Beach",
+    "date": "APRIL 15, 8 PM",
+    "headliners": "The Wailers",
+    "venue": "Ponte Vedra Concert Hall, Ponte Vedra Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.ticketmaster.com/the-wailers-billets/artist/848111",
+    "flyerUrl": "https://www.instagram.com/p/Det_12VIMN1/",
+    "image": "/events/flyer/1127-the-wailers-ponte-vedra-beach.jpg",
+    "alt": "The Wailers Exodus 2027 World Tour poster for April 15 at Ponte Vedra Concert Hall in Ponte Vedra Beach",
+    "imageKey": "event-flyers/1127-the-wailers-ponte-vedra-beach.jpg",
+    "endDate": "2027-04-15"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Wooli at The Ritz Ybor",
+    "date": "JANUARY 2, 10 PM TO 3 AM",
+    "headliners": "Wooli",
+    "venue": "The Ritz Ybor, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.theritzybor.com/event/wooli2026/",
+    "flyerUrl": "https://www.facebook.com/TampaEDMplur/posts/pfbid02M5Hm5gVBE1es8aFzvqJGi9YFvRQ9j1rSJ2gMYZXgT2XztXmTD449H3Q6bkxRVnkJl",
+    "image": "/events/flyer/1128-wooli-ritz-ybor.jpg",
+    "alt": "Wooli poster for January 2 at The Ritz Ybor in Tampa",
+    "imageKey": "event-flyers/1128-wooli-ritz-ybor.jpg",
+    "endDate": "2027-01-03"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "YOOKiE at The Ritz Ybor",
+    "date": "JANUARY 15, 10 PM TO 2:45 AM",
+    "headliners": "YOOKiE",
+    "venue": "The Ritz Ybor, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.theritzybor.com/event/yookie2027/",
+    "flyerUrl": "https://www.facebook.com/theritzybor/posts/pfbid02eQMFbbfyAksU7Lht6uCaJ6gVT18anWE2xgfJhzhksHEFBD1GYCmVPPLwLNUwQTZel",
+    "image": "/events/flyer/1129-yookie-ritz-ybor.jpg",
+    "alt": "YOOKiE poster for January 15 at The Ritz Ybor in Tampa",
+    "imageKey": "event-flyers/1129-yookie-ritz-ybor.jpg",
+    "endDate": "2027-01-16"
   }
 ]
