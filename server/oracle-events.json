@@ -12257,5 +12257,73 @@
     "alt": "YOOKiE poster for January 15 at The Ritz Ybor in Tampa",
     "imageKey": "event-flyers/1129-yookie-ritz-ybor.jpg",
     "endDate": "2027-01-16"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Sasha Keable at The Ritz Ybor",
+    "date": "APRIL 12, 7 PM",
+    "headliners": "Sasha Keable, EJ Ross",
+    "venue": "The Ritz Ybor, Tampa",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.theritzybor.com/event/sashakeable2027/",
+    "flyerUrl": "https://www.instagram.com/p/Df0p6F5Mqst/",
+    "image": "/events/flyer/1130-sasha-keable-ritz-ybor.jpg",
+    "alt": "Sasha Keable poster for April 12 at The Ritz Ybor in Tampa",
+    "imageKey": "event-flyers/1130-sasha-keable-ritz-ybor.jpg",
+    "endDate": "2027-04-12"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Charlotte de Witte at Factory Town",
+    "date": "JANUARY 2, 10 PM TO 5 AM",
+    "headliners": "Charlotte de Witte",
+    "venue": "Factory Town, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://dice.fm/event/r32wvy-charlotte-de-witte-2nd-jan-factory-town-miami-tickets",
+    "flyerUrl": "https://www.instagram.com/p/Dfz2Ggyhvb5/",
+    "image": "/events/flyer/1131-charlotte-de-witte-factory-town.jpg",
+    "alt": "Charlotte de Witte poster for January 2 at Factory Town in Miami",
+    "imageKey": "event-flyers/1131-charlotte-de-witte-factory-town.jpg",
+    "endDate": "2027-01-03"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Tape B at Factory Town",
+    "date": "JANUARY 1, 10 PM TO 4 AM",
+    "headliners": "Tape B, Daily Bread, Seth David, Thats Rocky",
+    "venue": "Factory Town, Miami",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://dice.fm/event/aabebd-tape-b-at-factory-town-1st-jan-factory-town-miami-tickets",
+    "flyerUrl": "https://www.instagram.com/p/Df0fHgESH5W/",
+    "image": "/events/flyer/1132-tape-b-factory-town.jpg",
+    "alt": "Tape B poster for January 1 at Factory Town in Miami",
+    "imageKey": "event-flyers/1132-tape-b-factory-town.jpg",
+    "endDate": "2027-01-02"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "WONHO at The Vanguard",
+    "date": "JANUARY 23, 8 PM",
+    "headliners": "WONHO",
+    "venue": "The Vanguard, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.axs.com/artists/1110433/wonho-tickets",
+    "flyerUrl": "https://www.instagram.com/p/DfkMJPVRjQX/",
+    "image": "/events/flyer/1133-wonho-vanguard.jpg",
+    "alt": "WONHO poster for January 23 at The Vanguard in Orlando",
+    "imageKey": "event-flyers/1133-wonho-vanguard.jpg",
+    "endDate": "2027-01-23"
   }
 ]
