@@ -12378,5 +12378,41 @@
   "alt": "Sarasota County Fair official 2027 poster for March 19 to 28 in Sarasota",
   "imageKey": "event-flyers/1136-sarasota-county-fair.jpg",
   "endDate": "2027-03-28"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Ghengar at Decca Live",
+  "date": "FEBRUARY 5, 10 PM TO 3 AM",
+  "headliners": "Ghengar, Usaybflow",
+  "venue": "Decca Live, Jacksonville",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.eventbrite.com/e/ghengar-presents-the-rebirth-tour-decca-live-tickets-1998791282532",
+  "flyerUrl": "https://www.instagram.com/p/DcjME97ljgB/",
+  "image": "/events/flyer/1137-ghengar-at-decca-live.jpg",
+  "alt": "Ghengar Rebirth Tour flyer at Decca Live Jacksonville February 5",
+  "imageKey": "event-flyers/1137-ghengar-at-decca-live.jpg",
+  "endDate": "2027-02-06"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Joe Bonamassa's Sound Wave Beach Weekend",
+  "date": "APRIL 9 TO 11, 2027",
+  "headliners": "Joe Bonamassa, Kenny Wayne Shepherd, Trombone Shorty and Orleans Avenue, Rival Sons, Los Lonely Boys, Christone Kingfish Ingram, The War and Treaty, Robert Randolph, Tab Benoit, The Record Company, Daniel Donato's Cosmic Country, Bywater Call, Nikki Hill",
+  "venue": "Seascape Resort, Miramar Beach",
+  "categories": [
+   "Music",
+   "Festival"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://soundwave.topeka.live/",
+  "flyerUrl": "https://www.facebook.com/TabBenoit/posts/pfbid036bfxU5toetmJ5DXFN6VeYwhHrK7M3E1AadkvmiWH7iVLxASoBZyn7dfzuDYXv1cNl",
+  "image": "/events/flyer/1138-joe-bonamassas-sound-wave-beach-weekend.jpg",
+  "alt": "Joe Bonamassas Sound Wave Beach Weekend lineup poster April 9 to 11 2027 Miramar Beach",
+  "imageKey": "event-flyers/1138-joe-bonamassas-sound-wave-beach-weekend.jpg",
+  "endDate": "2027-04-11"
  }
 ]
