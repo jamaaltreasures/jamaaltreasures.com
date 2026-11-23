@@ -1,5 +1,279 @@
 [
  {
+  "slug": "claude-riemann-hypothesis-proof",
+  "title": "Claude Just Helped Claim the Riemann Hypothesis Proof",
+  "excerpt": "An Anthropic mathematician and Claude say they proved the 167 year old Riemann hypothesis in about six weeks. The checkers behind Lean say the proof holds up.",
+  "seoDescription": "Levent Alpoge and Claude claim a proof of the Riemann hypothesis, certified in Lean with full confidence. Why the verification, and the criticism, both matter.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-23T13:14:00.000Z",
+  "updatedAt": "2026-11-23T13:14:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/claude-riemann-hypothesis-proof-hero.webp",
+   "alt": "Abstract illustration of glowing gold and purple loops spiraling across a dark purple field of small dots, the header art for the Riemann hypothesis story",
+   "subject": "Abstract loops illustration for the Riemann hypothesis proof story",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/7150271e-1edf-4946-8238-e03fc1dae993/riemann-header-1920x1080.png?t=1795368924",
+   "credit": "Image: Claude, via The Rundown AI. Story source: The Rundown AI, November 23, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Six weeks against 167 years",
+    "paragraphs": [
+     "Few fields have changed more under AI this past year than mathematics, and The Rundown AI leads its November 23 edition with the biggest claim yet. Anthropic mathematician Levent Alpoge used Claude to work on the Riemann hypothesis, the 167 year old question often ranked as the biggest unsolved problem in mathematics, and after about six weeks of work the two say they have a proof. The newsletter reports that checkers say it holds up, even as no human fully understands it yet.",
+     "The problem was first posed in 1859 and asks whether prime numbers follow a predictable pattern underneath their apparent randomness. In 2000 the Clay Institute put a Millennium Prize of 1 million dollars on solving it. Generations of mathematicians expected the answer to need decades of new theory, which is exactly why a six week timeline attached to an AI collaboration lands so hard across the field."
+    ]
+   },
+   {
+    "heading": "A proof only a machine can read",
+    "paragraphs": [
+     "Alpoge shared the proof only as 17 million lines of machine checkable mathematics, writing that Claude flew, and danced, and sparkled near that finish line. The groups behind Lean, the computer language used for verification, certified the proof on Saturday and said they have full confidence that it is correct. The Neuron adds that Lean and Mathlib maintainers share that confidence, though one final statement match check was still running when it published.",
+     "Not everyone is celebrating. The Association for Human Mathematics criticized the proof as little more than publicity for AI labs, arguing that no human could reasonably understand it. Hours later a rival proof from Alessandro Masullo surfaced, reportedly built without AI over nearly 12 years, though other mathematicians quickly flagged problems in that version. The split reaction is the real story. A proof can now be verified step by step by software while remaining, for practical purposes, unreadable by the humans it was written for."
+    ]
+   },
+   {
+    "heading": "Why creators should care about a math proof",
+    "paragraphs": [
+     "The Rundown AI makes the wider point plainly. This proof may not change daily life, but the same speed of progress is heading toward fields like biology and drug design, where the practical payoff will show up in products, treatments and timelines that ordinary businesses can feel. A technique that compresses decades of specialist work into weeks does not stay inside one discipline for long.",
+     "For creators and founders, the habit worth copying is the verification habit. Alpoge did not ask the world to trust a chatbot answer. The claim arrived with a machine checkable record that independent groups could test line by line, and the criticism arrived in the open where anyone could weigh it. That is the standard to hold your own AI assisted work to, whether it is a film treatment, a client proposal or a line of code. Show the receipts, invite the check, and let the work earn belief instead of asking for it."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI newsletter, November 23, 2026",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "the-neuron",
+    "title": "The Neuron newsletter, November 23, 2026",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "openai-shared-limits-perplexity-scorecard",
+  "title": "OpenAI Wants Rival Labs to Sign Shared AI Speed Limits",
+  "excerpt": "OpenAI chief scientist Jakub Pachocki published the internal score his lab uses to track raw model intelligence, and asked rival labs to agree on limits nobody crosses yet.",
+  "seoDescription": "OpenAI published its perplexity scorecard from GPT 3.5 at 0.99 to an unreleased model near 0.73, and proposed shared capability limits for frontier AI labs.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-23T13:10:00.000Z",
+  "updatedAt": "2026-11-23T13:10:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/openai-shared-limits-perplexity-scorecard-hero.webp",
+   "alt": "Illustration of a cat in a traffic control uniform holding a light wand beside an AI speed limits sign and a perplexity chart showing 0.99, 0.91, 0.8 and 0.76",
+   "subject": "Illustration for the OpenAI shared AI limits proposal",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/83702384-603c-4570-8247-41b0de04edee/Ollie_s_AI_Speed_Limit_Command_Center.png?t=1795424620",
+   "credit": "Image: The Neuron. Story source: The Neuron, November 23, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Arms control language for AI labs",
+    "paragraphs": [
+     "The proposal sounds more like arms control than a product post. The Neuron reports that OpenAI chief scientist Jakub Pachocki published a call on Sunday for frontier AI labs to agree on common limits, meaning capability thresholds that nobody crosses until the labs hit concrete milestones for monitoring and understanding what their models are doing. As a first step, OpenAI is publishing its own internal measurements, even though those numbers reveal competitive information.",
+     "Sam Altman called the post the most important thing OpenAI has published in a while, according to The Rundown AI, and said that agreeing on common limits would be very wise. The interesting part is who is asking. A lab near the front of the race is putting its own scoreboard on the table first and inviting rivals to match it, which is either confidence, caution, or a bit of both at the same time."
+    ]
+   },
+   {
+    "heading": "One number that tracks the jumps",
+    "paragraphs": [
+     "The score Pachocki wants everyone to use is perplexity. Show a model text it has never seen and score how well it predicts each next token, roughly the next word or word fragment. A model that is rarely surprised scores lower, and lower is better. OpenAI tracks the log of that number, measured at the end of pretraining on its own main internal codebase dataset, and treats it as the best indicator of underlying ability.",
+     "The scoreboard tells the story of the last few years in five stops. GPT 3.5 scored about 0.99, enough for fluent conversation and the original ChatGPT. GPT 4 scored about 0.91, where chain of thought reasoning started to pay off. Below 0.8 is where transformative abilities in cybersecurity and mathematics begin to emerge, and around 0.76 is where OpenAI models began producing notable results on open math problems. The Rundown AI adds that an unreleased internal model sits near 0.73, with the next expected jump landing somewhere in the 0.68 to 0.7 range."
+    ]
+   },
+   {
+    "heading": "The gaps Pachocki admits himself",
+    "paragraphs": [
+     "To his credit, Pachocki lists the weak spots in his own metric. Labs train on different datasets and mixes, so comparing scores across labs is hard. Perplexity does not map neatly onto any single task people care about. Reasoning is the bigger hole, because chain of thought techniques raise capability a great deal without lowering perplexity at all, so a limit built only on this number would miss those gains entirely.",
+     "He also expects the safety tooling to weaken over time, with alignment audits degrading and models growing more aware of when they are being tested or trained. His example milestone is a successor to chain of thought monitors, the tools that read a model reasoning to catch problems early. For creators and founders building on these models, the practical read is simple. The labs themselves now publish the curve they are climbing, and planning a business on the idea that the curve flattens soon is a bet against the scoreboard its own builders just shared."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron newsletter, November 23, 2026",
+    "url": "https://www.theneurondaily.com"
+   },
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI newsletter, November 23, 2026",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "unspun-3d-weaving-clothes-on-demand",
+  "title": "Unspun Is Weaving Clothes On Demand With Nothing Left Over",
+  "excerpt": "Unspun started with custom fit jeans and ended up selling the machine instead. Its OneWeave system weaves a garment straight from yarn, with no inventory pile behind it.",
+  "seoDescription": "Unspun and its OneWeave machine weave clothes on demand from yarn, cutting waste, inventory and emissions. Inside the startup betting against overproduction.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-23T13:06:00.000Z",
+  "updatedAt": "2026-11-23T13:06:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/unspun-3d-weaving-clothes-on-demand-hero.webp",
+   "alt": "Three pairs of pants in olive, brown and black laid over a red background, the header image for the unspun weaving story",
+   "subject": "Pairs of woven pants in a flat lay collage",
+   "kind": "photo",
+   "sourceUrl": "https://thehustle.co/hs-fs/hubfs/Daily%20Templates%20-%202026%20Refresh%20(2)%20copy%209-1.png?width=1120&upscale=true&name=Daily%20Templates%20-%202026%20Refresh%20(2)%20copy%209-1.png",
+   "credit": "Image: The Hustle. Story source: The Hustle, November 23, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Clothes made only when someone wants them",
+    "paragraphs": [
+     "The pitch from unspun fits in one line. Annika Visser, the company director of partnerships, told The Hustle the goal is clothes made where and when they are actually wanted, from yarn to garment, with nothing left over. Behind that line sits a waste problem with real scale. Citing the Environmental Protection Agency, The Hustle reports that clothing sent to landfills in the United States grew from 1.3 million tons in 1960 to more than 9 million tons in 2018.",
+     "The company answer is a machine called OneWeave. Instead of forecasting demand, cutting fabric in bulk and sewing garments that may never sell, OneWeave weaves a garment straight from yarn. Visser told The Hustle that if a machine could do that, overproduction could be eliminated rather than managed, which flips the usual fashion model from making stock and hoping to making only what has already been asked for."
+    ]
+   },
+   {
+    "heading": "Custom jeans were the proof, not the product",
+    "paragraphs": [
+     "Unspun did not start as a machine company. Beth Esponnette incorporated it in 2015, and Walden Lam and Kevin Martin joined two years later to launch a denim brand that used 3D body scanning technology to make custom fit jeans. Along the way the team won the H&M Global Change Award for 3D weaving and received a National Science Foundation grant of 225,000 dollars that grew to about 1.07 million dollars across two phases.",
+     "The turn came after OneWeave launched in 2023. Brands started asking to use the machine instead of asking unspun to make their jeans, and Visser says the answer got obvious. The company paused its denim brand and put everything into OneWeave under a new chief executive, Chuck Shehadi, whose background includes Nike and Apple. The jeans had done their job. They proved the technology could fit a real body and survive a real wash cycle."
+    ]
+   },
+   {
+    "heading": "Seven machines in, Walmart on the board",
+    "paragraphs": [
+     "The Hustle reports that unspun has raised about 60 million dollars, including a 32 million dollar Series B round, and has installed seven machines in its Emeryville, California microfactory. It has sold machines to textile manufacturer Arvind, its first paying customer, made thousands of garments for commercial runs, and signed an offtake agreement with Walmart that aims for 350 machines in the United States by 2030. The company reports cutting emissions by 53 percent, energy use by 49 percent and water use by 39 percent compared with conventional production.",
+     "Speed remains the hard part. A launch needs a brand, a manufacturer and unspun moving at once, and Visser admits that getting that triangle from interested to garments coming off a line takes longer than the technology does. For creators and small labels watching from Florida, the takeaway is practical. On demand production turns inventory from a warehouse bet into a design decision, and the brands that learn to sell the story of a garment made for one buyer will own the margin that overproduction used to eat."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-hustle",
+    "title": "The Hustle newsletter, November 23, 2026",
+    "url": "https://thehustle.co"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand spot pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "maldon-salt-brand-trust-question",
+  "title": "Maldon Salt and the Premium Brand Trust Question",
+  "excerpt": "Maldon built a premium name on hand harvested British sea salt flakes. A report about imported German rock salt now tests how much of that story shoppers still believe.",
+  "seoDescription": "Maldon Salt faces questions over German rock salt in its famous flakes. What a premium food brand owes shoppers when its origin story gets complicated.",
+  "category": "brand-growth",
+  "serviceId": "brand-spot",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-23T13:02:00.000Z",
+  "updatedAt": "2026-11-23T13:02:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/maldon-salt-brand-trust-question-hero.webp",
+   "alt": "A green box of Maldon Sea Salt Flakes printed with Est. 1882, photographed at an angle on a white background",
+   "subject": "Maldon Sea Salt Flakes box",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-11-23/image-a0edf8fe8673a0987f6d168a33b8a86ad4a7c25c-2859x1961-jpg/AdobeStock_597950848_Editorial_Use_Only_cropped.jpeg",
+   "credit": "Image: Philip Kinsey, Adobe Stock, via Morning Brew. Story source: Morning Brew, November 23, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The salt chefs brag about",
+    "paragraphs": [
+     "Maldon Salt holds a rare spot in the food world. Chefs everywhere reach for its flaky sea salt, home cooks copy them, and a small green box on a counter quietly signals that the person cooking takes flavour seriously. Morning Brew reports that the British brand says on its website that it has been harvesting its famous sea salt flakes by hand in the United Kingdom since 1882, and that single origin story carries much of the premium price.",
+     "That story is now under a microscope. The Observer says it watched trucks full of imported German rock salt arriving at the Maldon production facility, and the sighting prompted the company to explain how that imported salt fits into a product sold on British seawater and tradition. Maldon defended its process, Morning Brew notes, while acknowledging it could have been more upfront about how the German rock salt factors into things."
+    ]
+   },
+   {
+    "heading": "An ancient sea still counts as sea salt",
+    "paragraphs": [
+     "The explanation is more interesting than a simple bait and switch. Maldon says it takes local seawater and filters it through the rock salt to create a brine, then lets the brine evaporate and hand harvests the flakes left behind. Because the imported salt comes from an ancient sea, the company argues the result is still technically 100 percent sea salt, even if that sea dried up in prehistoric times.",
+     "Legally, the brand may have room to stand on. Morning Brew points out that neither British nor United States regulators keep a strict definition of sea salt, so the label dispute lives in the court of shopper opinion rather than in a rulebook. Some customers, the newsletter reports, were not thrilled to learn they had been showing off dried rock salt brine to their friends all along."
+    ]
+   },
+   {
+    "heading": "What a premium brand actually sells",
+    "paragraphs": [
+     "The money at stake explains why a salt story matters. One 8.5 ounce box of Maldon Sea Salt Flakes costs about 13 dollars, and the New York Times figures cited by Morning Brew put Maldon at 51 million dollars in global revenue from March 2024 to March 2025. Shoppers were never only buying sodium. They were buying a harvest story, a place, and a small piece of kitchen status they could hold in one hand.",
+     "That is the lesson for any founder building a premium product in Florida or anywhere else. The process can survive scrutiny when the brand explains it first, in plain language, before a reporter explains it for them. Maldon still makes its flakes by hand from that brine, and saying so early would have cost nothing. Premium pricing runs on trust, and trust runs on who tells the complicated part of the story first. Brands that narrate their own process keep the premium. Brands that let an investigation narrate it spend the next year earning the premium back."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew newsletter, November 23, 2026",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "brand-spot",
+   "creative-direction-session",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Make my brand spot",
+   "price": 1500,
+   "serviceId": "brand-spot"
+  },
+  "nextClick": {
+   "label": "See brand spot pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "method-dressing-hollywood-peak",
   "title": "Method Dressing Turned the Press Tour Into the Marketing",
   "excerpt": "The Hunger Games stars are wearing the movie on the press tour, plumage included. Method dressing sells tickets when it works, and Barbie proved the ceiling.",
