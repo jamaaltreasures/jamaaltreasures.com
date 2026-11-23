@@ -11957,5 +11957,56 @@
     "alt": "Tampa Bay Blues Festival poster for April 9 to 11 at Vinoy Park in St. Petersburg",
     "imageKey": "event-flyers/1140-tampa-bay-blues-festival.jpg",
     "endDate": "2027-04-11"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Uriah Heep, Ponte Vedra Beach",
+    "date": "MARCH 25, 7:30 PM",
+    "headliners": "Uriah Heep, Brother Cane",
+    "venue": "Ponte Vedra Concert Hall, Ponte Vedra Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.pvconcerthall.com/events/detail/uriah-heep",
+    "flyerUrl": "https://www.instagram.com/p/DfzoQRCF44J/",
+    "image": "/events/flyer/1141-uriah-heep-ponte-vedra-beach.jpg",
+    "alt": "Uriah Heep poster for March 25 at Ponte Vedra Concert Hall in Ponte Vedra Beach",
+    "imageKey": "event-flyers/1141-uriah-heep-ponte-vedra-beach.jpg",
+    "endDate": "2027-03-25"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Uriah Heep, Orlando",
+    "date": "MARCH 26, 8 PM",
+    "headliners": "Uriah Heep, Brother Cane",
+    "venue": "Plaza Live, Orlando",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.facebook.com/plazaliveorlando/posts/pfbid0VoNEyrrPoYSMf9zivZ5JP6VL8oUmBkp5zjokzr5Nm8L4Q9pLRBLyMsZYBU5Agdmtl",
+    "flyerUrl": "https://www.instagram.com/p/DfzoPjUDxqu/",
+    "image": "/events/flyer/1142-uriah-heep-orlando.jpg",
+    "alt": "Uriah Heep poster for March 26 at Plaza Live in Orlando",
+    "imageKey": "event-flyers/1142-uriah-heep-orlando.jpg",
+    "endDate": "2027-03-26"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Uriah Heep, Clearwater",
+    "date": "MARCH 27, 7:30 PM",
+    "headliners": "Uriah Heep, Brother Cane",
+    "venue": "Nancy and David Bilheimer Capitol Theatre, Clearwater",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://www.rutheckerdhall.com/events",
+    "flyerUrl": "https://www.instagram.com/p/Df9_-mgIfec/",
+    "image": "/events/flyer/1143-uriah-heep-clearwater.jpg",
+    "alt": "Uriah Heep poster for March 27 at Bilheimer Capitol Theatre in Clearwater",
+    "imageKey": "event-flyers/1143-uriah-heep-clearwater.jpg",
+    "endDate": "2027-03-27"
   }
 ]
