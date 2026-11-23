@@ -12113,5 +12113,56 @@
   "alt": "Country Jam Naples poster for April 17 2027 at Paradise Coast Sports Complex in Naples",
   "imageKey": "event-flyers/1149-country-jam-naples.jpg",
   "endDate": "2027-04-18"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Brian Culbertson: The Midnight Tapes Tour, Jacksonville",
+  "date": "APRIL 20, 7:30 PM",
+  "headliners": "Brian Culbertson",
+  "venue": "Florida Theatre Jacksonville, Jacksonville",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/brian-culbertson-tickets/artist/768229",
+  "flyerUrl": "https://www.instagram.com/p/DerbmllCP27/",
+  "image": "/events/flyer/1150-brian-culbertson-jacksonville.jpg",
+  "alt": "Brian Culbertson poster for April 20 at Florida Theatre in Jacksonville",
+  "imageKey": "event-flyers/1150-brian-culbertson-jacksonville.jpg",
+  "endDate": "2027-04-20"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Brian Culbertson: The Midnight Tapes Tour, Orlando",
+  "date": "APRIL 22, 8 PM",
+  "headliners": "Brian Culbertson",
+  "venue": "Plaza Live, Orlando",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/brian-culbertson-tickets/artist/768229",
+  "flyerUrl": "https://www.instagram.com/p/DerbEi5ABqQ/",
+  "image": "/events/flyer/1151-brian-culbertson-orlando.jpg",
+  "alt": "Brian Culbertson poster for April 22 at Plaza Live in Orlando",
+  "imageKey": "event-flyers/1151-brian-culbertson-orlando.jpg",
+  "endDate": "2027-04-22"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Brian Culbertson: The Midnight Tapes Tour, Clearwater",
+  "date": "APRIL 23, 8 PM",
+  "headliners": "Brian Culbertson",
+  "venue": "Ruth Eckerd Hall, Clearwater",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.rutheckerdhall.com/events/detail/brian-culbertson",
+  "flyerUrl": "https://www.instagram.com/p/DeHX80qlRR2/",
+  "image": "/events/flyer/1152-brian-culbertson-clearwater.jpg",
+  "alt": "Brian Culbertson poster for April 23 at Ruth Eckerd Hall in Clearwater",
+  "imageKey": "event-flyers/1152-brian-culbertson-clearwater.jpg",
+  "endDate": "2027-04-23"
  }
 ]
