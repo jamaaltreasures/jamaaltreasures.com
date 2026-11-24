@@ -12130,5 +12130,56 @@
     "alt": "St. Paul and the Broken Bones poster for April 12 at Heartwood Soundstage in Gainesville",
     "imageKey": "event-flyers/1154-st-paul-and-the-broken-bones-gainesville.jpg",
     "endDate": "2027-04-12"
+  },
+  {
+    "section": "MAJOR ANNUALS",
+    "title": "Daytona Beach Bike Week",
+    "date": "MARCH 5 TO 14, 2027",
+    "headliners": "",
+    "venue": "Destination Daytona, Daytona Beach",
+    "categories": [
+      "Festival"
+    ],
+    "detailsLabel": "Event Details",
+    "detailsUrl": "https://www.daytonabeach.com/events/",
+    "flyerUrl": "https://www.facebook.com/DaytonaHarleyDavidson/posts/pfbid02ibf5RmB4BkH8WgPb62qqFk5DTkcMZxbNxyUbtKGApLDGLkES54ECEJwcEoiVNX8Fl",
+    "image": "/events/flyer/1155-daytona-beach-bike-week.jpg",
+    "alt": "Daytona Bike Week 2027 Save The Date poster for March 5 to 14 at Destination Daytona",
+    "imageKey": "event-flyers/1155-daytona-beach-bike-week.jpg",
+    "endDate": "2027-03-14"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "First Day Back, Pensacola",
+    "date": "FEBRUARY 6",
+    "headliners": "First Day Back",
+    "venue": "The Handlebar, Pensacola",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Event Details",
+    "detailsUrl": "https://www.instagram.com/p/DgGEwG1SCG6/",
+    "flyerUrl": "https://www.instagram.com/p/DgGEwG1SCG6/",
+    "image": "/events/flyer/1156-first-day-back-pensacola.jpg",
+    "alt": "First Day Back flyer for February 6 at The Handlebar in Pensacola",
+    "imageKey": "event-flyers/1156-first-day-back-pensacola.jpg",
+    "endDate": "2027-02-06"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "10,000 Maniacs, Ponte Vedra Beach",
+    "date": "APRIL 10, 8 PM",
+    "headliners": "10,000 Maniacs",
+    "venue": "Ponte Vedra Concert Hall, Ponte Vedra Beach",
+    "categories": [
+      "Music"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://jax.events/events/2027-04-10-10-000-maniacs",
+    "flyerUrl": "https://www.instagram.com/p/DafoZalDASp/",
+    "image": "/events/flyer/1157-10000-maniacs-ponte-vedra-beach.jpg",
+    "alt": "10,000 Maniacs poster for April 10 at Ponte Vedra Concert Hall",
+    "imageKey": "event-flyers/1157-10000-maniacs-ponte-vedra-beach.jpg",
+    "endDate": "2027-04-10"
   }
 ]
