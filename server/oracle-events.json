@@ -12198,5 +12198,41 @@
     "alt": "Third Day poster for April 10 at iTHINK Financial Amphitheatre in West Palm Beach",
     "imageKey": "event-flyers/1158-third-day-west-palm-beach.jpg",
     "endDate": "2027-04-10"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Jacksonville Food & Wine Festival",
+    "date": "APRIL 3, 4 PM TO 8 PM",
+    "headliners": "",
+    "venue": "Artist Walk, Jacksonville",
+    "categories": [
+      "Food",
+      "Festival"
+    ],
+    "detailsLabel": "Get Tickets",
+    "detailsUrl": "https://jfwf.com",
+    "flyerUrl": "https://www.instagram.com/p/DeepjPPyv45/",
+    "image": "/events/flyer/1159-jacksonville-food-wine-festival.jpg",
+    "alt": "Jacksonville Food and Wine Festival save the date poster for April 3 2027",
+    "imageKey": "event-flyers/1159-jacksonville-food-wine-festival.jpg",
+    "endDate": "2027-04-03"
+  },
+  {
+    "section": "NOVEMBER",
+    "title": "Tank: The R&B Tour After Party, Tampa",
+    "date": "DECEMBER 11",
+    "headliners": "Tank",
+    "venue": "District 8 Night Club & Ultra Lounge, Tampa",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "detailsLabel": "Details",
+    "detailsUrl": "https://district8tampa.com",
+    "flyerUrl": "https://www.instagram.com/p/DfssnUptd76/",
+    "image": "/events/flyer/1160-tank-rnb-tour-after-party-tampa.jpg",
+    "alt": "Tank The R&B Tour After Party flyer for Friday December 11 at District 8 Night Club in Tampa",
+    "imageKey": "event-flyers/1160-tank-rnb-tour-after-party-tampa.jpg",
+    "endDate": "2026-12-12"
   }
 ]
