@@ -12164,5 +12164,24 @@
   "alt": "Brian Culbertson poster for April 23 at Ruth Eckerd Hall in Clearwater",
   "imageKey": "event-flyers/1152-brian-culbertson-clearwater.jpg",
   "endDate": "2027-04-23"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Taste of Pinellas",
+  "date": "FEBRUARY 6, 5 PM TO 10 PM",
+  "headliners": "Old Dominion, Andy Grammer, Sugar Vibe",
+  "venue": "Tropicana Field, St. Petersburg",
+  "categories": [
+   "Music",
+   "Food",
+   "Festival"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://tasteofpinellas.com/",
+  "flyerUrl": "https://www.instagram.com/p/De9bW0BCgOt/",
+  "image": "/events/flyer/1153-taste-of-pinellas.jpg",
+  "alt": "Taste of Pinellas poster for February 6 at Tropicana Field in St. Petersburg",
+  "imageKey": "event-flyers/1153-taste-of-pinellas.jpg",
+  "endDate": "2027-02-06"
  }
 ]
