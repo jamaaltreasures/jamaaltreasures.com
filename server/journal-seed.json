@@ -1,5 +1,274 @@
 [
  {
+  "slug": "macys-thanksgiving-parade-balloons-storm-risk",
+  "title": "Storm Winds May Ground the Balloons at the 100th Macy's Thanksgiving Parade",
+  "excerpt": "Forecast gusts up to 60 miles per hour could keep more than 100 balloons on the ground at the 100th Macy's Thanksgiving Day Parade, with the call coming Thursday morning.",
+  "seoDescription": "The 100th Macy's Thanksgiving Day Parade may fly without its balloons as an East Coast storm brings wind past the safety limits. What is at stake on Thursday.",
+  "category": "events",
+  "serviceId": "event-coverage",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-25T13:14:00.000Z",
+  "updatedAt": "2026-11-25T13:14:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/macys-thanksgiving-parade-balloons-storm-risk-hero.webp",
+   "alt": "A giant Pac Man balloon floating above handlers in costume on a Manhattan street during the Macy's Thanksgiving Day Parade",
+   "subject": "Pac Man balloon and handlers at the Macy's Thanksgiving Day Parade in New York",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-11-24/image-06d64224db485c83a01195f00f3e68817d03121e-3000x2000-jpg/GettyImages-2248787135.jpg",
+   "credit": "Photo: Manoli Figetakis, Getty Images via Morning Brew. Story source: Morning Brew, November 25, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A century old show meets a hard weather limit",
+    "paragraphs": [
+     "The 100th edition of the Macy's Thanksgiving Day Parade may have to march without its most famous cast members. Morning Brew reports that a storm expected to lash the East Coast from Delaware to Long Island could ground the giant balloons on Thursday, with rain and forecast winds of 35 miles per hour and gusts up to 60 starting around 10 in the morning in New York City.",
+     "The safety math is strict and it is not close. Balloons cannot fly if sustained winds hit 23 miles per hour and gusts reach 34, under city rules written to protect spectators from injury. The forecast sits well past both lines, and Manhattan's skyscraper lined streets often turn into wind tunnels that make conditions worse at street level than the numbers suggest."
+    ]
+   },
+   {
+    "heading": "The call comes at parade time",
+    "paragraphs": [
+     "Macy's says the decision on whether Snoopy, Mickey, and friends float will be made Thursday morning before the event starts at 8:30. Officials warn the balloons might have to be deflated on side streets just off the parade route, which runs until about noon through Manhattan.",
+     "The balloons are not decoration. They are the image the whole country associates with the morning, the shot every broadcast opens with and every family photographs from the sidewalk. Losing them would not cancel the parade, but it would change what the 100th edition looks like in every photo and clip that survives it, which is why the Thursday call carries more weight than a normal weather delay.This year's lineup raises the stakes. The parade is slated to feature more than 100 inflatables, against a usual 50 to 60. Bluey and Sorcerer's Apprentice Mickey are among the new balloons, and the float debuts include a tribute to puppeteer Tony Sarg, who created the event's first reverse marionettes in 1928, plus an HBO sponsored display for its forthcoming Harry Potter series."
+    ]
+   },
+   {
+    "heading": "Every outdoor production knows this morning",
+    "paragraphs": [
+     "Anyone who has produced an outdoor event recognizes this exact hour. Months of building, a lineup the public already expects, and one weather call that can remove the headline act before gates open. The parade has flown in hard years before, and it has also grounded balloons before, and the show went on either way because the rest of the production was built to carry it.",
+     "The same storm could also complicate holiday travel, with East Coast winds affecting flights on Thursday and king tides threatening coastal flooding for California drivers. If you are watching from home, watch for the decision at start time. A balloon free parade would be a first impression nobody planned for the 100th edition, and a live reminder that even the biggest show in the country still answers to the wind."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew newsletter, November 25, 2026",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "event-coverage",
+   "brand-spot",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Cover my event",
+   "price": 2000,
+   "serviceId": "event-coverage"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "deepmind-humanitys-first-exam-ai-consistency",
+  "title": "DeepMind Built an Exam That Asks If AI Can Get Easy Questions Right Every Time",
+  "excerpt": "Humanity's First Exam skips the impossible problems and tests 544 everyday questions instead, and the best AI score under its strict grading is still 90.7 percent.",
+  "seoDescription": "Google DeepMind's Humanity's First Exam tests whether AI answers easy questions consistently. The results explain why models still miscount, misread photos, and slip.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-25T13:10:00.000Z",
+  "updatedAt": "2026-11-25T13:10:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/deepmind-humanitys-first-exam-ai-consistency-hero.webp",
+   "alt": "A cartoon cat teacher holding a Humanity's First Exam clipboard in front of a chalkboard while a small robot takes the test at a desk",
+   "subject": "The Neuron illustration for DeepMind's Humanity's First Exam consistency test",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/d2b1c0b0-5c69-4e10-bf3c-d21514b3bc85/AI_s_Consistency_Exam.png?t=1795586066",
+   "credit": "Image: The Neuron. Story source: The Neuron, November 25, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The opposite of the hardest test in AI",
+    "paragraphs": [
+     "Google DeepMind has launched Humanity's First Exam, a test of 544 everyday questions for AI models, The Neuron reports. The name plays on Humanity's Last Exam, the famously brutal benchmark built to stump the best systems. This one runs the other direction. It asks whether a model gets an easy problem right every single time.",
+     "Each task arrives with slight variations of itself, grouped in sets of four across 20 foundational skills. The work is deliberately ordinary. Counting objects, naming colors and symbols, tracking positions, basic arithmetic, following strict formatting, and spotting false premises hidden inside a question."
+    ]
+   },
+   {
+    "heading": "One slip fails the whole set",
+    "paragraphs": [
+     "One sample shows how plain the test really is. A prompt shows a neon sign and asks for the color of the third letter in each word, separated by semicolons. The correct answer is green; yellow; white; blue; blue. A person could do that in seconds without thinking hard. Doing it correctly across every tweaked version of the same sign is the actual test, and it is where the models start to wobble.The grading is where the exam bites. A model has to answer all four versions of a question correctly, and one slip across 16 tries fails the entire set. Under that strict scoring, OpenAI's GPT 6.2 Astra leads at 90.7 percent, followed by GPT 6.2 Sol at 87.5 percent and Gemini 4 Neon at 85.6 percent. On a single try, the top models reach roughly 95 to 98 percent, which sounds strong until the job is one you cannot afford to redo.",
+     "DeepMind's technical report reportedly traced 73 percent of wrong answers to visual perception, which makes photo questions the soft spot. A live leaderboard runs on Kaggle, and a three week contest through December 15 invites anyone to submit everyday questions that current models still get wrong."
+    ]
+   },
+   {
+    "heading": "The lesson for anyone who uses AI at work",
+    "paragraphs": [
+     "This is the benchmark that matches real life. Most people do not ask AI for genius. They ask it to total a receipt from a photo, count items in a picture, copy a format exactly, and catch the trick inside a bad request. A model that aces expert math but miscounts the chairs in a room will burn a casual user the moment they stop double checking.",
+     "Build your workflow around that gap. Let AI draft, sort, and suggest at speed, then put a human check on the small set of facts everything else depends on. Counts, names, dates, and totals deserve a second look, every time, because consistency is exactly what the best models still cannot promise."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron newsletter, November 25, 2026",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "epochal-time-portal-ai-predict-future",
+  "title": "Three xAI Founders Built a Time Machine to Teach AI the Future",
+  "excerpt": "Epochal, a new startup from three xAI founding members, lets AI agents relive 30 years of the web one date at a time so they learn to forecast real events.",
+  "seoDescription": "Epochal and its Time Portal archive give AI agents a lived past of more than a trillion web pages. Inside the bet that forecasting is a memory problem.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-25T13:06:00.000Z",
+  "updatedAt": "2026-11-25T13:06:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/epochal-time-portal-ai-predict-future-hero.webp",
+   "alt": "A bar chart of pages in the Epochal index from 1996 to 2026 with stat cards reading 1 trillion plus pages, 7 trillion plus URLs, 30 plus years, and 1 minute granularity",
+   "subject": "Epochal chart showing the scale of its Time Portal web archive",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/802ee9e2-1a13-4b41-93bc-50377d18a80f/epochal.png?t=1795553218",
+   "credit": "Image: Epochal via The Rundown AI. Story source: The Rundown AI, November 25, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Reading everything is not the same as living it",
+    "paragraphs": [
+     "Three founding members of xAI have launched Epochal, a startup building AI that predicts real world events, The Rundown AI reports. Its first product, Time Portal, is described as a time machine for the internet. It lets AI agents relive the web on dates going back more than 30 years, browsing the world as it looked on a chosen day instead of reading about it later.",
+     "The founding team named so far includes Guodong Zhang, Zihang Dai, and Manuel Kroiss, and Zhang has reportedly put 100 million dollars of his own money into the company. Its founding argument is one line long. Today's AI has read almost everything and lived through almost nothing. Epochal says it built Time Portal in just 90 days to fix that."
+    ]
+   },
+   {
+    "heading": "A trillion pages, saved by the minute",
+    "paragraphs": [
+     "The archive holds more than a trillion pages, and the busiest pages are saved as often as once a minute, so an agent can drop into a specific hour rather than a specific day. Even the agent's computer is set back in time, with its clock, operating system, and software downloads matched to the chosen date so it cannot spot the trick and peek at the future.",
+     "There is also a quieter technical claim underneath the launch. Forecasting is usually treated as a reasoning problem, as if a smarter model would simply think its way to the future. Epochal treats it as an experience problem instead. Its agents are not just told what happened on a date. They are placed inside that date with the tools and limits of the moment, which is closer to how a person who actually lived through a market or a news cycle learned to read the next one.The test so far is forecasting. Agents predicted 347 live Kalshi and Polymarket questions during testing, and when Time Portal replays ran weeks later, the agents made nearly the same calls. Consistency is not accuracy, but it is the first thing a forecasting product has to prove before anyone trusts it with a real decision."
+    ]
+   },
+   {
+    "heading": "Why creators should care about a forecasting lab",
+    "paragraphs": [
+     "Prediction is quietly becoming a product category. Brands already pay for trend spotting, platforms sell analytics about what will move next, and event organizers bet real money on dates, lineups, and cities long before tickets go on sale. A tool that can rehearse the past at this resolution is aimed at all of those decisions at once.",
+     "The honest limit is worth keeping in view. A model that replays the web perfectly still only knows what the web noticed, and the web misses plenty. Treat tools like this the way a good producer treats a forecast from any single source. Useful signal, worth paying attention to, and never the only voice in the room when the call is yours."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI newsletter, November 25, 2026",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "tidal-bans-fully-ai-generated-music",
+  "title": "Tidal Becomes the First Big Streamer to Ban Fully AI Made Music",
+  "excerpt": "Starting December 9, Tidal will delete tracks it detects as fully AI generated and refuse new ones, after AI songs reached 43 percent of everything uploaded to the platform.",
+  "seoDescription": "Tidal will ban fully AI generated music starting December 9, a first for a major streaming service. What the policy means for artists who use AI as a tool.",
+  "category": "music-videos",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-25T13:02:00.000Z",
+  "updatedAt": "2026-11-25T13:02:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/tidal-bans-fully-ai-generated-music-hero.webp",
+   "alt": "Bold black type reading AI Music Is Banned above the Tidal logo on a white background, the announcement art for the new policy",
+   "subject": "Tidal announcement graphic for its ban on fully AI generated music",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/2781de7b-682d-4761-89fa-d257d90ea390/tidalban.png?t=1795543690",
+   "credit": "Image: Tidal via The Rundown AI. Story sources: The Rundown AI and Morning Brew, November 25, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A line nobody else would draw",
+    "paragraphs": [
+     "Tidal has announced it will delete every track it detects as fully AI generated starting December 9 and refuse new submissions of the same kind, The Rundown AI reports. The move makes the Block owned service the first subscription streaming platform to go past labels and straight to an outright ban on AI content.",
+     "The scale explains the decision. Tidal expects to reject between 80,000 and 85,000 new uploads a day once the ban starts, and it says AI tracks made up 43 percent of all submissions to the platform since late August. Morning Brew puts the coming removal at 29 million songs. Nearly half of everything arriving at the door was machine made, and almost nobody was pressing play on it."
+    ]
+   },
+   {
+    "heading": "Assistance is fine, authorship is the test",
+    "paragraphs": [
+     "The policy has a careful middle. Tracks made with AI assistance are still allowed. Tidal is using detection technology from partner Ircam Amplify plus upload metadata to catch songs made exclusively by AI, and its lead Robert Andersen called the company the first streaming service to take this step, adding that it encourages its peers to follow suit.",
+     "Rivals are stopping short for now. Spotify tags AI acts as AI Personas and has deleted 75 million spam tracks, while Apple Music labels songs as AI generated, but neither bans them completely. A recent Deezer survey cited by Morning Brew found about 41 percent of Americans want all AI generated music screened out of their listening, and Deezer is rolling out a toggle to filter it."
+    ]
+   },
+   {
+    "heading": "What working artists should take from it",
+    "paragraphs": [
+     "For independent artists, the practical read is simple. AI inside the process is not the problem. AI instead of the artist is. Producers who use AI for drafts, demos, and sound design while writing, performing, and finishing the record themselves sit on the safe side of the line Tidal just drew, and that line may soon appear on other platforms.",
+     "There is a business lesson in the timing as well. Tidal is a smaller service than its rivals, and a smaller service cannot win a volume war against an endless supply of free content. It can win a trust argument. Being first to ban the flood turns its size into a position, the platform where a human catalog still means something, and that is a brand claim competitors will now have to answer.The flood also changes the value of proof. Live footage, studio sessions, and a visible human process now do marketing work they never had to do before, because they answer the question every listener and platform is starting to ask. Show the hands, the room, and the takes. In a catalog filling up with instant songs, evidence of a real artist is becoming part of the release."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI newsletter, November 25, 2026",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew newsletter, November 25, 2026",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "music-video",
+   "brand-film",
+   "creative-direction-session"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "resume-hobbies-stand-out-ai-job-search",
   "title": "Job Hunters Are Putting Weird Hobbies on Their Resumes on Purpose",
   "excerpt": "With AI writing half the resumes in the pile, applicants are leading with spearfishing, shark swimming and dinner party logistics to prove a real person applied.",
