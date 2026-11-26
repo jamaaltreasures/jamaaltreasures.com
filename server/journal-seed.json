@@ -1,5 +1,229 @@
 [
  {
+  "slug": "amodei-ai-should-not-govern-us",
+  "title": "Anthropic CEO Says AI Should Not Govern Us",
+  "excerpt": "Dario Amodei answered an Axios report about staff views on AI decision making by calling a handover of governance a terrible idea. The line he drew, between AI doing tasks and AI setting the rules, matters for every team now delegating work to these tools.",
+  "seoDescription": "Anthropic CEO Dario Amodei rejected the idea of AI governing society after an Axios report. Why the line between tasks and rules matters for founders and creators.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-26T13:10:00.000Z",
+  "updatedAt": "2026-11-26T13:10:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/amodei-ai-should-not-govern-us-hero.webp",
+   "alt": "The Neuron cover art reading AI should not govern us, with a cat placing a ballot in a box beside a small robot in front of a capitol dome",
+   "subject": "The Neuron cover art for its story on Dario Amodei rejecting AI governance",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/0dbc52e5-1981-49f1-879d-8a26547c86ad/AI_Shouldn_t_Govern_Us.png?t=1795677800",
+   "credit": "Image: The Neuron. Story sources: The Neuron and The Rundown AI, November 26, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A report, then a blunt answer",
+    "paragraphs": [
+     "Axios reported that a common view inside Anthropic holds that humanity will eventually cede some decision making power to superintelligent AI, citing people familiar with company discussions. The Rundown AI adds that the report pointed to an old slide pitching a utopia ruled by a god in a box, language that was almost guaranteed to start an argument the moment it left the building.",
+     "Anthropic CEO Dario Amodei answered on X on Wednesday, and he did not soften it. He called the suggestion that he wants humans to surrender free will absurd, and he called turning governance over to AI a terrible idea. In the post shared by The Rundown AI, he wrote that a constant theme across hundreds of pages of his essays is the need for AI to be governed by legitimate democratic processes."
+    ]
+   },
+   {
+    "heading": "The argument he reached for",
+    "paragraphs": [
+     "Amodei compared the pitch for AI rule to the oldest pitch for autocracy. Advocates of autocracy have claimed for millennia that it leads to better, faster, or more decisive decision making than the messy process of democracy. Even if that were true, he argued, we should never sacrifice legitimacy or self determination at the altar of efficiency or security, and he said the same argument applies word for word against governance by AI.",
+     "Rivals were quick to take the other side of the headline. The Rundown AI notes that Meta AI chief Alexandr Wang publicly rejected a handover to AI, and that Sam Altman said this month he wants people to have the agency over the future. Whatever the internal views at any one lab turn out to be, the public position now on record at the top of all three companies is the same one."
+    ]
+   },
+   {
+    "heading": "Tasks are one thing, rules are another",
+    "paragraphs": [
+     "The Neuron draws out the useful line in the exchange, and it is worth keeping word for word in spirit. Letting AI do a task is one thing. Letting AI write the rules everyone lives under is another. The newsletter puts it as the difference between a robot vacuum and a mayor, which is funny and also exactly right about where the stakes change.",
+     "Amodei's view on tasks is mixed rather than absolutist. AI driving a car, designing a cancer drug, or writing software from start to finish can be clearly desirable and can save lives. On pace, he allowed that it may make sense to slow or stop some deployments, both to limit job disruption and to limit the ability of AI to build more powerful AI on its own. Delegation, in other words, has levels, and the level is the decision."
+    ]
+   },
+   {
+    "heading": "The same line runs through your business",
+    "paragraphs": [
+     "Founders and creators face a smaller version of this choice every week. Automating a task, such as sorting footage, drafting captions, checking prices, or summarizing a call, hands over work. Handing over the rules would mean letting the tool decide which clients you take, what your work is worth, what rights you sign away, and what promises go out under your name. Those are governance decisions, and they belong to the human whose name is on the door.",
+     "A practical habit follows from that. For every job you delegate to AI, write down whether it is a task or a rule. Tasks can run with a check at the end. Rules need a human decision at the start, every time the situation changes. Amodei argument was about society, but the discipline scales down cleanly. Efficiency is a fine reason to delegate work. It is a poor reason to delegate judgment."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron newsletter, November 26, 2026",
+    "url": "https://www.theneurondaily.com"
+   },
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI newsletter, November 26, 2026",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "gemini-tasks-black-friday-real-deal-check",
+  "title": "Use Gemini Tasks to Check Whether a Black Friday Deal Is Real",
+  "excerpt": "The Rundown AI guide uses Gemini Tasks to compare one product across six stores in a single table, test whether the discount is genuine, and keep checking the price every day until December 1.",
+  "seoDescription": "Gemini Tasks can compare six stores in one table, check whether a Black Friday discount is real, and watch the price daily. A step by step guide from The Rundown AI.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-26T13:06:00.000Z",
+  "updatedAt": "2026-11-26T13:06:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/gemini-tasks-black-friday-real-deal-check-hero.webp",
+   "alt": "A Gemini Tasks graphic reading Find the real deal beside a price table for six stores, with a yellow price tag showing 348 dollars",
+   "subject": "Gemini Tasks price comparison graphic for checking Black Friday deals across six stores",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/e1e88843-cbcb-4dd0-b053-4779906ff8d9/poster-1600.webp?t=1795624052",
+   "credit": "Image: The Rundown AI. Story source: The Rundown AI, November 26, 2026"
+  },
+  "sections": [
+   {
+    "heading": "One table instead of six open tabs",
+    "paragraphs": [
+     "Black Friday pricing is built to rush you. A strike through price, a countdown, and a low number from a seller you have never heard of can make an ordinary discount look like a once a year steal. The Rundown AI training guide for November 26 offers a slower and smarter move, using Tasks in Gemini to do the comparison work before any money moves.",
+     "The setup takes one product you actually want to buy. Gemini compares six stores in one table, looks into whether the discount is real, and then checks again every day until a date you choose. The whole exercise takes about 15 minutes according to the guide art, and it replaces the usual sprawl of tabs, screenshots, and half remembered prices with a single record you can question."
+    ]
+   },
+   {
+    "heading": "How the check runs, step by step",
+    "paragraphs": [
+     "Start in Gemini on the web or in the app, sign in with your personal Google Account, and select Task. If Gemini offers a model choice, the guide says to pick Hydrogen, the model free accounts use. Paste the price prompt with your own product and your own stores, and put your limits in that first message, including web search only, no use of your computer or browser, and no sign in or purchase by the tool.",
+     "Then read the table like a buyer, not a fan. Open the lowest link first, and then the lowest one where the store itself is the seller. The guide art shows why that order matters, because the cheapest line in its example table comes from a marketplace seller inside a big store, not from the store itself. Check the exact model, confirm the item is new, note who sells it, add shipping to the price, and read the return window before you trust the number."
+    ]
+   },
+   {
+    "heading": "Ask whether the discount is real",
+    "paragraphs": [
+     "The strongest move in the guide is the follow up question. In the same chat, ask Gemini whether the price is a real discount, and require the list price, the lowest price it can find evidence for before this month, and where each number comes from, again using web search only. A sale price means very little without the price history behind it, and plenty of holiday deals are regular prices wearing a costume.",
+     "If you can wait, there is one more step. Ask Gemini to check the same stores every day until December 1 and to tell you only if the price drops below yours. That turns a single search into a small watch, and it means you stop refreshing pages and let the task report back only when something actually changes."
+    ]
+   },
+   {
+    "heading": "Why this matters beyond one purchase",
+    "paragraphs": [
+     "Creators shop for cameras, lenses, lights, storage, and software in this exact window, and the same discipline that protects a family budget protects a production budget. Set the limits first, the exact model, the stores you trust, who must be the seller, and what the tool must not touch. Then open the store page yourself before you pay, because the final check belongs to a human with a card on the line.",
+     "The bigger lesson is the shape of the task itself. A good AI task has a clear product, a fixed set of sources, a question that can be checked, and a reporting rule for what happens next. Write your buying tasks that way and the tool stops being a chat window and starts being a researcher who works to your brief."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI newsletter, November 26, 2026",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "five-cents-builds-a-tv-ad-mute",
+  "title": "What Five Cents Builds Now With AI",
+  "excerpt": "A Rundown AI educator built a tool that watches live sports, spots the ads, and mutes the TV on its own. It took under 30 minutes, scored 95 percent accuracy on the first try, and costs five cents a game.",
+  "seoDescription": "A tool that mutes TV ads during live sports cost five cents a game to run and took under 30 minutes to build. The lesson for creators is to question old cost assumptions.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-26T13:02:00.000Z",
+  "updatedAt": "2026-11-26T13:02:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/five-cents-builds-a-tv-ad-mute-hero.webp",
+   "alt": "A hand drawn diagram showing a TV frame feeding a detector that keeps the sound on for the game and mutes the sound for an ad, beside the educator who built it",
+   "subject": "Diagram of the AI tool that detects game action and ads and mutes the TV during ads",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/2e89afa3-1c63-4b8d-9e80-925ddd395a24/natenotebook1125.png?t=1795643687",
+   "credit": "Image: The Rundown AI. Story source: The Rundown AI, November 26, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The annoying problem that started it",
+    "paragraphs": [
+     "Live sports is the one place most of us still sit through loud and annoying ads, and Rundown AI educator Nate Grahek had the same fight at home that plenty of Florida living rooms know well. His wife would yell to turn the volume down while he dug around for the remote, and one Saturday the workaround finally clicked in his head.",
+     "The idea was simple enough to say in one sentence. Take a picture of what is on the TV every second. Let his Mac look at each picture and answer one question, game or ad. When the answer is ad, the TV mutes itself. No new hardware, no crew, and no complicated system, just one clear job handed to a model that is good at looking at images."
+    ]
+   },
+   {
+    "heading": "The price tag broke his old math",
+    "paragraphs": [
+     "Grahek expected the experiment to cost real money, and he explains why in the newsletter. He once ran a software company for photographers and hosted terabytes of their images, so a freeze frame every second across a three hour game sounded like ten or twenty dollars a game to him. At that price it would have stayed a funny proof of concept and nothing more.",
+     "The build took under 30 minutes. It was 95 percent accurate on the first try. The cost came in at five cents a game. That gap between the expected price and the real price is the whole story, because almost every assumption he brought into the project, about complexity, about time, and about cost, turned out to be out of date at the same moment."
+    ]
+   },
+   {
+    "heading": "One working trick kept growing",
+    "paragraphs": [
+     "Once the TV could mute the ads, the next ideas arrived on their own. During the breaks Grahek usually grabs his phone and scrolls for funny posts to send his friends, so those posts went up on the TV instead. Then he swapped his own feed for agents reading the top channels across every network and putting the best 20 posts on screen for the whole family.",
+     "He even swapped the TV announcers for the radio broadcast. None of that was the original plan. It happened because the first small piece worked, cost almost nothing to run, and left him free to ask what else the break time could become. Advertisers, as he puts it, are not ready for an audience that can quietly rebuild the ad break itself."
+    ]
+   },
+   {
+    "heading": "The question to steal for your own work",
+    "paragraphs": [
+     "Grahek is honest about the trap. His experience is his biggest asset and also his biggest blind spot, because he keeps assuming complexity and costs that are no longer there. His advice before scoping the first version of anything is to ask AI one direct question. What am I assuming is too hard or too expensive to try?",
+     "For creators and small teams, the practical version looks like this. Pick one small and almost disposable project, the kind where a wrong answer costs an afternoon and not a client. Give the tool one question to answer well, measure accuracy and cost per use from the start, and only grow the idea after the small piece proves itself. The five cent game is not really about television. It is about how many useful tools are sitting unbuilt behind old math."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI newsletter, November 26, 2026",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "macys-thanksgiving-parade-balloons-storm-risk",
   "title": "Storm Winds May Ground the Balloons at the 100th Macy's Thanksgiving Parade",
   "excerpt": "Forecast gusts up to 60 miles per hour could keep more than 100 balloons on the ground at the 100th Macy's Thanksgiving Day Parade, with the call coming Thursday morning.",
