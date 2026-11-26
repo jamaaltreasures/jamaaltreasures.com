@@ -12186,5 +12186,59 @@
   "alt": "Red Worship The Witness Tour poster for April 9 2027 at Crosswater Community Church in Ponte Vedra Beach",
   "imageKey": "event-flyers/1164-red-worship-witness-tour-ponte-vedra-beach.jpg",
   "endDate": "2027-04-09"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "John Summit at LIV Miami",
+  "date": "DECEMBER 2, 11:30 PM",
+  "headliners": "John Summit",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261202/john-summit/",
+  "flyerUrl": "https://www.instagram.com/p/DgFsXaokuAh/",
+  "image": "/events/flyer/1165-john-summit-at-liv-miami.jpg",
+  "alt": "John Summit at LIV Miami event flyer",
+  "imageKey": "event-flyers/1165-john-summit-at-liv-miami.jpg",
+  "endDate": "2026-12-03"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Future at LIV Miami",
+  "date": "DECEMBER 5, 11:30 PM",
+  "headliners": "Future",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261205/future/",
+  "flyerUrl": "https://www.instagram.com/p/DgL0BRtEosb/",
+  "image": "/events/flyer/1166-future-at-liv-miami.jpg",
+  "alt": "Future at LIV Miami event flyer",
+  "imageKey": "event-flyers/1166-future-at-liv-miami.jpg",
+  "endDate": "2026-12-06"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Lil Naay at LIV Miami",
+  "date": "DECEMBER 10, 11:30 PM",
+  "headliners": "Lil Naay",
+  "venue": "LIV Nightclub, Miami Beach",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261210/lil-naay/",
+  "flyerUrl": "https://www.instagram.com/p/DgLO7V-Enij/",
+  "image": "/events/flyer/1167-lil-naay-at-liv-miami.jpg",
+  "alt": "Lil Naay at LIV Miami event flyer",
+  "imageKey": "event-flyers/1167-lil-naay-at-liv-miami.jpg",
+  "endDate": "2026-12-11"
  }
 ]
