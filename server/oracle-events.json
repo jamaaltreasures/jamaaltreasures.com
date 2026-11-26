@@ -206,23 +206,6 @@
  },
  {
   "section": "NOVEMBER",
-  "title": "Trippie Redd: The NDA Tour, Orlando",
-  "date": "NOVEMBER 25, 8 PM",
-  "headliners": "Trippie Redd, K Suave",
-  "venue": "Plaza Live, Orlando",
-  "categories": [
-   "Music"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://www.axs.com/events/1428771/trippie-redd-tickets",
-  "flyerUrl": "https://plazaliveorlando.org/events/detail/trippie-redd-1",
-  "image": "/events/flyer/122-trippie-redd-nda-tour.jpg",
-  "alt": "Trippie Redd NDA Tour poster",
-  "imageKey": "event-flyers/122-trippie-redd-nda-tour.jpg",
-  "endDate": "2026-11-25"
- },
- {
-  "section": "NOVEMBER",
   "title": "Trippie Redd: The NDA Tour, Miami Beach",
   "date": "NOVEMBER 27, 8 PM",
   "headliners": "Trippie Redd, K Suave",
@@ -429,23 +412,6 @@
   "alt": "AfroSocaLove Orlando One Love Festival flyer, Festival Park Orlando",
   "imageKey": "event-flyers/181-afrosocalove-orlando-one-love-festival.jpg",
   "endDate": "2026-12-12"
- },
- {
-  "section": "NOVEMBER",
-  "title": "STING 3.0 Tour, Hollywood",
-  "date": "NOVEMBER 25, 8 PM",
-  "headliners": "Sting, Chance Emerson",
-  "venue": "Hard Rock Live, Hollywood",
-  "categories": [
-   "Music"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://casino.hardrock.com/vi/hollywood/events/sting",
-  "flyerUrl": "https://images.bubbleup.com/vipnation/1-default/2-vipnationcom/static_vip_1280x720_sting_2026_national_1772224604.jpg",
-  "image": "/events/flyer/185-sting-3-0-tour.jpg",
-  "alt": "STING 3.0 Tour flyer, Hard Rock Live Hollywood",
-  "imageKey": "event-flyers/185-sting-3-0-tour.jpg",
-  "endDate": "2026-11-25"
  },
  {
   "section": "NOVEMBER",
@@ -3693,23 +3659,6 @@
   "alt": "ABC Central Florida Chili Cook Off flyer, December 3 at Horsepower Ranch in Geneva",
   "imageKey": "event-flyers/625-abc-central-florida-chili-cook-off-geneva.jpg",
   "endDate": "2026-12-03"
- },
- {
-  "section": "NOVEMBER",
-  "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour, Orlando",
-  "date": "NOVEMBER 25, 7 PM",
-  "headliners": "Malachi Barton, Liamani Segura, Dara Reneé, Mekonnen Knife, Hudson Stone, Swayam Bhatia, Kiara Romero, Alexandro Byrd",
-  "venue": "Kia Center, Orlando",
-  "categories": [
-   "Music"
-  ],
-  "detailsLabel": "Get Tickets",
-  "detailsUrl": "https://www.ticketmaster.com/disney-worlds-collide-concert-tour-tickets/artist/3318339",
-  "flyerUrl": "https://www.ticketmaster.com/disney-worlds-collide-concert-tour-tickets/artist/3318339",
-  "image": "/events/flyer/627-disney-worlds-collide-orlando.jpg",
-  "alt": "Disney Worlds Collide Concert Tour artwork, Kia Center Orlando",
-  "imageKey": "event-flyers/627-disney-worlds-collide-orlando.jpg",
-  "endDate": "2026-11-25"
  },
  {
   "section": "NOVEMBER",
@@ -12202,5 +12151,40 @@
   "alt": "Moon Crush Sunshine Live poster April 23 to 24 2027 Orlando",
   "imageKey": "event-flyers/1162-moon-crush-sunshine-live-orlando.jpg",
   "endDate": "2027-04-24"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Hotboii: Welcome Home Party, Orlando",
+  "date": "NOVEMBER 26",
+  "headliners": "Hotboii",
+  "venue": "Rum Jungle, Orlando",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://hotboiithanksgiving.com",
+  "flyerUrl": "https://www.instagram.com/p/DgLP3QAv429/",
+  "image": "/events/flyer/1163-hotboii-welcome-home-party-orlando.jpg",
+  "alt": "Hotboii Welcome Home Party flyer for Thursday November 26 at Rum Jungle in Orlando",
+  "imageKey": "event-flyers/1163-hotboii-welcome-home-party-orlando.jpg",
+  "endDate": "2026-11-27"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Red Worship: The Witness Tour, Ponte Vedra Beach",
+  "date": "APRIL 9, 7:30 PM",
+  "headliners": "Red Worship",
+  "venue": "Crosswater Community Church, Ponte Vedra Beach",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketweb.com/event/red-worship-the-witness-tour-crosswater-community-church-tickets/15059873",
+  "flyerUrl": "https://www.instagram.com/p/DgGDWtev6Oi/",
+  "image": "/events/flyer/1164-red-worship-witness-tour-ponte-vedra-beach.jpg",
+  "alt": "Red Worship The Witness Tour poster for April 9 2027 at Crosswater Community Church in Ponte Vedra Beach",
+  "imageKey": "event-flyers/1164-red-worship-witness-tour-ponte-vedra-beach.jpg",
+  "endDate": "2027-04-09"
  }
 ]
