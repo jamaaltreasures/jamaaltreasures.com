@@ -12475,5 +12475,42 @@
   "alt": "JOOK FEST 2027 poster for Saturday February 27 at Yuengling Center in Tampa",
   "imageKey": "event-flyers/1180-jook-fest-2027-tampa.jpg",
   "endDate": "2027-02-27"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Polo & Pan at Club Space",
+  "date": "DECEMBER 29, 11 PM",
+  "headliners": "Polo & Pan, TEED, Tiffy Vera, Bort, Generous B, Cami Di Marzo, Nat Siriani",
+  "venue": "Club Space, Miami",
+  "categories": [
+   "Music",
+   "Nightlife"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://dice.fm/venue/club-space-miami-wlav?lng=en",
+  "flyerUrl": "https://www.instagram.com/p/DgLHhkvT_5T/",
+  "image": "/events/flyer/1181-polo-and-pan-club-space-miami.jpg",
+  "alt": "Polo & Pan at Club Space poster for Tuesday December 29 2026 in Downtown Miami",
+  "imageKey": "event-flyers/1181-polo-and-pan-club-space-miami.jpg",
+  "endDate": "2026-12-30"
+ },
+ {
+  "section": "MAJOR ANNUALS",
+  "title": "27th Annual Chain of Parks Art Festival",
+  "date": "APRIL 17 TO 18, 2027",
+  "headliners": "",
+  "venue": "Chain of Parks, Tallahassee",
+  "categories": [
+   "Arts",
+   "Festival",
+   "Community"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://visittallahassee.com/events/27th-annual-chain-of-parks-art-festival-returns-on-april-17-18-2027/",
+  "flyerUrl": "https://www.instagram.com/p/DZU9W7YDzU7/",
+  "image": "/events/flyer/1182-chain-of-parks-art-festival-tallahassee.jpg",
+  "alt": "Chain of Parks Art Festival save the date poster for April 17 and 18 2027 in Downtown Tallahassee",
+  "imageKey": "event-flyers/1182-chain-of-parks-art-festival-tallahassee.jpg",
+  "endDate": "2027-04-18"
  }
 ]
