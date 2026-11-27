@@ -12478,5 +12478,42 @@
   "alt": "Pier 60 Sugar Sand Festival poster for March 26 to April 11 2027 at Clearwater Beach",
   "imageKey": "event-flyers/1186-pier-60-sugar-sand-festival-clearwater.jpg",
   "endDate": "2027-04-11"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Amelia Island Montessori School Chili Cook Off",
+  "date": "FEBRUARY 6, 11 AM TO 2 PM",
+  "headliners": "",
+  "venue": "Centre and 2nd, Fernandina Beach",
+  "categories": [
+   "Food",
+   "Community"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://events.humanitix.com/2027-annual-amelia-island-montessori-school-chili-cook-off",
+  "flyerUrl": "https://www.ameliaislandmontessori.com/chili-cook-off",
+  "image": "/events/flyer/1187-amelia-island-montessori-school-chili-cook-off.jpg",
+  "alt": "Amelia Island Montessori School Annual Chili Cook Off flyer, Saturday February 6 2027 in downtown Fernandina Beach",
+  "imageKey": "event-flyers/1187-amelia-island-montessori-school-chili-cook-off.jpg",
+  "endDate": "2027-02-06"
+ },
+ {
+  "section": "MAJOR ANNUALS",
+  "title": "Universal Mardi Gras: International Flavors of Carnaval",
+  "date": "FEBRUARY 6 TO MARCH 27, 2027",
+  "headliners": "Lineup to be announced",
+  "venue": "Universal Studios Florida, Orlando",
+  "categories": [
+   "Festival",
+   "Food",
+   "Music"
+  ],
+  "detailsLabel": "Details",
+  "detailsUrl": "https://www.universalorlando.com/web/en/us/things-to-do/events/mardi-gras",
+  "flyerUrl": "https://www.universalorlando.com/web/en/us/things-to-do/events/mardi-gras",
+  "image": "/events/flyer/1188-universal-mardi-gras-orlando.jpg",
+  "alt": "Universal Mardi Gras parade float with bead throwers at Universal Studios Florida, Orlando",
+  "imageKey": "event-flyers/1188-universal-mardi-gras-orlando.jpg",
+  "endDate": "2027-03-27"
  }
 ]
