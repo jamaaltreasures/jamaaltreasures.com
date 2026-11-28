@@ -12534,5 +12534,56 @@
   "alt": "Naples Downtown Art Fair poster for March 20 and 21 2027 at Cambier Park in Naples",
   "imageKey": "event-flyers/1189-naples-downtown-art-fair.jpg",
   "endDate": "2027-03-21"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Purple Pride 5K",
+  "date": "JANUARY 23, 8 AM",
+  "headliners": "",
+  "venue": "Inter.co Stadium, Orlando",
+  "categories": [
+   "Wellness"
+  ],
+  "detailsLabel": "Register",
+  "detailsUrl": "https://purplepride5k.com",
+  "flyerUrl": "https://www.instagram.com/p/DgK2_7QkU-n/",
+  "image": "/events/flyer/1190-purple-pride-5k-orlando.jpg",
+  "alt": "Purple Pride 5K flyer for January 23 2027 at Inter.co Stadium in Orlando",
+  "imageKey": "event-flyers/1190-purple-pride-5k-orlando.jpg",
+  "endDate": "2027-01-23"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Booker T Jones",
+  "date": "JANUARY 15, 8 PM",
+  "headliners": "Booker T Jones",
+  "venue": "ZeyZey Miami, Miami",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/booker-t-jones-tickets/artist/1587975",
+  "flyerUrl": "https://www.instagram.com/p/DeQGoRBEU-x/",
+  "image": "/events/flyer/1191-booker-t-jones-miami.jpg",
+  "alt": "Booker T Jones poster for January 15 2027 at ZeyZey Miami",
+  "imageKey": "event-flyers/1191-booker-t-jones-miami.jpg",
+  "endDate": "2027-01-15"
+ },
+ {
+  "section": "NOVEMBER",
+  "title": "Bebeshito: El Comboy Tour USA",
+  "date": "DECEMBER 26, 8 PM",
+  "headliners": "Bebeshito",
+  "venue": "Kaseya Center, Miami",
+  "categories": [
+   "Music"
+  ],
+  "detailsLabel": "Get Tickets",
+  "detailsUrl": "https://www.ticketmaster.com/bebeshito-tickets/artist/3436739",
+  "flyerUrl": "https://www.kaseyacenter.com/news/detail/bebeshito-announces-his-el-comboy-tour-coming-to-kaseya-center",
+  "image": "/events/flyer/1192-bebeshito-miami.jpg",
+  "alt": "Bebeshito El Comboy Tour USA poster for December 26 at Kaseya Center in Miami",
+  "imageKey": "event-flyers/1192-bebeshito-miami.jpg",
+  "endDate": "2026-12-26"
  }
 ]
