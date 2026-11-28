@@ -1,5 +1,382 @@
 [
  {
+  "slug": "hoboken-nine-years-no-traffic-deaths",
+  "title": "Hoboken Has Gone Nearly Nine Years Without a Traffic Death",
+  "excerpt": "Morning Brew reports that Hoboken, New Jersey has not recorded a traffic death in nearly nine years. The city did it with curb extensions, slower speeds, and head starts for people on foot, not with a giant budget.",
+  "seoDescription": "Hoboken Vision Zero: nearly nine years with no traffic death, serious injuries down 62 percent. The four street changes behind it, and the Florida lesson.",
+  "category": "events",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-28T13:14:00.000Z",
+  "updatedAt": "2026-11-28T13:14:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/hoboken-nine-years-no-traffic-deaths-hero.webp",
+   "alt": "An intersection in Hoboken, New Jersey with an extended sidewalk curb, a crosswalk, people walking and cycling, and storefronts behind",
+   "subject": "An intersection in Hoboken, New Jersey, photographed for Getty Images",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-11-21/image-0a5865efd8e928d50c1f14782fa4b589507adb78-4032x3024-jpg/RoadjunctioninHoboken",
+   "credit": "Image: Gerenme, Getty Images, via Morning Brew. Story source: Morning Brew, November 28, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A streak that should not be possible",
+    "paragraphs": [
+     "Hoboken, New Jersey is a dense little city of commuters, delivery trucks, cyclists, and people on foot, directly across the river from Manhattan. It has now gone nearly nine years without a single traffic death, Morning Brew reports. That is not a quiet suburb protecting a small number. It is a busy city that decided pedestrian deaths were a design problem, and then treated them like one.",
+     "The framework is Vision Zero, a plan first adopted in Sweden in 1997 with a simple premise: the goal is zero deaths, and the street itself, not just driver behavior, is part of the safety system. Hoboken built its version out of unglamorous, repeatable changes."
+    ]
+   },
+   {
+    "heading": "Four changes did the heavy lifting",
+    "paragraphs": [
+     "None of the four moves requires new technology, and that is exactly why the result travels well to other cities:"
+    ],
+    "bullets": [
+     "Sidewalk curbs extended closer to intersections, which forces cars to slow at crosswalks and lets people check traffic from the sidewalk instead of stepping into the street to see",
+     "A seven second head start for people crossing, so they are visible in the intersection before cars get a green light",
+     "A citywide speed limit cut from 25 to 20 miles per hour, made in 2022",
+     "Enforced no parking within 25 feet of intersections, which opens sight lines for everyone approaching a corner"
+    ]
+   },
+   {
+    "heading": "The injury numbers back the streak",
+    "paragraphs": [
+     "A death free streak can hide luck. The injury data argues otherwise. Morning Brew reports that the same package of changes produced a 62 percent reduction in serious injuries from 2022 to 2023. When deaths stay at zero and serious injuries fall by almost two thirds, the street is doing the work, not fortune.",
+     "The same Morning Brew edition explains why the obvious alternative fails. Widening roads triggers induced demand: a University of Toronto study found that for every one percent increase in road capacity in metro areas, the number of cars rises by about one percent too. Los Angeles spent a billion dollars widening Interstate 405 and rush hour came back. More lanes invite more driving. Better corners invite survival."
+    ]
+   },
+   {
+    "heading": "Why Florida should study Hoboken",
+    "paragraphs": [
+     "Tampa Bay and Orlando routinely rank among the most dangerous metro areas in the country for people on foot, and both fill their calendars with street festivals, night markets, and event crowds spilling out of venues onto wide, fast roads. The Hoboken recipe is aimed at exactly that mix: slow the corner, protect the crossing, and give the person on foot a head start and a clear view.",
+     "For event organizers and the businesses around them, this is not abstract policy. The walk from parking to venue is part of the guest experience, and part of the risk. Cities that fix corners with paint, curbs, and signal timing are buying safety at infrastructure prices, not highway prices. Nearly nine years without a death is the receipt."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew newsletter, November 28, 2026",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "cargo-blimps-comeback-freight",
+  "title": "Cargo Blimps Are Making a Serious Comeback Bid",
+  "excerpt": "Morning Brew reports that startups backed by Sergey Brin, the UK government, and billions in orders are betting that modern airships can haul freight cheaper and cleaner than planes. The catch is the same one as always: weather.",
+  "seoDescription": "Startups including LTA Research and Flying Whales are building cargo airships for remote freight. Morning Brew on the hardware, the orders, and the weather problem.",
+  "category": "brand-growth",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-28T13:10:00.000Z",
+  "updatedAt": "2026-11-28T13:10:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/cargo-blimps-comeback-freight-hero.webp",
+   "alt": "A huge silver experimental cargo airship inside a hangar in Tustin, California, seen from above",
+   "subject": "An experimental cargo hauling airship being built in Tustin, California, photographed for Getty Images",
+   "kind": "photo",
+   "sourceUrl": "https://morningbrew.com/cdn-cgi/image/width=1336,format=auto/https://storage.morningbrew.com/image/2026-11-21/image-409c5d73ee5906d1df513f597463b0f4895b0317-2400x1622-jpg/AUGUST112013.TUSTINCA.AnexperimentalversionofacargohaulingairshipbeingbuiltbyWor",
+   "credit": "Image: Don Bartletti, Getty Images, via Morning Brew. Story source: Morning Brew, November 27, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The oldest idea in freight is new again",
+    "paragraphs": [
+     "Almost ninety years after the Hindenburg disaster gave airships the worst reputation in transportation, a group of startups is betting that gas filled ships are the future of cargo. Morning Brew, in a special edition on shipping, lays out the pitch: airships are cleaner and cheaper than freight planes, if slower, and they can land in places no runway reaches. For remote deliveries, that last point is the whole business case.",
+     "The timing helps the pitch. The same edition reports diesel prices far above last year, truck transportation costs up nearly twenty five percent in a year, and freight companies filing for bankruptcy under the strain. Expensive freight makes strange alternatives worth a second look."
+    ]
+   },
+   {
+    "heading": "Real hardware and real orders",
+    "paragraphs": [
+     "This is not a rendering business. LTA Research, backed by Sergey Brin, has been testing Pathfinder 1 in the skies over the Bay Area. At 406.5 feet long, the rigid airship is the biggest aircraft in the world, and the company describes the hybrid electric prototype as a step toward a fuel efficient cargo vessel. French startup Flying Whales plans to build airships at a factory in Quebec, aimed at remote shipments of up to 66 tons.",
+     "The order book is the strongest signal. Hybrid Air Vehicles, backed by the UK government, holds about 2.2 billion dollars worth of orders for its planned aircraft, intended for both civilian and defense work. Buyers are paying for a capability, not a novelty."
+    ]
+   },
+   {
+    "heading": "Why this is not a Hindenburg sequel",
+    "paragraphs": [
+     "The safety case rests on different physics and different materials. Modern airships lift with helium, which does not burn, instead of the flammable hydrogen that doomed the Hindenburg. Hulls use durable modern materials such as carbon fiber. Digital controls allow precise navigation, and better wind prediction helps crews route around storms instead of through them.",
+     "Morning Brew is honest about the remaining problem, and it is the obvious one. Airships are still more exposed to weather than planes, and engineers have spent years wrestling with how unwieldy the huge, light craft are to handle. Slow and weather dependent is a hard sell in an industry built on delivery promises."
+    ]
+   },
+   {
+    "heading": "What to watch as a small operator",
+    "paragraphs": [
+     "Nobody is shipping client gear by blimp next quarter. The lesson for small businesses is about cost curves. Freight prices shape everything from product margins to what free shipping can mean, and the pressure in trucking is structural: fuel, driver shortages, and tariffs all pushing the same direction. When incumbents get expensive enough, capital funds weird replacements, and some of those replacements eventually set new prices.",
+     "Watch the order books and the first paying routes, not the press photos. If airships start moving real tonnage on schedule, the routes they serve first, remote and oversized cargo, will show it years before the technology touches ordinary deliveries."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "morning-brew",
+    "title": "Morning Brew newsletter, November 27, 2026",
+    "url": "https://www.morningbrew.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "us-crackdown-slows-china-ai-labs",
+  "title": "US Crackdown Is Slowing the AI Labs Behind Free Open Models",
+  "excerpt": "Reuters reporting shared by The Rundown AI says US curbs on distillation and overseas compute are delaying flagship models from Zhipu AI and Moonshot. Builders who rely on free open weight models should pay attention.",
+  "seoDescription": "US curbs on distillation and overseas compute are delaying Zhipu GLM 5.5 and the next Kimi flagship, per Reuters. Why the open weight supply could thin out.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-28T13:06:00.000Z",
+  "updatedAt": "2026-11-28T13:06:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/us-crackdown-slows-china-ai-labs-hero.webp",
+   "alt": "Collage artwork showing the leaders of the United States and China back to back with their national flags, and an AI chip marked with a prohibition sign",
+   "subject": "The Rundown AI artwork for its story on US restrictions and China AI progress",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/5ac2b025-3569-459c-897f-4800d7ea5609/AI_Chip_Restrictions_Collage.png?t=1795750291",
+   "credit": "Image: The Rundown AI. Story sources: The Rundown AI and The Neuron, November 27, 2026"
+  },
+  "sections": [
+   {
+    "heading": "Two flagships slip at the same time",
+    "paragraphs": [
+     "China top AI labs have been the reliable source of strong models that anyone can download, run, and customize for free. Reuters reporting, shared by The Rundown AI, says that supply is now under pressure. Zhipu AI had planned to launch GLM 5.5, a model of roughly three trillion parameters, this month. Tighter safeguards against distillation by OpenAI and Anthropic have partly held it up, according to multiple sources cited in the report.",
+     "Moonshot faces the longer delay. Its six month rhythm between major releases could stretch to a year or more, and the next Kimi flagship could slip to the middle of 2027. Distillation, training a new model on the outputs of a stronger one, is how smaller labs have closed gaps quickly, so guarding it changes the economics of catching up."
+    ]
+   },
+   {
+    "heading": "Compute is the second squeeze",
+    "paragraphs": [
+     "A new US rule restricts Chinese access to computing power rented from overseas data centers, which had been one route around chip export controls. The Neuron adds a matching detail from the Financial Times: Nvidia told partners to halt shipments of servers to Malaysia, Singapore, Thailand, and Indonesia after the tighter controls landed. The map of where training can happen is being redrawn in real time.",
+     "Moonshot is now looking at compute in Europe and at local chipmakers, the report says, while redirecting its distillation efforts toward new Google and Meta models. None of that is a stop. All of it is slower, more expensive, or both."
+    ]
+   },
+   {
+    "heading": "The rankings already moved",
+    "paragraphs": [
+     "The pressure shows up in public scoreboards too. The Rundown AI notes that the open weight Kimi K3.1 Pro slid from fourth to ninth in Artificial Analysis rankings as that benchmark moved to private tests. Rankings built on public tests reward models tuned for those tests, and the shift to private testing is itself a sign that labs and evaluators are guarding their methods more closely on every side."
+    ]
+   },
+   {
+    "heading": "Why a builder in Florida should care",
+    "paragraphs": [
+     "If your tools, your experiments, or your client work lean on free open weight models, this story is a supply story. A thinner pipeline of strong free models means fewer cheap options to self host, more dependence on a handful of US providers, and prices set by companies that know you have nowhere else to go. The Rundown AI puts it plainly: the West has notable open weight options, but none has yet caught up to China best.",
+     "The practical move is boring and valuable. Know which of your workflows depend on a single free model, keep a paid fallback tested rather than theoretical, and download and archive the open models your business truly relies on while they are easy to get."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI newsletter, November 27, 2026",
+    "url": "https://www.therundown.ai"
+   },
+   {
+    "id": "the-neuron",
+    "title": "The Neuron newsletter, November 27, 2026",
+    "url": "https://www.theneurondaily.com"
+   },
+   {
+    "id": "reuters",
+    "title": "Reuters reporting on US curbs and China AI labs, November 2026",
+    "url": "https://www.reuters.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "nod-n8n-personal-agent-asks-first",
+  "title": "Nod From n8n Labs Is a Personal Agent That Asks First",
+  "excerpt": "The Rundown AI walked through Nod, the free personal agent from n8n Labs. You give it jobs, cap what it can spend, and make it ask before it submits anything. That approval habit is the whole lesson.",
+  "seoDescription": "Nod, the free personal agent from n8n Labs, takes jobs like plan comparisons, forms, and weekday news checks, with spending caps and approval built in.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-28T13:03:00.000Z",
+  "updatedAt": "2026-11-28T13:03:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/nod-n8n-personal-agent-asks-first-hero.webp",
+   "alt": "Artwork for Nod by n8n Labs reading An agent that asks first, showing a weekday news digest schedule, an approval prompt asking before an order is submitted, and a twenty dollar spending limit",
+   "subject": "The Rundown artwork for its guide to Nod, the personal agent from n8n Labs",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/d87074b6-4fcc-44d5-8d7e-c4881b35a0db/nod.webp?t=1795705612",
+   "credit": "Image: The Rundown AI. Story source: The Rundown AI, November 27, 2026"
+  },
+  "sections": [
+   {
+    "heading": "A free agent with a job list",
+    "paragraphs": [
+     "Most personal agent demos start with a blank chat box and a promise. The Rundown AI guide to Nod, the free personal agent from n8n Labs, starts somewhere better: with three specific jobs. You download Nod for Mac from nod.n8n.io, open it, and connect it by signing in with ChatGPT under OpenAI or by pasting in an API key. You can continue without an email address, which keeps the trial honest and quick.",
+     "From there the guide treats the agent the way a good manager treats a new hire. Small jobs first, clear limits, and a check before anything leaves the building."
+    ]
+   },
+   {
+    "heading": "Three jobs that teach the pattern",
+    "paragraphs": [
+     "The first job is research you can verify. Ask Nod to compare the free plans of Zoom, Google Meet, and Microsoft Teams using each company own website, returned as one short table with a link to each source. The second job adds risk on purpose. Hand it the guide practice form and end the prompt by telling it to ask you before it submits. The third job repeats. Ask for a weekday check at 9 in the morning covering the OpenAI, Anthropic, and Google DeepMind news pages for posts from the last 24 hours.",
+     "Each job teaches a different muscle: sourcing, restraint, and routine. Together they cover most of what a solo operator actually needs an agent to do."
+    ]
+   },
+   {
+    "heading": "Caps and approvals are the product",
+    "paragraphs": [
+     "The guide has you cap what Nod can spend before you give it real work, and the artwork for the guide makes the same point visually, with a twenty dollar limit sitting next to the approval prompt. That pairing is not decoration. An agent that can spend without a ceiling and submit without asking is not an assistant. It is a liability with a login.",
+     "The pro tip in the guide deserves to be taped above every desk. Write three things into every request: what done looks like, which sites and apps the agent may use, and what it must ask you about first. Then run each schedule once by hand and read its cost before you leave it running."
+    ]
+   },
+   {
+    "heading": "Steal the briefing, not just the tool",
+    "paragraphs": [
+     "Nod itself is free and Mac only for now, and it may or may not fit your stack. The briefing pattern fits every stack. Creators who shoot, edit, and publish alone spend their scarcest resource on supervision, so an agent that asks first is worth more than a faster agent that guesses. Define done, name the allowed sources, list the approval points, and check the first run like a client deliverable. Do that, and whichever agent you pick next will behave like staff instead of a slot machine."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-rundown-ai",
+    "title": "The Rundown AI newsletter, November 27, 2026",
+    "url": "https://www.therundown.ai"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
+  "slug": "openai-matrix-math-exact-speed-limit",
+  "title": "OpenAI Says It Found the Exact Speed Limit for AI Math",
+  "excerpt": "OpenAI posted a preprint claiming it pinned down the exact speed limit for matrix multiplication, the math every AI model runs on. The answer is a clean fraction, and the checking will take far longer than the claim.",
+  "seoDescription": "OpenAI claims the exact speed limit for matrix multiplication is 9/4. What the preprint proves, what it does not, and why verification is the real story.",
+  "category": "ai-tools",
+  "serviceId": "creative-direction-session",
+  "kind": "news",
+  "format": "newsletter-rewrite",
+  "publishedAt": "2026-11-28T13:00:00.000Z",
+  "updatedAt": "2026-11-28T13:00:00.000Z",
+  "readingMinutes": 3,
+  "image": {
+   "src": "/assets/editorial/openai-matrix-math-exact-speed-limit-hero.webp",
+   "alt": "The Neuron cover art showing a cat at a chalkboard with two matrices multiplied together and the fraction 9/4 written below",
+   "subject": "The Neuron cover art for its story on OpenAI and the matrix multiplication speed limit",
+   "kind": "photo",
+   "sourceUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/5db20448-5fbf-4efb-9dce-35f45be41f46/Ollie_s_AI_Math_Speed_Limit.png?t=1795747657",
+   "credit": "Image: The Neuron. Story source: The Neuron, November 27, 2026"
+  },
+  "sections": [
+   {
+    "heading": "The math underneath every model",
+    "paragraphs": [
+     "Every layer of ChatGPT, Claude, and Gemini is mostly one operation repeated at enormous scale: multiplying matrices, the giant grids of numbers that carry a model from one step to the next. The school method for multiplying two grids takes about n cubed steps, so doubling the grid means eight times the work. Smarter methods shrink that exponent, and the lowest it could ever go is 2, because you at least have to read every number once.",
+     "The record sat near 2.371 for years. OpenAI claimed under 2.258 in a September paper, and an October preprint argued that 2.25 was reachable. That left the question half answered. A method that fast existed on paper, but nobody had proven that nothing faster was possible."
+    ]
+   },
+   {
+    "heading": "A floor to match the method",
+    "paragraphs": [
+     "On November 24, OpenAI posted a preprint claiming the missing half. The paper argues that no formal arithmetic circuit, meaning a recipe built from basic additions and multiplications, can multiply two n by n matrices using fewer than roughly n to the power of 9/4, divided by 2, multiplications or divisions. When the fastest known method and the proof that nothing faster exists land on the same number, the answer stops being a record and becomes a limit. That number is 9/4, or 2.25.",
+     "Scott Aaronson, who credits OpenAI models with the work, called it shocking that the answer is such a clean fraction, and shocking that AI could prove a lower bound like this at all. A clean answer is the kind of result mathematicians trust slowly and argue about for a long time."
+    ]
+   },
+   {
+    "heading": "Claimed is not the same as checked",
+    "paragraphs": [
+     "The Neuron is careful about where this stands, and the care is the point. The new lower bound runs 111 pages. Outside mathematicians have posted their own write ups of the October half, but one write up found no named expert review of the November paper as of November 25. The machine checked files, written in Lean so a computer can verify each line, cover only the case without division, which is narrower than the headline suggests.",
+     "Nothing here makes a chatbot faster tomorrow. The results concern enormous matrices, and OpenAI claims no practical speedup. Aaronson expects it could take years to fully understand solutions produced at this pace. AI is now generating research level math faster than the experts who would normally certify it can keep up."
+    ]
+   },
+   {
+    "heading": "The habit worth stealing",
+    "paragraphs": [
+     "For creators and founders, the useful lesson is not the fraction. It is the gap between a claim and a check. AI tools will hand you finished looking work at a pace no reviewer can match, whether that work is a proof, a contract revision, a price list, or a video script. The professional move is to ask two questions of every impressive output. What exactly was verified, and what was only asserted? Keep the first pile, quarantine the second, and never let the speed of the claim set the speed of your trust."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "the-neuron",
+    "title": "The Neuron newsletter, November 27, 2026",
+    "url": "https://www.theneurondaily.com"
+   }
+  ],
+  "relatedServiceIds": [
+   "creative-direction-session",
+   "brand-spot",
+   "business-website"
+  ],
+  "cta": {
+   "currency": "USD",
+   "label": "Book a creative direction session",
+   "price": 1000,
+   "serviceId": "creative-direction-session"
+  },
+  "nextClick": {
+   "label": "See session pricing",
+   "url": "https://jamaaltreasures.com/prices"
+  }
+ },
+ {
   "slug": "amodei-ai-should-not-govern-us",
   "title": "Anthropic CEO Says AI Should Not Govern Us",
   "excerpt": "Dario Amodei answered an Axios report about staff views on AI decision making by calling a handover of governance a terrible idea. The line he drew, between AI doing tasks and AI setting the rules, matters for every team now delegating work to these tools.",
